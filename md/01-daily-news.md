@@ -1,6 +1,6 @@
 # 日次ニュース
 
-_最終更新: 2026-05-29 21:40_
+_最終更新: 2026-05-29 22:12_
 
 ## （例）任天堂、Switch 2の累計販売数を発表 — 初年度XX万台へ
 - **日付**: （例）2026-05-28
@@ -341,4 +341,174 @@ Kuro Games『鳴潮』とZOZOの初コラボ
 - **関連IP/タイトル**: 鳴潮 (Wuthering Waves)
 - **タグ**: 新作,国内,海外
 - **備考**: 5/29 12:00受注開始
+
+## Microsoft、Activision Blizzard買収巡る株主訴訟で2.5億ドルの和解 — 内40%を自社負担
+- **日付**: 2026-05-30
+- **URL**: https://www.manilatimes.net/2026/05/29/business/foreign-business/activision-shareholders-reach-250-million-settlement-over-microsoft-buyout/2353712
+- **背景にある出来事**: 2023年クローズの690億ドルActivision買収を巡り、スウェーデン年金基金Sjunde AP-Fonden主導で旧Activision株主が当時CEOコティック氏らの善管注意義務違反を提訴。1株95ドルの取引価格が安すぎ、CEOが地位と4億ドルのChange of Control報酬を守るため取引を急いだと主張。
+- **サマリ**: Microsoftは5月22日、Activision Blizzard旧株主との集団訴訟を2.5億ドルで和解。うち約40%をMicrosoft、残り60%を旧Activision役員賠償責任保険(D&O)で負担。1株あたり約30セント。Delawareの判事の最終承認待ち。Microsoftは違法行為を認めず和解。
+- **重要ポイント**: 和解総額2.5億ドル
+Microsoft直接負担40%/D&O保険60%
+1株あたり約30セント
+Delaware判事の承認待ち
+Microsoftは法的責任認めず
+- **今後の予測**: メガM&Aに対する株主訴訟は今後も発生確率高。買収側はクロージング後数年にわたるD&O・追加引当が必須に。Game Pass戦略再検討（CoD Day1除外）と相まって、Microsoftゲーム部門の収益化圧力は続く見通し。
+- **勉強しておくべきテーマ**: 大型M&Aの株主訴訟リスクとD&O保険スキーム
+- **関連企業**: Microsoft, Activision Blizzard, Sjunde AP-Fonden
+- **関連IP/タイトル**: Call of Duty
+- **タグ**: M&A,規制,海外
+- **備考**: 和解は2026/5/22署名・5/29再報道
+
+## eBay、GameStopの560億ドル買収提案を「信頼性も魅力もない」と拒絶、株価は乖離維持
+- **日付**: 2026-05-30
+- **URL**: https://www.cnbc.com/amp/2026/05/12/ebay-rejects-gamestops-takeover-bid.html
+- **背景にある出来事**: GameStopのRyan Cohen CEOは2026年5月、自社の約4倍の時価総額のeBayに1株125ドル・総額560億ドルの現金・株式半々の買収提案を提示。TD銀行から200億ドルのコミットメントレターも確保していた。ミーム株企業による既存大手リテール買収の前代未聞の試み。
+- **サマリ**: eBay取締役会は5月12日、財務アドバイザーの精査を経てGameStopの提案を全会一致で拒絶。「信頼性も魅力もない」とし、資金調達の不確実性、統合後のレバレッジ・事業リスク・ガバナンスを理由に挙げた。eBay株価は提示額125ドルを大きく下回って推移し、市場の懐疑を反映。
+- **重要ポイント**: 提示価格 1株125ドル/総額560億ドル
+現金・株式半々の構成
+TD銀行から200億ドルコミット
+eBay取締役会が全会一致で拒絶
+株価は提示額を大きく下回り推移
+- **今後の予測**: GameStopが敵対的買収に踏み切るかは不透明だが、Cohen氏は再提案・株式上乗せの可能性も示唆。リテール×Cマースの統合は他社の参入余地も。eBayは独自AI/コレクタブル路線の強化で対抗する見込み。
+- **勉強しておくべきテーマ**: ミーム株企業×大型リテールM&Aの実現可能性
+- **関連企業**: GameStop, eBay, TD Bank, Ryan Cohen
+- **関連IP/タイトル**: GameStop, eBay Marketplace
+- **タグ**: M&A,海外,規制
+- **備考**: 5/12拒否、その後も交渉動向続報
+
+## Alpha Compute、ゲーミング報酬PF「GAMEE」の過半数買収を完了、AI新部門Alpha Gamesを設立
+- **日付**: 2026-05-30
+- **URL**: https://www.globenewswire.com/news-release/2026/05/27/3302098/0/en/ALPHA-COMPUTE-CORP-COMPLETES-MAJORITY-ACQUISITION-OF-GAMING-COMPANY-GAMEE.html
+- **背景にある出来事**: AIインフラ／コンピュート企業のAlpha Compute Corp（NASDAQ）は、Web3寄りのゲーミング報酬プラットフォーム「GAMEE」を運営するスロバキア発スタートアップの過半数株式取得を完了。GAMEEは累計1.2億人のゲーミングユーザーと2025年売上350万ドルを擁する。
+- **サマリ**: Alpha Computeは5月27日、GAMEEの過半数買収を完了したと発表。AI×ゲーミングを軸とした新部門「Alpha Games」を設立し、GAMEE創業者Bozena Rezab氏がEVPとして指揮。コンピュート提供事業者がエンドユーザー保持基盤を獲得する垂直統合型ディール。
+- **重要ポイント**: 過半数株式取得を完了（5/27）
+GAMEE: 1.2億ユーザー / 2025年売上350万ドル
+AI新部門「Alpha Games」設立
+創業者Bozena Rezab氏がEVP就任
+コンピュート×ゲーミング垂直統合
+- **今後の予測**: AIインフラ企業によるゲーミング基盤買収はトレンド化の可能性。コンシューマーAI体験のラボとしてゲーム配信プラットフォームの位置付けが上昇。Web3寄り報酬PFの再評価にも繋がる。
+- **勉強しておくべきテーマ**: AIインフラ×ゲーミング垂直統合M&A
+- **関連企業**: Alpha Compute Corp, GAMEE, Alpha Games
+- **関連IP/タイトル**: GAMEE platform
+- **タグ**: M&A,技術,海外
+- **備考**: AI×ゲーミング垂直統合
+
+## Balatroのパブリッシャー「Playstack」、Integrated Media Companyが約1.5億ドルで買収へ
+- **日付**: 2026-05-30
+- **URL**: https://kotaku.com/gamespot-fandom-parent-company-to-acquire-the-publisher-of-balatro-2000700544
+- **背景にある出来事**: GameSpot・Fandom・Giant Bombを束ねるInvestment Vehicle「Integrated Media Company（IMC）」が、インディーヒット『Balatro』を世界的成功に導いたパブリッシャーPlaystackの全株式取得を発表。買収対価は約1.124億ポンド（約1.51億ドル）。
+- **サマリ**: メディアコングロマリットがインディーパブリッシャーを傘下に収める異例のディール。Playstack CEO Harvey Elliott氏は「チーム・戦略・プレミアムインディー特化は不変」と強調。株主承認待ちで、メディア×パブリッシングの統合シナジー検証フェーズに入る。
+- **重要ポイント**: 買収対価 約1.124億ポンド（約1.51億ドル）
+IMCはGameSpot/Fandom/Giant Bombの親会社
+PlaystackはBalatroで世界的成功
+株主承認待ち
+チーム/戦略は維持と明言
+- **今後の予測**: ゲームメディアとパブリッシャーの統合は編集独立性の課題を孕む一方、データ・SEO・コミュニティ資産の活用余地大。Balatro IP（モバイル・ボードゲーム化）の収益化も鍵。
+- **勉強しておくべきテーマ**: ゲームメディア×インディーパブリッシャーの統合シナジー
+- **関連企業**: Integrated Media Company, Playstack, GameSpot, Fandom
+- **関連IP/タイトル**: Balatro
+- **タグ**: M&A,インディー,海外
+- **備考**: メディア×パブの統合事例
+
+## 『Call of Duty: Modern Warfare 4』10/23発売決定、初日Game Pass除外・PS4/Xbox One非対応
+- **日付**: 2026-05-30
+- **URL**: https://news.xbox.com/en-us/2026/05/28/call-of-duty-modern-warfare-4-first-details-campaign/
+- **背景にある出来事**: MicrosoftがGame Passの戦略を見直し、新CoDシリーズはDay1配信から除外する方針へ転換。新作はInfinity Wardが開発、舞台は朝鮮半島で、北朝鮮の侵攻に対峙する韓国軍の若手分隊とPriceの復讐譚を並行描写。
+- **サマリ**: Activisionは5月28日、『Call of Duty: Modern Warfare 4』を10月23日にPS5/Xbox Series/PC/Switch 2向けに発売すると正式発表。PS4/Xbox Oneは非対応、Game Passは初日除外で約1年後に追加見込み。GTA6発売（11月予定）の約1か月前。
+- **重要ポイント**: 発売日 2026/10/23
+PS5/Xbox Series/PC/Switch 2
+PS4/Xbox One非対応
+Game Pass初日除外（約1年後追加）
+GTA6の約1か月前にリリース
+- **今後の予測**: CoDのDay1除外はGame Pass値下げの収益補填策。AAAパブの「サブスク疲れ」対応が顕在化。Switch 2版同時発売は任天堂ハードのサードパーティ拡大を示す象徴。GTA6との販売バッティングは限定的か。
+- **勉強しておくべきテーマ**: AAA×サブスクの再交渉とプラットフォーム分散
+- **関連企業**: Activision, Microsoft, Infinity Ward, Nintendo
+- **関連IP/タイトル**: Call of Duty Modern Warfare
+- **タグ**: 新作,業績,海外
+- **備考**: Day1 Game Pass除外がトピック
+
+## Frontier Developments、『Planet Zoo 2』を10/13に発売と発表、水族館・鳥類舎を新追加
+- **日付**: 2026-05-30
+- **URL**: https://www.frontier.co.uk/news/2026-05-28/build-wilder-world-october-planet-zoo-2
+- **背景にある出来事**: 英Frontier Developmentsは『Planet Zoo』『Planet Coaster』『Jurassic World Evolution』等の経営シミュ専業。前作Planet Zoo（2019）は中長期セールスで成功した一方、株価は近年低迷していた。続編で水族館・鳥類舎・保全RP要素を新規追加。
+- **サマリ**: Frontier Developmentsは5月28日、『Planet Zoo 2』を10月13日にPC/PS5/Xbox Series X|Sで発売すると発表。標準版49.99ドル、デラックス版64.99ドル。水生・飛行動物、ワイルドライフリザーブ（自然保護区）を新搭載。Summer Game Fest 2026にも参加。
+- **重要ポイント**: 発売日 2026/10/13
+PC/PS5/Xbox Series X|S
+標準版 49.99ドル/デラックス版 64.99ドル
+水族館・鳥類舎を新搭載
+保全エリア「Wildlife Reserves」
+- **今後の予測**: Frontierの経営シミュ路線の再起動。前作からのMOD/UGC継承度合いと、PC→コンソール拡大の同時ローンチが成否の鍵。経営シミュは長期セールスで稼ぐジャンルで、株価リカバリ材料となる可能性。
+- **勉強しておくべきテーマ**: 経営シミュ続編×コンソール同時展開
+- **関連企業**: Frontier Developments
+- **関連IP/タイトル**: Planet Zoo
+- **タグ**: 新作,海外
+- **備考**: Summer Game Fest 2026参加予定
+
+## 任天堂、Nintendo Switch 2を5/25より日本国内で1万円値上げ実施、PS5デジタル版を上回る価格に
+- **日付**: 2026-05-30
+- **URL**: https://game.watch.impress.co.jp/docs/news/2109655.html
+- **背景にある出来事**: 任天堂は5月8日に値上げを予告、半導体メモリ高騰・円安・関税措置の3要因を背景に挙げていた。Switch 2はローンチ後約1年でハード値上げという異例の判断で、ローンチ前の予約者・初期購入者層との温度差も議論に。
+- **サマリ**: Nintendo Switch 2（日本語・国内専用）は5月25日より49,980円→59,980円へ1万円値上げで販売開始。PS5デジタル・エディション（55,000円）を上回る価格に。Switch有機ELモデルも+10,000円、Liteも+8,002円改定。海外価格改定は9月1日予定。
+- **重要ポイント**: Switch 2: 49,980円→59,980円（+1万円）
+5/25から販売開始
+PS5デジタル版（55,000円）を上回る
+有機ELモデル+1万円、Lite+8,002円
+海外は9/1から改定
+- **今後の予測**: 値上げ前駆け込み需要が5月後半に集中（247,880台/週）、6月以降は一時的に販売鈍化見込み。FY27販売台数予想は1,650万台と前年からの減速を任天堂自身が織り込み済み。為替・関税が更に振れた場合は再度の改定リスクも。
+- **勉強しておくべきテーマ**: コンシューマハードの値上げ耐性と価格弾力性
+- **関連企業**: 任天堂, ソニー
+- **関連IP/タイトル**: Nintendo Switch 2
+- **タグ**: 業績,規制,国内
+- **備考**: 為替・関税・メモリ価格起点
+
+## Google Cloud、CapcomのエンタープライズAgentic AI導入事例を公開、内製パイプラインに統合
+- **日付**: 2026-05-30
+- **URL**: https://www.googlecloudpresscorner.com/2026-04-22-How-Capcom-Is-Leading-the-Way-for-Enterprise-Agentic-AI
+- **背景にある出来事**: GDC 2026でGoogle Cloudが発表したAIエージェントスイートに、Capcomが先行採用企業として登場。ゲーム開発コストは2017年比で約90%上昇しているとされ、各社が生成AIを内製パイプラインに静かに統合するフェーズに移行。
+- **サマリ**: Google CloudはCapcomがAgentic AIをエンタープライズ業務（QA・ローカライズ・アセット下書き・社内検索等）に導入した事例を5月時点で公開。Googleは学習データ・生成結果の両面でIPインデムニティを提供し、AAAスタジオの著作権懸念を緩和する仕組みを訴求。
+- **重要ポイント**: Capcomがエンタープライズ向けAgentic AIを採用
+QA/ローカライズ/アセット下書き等に活用
+GoogleがIPインデムニティを2層で提供
+ゲーム開発コストは2017年比+90%
+GDC 2026で全体方針を発表
+- **今後の予測**: AAA各社の「裏側AI活用」は加速、明示的にユーザー向けに見せるよりも内製工程の効率化に集中。Microsoft/Amazonのクラウド勢も同様の囲い込みを進める。日本のCapcom採用例は他和ゲー（バンダイナムコ・スクエニ）にも波及見込み。
+- **勉強しておくべきテーマ**: AAA内製パイプラインのAgentic AI統合
+- **関連企業**: Capcom, Google Cloud, Microsoft, Amazon
+- **関連IP/タイトル**: なし（社内パイプライン）
+- **タグ**: 技術,海外,国内
+- **備考**: GDC 2026関連の続報
+
+## 『Path of Exile 2』、5/30からSteamフリーウィークエンド実施、早期アクセスパックも50%OFF
+- **日付**: 2026-05-30
+- **URL**: https://www.gamer.ne.jp/news/202605300001/
+- **背景にある出来事**: Grinding Gear Games運営のハクスラRPG『Path of Exile 2』は2024年12月にEarly Access開始。Diablo 4対抗の本命とされるが、Early Access期間が長期化し新規取り込みが課題となっていた。シーズン更新と並走でフリーウィークエンドを実施。
+- **サマリ**: Steam上で5月30日からフリーウィークエンドを開始し、期間中は全コンテンツが無料プレイ可能。Early Accessパックも50%OFFセール。新規ユーザー獲得とコアプレイヤーの呼び戻しを同時に狙う、Live Service型ハクスラの典型的なグロース施策。
+- **重要ポイント**: 5/30フリーウィークエンド開始
+Early Accessパック50%OFF
+Diablo 4対抗の主要タイトル
+Early Access期間中の新規取り込み施策
+Steamのアクティブ拡張を狙う
+- **今後の予測**: フリーウィークエンド→Early Access販売の転換率がKPI。コアユーザー層への新シーズン投入とセットで、夏のSteam Summer Saleに繋ぐ流れ。1.0正式版リリース時期の見通しが次の注目点。
+- **勉強しておくべきテーマ**: Live Service型ハクスラのフリーウィークエンド効果
+- **関連企業**: Grinding Gear Games, Valve, Tencent
+- **関連IP/タイトル**: Path of Exile 2
+- **タグ**: eスポーツ,海外
+- **備考**: Steam Summer Saleへの導線
+
+## Griffin Gaming Partners、インディー支援1億ドルの「Special Opportunities Fund」を始動
+- **日付**: 2026-05-30
+- **URL**: https://www.gamedeveloper.com/business/griffin-gaming-partners-launches-100m-fund-to-support-indie-devs
+- **背景にある出来事**: ゲーム特化VCのGriffin Gaming Partnersは累計運用約9億ドル規模。コンソール価格高騰とAAA開発費の高騰を受けて、インディー帯（$15-25）の重要性が再評価される中、レベニューシェア型の新ファンドを設立。
+- **サマリ**: Griffin Gaming Partnersは「Special Opportunities Fund」（1億ドル）を始動。世界水準のインディータイトルへの資金提供と引き換えにレベニューシェアを取得。Hooded Horse CEO Tim Benderがマネージングディレクター就任。Darkwood 2, Hellforged, Vaunted, Menaceなど既に15タイトルへ投資済。
+- **重要ポイント**: ファンド規模 1億ドル
+レベニューシェア型ファイナンス
+Hooded Horse CEO Tim Benderが運用責任者
+既に15タイトルに投資
+Darkwood 2/Hellforged/Vaunted/Menace等
+- **今後の予測**: ゲームVCはエクイティ投資からレベニューシェア型へのモデル移行が顕在化。インディーは「VC→パブリッシャー→Steam」の資金供給網が多層化し、AAA代替の収益源として機能。日本のインディー（BitSummit・TGSインディー）への海外マネー流入も加速見込み。
+- **勉強しておくべきテーマ**: ゲーム特化VCのレベニューシェア型モデル
+- **関連企業**: Griffin Gaming Partners, Hooded Horse
+- **関連IP/タイトル**: Darkwood 2, Hellforged, Vaunted, Menace
+- **タグ**: M&A,インディー,海外
+- **備考**: レベニューシェア型ゲームVC
 
