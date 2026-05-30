@@ -344,6 +344,19 @@ def main():
             row = list(row[:len(headers)])
             if any(v not in (None, '') for v in row):
                 rows.append(row)
+        # 日付ベースのログシートは新しい順に並べ替え（最新を上に）
+        # YYYY-MM-DD形式を抽出してキーに使用。マッチしない行（例：「（例）...」）は最下段。
+        if sn in SECTION_SHEETS and headers and headers[0] in ('日付', '記録日'):
+            _date_pat = re.compile(r'(\d{4}-\d{2}-\d{2})')
+            def _date_key(r):
+                v = r[0] if r else None
+                if isinstance(v, datetime):
+                    return v.strftime('%Y-%m-%d')
+                s = str(v) if v is not None else ''
+                m = _date_pat.search(s)
+                # 日付として解釈できない行はソート下段（reverse=Trueでも下に）
+                return m.group(1) if m else ''
+            rows.sort(key=_date_key, reverse=True)
         stats[sn] = len(rows)
         slug = SHEET_SLUGS[sn]
         if sn in SECTION_SHEETS:
