@@ -1,6 +1,6 @@
 # 業界マトリクス
 
-_最終更新: 2026-05-31 01:45_
+_最終更新: 2026-06-01 00:26_
 
 | 年 | 月 | コンソール | PC/Steam | モバイル | クラウド/サブスク | eSports | M&A/出資 | 規制 | 技術(AI/XR) | 海外大手 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -32,7 +32,7 @@ _最終更新: 2026-05-31 01:45_
 |  | 2月 |  |  |  |  |  |  |  |  |  |
 |  | 3月 |  |  |  |  |  |  |  |  |  |
 |  | 4月 |  |  |  |  |  |  |  |  |  |
-|  | 5月 | ・任天堂Switch 2を日本で¥49,980→¥59,980に値上げ（5/25、+20%）、購入「50時間」条件も撤廃<br>・任天堂FY26決算 売上+98.6%／営業益+27.5%、FY27出荷想定1,650万台<br>・GTA6を11/19、CoD:MW4を10/23、Planet Zoo 2を10/13に発売決定<br>・『007 First Light』Metacritic88点、スクエニDQXII開発リスタート | ・Valve、Steam Deck OLEDを512GB$549→$789／1TB$649→$949（+46%）に値上げ、再販即完売<br>・『Path of Exile 2』5/30よりSteamフリーウィークエンド＋EA版50%OFF | ・サイバーエージェント1H ゲーム営業益+106%、ウマ娘英語版で海外売上3.6倍（272億円）<br>・Kuro Games『鳴潮』×ZOZOTOWNコラボ受注開始（5/29）、IPのアパレル化進む<br>・NetEase Q1ゲーム部門+6.9%（257億元） | ・Bungie『Destiny 2』ライブ運営を6/9で終了、9年に幕（新拡張・シーズン停止、サーバは継続）<br>・CoD:MW4はGame Pass初日除外（約1年後追加）、MSのサブスク戦略見直しが鮮明 | ・EVO Japan 2026開催（5/1-3、東京ビッグサイト）、『スト6』ヤマグチ・『鉄拳8』iKARiが新王者<br>・Riot新作『2XKO』が初の公式競技種目化、北米Hikari優勝 | ・Q1ゲームM&Aは総額77億ドル・52件、Savvy(PIF)のMoonton 60億ドル買収が牽引<br>・EmbracerがLotR/Tomb Raider等をFellowshipに分離、2027年Nasdaq上場へ<br>・GameStopのeBay買収提案(560億ドル)は拒絶、IMCがPlaystack(Balatro)を約1.5億ドルで取得<br>・Griffin Gamingがインディー向け1億ドルファンド始動 | ・Microsoft、Activision買収巡る株主訴訟を2.5億ドルで和解（自社負担40%）<br>・Switch 2値上げの主因にAIメモリ高騰・米関税・為替、ハード価格上昇が業界全体へ波及 | ・Morgan Stanley、生成AIでゲーム業界に220億ドルの利益機会と試算（工期短縮・費用削減）<br>・Google CloudがCapcomのエンタープライズAgentic AI導入事例を公開（QA/ローカライズ等）、GDC2026の主要テーマに | ・NetEase Q1売上+6.1%（306億元）、Marvel Rivalsが寄与<br>・ソニーがBungie関連で5.65億ドル減損（累計7.65億ドル）、Destiny 2運営終了と連動<br>・Take-Two/RockstarやMicrosoftの大型タイトル・サブスク戦略が再編局面に |
+|  | 5月 | ・任天堂Switch 2を日本で¥49,980→¥59,980（+20%、5/25）に値上げ、購入「50時間」条件も撤廃<br>・任天堂FY26決算 売上+98.6%／営業益+27.5%、Switch 2効果で大幅増益<br>・GTA6を11/19、CoD:MW4を10/23と発売日確定し年末商戦に大型作集中<br>・新作『007 First Light』Metacritic88点、スクエニDQXII開発リスタート発表 | ・Valve、Steam Deck OLEDを$649→$949（+46%）に大幅値上げ、メモリ高騰・物流逼迫が背景<br>・『Path of Exile 2』5/30よりSteamフリーウィークエンド＋EA版50%OFF | ・サイバーエージェント中間決算 ゲーム営業益+106%、ウマ娘英語版で海外売上3.6倍<br>・Kuro Games『鳴潮』×ZOZOTOWNコラボ受注開始、ゲームIPのアパレルEC連携進む<br>・NetEase Q1ゲーム部門RMB257億（+6.9%）で安定成長 | ・Bungie『Destiny 2』ライブ運営を6/9で終了、9年に幕（サーバは継続）<br>・CoD:MW4はGame Pass初日除外（約1年後追加）、MSのサブスク戦略見直しが鮮明 | ・EVO Japan 2026閉幕、『スト6』ヤマグチ・『鉄拳8』iKARiが新王者、Riot『2XKO』初開催<br>・Esports World Cup 2026、賞金総額7500万ドルでパリ開催決定（中東情勢でリヤドから移転） | ・Q1ゲームM&A総額77億ドル、Savvy(PIF)のMoonton 60億ドル買収が牽引<br>・EmbracerがLotR/Tomb Raider等をFellowshipに分離、2027年Nasdaq上場へ<br>・eBayのGameStop買収提案(560億ドル)拒絶、IMCがPlaystack(Balatro)を約1.5億ドルで取得<br>・Griffin Gamingがインディー向け1億ドルファンド始動 | ・Microsoft、Activision買収巡る株主訴訟を2.5億ドルで和解（自社負担40%）<br>・欧州BEUCが各国にルートボックス規制を要請、PEGIは6月から年齢制限引き上げ | ・Morgan Stanley、生成AIでゲーム業界に220億ドルの利益機会と試算（工期短縮・費用削減）<br>・Google CloudがCapcomのエンタープライズAgentic AI導入事例を公開（内製パイプライン統合）<br>・Steamforged、R6ボードゲーム宣材のAI生成発覚で炎上、制作の透明性問題が再燃 | ・NetEase Q1売上RMB306億（+6.1%）、Marvel Rivalsが寄与<br>・ソニーがBungie関連で5.65億ドル減損（累計7.65億ドル）<br>・Take-Two、GTA6を11/19と再確認「これ以上の延期なし」 |
 |  | 6月 |  |  |  |  |  |  |  |  |  |
 |  | 7月 |  |  |  |  |  |  |  |  |  |
 |  | 8月 |  |  |  |  |  |  |  |  |  |
