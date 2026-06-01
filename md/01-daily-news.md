@@ -1,6 +1,84 @@
 # 日次ニュース
 
-_最終更新: 2026-06-01 00:32_
+_最終更新: 2026-06-01 23:10_
+
+## PlayStation「State of Play」6月2日配信、『Marvel's Wolverine』先頭に60分超
+- **日付**: 2026-06-02
+- **URL**: https://blog.playstation.com/2026/05/20/state-of-play-returns-tuesday-june-2/
+- **背景にある出来事**: ソニーはE3亡き後、自社配信「State of Play」を新作発表の主戦場としてきた。今回はXbox Games Showcase（6/7）の直前という日程で、両陣営のショーケースが約1週間内に並ぶ事実上のE3型対決の構図となった。
+- **サマリ**: ソニーは6月2日（米国時間、日本時間6月3日午前6時）に60分超のState of Playを配信。Insomniac開発の『Marvel's Wolverine』（9/15発売）のゲームプレイを冒頭で公開し、世界中のスタジオからの発表・映像を予告した。
+- **重要ポイント**: ・6/2配信、60分超の大型ショーケース
+・冒頭は『Marvel's Wolverine』（PS5、9/15発売）
+・Xbox Games Showcase（6/7）と1週間内で接近
+・「世界中のトップスタジオ」からの新発表を予告
+- **今後の予測**: Insomniacのマーベル路線の拡大とPS5独占タイトルの年末商戦布陣が焦点。Xboxショーケースとの近接日程は、夏の新作発表競争を激化させ、両陣営の独占・マルチ戦略の差を鮮明にする可能性が高い。
+- **勉強しておくべきテーマ**: 据置機メーカーの自社配信ショーケース戦略とE3後の発表競争
+- **関連企業**: ソニー・インタラクティブエンタテインメント, Insomniac Games, マイクロソフト
+- **関連IP/タイトル**: Marvel's Wolverine
+- **タグ**: 新作,海外
+
+## NVIDIA、Computex 2026で「RTX Spark」発表 Grace Blackwell SoCでWindows PCのAI化へ
+- **日付**: 2026-06-02
+- **URL**: https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark
+- **背景にある出来事**: ゲーミングGPUで圧倒的シェアを持つNVIDIAが、ArmベースCPUとBlackwell GPUを統合したSoCでPC本体市場に本格参入。生成AIの実用フェーズ移行を背景に、オンデバイスでAIエージェントを動かす「個人AI」時代のPCを打ち出した。
+- **サマリ**: Jensen Huang CEOが台北Computex 2026の基調講演（6/1）でRTX Sparkを発表。Blackwell RTX GPU（6,144 CUDAコア）と20コアGrace CPUをNVLink-C2Cで接続、128GB統合メモリを搭載。Microsoft Surface、Dell、HP、Lenovo、ASUS、MSIから今秋投入予定。
+- **重要ポイント**: ・Computex 2026 基調講演（6/1）で発表
+・Grace CPU＋Blackwell GPUの統合SoC、128GB統合メモリ
+・Microsoft/Dell/HP/Lenovo/ASUS/MSIが今秋投入
+・ゲーミング性能とオンデバイスAIエージェントを両立
+・3世代ロードマップ（Rubin、Rosa等）も提示
+- **今後の予測**: ゲーミングPCの主戦場が純粋な描画性能からオンデバイスAI性能へ移行する転換点になり得る。AI PCの普及はゲーム開発の制作環境（生成・QA）やクラウドゲーミングとの競合関係にも波及する見込み。
+- **勉強しておくべきテーマ**: オンデバイスAIとゲーミングPCアーキテクチャの融合
+- **関連企業**: NVIDIA, Microsoft, Dell, HP, Lenovo, ASUS, MSI, MediaTek
+- **関連IP/タイトル**: RTX Spark, GeForce RTX
+- **タグ**: 技術,海外
+
+## Gravity、『RAGNAROK』25年で初の単独RPGをコンソール向けに発表 4機種・2027年上期
+- **日付**: 2026-06-02
+- **URL**: https://www.gematsu.com/2026/05/ragnarok-console-project-announced-for-ps5-xbox-series-switch-2-and-pc
+- **背景にある出来事**: 世界1億人以上が遊んだMMORPG『ラグナロクオンライン』を擁するGravityが、長年のオンライン路線から転換。シングルプレイRPGとして据置・携帯機（Switch 2含む）に展開し、既存IPの新規層獲得を狙う。
+- **サマリ**: GravityとDaweon Game Media Lab、開発Waycoderが「Ragnarok Console Project」をPS5/Xbox Series/Switch 2/PC（Steam）向けに発表。2027年上期発売予定。シリーズ初のシングルプレイRPGで「選択と責任」をテーマにした物語重視の作品となる。
+- **重要ポイント**: ・シリーズ25年で初の単独（シングルプレイ）RPG
+・PS5/Xbox Series/Switch 2/PCのマルチ展開
+・2027年上期発売予定
+・ナイト/メイジ/プリースト/ハンター等の仲間が登場
+・原作MMOは世界1億人以上が体験
+- **今後の予測**: 長寿MMO IPのシングルプレイ・コンソール転生は、韓国系オンラインIPの収益多角化モデルの試金石。Switch 2を含むマルチ展開は、アジア発IPのグローバル据置機市場での存在感拡大につながる可能性。
+- **勉強しておくべきテーマ**: 長寿オンラインIPのシングルプレイ・コンソール展開戦略
+- **関連企業**: Gravity, Daweon Game Media Lab, Waycoder
+- **関連IP/タイトル**: RAGNAROK（ラグナロク）
+- **タグ**: 新作,海外
+
+## Xbox、『Fable』を2027年2月へ延期 6/7ショーケースで新映像 GTA6など年末混雑回避
+- **日付**: 2026-06-02
+- **URL**: https://gameinformer.com/2026/05/29/fable-delayed-to-february-2027
+- **背景にある出来事**: 2026年末はHalo: Campaign Evolved、Gears of War: E-Day、CoD: MW4、GTA6など大型タイトルが集中。Xboxは看板RPG『Fable』を混雑したカレンダーから外し、発売の見通しを確保する判断を下した。
+- **サマリ**: マイクロソフトは『Fable』を当初の2026年秋から2027年2月へ延期すると5/29に発表。混雑する年末商戦を避ける狙い。同作は6/7のXbox Games Showcase（米時間10時PT）で大型の新映像を披露する予定。
+- **重要ポイント**: ・『Fable』を2026年秋→2027年2月へ延期
+・GTA6など年末大型タイトル集中の回避が理由
+・6/7 Xbox Games Showcaseで新映像予告
+・年末布陣はHalo CE、Gears E-Day、CoD MW4等
+- **今後の予測**: GTA6（11/19予定）の重力圏を避けるリリース設計が各社で続く見込み。第1四半期（2027年初頭）に大型タイトルが後ろ倒しで集中し、いわゆる『枯れたカレンダー』と『谷』の構造が一段と鮮明になる。
+- **勉強しておくべきテーマ**: 大型タイトルのリリース時期設計とGTA6回避ムーブ
+- **関連企業**: マイクロソフト, Xbox Game Studios, Playground Games, Take-Two/Rockstar
+- **関連IP/タイトル**: Fable, GTA6
+- **タグ**: 新作,海外
+
+## Minecraft Live（5月）開催、新バイオーム「Dappled Forest」と『Dungeons II』公開
+- **日付**: 2026-06-02
+- **URL**: https://www.pcgamesn.com/minecraft/live-may-2026-dappled-forest-biome
+- **背景にある出来事**: 世界最大級の販売本数を誇るMinecraftは、定期配信「Minecraft Live」で新要素を小出しにし、巨大コミュニティの継続的な関与を維持する運営モデルを取る。続編『Dungeons II』の存在も明らかになった。
+- **サマリ**: Minecraft Live（5月版、6/1前後に国内報道）で、ポプラと赤い低木が紅葉色を作る新バイオーム「Dappled Forest」と廃キャンプ、ウールの階段/ハーフブロックを発表。マルチプラットフォーム展開の続編『Minecraft Dungeons II』も今年後半投入を告知した。
+- **重要ポイント**: ・新バイオーム「Dappled Forest」（紅葉系・廃キャンプ）
+・ウールの階段/ハーフブロック追加、夏にテスト開始
+・続編『Minecraft Dungeons II』を今年後半に投入
+・Dungeons IIは新敵Twisted Wardenやディープダーク要素
+・全主要プラットフォーム＋Game Pass対応
+- **今後の予測**: 巨大既存IPの『継続的アップデート＋スピンオフ続編』モデルは、新作リスクを抑えつつエンゲージメントを保つ王道として他の長寿IPにも波及。Game Pass連動はサブスク基盤の維持戦略として重要度を増す。
+- **勉強しておくべきテーマ**: 長寿サンドボックスIPの継続運営とスピンオフ展開
+- **関連企業**: Mojang Studios, Microsoft
+- **関連IP/タイトル**: Minecraft, Minecraft Dungeons II
+- **タグ**: 新作,海外
 
 ## Pearl AbyssがCCP Gamesを経営陣に売却、AI研究でDeepMindと提携
 - **日付**: 2026-06-01
