@@ -1,6 +1,6 @@
 # 新作リリースログ
 
-_最終更新: 2026-06-04 22:10_
+_最終更新: 2026-06-05 09:11_
 
 | 発売日 | タイトル | 開発 | パブリッシャー | プラットフォーム | ジャンル | Metacritic | OpenCritic | Steam同接ピーク | 初週推定本数 | 話題度(1-5) | 感想/メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -13,3 +13,8 @@ _最終更新: 2026-06-04 22:10_
 | 2026-06-05 | Gothic 1 Remake（ゴシック1 リメイク） | Alkimia Interactive | THQ Nordic | PC/PS5/Xbox Series X\|S | オープンワールドRPG |  |  |  |  | 4 | 2001年の名作ドイツ製RPGの完全リメイク。Piranha Bytes創業者陣監修。欧州PC RPG層の本命。 | https://box.co.uk/blog/june-game-releases-2026 |
 | 2026-06-18 | The Adventures of Elliot: The Millennium Tales（冒険家エリオットの千年物語） | Octeto Studios | Square Enix | PC/PS5/Xbox Series X\|S/Switch 2 | HD-2D RPG |  |  |  |  | 4 | HD-2Dエンジン採用の新IP。Square Enix外部パブとして注目。中世ファンタジー×リアルタイム戦闘。 | https://www.famitsu.com/article/202605/72904 |
 | 2026-06-25 | Hell Let Loose: Vietnam（ヘル・レット・ルース：ヴェトナム） | Expression Games | Team17 | PC/PS5/Xbox Series X\|S | ミリタリーFPS |  |  |  |  | 3 | Hell Let Looseシリーズのベトナム戦争スタンドアロン。50vs50大規模戦。Tactical FPS層に注目。 | https://www.mensjournal.com/entertainment/top-10-video-games-releasing-in-june-2026 |
+| 2026-06-04 | House Flipper Remastered Collection（ハウスフリッパー リマスター・コレクション） | Frozen District | Frozen Way (PlayWay) | PC/PS5/Xbox Series X\|S | シミュレーション |  |  |  |  | 2 | 基本ゲーム+全DLC（Garden/Luxury/Pets/Farm）を統合し、ビジュアル刷新・フルボイス・新ストーリー追加。$49.99。既存所有者向け割引あり。 | https://www.gematsu.com/2026/04/house-flipper-remastered-collection-launches-june-4 |
+| 2026-06-08 | Solarpunk: 天空の島（Solarpunk／ソーラーパンク） | Cyberwave | Cyberwave | PC/PS5/Xbox Series X\|S/Switch 2 | コージー・サバイバルクラフト |  |  |  |  | 3 | 飛行船で浮遊島を冒険するコージー建築サバイバル。Steamで7万超フォロワーを集め、無料体験版が高評価。発売前から話題（来週分・評価系空欄）。 | https://screenrant.com/steam-june-2026-trending-free-game/ |
+| 2026-07-02 | リズム天国 ミラクルスターズ（Rhythm Heaven Miracle Stars） | 任天堂/TNX | 任天堂 | Nintendo Switch/Switch 2 | リズムアクション |  |  |  |  | 4 | 『リズム天国』シリーズ11年ぶりの完全新作。来月発売予定（評価系空欄）。 | https://www.famitsu.com/article/202605/72453 |
+| 2026-07-16 | カルドセプト ビギンズ（Culdcept Begins） | 大宮ソフト | 任天堂 | Nintendo Switch 2/Switch/Steam | ボード×カードゲーム |  |  |  |  | 3 | 『カルドセプト』シリーズ10年ぶりの完全新作。来月発売予定（評価系空欄）。 | https://www.famitsu.com/schedule/switch |
+| 2026-07 (日付未定) | Assassin's Creed Black Flag Resynced（アサシン クリード ブラックフラッグ リシンクド） | Ubisoft | Ubisoft | PC/PS5/Xbox Series X\|S | オープンワールドACT |  |  |  |  | 4 | 『AC4 ブラックフラッグ』の現世代リメイク。7月発売で確定と報道。海洋探索リメイクの本命。来月分（評価系空欄）。 | https://www.gamesradar.com/video-game-release-dates/ |
