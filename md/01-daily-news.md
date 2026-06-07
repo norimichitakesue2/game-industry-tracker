@@ -1,6 +1,91 @@
 # 日次ニュース
 
-_最終更新: 2026-06-05 22:10_
+_最終更新: 2026-06-07 00:03_
+
+## 『Gears of War: E-Day』Direct公開、エメージェンス・デイ前夜を描く原点・2026年内発売へ
+- **日付**: 2026-06-07
+- **URL**: https://www.gamesradar.com/gears-of-war-e-day-guide/
+- **背景にある出来事**: Gears of Warシリーズ25周年に合わせ、The CoalitionとPeople Can Flyが共同開発するシリーズ原点を描く新作。オリジナル『Gears』の14年前、人類とローカストの戦端が開かれる『エメージェンス・デイ』を題材とする。
+- **サマリ**: Xbox Games Showcase直後のE-Day Directで、開発元The Coalitionが新ゲームプレイと開発の詳細を公開。Windows/Xbox Series X|S向けに2026年内発売予定で、WWE Triplemania(9月)スポンサードなどから9月発売が有力視される。
+- **重要ポイント**: The Coalition×People Can Flyの共同開発
+シリーズ原点(本編14年前)を描くナンバリング第6作
+2026年内発売、9月有力
+Windows/Xbox Series X|S対応
+25周年の目玉タイトル
+- **今後の予測**: Xboxの年末商戦の核として期待。Game Pass Day1配信が見込まれ、ハード牽引よりサブスク会員維持・獲得の指標として注目される。
+- **勉強しておくべきテーマ**: 看板IPのリブートとサブスク同梱戦略
+- **関連企業**: Microsoft,The Coalition,People Can Fly
+- **関連IP/タイトル**: Gears of War
+- **タグ**: 新作,海外
+- **備考**: E-Day Direct(6/7)
+
+## PC Gaming Show 2026開催、50本超・20本以上の世界初公開——Control続編やExodus新情報
+- **日付**: 2026-06-07
+- **URL**: https://www.pcgamer.com/gaming-industry/events-conferences/pc-gaming-show-2026-how-to-watch/
+- **背景にある出来事**: PCゲームに特化したショーケースとして定着したPC Gaming Showが、SGF期間中の6/7に開催。インディーから中堅まで幅広いPCタイトルの発表枠として機能している。
+- **サマリ**: 6/7午後にPC Gaming Show 2026を配信し、50本超のPCゲーム・20本以上の世界初公開を実施。Remedyの『Control Resonant』(9/24発売)、SF RPG『Exodus』の拡張ゲームプレイ、『Stronghold』新作、Game Freakの『Beast of Reincarnation』(8/4)などが並んだ。
+- **重要ポイント**: PCタイトル50本超・世界初公開20本以上
+『Control Resonant』9/24発売
+『Exodus』拡張ゲームプレイ公開
+『Stronghold』新作を初披露
+Game Freak『Beast of Reincarnation』8/4
+- **今後の予測**: PC市場の新作供給は中堅・インディーが牽引。Steam同接とウィッシュリストの初動が今後の販売を占う指標になり、発表直後の体験版配信が定石化する。
+- **勉強しておくべきテーマ**: PC特化ショーケースとインディー発見戦略
+- **関連企業**: Remedy,Game Freak
+- **関連IP/タイトル**: Control,Exodus,Stronghold,Beast of Reincarnation
+- **タグ**: 新作,海外,PC
+- **備考**: 6/7配信
+
+## 6/7はインディー系ショーケースも集中、Future Games Show等で新作多数・日本語対応も発表
+- **日付**: 2026-06-07
+- **URL**: https://news.denfaminicogamer.jp/news/260606b
+- **背景にある出来事**: SGF期間はメジャー発表会だけでなく、テーマ特化型の小規模ショーケースが連続開催される。6/7はStory-Rich Showcase、Green Games Showcase、Future Games Showなどが集中した。
+- **サマリ**: 6/7に複数のインディー/特化型ショーケースが開催され、Future Games Showは40本・世界初公開10本を披露。猫風クラフト村づくり『Tinkernest』や農業シムRPG『Fields of Mistria』の日本語対応など、国内ユーザー向け情報も発表された。
+- **重要ポイント**: Future Games Showで40本・世界初公開10本
+Story-Rich/Green Gamesなど特化型が並走
+『Tinkernest』など新作インディー公開
+『Fields of Mistria』日本語対応
+国内向けローカライズ情報も拡充
+- **今後の予測**: 特化型ショーケースはニッチ層への到達効率が高く、ジャンル別の発見チャネルとして定着。日本語対応の同時告知が国内初動の底上げに寄与する。
+- **勉強しておくべきテーマ**: テーマ特化ショーケースとローカライズ戦略
+- **関連企業**: なし(複数インディー)
+- **関連IP/タイトル**: Tinkernest,Fields of Mistria
+- **タグ**: 新作,インディー,海外
+- **備考**: 6/7複数配信
+
+## CS2『IEM Cologne Major 2026』Stage 2進行中、BIGがNRGに12:0からの大逆転で通過
+- **日付**: 2026-06-07
+- **URL**: https://escharts.com/news/iem-cologne-major-stage1-results
+- **背景にある出来事**: Counter-Strike 2の今季メジャー。賞金総額125万ドル、6/2〜6/21にドイツ・ケルンで開催され、Stage 1(6/2〜5)を勝ち上がった8チームが6/6〜9のStage 2へ進んだ。
+- **サマリ**: Stage 1ではBetBoom・B8が3-0で突破、計8チーム(BetBoom/B8/GamerLegion/MIBR/M80/TYLOO/FlyQuest/BIG)がStage 2入り。BIGは決勝マップで12:0の劣勢から逆転しNRGを2-1で破り最後の枠を確保。LiquidやHEROICは敗退した。
+- **重要ポイント**: 賞金125万ドル・優勝50万ドル
+Stage 1突破8チームが確定
+BIGがNRG相手に12:0から大逆転
+Liquid/HEROICが敗退
+Stage 2は6/9まで継続
+- **今後の予測**: 上位の地力差が明確化する一方、下位帯の番狂わせが視聴の起点に。スイス式の緊張感が同接を支え、メジャーの放映価値を底上げする。
+- **勉強しておくべきテーマ**: eスポーツメジャーの大会フォーマットと視聴維持
+- **関連企業**: ESL,Intel,BIG,NRG
+- **関連IP/タイトル**: Counter-Strike 2
+- **タグ**: eスポーツ,海外
+- **備考**: Stage 2(6/6-9)
+
+## 『VALORANT Masters London 2026』スイスステージ進行、賞金100万ドルの国際大会が佳境
+- **日付**: 2026-06-07
+- **URL**: https://www.vlr.gg/event/2765/valorant-masters-london-2026
+- **背景にある出来事**: VALORANT Champions Tour(VCT)2026 Stage 2の国際大会として、ロンドンで開催。賞金総額100万ドルで、各地域リーグ上位チームが集結する年間最重要級イベントの一つ。
+- **サマリ**: 6/6開幕のMasters Londonはスイスステージ(6/10まで)に突入し、6/7はFULL SENSE対FUT Esports、LEVIATÁN対Global EsportsなどRound 1のBo3が組まれた。CS2のIEM Cologneと並び、6月のeスポーツ大型大会ラッシュを象徴する。
+- **重要ポイント**: VCT 2026 Stage 2のMastersをロンドン開催
+賞金総額100万ドル
+スイスステージは6/10まで
+6/7に複数のBo3を実施
+CS2メジャーと時期が重なり大会ラッシュ
+- **今後の予測**: 複数タイトルのメジャーが同時期に集中し、視聴者の可処分時間を奪い合う構図。配信枠の取り合いとコ・ストリーミングの扱いが収益面の論点になる。
+- **勉強しておくべきテーマ**: 国際eスポーツ大会の同時多発と視聴争奪
+- **関連企業**: Riot Games
+- **関連IP/タイトル**: VALORANT
+- **タグ**: eスポーツ,海外
+- **備考**: スイスステージ(6/7)
 
 ## EA買収550億ドルLBO連合、夏前に欧州委へFSR申請の見込み
 - **日付**: 2026-06-06
