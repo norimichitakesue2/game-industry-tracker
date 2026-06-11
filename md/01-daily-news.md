@@ -18,7 +18,7 @@ _最終更新: 2026-06-11 01:11_
 - **関連IP/タイトル**: The Duskbloods, ELDEN RING
 - **タグ**: 新作,国内
 
-## Microsoft、Xbox部門で大規模レイオフ計画と報道。新CEAsha Sharmaの下で事業「リセット」へ
+## Microsoft、Xbox部門で大規模レイオフ計画と報道。新CEO Asha Sharmaの下で事業「リセット」へ
 - **日付**: 2026-06-11
 - **URL**: https://www.bloomberg.com/news/articles/2026-06-10/xbox-plans-significant-layoffs-as-it-transforms-under-new-ceo-asha-sharma
 - **背景にある出来事**: Xbox部門は過去5年間でコンテンツ等に200億ドル超を投資した一方、年間売上は約5億ドル減少し利益率は3%まで低下。新CEOのAsha Sharmaは「事業は健全な状態にない」としてリセットを宣言していた。
