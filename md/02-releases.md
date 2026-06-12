@@ -1,6 +1,6 @@
 # 新作リリースログ
 
-_最終更新: 2026-06-11 23:13_
+_最終更新: 2026-06-12 17:30_
 
 | 発売日 | タイトル | 開発 | パブリッシャー | プラットフォーム | ジャンル | Metacritic | OpenCritic | Steam同接ピーク | 初週推定本数 | 話題度(1-5) | 感想/メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -18,3 +18,9 @@ _最終更新: 2026-06-11 23:13_
 | 2026-07-02 | リズム天国 ミラクルスターズ（Rhythm Heaven Miracle Stars） | 任天堂/TNX | 任天堂 | Nintendo Switch/Switch 2 | リズムアクション |  |  |  |  | 4 | 『リズム天国』シリーズ11年ぶりの完全新作。来月発売予定（評価系空欄）。 | https://www.famitsu.com/article/202605/72453 |
 | 2026-07-16 | カルドセプト ビギンズ（Culdcept Begins） | 大宮ソフト | 任天堂 | Nintendo Switch 2/Switch/Steam | ボード×カードゲーム |  |  |  |  | 3 | 『カルドセプト』シリーズ10年ぶりの完全新作。来月発売予定（評価系空欄）。 | https://www.famitsu.com/schedule/switch |
 | 2026-07 (日付未定) | Assassin's Creed Black Flag Resynced（アサシン クリード ブラックフラッグ リシンクド） | Ubisoft | Ubisoft | PC/PS5/Xbox Series X\|S | オープンワールドACT |  |  |  |  | 4 | 『AC4 ブラックフラッグ』の現世代リメイク。7月発売で確定と報道。海洋探索リメイクの本命。来月分（評価系空欄）。 | https://www.gamesradar.com/video-game-release-dates/ |
+| 2026-06-10 | 33 Immortals（サーティスリー・イモータルズ） | Thunder Lotus Games | Thunder Lotus Games | PC(Steam/Epic)/Xbox Series X\|S | 協力アクションローグライク（33人co-op） |  |  |  |  | 3 | 15ヶ月の早期アクセスを経て1.0。最終レルム“Paradiso”と隠し最終ボス追加。Steamレビュー82% Positive(397件・Very Positive)。Spiritfarerのスタジオ。Game Pass対応。Metacritic/OpenCriticの1.0集計は未確認。 | https://www.techpowerup.com/345436/33-immortals-comes-to-steam-with-1-0-launch-after-long-early-access |
+| 2026-06-11 | STARSEEKER: Astroneer Expeditions（スターシーカー：アストロニーア・エクスペディションズ） | System Era Softworks | Devolver Digital | PS5/Xbox Series X\|S/Switch 2/PC(Steam) | 協力探索アドベンチャー（Astroneer世界観） |  |  |  |  | 3 | 早期アクセス開始。クロスプレイ/クロスプログレッション対応、Game Pass Day1。Steamレビュー37% Positive(187件・Mostly Negative)と滑り出しは苦戦。 | https://store.steampowered.com/app/1454370/STARSEEKER_Astroneer_Expeditions/ |
+| 2026-06-11 | パワフルプロ野球2026-2027 | コナミデジタルエンタテインメント | KONAMI | PS5/Nintendo Switch ほか（公式参照） | 野球/育成シミュレーション |  |  |  |  | 3 | サクセス30周年。新サクセス“パラレルオールスターズ編”、栄冠ナイン3年モード搭載。週刊ファミ通No.1951で発売記念特集。国内向け定番タイトル。 | https://www.konami.com/pawa/2026-2027/ |
+| 2026-06-25 | Star Fox（スターフォックス） | 任天堂 | 任天堂 | Nintendo Switch 2 | 3Dシューティング |  |  |  |  | 4 | 『スターフォックス64』ベースにグラフィック一新＋新要素の新生スターフォックス。6/9のNintendo Directで体験版配信開始。約30年ぶりの本格新作として注目。 | https://www.nintendo.com/jp/games/switch2/abgwa/index.html |
+| 2026-07-10 | Palworld（パルワールド）正式版1.0 | ポケットペア | ポケットペア | PC(Steam)/Xbox Series X\|S ほか | オープンワールド・サバイバルクラフト |  |  |  |  | 4 | 早期アクセスから約2年半で1.0正式版。7月最注目タイトルとの報。EA期の最大同接210万超の実績を持つ。 | https://gamegator.net/calendar/2026/july |
+| 2026-07-28 | Halo: Campaign Evolved（ヘイロー：キャンペーン エボルブド） | Halo Studios | Xbox Game Studios | Xbox Series X\|S/PC/PS5 | FPS（初代Haloキャンペーンリメイク） |  |  |  |  | 4 | 初代Halo:CEキャンペーンのUE5フルリメイク。PS5にも展開。7/23から最大5日間の早期アクセス。 | https://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-6534941/ |
