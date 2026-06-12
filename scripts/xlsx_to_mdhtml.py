@@ -30,6 +30,7 @@ SHEET_SLUGS = {
     "掘り下げ・分析": "10-deep-dive",
     "業界マトリクス": "11-matrix",
     "横断的問い": "12-cross-questions",
+    "週間ランキング": "13-rankings",
 }
 
 # 「行ごとセクション形式」で表示するシート
