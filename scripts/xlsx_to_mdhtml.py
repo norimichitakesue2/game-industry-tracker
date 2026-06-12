@@ -151,6 +151,12 @@ def fmt_cell(v):
     if v is None: return ''
     if isinstance(v, datetime):
         return v.strftime('%Y-%m-%d')
+    if isinstance(v, bool):
+        return str(v)
+    if isinstance(v, int):
+        return f"{v:,}"
+    if isinstance(v, float):
+        return f"{v:,.0f}" if v == int(v) else f"{v:,}"
     return str(v)
 
 def fmt_tag_cell(v):
@@ -246,6 +252,113 @@ def render_section_html(sheet_name, headers, rows):
 {nav}{body}
 <footer>ゲーム業界・時事情報収集 · 自動生成</footer>
 </div>{JS}</body></html>"""
+
+
+RANKING_SHEET = "週間ランキング"
+RANK_GROUP_ORDER = ["国内ファミ通", "Steamトップセラー", "NSW DL", "PS DL"]
+
+def _week_key(s):
+    m = re.search(r'(\d{4})-(\d{2})(?:-(\d{2}))?', str(s or ''))
+    return m.group(0) if m else ''
+
+def _rank_groups(headers, rows):
+    idx = {h: i for i, h in enumerate(headers) if h}
+    ki, wi, ri = idx.get('区分'), idx.get('集計週'), idx.get('順位')
+    groups = {}
+    for r in rows:
+        g = fmt_cell(r[ki]) if ki is not None else 'その他'
+        groups.setdefault(g or 'その他', []).append(r)
+    order = [g for g in RANK_GROUP_ORDER if g in groups] + [g for g in groups if g not in RANK_GROUP_ORDER]
+    def rank_val(r):
+        try: return int(str(r[ri]).replace(',', ''))
+        except Exception: return 999
+    for g in groups:
+        groups[g].sort(key=rank_val)
+        groups[g].sort(key=lambda r: _week_key(fmt_cell(r[wi])), reverse=True)
+    return idx, wi, order, groups
+
+def render_ranking_html(sheet_name, headers, rows):
+    nav = nav_html(SHEET_SLUGS.get(sheet_name))
+    title = html.escape(sheet_name)
+    idx, wi, order, groups = _rank_groups(headers, rows)
+    disp = [h for h in headers if h and h not in ('区分', '集計週')]
+    sections = []
+    for gi, g in enumerate(order):
+        grows = groups[g]
+        weeks = sorted({fmt_cell(r[wi]) for r in grows}, key=_week_key, reverse=True)
+        opts = ''.join(
+            f'<option value="{html.escape(w)}"{" selected" if i == 0 else ""}>{html.escape(w)}</option>'
+            for i, w in enumerate(weeks))
+        opts += '<option value="__all__">すべての週</option>'
+        ths = ''.join(f'<th>{html.escape(h)}</th>' for h in disp)
+        trs = []
+        for r in grows:
+            week = fmt_cell(r[wi])
+            tds = []
+            for h in disp:
+                v = r[idx[h]] if idx.get(h) is not None and idx[h] < len(r) else None
+                text = fmt_cell(v)
+                if not text:
+                    cell = ''
+                elif 'URL' in h or 'リンク' in h or '出典' in h:
+                    cell = url_to_link(text)
+                else:
+                    cell = url_to_link(text) if 'http' in text else html.escape(text)
+                tds.append(f'<td>{cell}</td>')
+            trs.append(f'<tr data-group="g{gi}" data-week="{html.escape(week)}">{"".join(tds)}</tr>')
+        sections.append(
+            f'<div class="section"><h2>{html.escape(g)}</h2>'
+            f'<div class="meta" style="margin-bottom:10px">対象週: '
+            f'<select class="week-sel" data-group="g{gi}" '
+            f'style="padding:6px 10px;background:var(--panel);color:var(--text);'
+            f'border:1px solid var(--border);border-radius:6px;font-size:13px">{opts}</select></div>'
+            f'<div class="table-wrap"><table><thead><tr>{ths}</tr></thead>'
+            f'<tbody>{"".join(trs)}</tbody></table></div></div>')
+    body = ''.join(sections) if sections else '<div class="empty">データなし</div>'
+    week_js = """
+<script>
+document.querySelectorAll('select.week-sel').forEach(sel=>{
+  const apply=()=>{
+    const v=sel.value;
+    document.querySelectorAll('tr[data-group=\"'+sel.dataset.group+'\"]').forEach(tr=>{
+      tr.style.display=(v==='__all__'||tr.dataset.week===v)?'':'none';
+    });
+  };
+  sel.addEventListener('change',apply); apply();
+});
+</script>"""
+    updated = datetime.now().strftime('%Y-%m-%d %H:%M')
+    return f"""<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8">
+<title>{title} | ゲーム業界トラッカー</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+{CSS}</head><body><div class="container">
+<header><h1>{title}</h1><span class="subtle">最終更新: {updated}</span></header>
+{nav}{body}
+<footer>ゲーム業界・時事情報収集 · 自動生成</footer>
+</div>{JS}{week_js}</body></html>"""
+
+def render_ranking_md(sheet_name, headers, rows):
+    lines = [f"# {sheet_name}", "", f"_最終更新: {datetime.now().strftime('%Y-%m-%d %H:%M')}_", ""]
+    idx, wi, order, groups = _rank_groups(headers, rows)
+    disp = [h for h in headers if h and h not in ('区分', '集計週')]
+    for g in order:
+        lines.append(f"## {g}")
+        lines.append("")
+        weeks = sorted({fmt_cell(r[wi]) for r in groups[g]}, key=_week_key, reverse=True)
+        for w in weeks:
+            lines.append(f"### {w}")
+            lines.append("")
+            lines.append('| ' + ' | '.join(disp) + ' |')
+            lines.append('| ' + ' | '.join(['---'] * len(disp)) + ' |')
+            for r in groups[g]:
+                if fmt_cell(r[wi]) != w: continue
+                cells = []
+                for h in disp:
+                    v = r[idx[h]] if idx.get(h) is not None and idx[h] < len(r) else None
+                    cells.append(fmt_cell(v).replace('|', '\\|').replace('\n', '<br>'))
+                lines.append('| ' + ' | '.join(cells) + ' |')
+            lines.append("")
+    return '\n'.join(lines) + '\n'
 
 def render_table_md(sheet_name, headers, rows):
     lines = [f"# {sheet_name}", "", f"_最終更新: {datetime.now().strftime('%Y-%m-%d %H:%M')}_", ""]
@@ -360,7 +473,10 @@ def main():
             rows.sort(key=_date_key, reverse=True)
         stats[sn] = len(rows)
         slug = SHEET_SLUGS[sn]
-        if sn in SECTION_SHEETS:
+        if sn == RANKING_SHEET:
+            (MD_DIR / f"{slug}.md").write_text(render_ranking_md(sn, headers, rows), encoding='utf-8')
+            (DOCS_DIR / f"{slug}.html").write_text(render_ranking_html(sn, headers, rows), encoding='utf-8')
+        elif sn in SECTION_SHEETS:
             (MD_DIR / f"{slug}.md").write_text(render_section_md(sn, headers, rows), encoding='utf-8')
             (DOCS_DIR / f"{slug}.html").write_text(render_section_html(sn, headers, rows), encoding='utf-8')
         else:
