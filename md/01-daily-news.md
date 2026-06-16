@@ -1,6 +1,69 @@
 # 日次ニュース
 
-_最終更新: 2026-06-15 22:12_
+_最終更新: 2026-06-16 22:11_
+
+## Xbox、Ninja Theory閉鎖を通告。Double Fine・Compulsionは独立化（買い戻し）を交渉と報道
+- **日付**: 2026-06-17
+- **URL**: https://www.techtimes.com/articles/318465/20260616/xbox-studio-closures-confirmed-ninja-theory-shut-down-nine-days-after-showcase.htm
+- **背景にある出来事**: Microsoftは6月末の会計年度末を前にXbox部門の大規模再編を進めており、6月7日のショーケース直後から複数スタジオの去就が取り沙汰されていた。Senua新作を発表したばかりのNinja Theoryを含む傘下スタジオが対象となり、買収・統合で抱えた制作体制の重さが収益圧力下で見直されている。
+- **サマリ**: 6月16日、Ninja Theoryの従業員に閉鎖が通告された一方、Double FineとCompulsion GamesはMicrosoftからの独立（自社買い戻し＝スピンオフ）を交渉中と複数メディアが報道。Ninja Theoryは存続に向け買い手を模索中とされ、他の複数チームも将来を協議しているという。買い戻しが成立しても相当数の人員削減は避けられない見込み。
+- **重要ポイント**: Ninja Theoryは閉鎖通告、ただし買い手を探し存続を模索
+Double Fine・CompulsionはMBO型の独立化を交渉中
+ショーケースでSenua新作を発表した9日後の閉鎖通告
+他の複数Xboxスタジオも去就を協議との報道
+会計年度末（6/30）前後の大規模再編の一環
+- **今後の予測**: 7月1日前後にXbox全体の人員削減・スタジオ整理が正式発表される可能性が高い。独立化が成立すればMicrosoftはIPライセンスや出版で関与を残す形が想定され、カーブアウト後の資金調達先（PE・他パブリッシャー）が次の焦点。Senua等の進行中タイトルの権利と継続可否が注目される。
+- **勉強しておくべきテーマ**: 大手による買収スタジオのカーブアウト・MBOの仕組み
+- **関連企業**: Microsoft, Xbox Game Studios, Ninja Theory, Double Fine, Compulsion Games
+- **関連IP/タイトル**: Senua's Saga: Hellblade, Psychonauts
+- **タグ**: M&A,業績,海外
+
+## 『Dead by Daylight』10周年、ジェイソン参戦の新章「Chapter 40」を全機種で解禁
+- **日付**: 2026-06-17
+- **URL**: https://www.techtimes.com/articles/318508/20260616/jason-voorhees-arrives-dead-daylight-today-decade-long-wait-ends.htm
+- **背景にある出来事**: 非対称対戦ホラー『Dead by Daylight』はライセンスIPコラボでユーザー基盤を拡大してきた看板タイトル。10年来ファンが待ち望んだ『13日の金曜日』ジェイソン・ボーヒーズの版権問題が解け、サービス10周年のタイミングで実装に至った。
+- **サマリ**: Behaviour Interactiveは6月16日（米東部11時）、サービス開始ちょうど10周年に合わせ「Chapter 40: Jason」を全プラットフォームへ実装。ジェイソンをプレイアブルキラーとして追加し、瞬間移動や投擲物を用いた固有能力、3種のスキンを用意。豪州など一部地域は時差で6月17日解禁。記念週として大型施策を展開する。
+- **重要ポイント**: サービス開始10周年の節目にChapter 40を実装
+版権難航していた『13日の金曜日』ジェイソンが初参戦
+固有能力「Omnipresent Evil」「Improvised Carnage」
+地域時差により豪州等は6/17解禁
+記念週として過去最大級のキャンペーンを実施
+- **今後の予測**: 看板ライセンスIPの追加で同接・課金が一時的に大きく伸び、10周年商戦の主力となる見込み。映画ホラーIPコラボの成功例として、他社の非対称・ライブサービス型タイトルでも著名IP獲得競争が加速する可能性。版権処理の長期化はライセンス調達リスクとして引き続き課題。
+- **勉強しておくべきテーマ**: ライブサービスの著名IPコラボと版権調達の収益効果
+- **関連企業**: Behaviour Interactive
+- **関連IP/タイトル**: Dead by Daylight, Friday the 13th, Jason Voorhees
+- **タグ**: 新作,海外
+
+## NVIDIA、オンデバイスAI NPC向け「ACE Game Agent SDK」ベータとUE5プラグインを公開（Unreal Fest 2026）
+- **日付**: 2026-06-17
+- **URL**: https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins/
+- **背景にある出来事**: 生成AIによる動的NPCは各社が競う領域だが、クラウド往復による遅延・コスト・IP保護が実装の壁だった。NVIDIAはローカル（オンデバイス）実行で低遅延の対話NPCを実現する基盤整備を進めており、開発者会議Unreal Fest 2026に合わせ拡充を発表した。
+- **サマリ**: NVIDIAはUnreal Fest 2026に合わせ、軽量C/C++フレームワーク「ACE Game Agent SDK」のベータと、音声認識・小規模言語モデル・音声合成のUE5プラグイン群を公開。RTX上でローカル実行する自律NPCを構築でき、PUBGやTotal War: PHARAOHでの実装例を提示。大規模教師モデルの挙動をLoRAで蒸留し端末上で動かすワークフローを6/17セッションで解説する。
+- **重要ポイント**: ACE Game Agent SDKをベータ提供、UE5向けプラグインを追加
+ASR（Riva Parakeet）／TTS（Chatterbox）でオンデバイス対話
+クラウド往復を排し低遅延・IP保護を両立
+大規模モデルをLoRAで蒸留しRTX端末でローカル実行
+PUBG・Total War PHARAOH等で実装デモ
+- **今後の予測**: オンデバイス推論の前提が整い、対話型NPCの実装が一部AAAから量産フェーズへ進む可能性。Google Cloud等のクラウド型AI基盤と、NVIDIA/オンデバイス型が併存・競合する構図が強まる。RTX等の特定ハード依存と非対応環境での体験差、各国のAI規制対応が普及の鍵となる。
+- **勉強しておくべきテーマ**: オンデバイスAI推論とモデル蒸留（LoRA）のゲーム実装
+- **関連企業**: NVIDIA, Epic Games, Krafton, Creative Assembly
+- **関連IP/タイトル**: NVIDIA ACE, Unreal Engine 5, PUBG: BATTLEGROUNDS, Total War: PHARAOH
+- **タグ**: 技術,海外
+
+## ゲーム業界のレイオフがXboxを越え波及か。7月にSony・EA系スタジオへとの警告報道
+- **日付**: 2026-06-17
+- **URL**: https://www.techtimes.com/articles/318519/20260616/gaming-industry-layoffs-spread-beyond-xbox-july-purge-threatens-sony-ea-studios.htm
+- **背景にある出来事**: 2025年の世界ゲーム市場は約1,956億ドルと過去最高ながら、ここ2年で開発者の約3割が職を失う『記録的売上×記録的レイオフ』が続く。MicrosoftのXbox再編を起点に、業界全体で会計年度末（6/30）後の追加削減が警戒されている。
+- **サマリ**: 6月16日、ジャーナリストのSylvain Trinel氏らの見解として、7月1日前後にXboxにとどまらずSony・EA・BioWareなどでもスタジオ閉鎖や削減が広がるとの警告が報じられた。Ninja Theoryの閉鎖は確定とされ、Arkane Lyonが次の対象になり得るとの指摘も。ヒットの寡占化と長期運営型タイトルへの集中が背景にあるとされる。
+- **重要ポイント**: 7/1前後に複数大手で人員削減・スタジオ整理の波及を警告
+Ninja Theory閉鎖は確定、Arkane Lyonが次の懸念
+対象にSony・EA・BioWareの名が挙がる（未確定の見通し含む）
+過去2年で開発者の約3割が失職との業界データ
+増収下の削減＝『勝者総取り』型構造の表れ
+- **今後の予測**: 7月の各社決算・期初に合わせ、追加のリストラ発表が相次ぐ可能性。配信・SaaSと同型の収益集中が進み、中堅スタジオの独立化・身売り・解散が増える見通し。人材は独立スタジオ設立やパブリッシャー横断で再配置され、AI活用による省人化の是非が論点化する。
+- **勉強しておくべきテーマ**: 増収下のレイオフ構造（勝者総取り・長期運営集中）
+- **関連企業**: Microsoft, Sony Interactive Entertainment, Electronic Arts, BioWare, Arkane Lyon
+- **タグ**: 業績,海外
 
 ## 任天堂、Nintendo Directで『時のオカリナ』リメイクやKINGDOM HEARTS IV、Xenoblade Genesisを発表
 - **日付**: 2026-06-16
