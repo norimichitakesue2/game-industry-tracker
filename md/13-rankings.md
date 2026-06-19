@@ -1,8 +1,23 @@
 # 週間ランキング
 
-_最終更新: 2026-06-19 00:38_
+_最終更新: 2026-06-19 11:36_
 
 ## 国内ファミ通
+
+### 2026-06-08〜06-14
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | パワフルプロ野球2026-2027 | Switch | 100,976 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202606/78731 | パワプロ最新作が約10万本で首位スタート |
+| 2 | トモダチコレクション わくわく生活 | Switch | 37,888 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202606/78731 | パワプロ最新作が約10万本で首位スタート |
+| 3 | eFootball Kick-Off! | Switch 2 | 8,143 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202606/78731 | パワプロ最新作が約10万本で首位スタート |
+| 4 | ぽこ あ ポケモン | Switch 2 | 7,781 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202606/78731 | パワプロ最新作が約10万本で首位スタート |
+| 5 | アストロボット | PS5 | 6,533 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202606/78731 | パワプロ最新作が約10万本で首位スタート |
+| 6 | マリオカート ワールド | Switch 2 | 5,042 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202606/78731 | パワプロ最新作が約10万本で首位スタート |
+| 7 | ヨッシーとフカシギの図鑑 | Switch 2 | 4,249 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202606/78731 | パワプロ最新作が約10万本で首位スタート |
+| 8 | ファイナルファンタジーVII リバース | Switch 2 | 4,169 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202606/78731 | パワプロ最新作が約10万本で首位スタート |
+| 9 | イナズマイレブン 英雄たちのヴィクトリーロード | Switch 2 | 3,544 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202606/78731 | パワプロ最新作が約10万本で首位スタート |
+| 10 | Minecraft（マインクラフト） | Switch | 3,379 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202606/78731 | パワプロ最新作が約10万本で首位スタート |
 
 ### 2026-06-01〜06-07
 
@@ -20,6 +35,20 @@ _最終更新: 2026-06-19 00:38_
 | 10 | アストロボット | PS5 | 3,460 | 103,717 |  | ファミ通.com 週販 https://www.famitsu.com/article/202606/78042 |  |
 
 ## Steamトップセラー
+
+### 2026-06-10〜06-16
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | MECCHA CHAMELEON（めっちゃカメレオン） | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week25 https://www.vgchartz.com/article/468225/steam-weekly-week-25-2026/ | 個人開発の日本産インディーが初登場1位 |
+| 2 | Forza Horizon 6（フォルツァ ホライゾン 6） | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week25 https://www.vgchartz.com/article/468225/steam-weekly-week-25-2026/ | 前週首位から2位へ |
+| 3 | Steam Deck | ハードウェア |  |  |  | VGChartz Steam週間トップセラー Week25 https://www.vgchartz.com/article/468225/steam-weekly-week-25-2026/ | ハード（携帯PC） |
+| 4 | Path of Exile 2（パス・オブ・エグザイル2） | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week25 https://www.vgchartz.com/article/468225/steam-weekly-week-25-2026/ |  |
+| 5 | EA Sports FC 26 | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week25 https://www.vgchartz.com/article/468225/steam-weekly-week-25-2026/ | トップ10再浮上（5〜7位の順は概算） |
+| 6 | Destiny 2: Renegades（デスティニー2：レネゲイズ） | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week25 https://www.vgchartz.com/article/468225/steam-weekly-week-25-2026/ | トップ10再浮上（5〜7位の順は概算） |
+| 7 | Final Fantasy VII Remake Intergrade（FF7 リメイク インターグレード） | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week25 https://www.vgchartz.com/article/468225/steam-weekly-week-25-2026/ | トップ10再浮上（5〜7位の順は概算） |
+| 8 | 007 First Light（007 ファースト・ライト） | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week25 https://www.vgchartz.com/article/468225/steam-weekly-week-25-2026/ | 8位へ後退 |
+| 9 | Gothic 1 Remake（ゴシック1 リメイク） | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week25 https://www.vgchartz.com/article/468225/steam-weekly-week-25-2026/ | 9位へ後退 |
 
 ### 2026-06-03〜06-09
 

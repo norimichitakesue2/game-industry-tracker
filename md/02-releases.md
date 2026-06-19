@@ -1,6 +1,6 @@
 # 新作リリースログ
 
-_最終更新: 2026-06-19 00:38_
+_最終更新: 2026-06-19 11:36_
 
 | 発売日 | タイトル | 開発 | パブリッシャー | プラットフォーム | ジャンル | Metacritic | OpenCritic | Steam同接ピーク | 初週推定本数 | 話題度(1-5) | 感想/メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -11,7 +11,7 @@ _最終更新: 2026-06-19 00:38_
 | 2026-06-03 | eFootball Kick Off! | Konami Digital Entertainment | Konami | Switch 2 | サッカー |  |  |  |  | 3 | Switch2向けスタンドアロン版eFootball。任天堂新ハード参入タイトル。 | https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-may-and-june-2026 |
 | 2026-06-04 | The 7th Guest Remake（第7のゲスト リメイク） | Vertigo Games | Vertigo Games | PC/PS5/Switch/Switch 2/Xbox | ホラー/パズル/アドベンチャー |  |  |  |  | 3 | 1993年名作FMVのフルリメイク。レトロ層+ホラー需要を狙う。 | https://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-6534941/ |
 | 2026-06-05 | Gothic 1 Remake（ゴシック1 リメイク） | Alkimia Interactive | THQ Nordic | PC/PS5/Xbox Series X\|S | オープンワールドRPG |  |  |  |  | 4 | 2001年の名作ドイツ製RPGの完全リメイク。Piranha Bytes創業者陣監修。欧州PC RPG層の本命。 | https://box.co.uk/blog/june-game-releases-2026 |
-| 2026-06-18 | The Adventures of Elliot: The Millennium Tales（冒険家エリオットの千年物語） | Octeto Studios | Square Enix | PC/PS5/Xbox Series X\|S/Switch 2 | HD-2D RPG |  |  |  |  | 4 | HD-2Dエンジン採用の新IP。Square Enix外部パブとして注目。中世ファンタジー×リアルタイム戦闘。 | https://www.famitsu.com/article/202605/72904 |
+| 2026-06-18 | The Adventures of Elliot: The Millennium Tales（冒険家エリオットの千年物語） | Octeto Studios | Square Enix | PC/PS5/Xbox Series X\|S/Switch 2 | HD-2D RPG | 82 | 82 |  |  | 4 | 【6/18発売・実績反映】海外メタスコア平均82/100、好評89%。『聖剣伝説』を原点に4時代を行き来する探索＆魔石ビルドが好評。レベル概念なしでも成長実感のあるアクションRPGとして高評価。一部ペース/反復に指摘。 | https://www.famitsu.com/article/202605/72904 |
 | 2026-06-25 | Hell Let Loose: Vietnam（ヘル・レット・ルース：ヴェトナム） | Expression Games | Team17 | PC/PS5/Xbox Series X\|S | ミリタリーFPS |  |  |  |  | 3 | Hell Let Looseシリーズのベトナム戦争スタンドアロン。50vs50大規模戦。Tactical FPS層に注目。 | https://www.mensjournal.com/entertainment/top-10-video-games-releasing-in-june-2026 |
 | 2026-06-04 | House Flipper Remastered Collection（ハウスフリッパー リマスター・コレクション） | Frozen District | Frozen Way (PlayWay) | PC/PS5/Xbox Series X\|S | シミュレーション |  |  |  |  | 2 | 基本ゲーム+全DLC（Garden/Luxury/Pets/Farm）を統合し、ビジュアル刷新・フルボイス・新ストーリー追加。$49.99。既存所有者向け割引あり。 | https://www.gematsu.com/2026/04/house-flipper-remastered-collection-launches-june-4 |
 | 2026-06-08 | Solarpunk: 天空の島（Solarpunk／ソーラーパンク） | Cyberwave | Cyberwave | PC/PS5/Xbox Series X\|S/Switch 2 | コージー・サバイバルクラフト |  |  |  |  | 3 | 飛行船で浮遊島を冒険するコージー建築サバイバル。Steamで7万超フォロワーを集め、無料体験版が高評価。発売前から話題（来週分・評価系空欄）。 | https://screenrant.com/steam-june-2026-trending-free-game/ |
@@ -24,3 +24,6 @@ _最終更新: 2026-06-19 00:38_
 | 2026-06-25 | Star Fox（スターフォックス） | 任天堂 | 任天堂 | Nintendo Switch 2 | 3Dシューティング |  |  |  |  | 4 | 『スターフォックス64』ベースにグラフィック一新＋新要素の新生スターフォックス。6/9のNintendo Directで体験版配信開始。約30年ぶりの本格新作として注目。 | https://www.nintendo.com/jp/games/switch2/abgwa/index.html |
 | 2026-07-10 | Palworld（パルワールド）正式版1.0 | ポケットペア | ポケットペア | PC(Steam)/Xbox Series X\|S ほか | オープンワールド・サバイバルクラフト |  |  |  |  | 4 | 早期アクセスから約2年半で1.0正式版。7月最注目タイトルとの報。EA期の最大同接210万超の実績を持つ。 | https://gamegator.net/calendar/2026/july |
 | 2026-07-28 | Halo: Campaign Evolved（ヘイロー：キャンペーン エボルブド） | Halo Studios | Xbox Game Studios | Xbox Series X\|S/PC/PS5 | FPS（初代Haloキャンペーンリメイク） |  |  |  |  | 4 | 初代Halo:CEキャンペーンのUE5フルリメイク。PS5にも展開。7/23から最大5日間の早期アクセス。 | https://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-6534941/ |
+| 2026-06-19 | EA SPORTS UFC 6 | EA Vancouver | Electronic Arts | PS5/Xbox Series X\|S | スポーツ（総合格闘技） |  |  |  |  | 3 | 6/19発売の総合格闘技シム最新作。フィジカルや個性表現を強化。発売直後のためスコア未確定。早期アクセスも実施済み。 | https://www.ea.com/en/games/ufc/ufc-6 |
+| 2026-06-25 | DEAD OR ALIVE 6 Last Round（デッド オア アライブ6 ラストラウンド） | Team NINJA | コーエーテクモゲームス | PS5 | 3D対戦格闘 |  |  |  |  | 3 | 既存DLCキャラ収録＋新コス・新フォトモード追加の完全版。同日に基本無料版も配信。来週リリース予定。 | https://www.gamecity.ne.jp/game/27417.html |
+| 2026-07-16 | プロ野球スピリッツ2026 | コナミ | コナミデジタルエンタテインメント | PS5 | スポーツ（野球） |  |  |  |  | 4 | プロスピ家庭用シリーズ最新作。7/16発売予定の来月大型タイトル。4/16から予約受付開始。 | https://www.konami.com/games/corporate/ja/news/topics/20260416/ |
