@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-06-19 11:36_
+_最終更新: 2026-06-19 22:12_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -15,3 +15,5 @@ _最終更新: 2026-06-19 11:36_
 | 2026-10-19 | 2026-10-26 | Steam Next Fest(10月版) | セール/デモ | オンライン(Steam) | 体験版一斉解禁 | 発売前タイトルの体験版を一斉公開する需要喚起イベント。秋セール直前。6月版と同パターン。 | https://store.steampowered.com/sale/nextfest | 開催予定 | 2026-06-17 |
 | 2026-12-10 |  | The Game Awards 2026 (TGA) | ショーケース | 米LA(Peacock Theater)/配信 | 授賞式＋配信 | 年間ゲーム表彰と多数の新作発表。GOTYほか。GTA6発売直後の注目回。 | https://thegameawards.com/ | 開催予定 | 2026-06-17 |
 |  |  | The International 2026 (Dota 2) | eスポーツ | 中国・上海(Oriental Sports Center) | オフライン大会 | Dota2最高峰。予選6月実施、本戦は2026年内予定(日程は要確認)。中国回帰。 | https://escharts.com/news/how-watch-international-2026 | 日程未確定 | 2026-06-17 |
+| 2026-06-15 | 2026-06-22 | Steam Next Fest（6月版） | セール | オンライン(Steam) | 体験版一斉解禁 | 発売前タイトルの体験版を一斉公開する大型需要喚起イベント。約4,931本のデモが配信。6/25開幕のサマーセール直前。 | https://www.techtimes.com/articles/318387/20260615/steam-next-fest-june-2026-opens-today-nearly-5000-free-demos-are-now-live.htm | 開催中 | 2026-06-20 |
+| 2026-06-12 | 2026-06-21 | VALORANT Masters London 2026 | eスポーツ | 英ロンドン | オフライン大会 | VCT 2026 Stage 2の国際大会。プレイオフ佳境でPaper Rexが優勝候補筆頭。グランドファイナルは6/21。 | https://www.vlr.gg/event/2765/valorant-masters-london-2026 | 開催中 | 2026-06-20 |
