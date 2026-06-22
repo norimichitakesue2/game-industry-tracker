@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-06-22 14:21_
+_最終更新: 2026-06-22 22:09_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -18,7 +18,7 @@ _最終更新: 2026-06-22 14:21_
 | 2026-07-06 | 2026-08-23 | Esports World Cup 2026 | eスポーツ | 仏パリ(Paris Expo Porte de Versailles) | オフライン大会(7週間) | 賞金総額7,500万ドルで史上最大。25タイトル・200クラブ。開会式7/8(La Seine Musicale)。リヤドからパリへ会場変更。 | https://en.wikipedia.org/wiki/2026_Esports_World_Cup | 開催予定 | 2026-06-17 |
 | 2026-06-26 | 2026-06-28 | EVO 2026 | eスポーツ | 米ラスベガス | オフライン大会 | 世界最大級の格闘ゲーム大会。スト6・鉄拳8等の頂上決戦と新作発表の場。 | https://attractmo.de/gaming-news/your-guide-to-every-major-gaming-event-in-2026 | 開催予定 | 2026-06-17 |
 | 2026-06-25 | 2026-07-09 | Steam サマーセール 2026 | セール | オンライン(Steam) | ストアセール | Steam最大級の季節セール。値引き合戦と販売ブースト。次回Next Festに向けたウィッシュリスト施策も活発化。 | https://www.pcgamer.com/steam-sale-dates/ | 開催予定 | 2026-06-17 |
-| 2026-06-15 | 2026-06-22 | Steam Next Fest（6月版） | セール | オンライン(Steam) | 体験版一斉解禁 | 発売前タイトルの体験版を一斉公開する大型需要喚起イベント。約4,931本のデモが配信。6/25開幕のサマーセール直前。 | https://www.techtimes.com/articles/318387/20260615/steam-next-fest-june-2026-opens-today-nearly-5000-free-demos-are-now-live.htm | 開催中 | 2026-06-20 |
+| 2026-06-15 | 2026-06-22 | Steam Next Fest（6月版） | セール | オンライン(Steam) | 体験版一斉解禁 | 発売前タイトルの体験版を一斉公開する大型需要喚起イベント。約4,931本のデモが配信。6/25開幕のサマーセール直前。 | https://www.techtimes.com/articles/318387/20260615/steam-next-fest-june-2026-opens-today-nearly-5000-free-demos-are-now-live.htm | 終了 | 2026-06-23 |
 | 2026-06-12 | 2026-06-21 | VALORANT Masters London 2026 | eスポーツ | 英ロンドン | オフライン大会 | VCT 2026 Stage 2の国際大会。プレイオフ佳境でPaper Rexが優勝候補筆頭。グランドファイナルは6/21。 | https://www.vlr.gg/event/2765/valorant-masters-london-2026 | 終了 | 2026-06-22 |
 |  |  | The International 2026 (Dota 2) | eスポーツ | 中国・上海(Oriental Sports Center) | オフライン大会 | Dota2最高峰。予選6月実施、本戦は2026年内予定(日程は要確認)。中国回帰。 | https://escharts.com/news/how-watch-international-2026 | 日程未確定 | 2026-06-17 |
 |  |  | INDIE Live Expo 2026(冬) | ショーケース | オンライン配信 | オンライン | アジア最大級のインディーゲーム情報番組。世界初公開タイトルや発売日発表が多数。次回は2026年冬開催予定(日程未定)。 | https://indie.live-expo.games/ | 日程未確定 | 2026-06-21 |
