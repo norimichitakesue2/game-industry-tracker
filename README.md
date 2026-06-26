@@ -1,22 +1,22 @@
 # 🎮 ゲーム業界・時事情報収集
 
-_最終更新: 2026-06-25 22:34_
+_最終更新: 2026-06-26 12:36_
 
 ## シート一覧
 
 - [日次ニュース](md/01-daily-news.md) (210行)
-- [新作リリースログ](md/02-releases.md) (23行)
+- [新作リリースログ](md/02-releases.md) (27行)
 - [IP・タイトルウォッチ](md/03-ip-watch.md) (57行)
 - [企業分析（国内）](md/04-companies-jp.md) (12行)
 - [企業分析（海外大手）](md/05-companies-overseas.md) (12行)
 - [四半期決算サマリ](md/06-earnings.md) (0行)
 - [業界トレンド・技術](md/07-trends.md) (13行)
-- [インディー注目](md/08-indie.md) (7行)
+- [インディー注目](md/08-indie.md) (8行)
 - [今後起きそうなこと](md/09-future.md) (14行)
 - [掘り下げ・分析](md/10-deep-dive.md) (24行)
 - [業界マトリクス](md/11-matrix.md) (36行)
 - [横断的問い](md/12-cross-questions.md) (47行)
-- [週間ランキング](md/13-rankings.md) (42行)
+- [週間ランキング](md/13-rankings.md) (61行)
 - [イベントカレンダー](md/14-events.md) (19行)
 
 ## 更新スケジュール

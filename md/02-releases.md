@@ -1,6 +1,6 @@
 # 新作リリースログ
 
-_最終更新: 2026-06-25 22:34_
+_最終更新: 2026-06-26 12:36_
 
 | 発売日 | タイトル | 開発 | パブリッシャー | プラットフォーム | ジャンル | Metacritic | OpenCritic | Steam同接ピーク | 初週推定本数 | 話題度(1-5) | 感想/メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -8,10 +8,13 @@ _最終更新: 2026-06-25 22:34_
 | 2026-07-16 | カルドセプト ビギンズ（Culdcept Begins） | 大宮ソフト | 任天堂 | Nintendo Switch 2/Switch/Steam | ボード×カードゲーム |  |  |  |  | 3 | 『カルドセプト』シリーズ10年ぶりの完全新作。来月発売予定（評価系空欄）。 | https://www.famitsu.com/schedule/switch |
 | 2026-07-16 | プロ野球スピリッツ2026 | コナミ | コナミデジタルエンタテインメント | PS5 | スポーツ（野球） |  |  |  |  | 4 | プロスピ家庭用シリーズ最新作。7/16発売予定の来月大型タイトル。4/16から予約受付開始。 | https://www.konami.com/games/corporate/ja/news/topics/20260416/ |
 | 2026-07-10 | Palworld（パルワールド）正式版1.0 | ポケットペア | ポケットペア | PC(Steam)/Xbox Series X\|S ほか | オープンワールド・サバイバルクラフト |  |  |  |  | 4 | 早期アクセスから約2年半で1.0正式版。7月最注目タイトルとの報。EA期の最大同接210万超の実績を持つ。 | https://gamegator.net/calendar/2026/july |
+| 2026-07-09 | GRANBLUE FANTASY: Relink – Endless Ragnarök（グランブルーファンタジー リリンク エンドレスラグナロク） | Cygames | Cygames | Switch 2/PS5/PC | アクションRPG |  |  |  |  | 4 | 来月予定（評価系空欄）。Switch2版はオンライン/ローカル/クロスプレイ対応。Relinkの大型拡張展開。 | https://www.famitsu.com/schedule |
+| 2026-07-09 | デジモンストーリー タイムストレンジャー（Digimon Story: Time Stranger） | Media.Vision | バンダイナムコエンターテインメント | Switch 2/PS5/PC/Xbox Series X\|S | RPG |  |  |  |  | 4 | 来月予定（評価系空欄）。Switch2版はクオリティ/パフォーマンスのモード選択を追加。デジモンRPGの最新作。 | https://www.famitsu.com/schedule |
 | 2026-07-02 | リズム天国 ミラクルスターズ（Rhythm Heaven Miracle Stars） | 任天堂/TNX | 任天堂 | Nintendo Switch/Switch 2 | リズムアクション |  |  |  |  | 4 | 『リズム天国』シリーズ11年ぶりの完全新作。来月発売予定（評価系空欄）。 | https://www.famitsu.com/article/202605/72453 |
 | 2026-06-25 | Hell Let Loose: Vietnam（ヘル・レット・ルース：ヴェトナム） | Expression Games | Team17 | PC/PS5/Xbox Series X\|S | ミリタリーFPS |  |  |  |  | 3 | Hell Let Looseシリーズのベトナム戦争スタンドアロン。50vs50大規模戦。Tactical FPS層に注目。 | https://www.mensjournal.com/entertainment/top-10-video-games-releasing-in-june-2026 |
-| 2026-06-25 | Star Fox（スターフォックス） | 任天堂 | 任天堂 | Nintendo Switch 2 | 3Dシューティング |  |  |  |  | 4 | 『スターフォックス64』ベースにグラフィック一新＋新要素の新生スターフォックス。6/9のNintendo Directで体験版配信開始。約30年ぶりの本格新作として注目。 | https://www.nintendo.com/jp/games/switch2/abgwa/index.html |
+| 2026-06-25 | Star Fox（スターフォックス） | 任天堂 | 任天堂 | Nintendo Switch 2 | 3Dシューティング | 82 | 84 |  |  | 5 | 【6/25発売・実績反映】海外メタスコア82/OpenCritic84でシリーズ史上2番目の高評価。『スターフォックス64』の丁寧なフルリメイクで、よりドラマティックに。レビュー76件・好評86%。IGNはチャレンジモードを高評価。約30年ぶりの本格新作としてSwitch2の看板に。 | https://www.nintendo.com/jp/games/switch2/abgwa/index.html |
 | 2026-06-25 | DEAD OR ALIVE 6 Last Round（デッド オア アライブ6 ラストラウンド） | Team NINJA | コーエーテクモゲームス | PS5 | 3D対戦格闘 |  |  |  |  | 3 | 既存DLCキャラ収録＋新コス・新フォトモード追加の完全版。同日に基本無料版も配信。来週リリース予定。 | https://www.gamecity.ne.jp/game/27417.html |
+| 2026-06-23 | Frostpunk 2: Breach of Trust（フロストパンク2：ブリーチ・オブ・トラスト） | 11 bit studios | 11 bit studios | PC/PS5/Xbox Series X\|S | 都市建設サバイバルSLG（拡張） |  |  |  |  | 3 | 【今週・拡張DLC】『Frostpunk 2』の大型拡張。新たな政治的緊張と難しい指導者の決断を追加。本編のシビアな雪原世界を拡張。スコアは集計待ち。 | https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-june-2026-week-26 |
 | 2026-06-19 | EA SPORTS UFC 6 | EA Vancouver | Electronic Arts | PS5/Xbox Series X\|S | スポーツ（総合格闘技） |  |  |  |  | 3 | 6/19発売の総合格闘技シム最新作。フィジカルや個性表現を強化。発売直後のためスコア未確定。早期アクセスも実施済み。 | https://www.ea.com/en/games/ufc/ufc-6 |
 | 2026-06-18 | The Adventures of Elliot: The Millennium Tales（冒険家エリオットの千年物語） | Octeto Studios | Square Enix | PC/PS5/Xbox Series X\|S/Switch 2 | HD-2D RPG | 82 | 82 |  |  | 4 | 【6/18発売・実績反映】海外メタスコア平均82/100、好評89%。『聖剣伝説』を原点に4時代を行き来する探索＆魔石ビルドが好評。レベル概念なしでも成長実感のあるアクションRPGとして高評価。一部ペース/反復に指摘。 | https://www.famitsu.com/article/202605/72904 |
 | 2026-06-11 | STARSEEKER: Astroneer Expeditions（スターシーカー：アストロニーア・エクスペディションズ） | System Era Softworks | Devolver Digital | PS5/Xbox Series X\|S/Switch 2/PC(Steam) | 協力探索アドベンチャー（Astroneer世界観） |  |  |  |  | 3 | 早期アクセス開始。クロスプレイ/クロスプログレッション対応、Game Pass Day1。Steamレビュー37% Positive(187件・Mostly Negative)と滑り出しは苦戦。 | https://store.steampowered.com/app/1454370/STARSEEKER_Astroneer_Expeditions/ |
@@ -27,3 +30,4 @@ _最終更新: 2026-06-25 22:34_
 | 2026-05-20 | Deep Rock Galactic: Rogue Core（ディープロック ギャラクティック：ローグコア） | Ghost Ship Games | Ghost Ship Publishing | PC/Steam (Early Access) | Co-op FPS/ローグライト |  |  |  |  | 3 | DRGスピンオフ。Steamレビューは『賛否両論』(肯定69%/5,299件)。タイマー・パーク抽選・本家らしさの喪失に不満の声。今後のEAアップデート次第。 | https://store.steampowered.com/app/2605790/Deep_Rock_Galactic_Rogue_Core/ |
 | 2026-05-19 | Forza Horizon 6（フォルツァ ホライゾン 6） | Playground Games | Xbox Game Studios / Microsoft | Xbox Series X\|S/PC/Steam | オープンワールド・レース | 92 | 91 | 302,645 (Steam, SteamDB) | 4,900,000本(推定/Alinea Analytics) | 5 | 日本舞台。Steam同接30万超でXbox Game Studios歴代最高。初週6,000万プレイヤー超(GamePass含む)、推定売上3.25億ドル。発売週起点では『先週』。 | https://www.pcgamer.com/games/racing/forza-horizon-6-speeds-into-steams-top-5-most-played-games-with-over-300k-concurrent-players/ |
 | 2026-07 (日付未定) | Assassin's Creed Black Flag Resynced（アサシン クリード ブラックフラッグ リシンクド） | Ubisoft | Ubisoft | PC/PS5/Xbox Series X\|S | オープンワールドACT |  |  |  |  | 4 | 『AC4 ブラックフラッグ』の現世代リメイク。7月発売で確定と報道。海洋探索リメイクの本命。来月分（評価系空欄）。 | https://www.gamesradar.com/video-game-release-dates/ |
+| 2026-07 (日付未定) | 流星のロックマン パーフェクトコレクション | カプコン | カプコン | Switch/Switch 2/PS5/PC | アクション（コレクション） |  |  |  |  | 3 | 来月予定（評価系空欄）。DSの『流星のロックマン』シリーズをまとめたコレクション。 | https://www.famitsu.com/schedule |

@@ -1,8 +1,22 @@
 # 週間ランキング
 
-_最終更新: 2026-06-25 22:34_
+_最終更新: 2026-06-26 12:36_
 
 ## 国内ファミ通
+
+### 2026-06-15〜06-21
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | トモダチコレクション わくわく生活 | Switch | 34,957 | 1,382,027 |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202606/79458 | 首位返り咲き |
+| 2 | パワフルプロ野球2026-2027 | Switch | 28,409 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202606/79458 | 前週首位から2位へ |
+| 3 | 冒険家エリオットの千年物語 | Switch 2 | 23,674 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202606/79458 | Switch2版が初週3位（2機種合算38,517本） |
+| 4 | 冒険家エリオットの千年物語 | PS5 | 14,843 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202606/79458 | PS5版が初週4位 |
+| 5 | ぽこ あ ポケモン | Switch 2 |  |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202606/79458 | 5〜9位の順位・本数は速報の概算 |
+| 6 | eFootball Kick-Off! | Switch 2 |  |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202606/79458 | 5〜9位の順位・本数は速報の概算 |
+| 7 | マリオカート ワールド | Switch 2 |  |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202606/79458 | 5〜9位の順位・本数は速報の概算 |
+| 9 | ヨッシーとフカシギの図鑑 | Switch 2 |  |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202606/79458 | 5〜9位の順位・本数は速報の概算 |
+| 10 | カービィのエアライダー | Switch 2 | 3,332 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202606/79458 | 18位→10位へ急浮上 |
 
 ### 2026-06-08〜06-14
 
@@ -35,6 +49,21 @@ _最終更新: 2026-06-25 22:34_
 | 10 | アストロボット | PS5 | 3,460 | 103,717 |  | ファミ通.com 週販 https://www.famitsu.com/article/202606/78042 |  |
 
 ## Steamトップセラー
+
+### 2026-06-17〜06-23
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | MECCHA CHAMELEON（めっちゃカメレオン） | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week26 https://www.vgchartz.com/article/468281/ | 2週連続トップ級。サマーセール直前の好調継続 |
+| 2 | Cyberpunk 2077（サイバーパンク2077） | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week26 https://www.vgchartz.com/article/468281/ | 拡張Phantom Liberty含むセール需要で2位 |
+| 3 | Dead by Daylight（デッドバイデイライト） | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week26 https://www.vgchartz.com/article/468281/ |  |
+| 4 | Steam Deck | ハードウェア |  |  |  | VGChartz Steam週間トップセラー Week26 https://www.vgchartz.com/article/468281/ | ハード（携帯PC） |
+| 5 | Path of Exile 2（パス・オブ・エグザイル2） | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week26 https://www.vgchartz.com/article/468281/ |  |
+| 6 | Forza Horizon 6（フォルツァ ホライゾン 6） | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week26 https://www.vgchartz.com/article/468281/ | 累計約490万本(推定/Alinea Analytics) |
+| 7 | Cyberpunk 2077: Phantom Liberty | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week26 https://www.vgchartz.com/article/468281/ | 拡張単体でランクイン |
+| 8 | 雀魂 -じゃんたま-（MahjongSoul） | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week26 https://www.vgchartz.com/article/468281/ |  |
+| 9 | Dave the Diver（デイヴ・ザ・ダイバー） | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week26 https://www.vgchartz.com/article/468281/ |  |
+| 10 | Stellaris（ステラリス） | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week26 https://www.vgchartz.com/article/468281/ | 6/25開始のサマーセール影響で順位は概算 |
 
 ### 2026-06-10〜06-16
 
