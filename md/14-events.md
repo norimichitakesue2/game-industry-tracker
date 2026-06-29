@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-06-29 00:29_
+_最終更新: 2026-06-29 22:11_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -17,8 +17,8 @@ _最終更新: 2026-06-29 00:29_
 | 2026-07-22 | 2026-07-24 | CEDEC 2026 | 展示会 | パシフィコ横浜ノース(横浜)/オンライン | ハイブリッド | 国内最大級のゲーム開発者向けカンファレンス。プログラミング・AI・アート・サウンド・ビジネス等、技術と知見を共有する3日間。 | https://cedec.cesa.or.jp/2026/ | 開催予定 | 2026-06-21 |
 | 2026-07-11 |  | MSI 2026（LoL Mid-Season Invitational）ファイナル | eスポーツ | 韓国・大田(Daejeon) | オフライン | 『LoL』シーズン中盤の国際大会の決勝。会場で復刻モード『League of Legends Classic』の詳細発表が予定されている。 | https://www.4gamer.net/games/073/G007372/20260627007/ | 開催予定 | 2026-06-28 |
 | 2026-07-06 | 2026-08-23 | Esports World Cup 2026 | eスポーツ | 仏パリ(Paris Expo Porte de Versailles) | オフライン大会(7週間) | 賞金総額7,500万ドルで史上最大。25タイトル・200クラブ。開会式7/8(La Seine Musicale)。リヤドからパリへ会場変更。 | https://en.wikipedia.org/wiki/2026_Esports_World_Cup | 開催予定 | 2026-06-17 |
-| 2026-06-26 | 2026-06-28 | EVO 2026 | eスポーツ | 米ラスベガス | オフライン大会 | 世界最大級の格闘ゲーム大会。スト6・鉄拳8等の頂上決戦と新作発表の場。 | https://attractmo.de/gaming-news/your-guide-to-every-major-gaming-event-in-2026 | 開催中 | 2026-06-26 |
-| 2026-06-26 | 2026-06-28 | VALORANT Esports Nations Cup 2026 予選 | eスポーツ | オンライン | オンライン | 国別対抗大会の地域予選。8地域から本戦(リヤド)進出枠を選出。VALORANT部門。 | https://esportsnationscup.com/en/competitions/2026/valorant | 開催中 | 2026-06-26 |
+| 2026-06-26 | 2026-06-28 | EVO 2026 | eスポーツ | 米ラスベガス | オフライン大会 | 世界最大級の格闘ゲーム大会。スト6・鉄拳8等の頂上決戦と新作発表の場。 | https://attractmo.de/gaming-news/your-guide-to-every-major-gaming-event-in-2026 | 終了 | 2026-06-30 |
+| 2026-06-26 | 2026-06-28 | VALORANT Esports Nations Cup 2026 予選 | eスポーツ | オンライン | オンライン | 国別対抗大会の地域予選。8地域から本戦(リヤド)進出枠を選出。VALORANT部門。 | https://esportsnationscup.com/en/competitions/2026/valorant | 終了 | 2026-06-30 |
 | 2026-06-26 |  | カプコンスポットライト 2026.6 | ショーケース | オンライン配信 | オンライン | カプコンの主力IPを約30分で紹介するデジタルイベント。『鬼武者 Way of the Sword』（9/25発売）新映像、『DD2 ダークアリズン』（10/9）、『MHStories3』ルディ編DLC（秋）などを発表。 | https://www.famitsu.com/article/202606/79524 | 終了 | 2026-06-27 |
 | 2026-06-25 | 2026-07-09 | Steam サマーセール 2026 | セール | オンライン(Steam) | ストアセール | Steam最大級の季節セール。値引き合戦と販売ブースト。次回Next Festに向けたウィッシュリスト施策も活発化。 | https://www.pcgamer.com/steam-sale-dates/ | 開催中 | 2026-06-25 |
 | 2026-06-15 | 2026-06-22 | Steam Next Fest（6月版） | セール | オンライン(Steam) | 体験版一斉解禁 | 発売前タイトルの体験版を一斉公開する大型需要喚起イベント。約4,931本のデモが配信。6/25開幕のサマーセール直前。 | https://www.techtimes.com/articles/318387/20260615/steam-next-fest-june-2026-opens-today-nearly-5000-free-demos-are-now-live.htm | 終了 | 2026-06-23 |
