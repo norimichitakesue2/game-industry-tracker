@@ -1,6 +1,38 @@
 # 掘り下げ・分析
 
-_最終更新: 2026-07-01 00:06_
+_最終更新: 2026-07-01 03:09_
+
+## Unreal Engine 6の生成AI全面統合とBlueprints将来廃止への反発
+- **記録日**: 2026-07-01
+- **詳細**: Epicは6/17、Unreal Engine 6を2027年末アーリーアクセスで投入すると発表。LLM・生成AIモデル（ClaudeやCodexを含む）が「コンテンツ制作を高速化する中心的役割」を担うと明言した。同時に、コードを書かずにゲームロジックを組めるノードベースのビジュアルスクリプティング「Blueprints」を初期版では維持しつつ将来的に非推奨（deprecated）とし、独自言語Verseへ移行する方針を示した。Blueprintsはインディーや小規模スタジオの生命線であり、開発者コミュニティは強く反発。Vampire SurvivorsのponcleはFortnite協業を「見直し中」と表明した。EpicのCEOがSteamの生成AI開示タグを「緋文字（scarlet letter）」と批判した経緯とも連動し、業界標準エンジンの設計思想そのものが争点化している。
+- **関連企業/IP**: Epic Games, Unreal Engine, Fortnite, poncle(Vampire Survivors), Anthropic(Claude), Godot
+- **キーワード・構造解説**: 争点は3層構造。(1)ツール層＝Blueprints→Verse＋生成AIへの移行で、ノーコード資産と学習投資が陳腐化するリスク。(2)政治層＝EpicはSteamのAI開示義務を「無責任」と攻撃し、開示なきAI活用を正当化。(3)エコシステム層＝業界標準エンジンの方針が全開発者の制作フローを規定するため、Epic単独の決定が事実上の業界標準となる。中立的代替としてGodotへの関心が再燃。
+- **示唆**: ツールベンダーの設計思想がクリエイターの主権を左右する構造は、生成AI時代の映像・音楽・コード等あらゆる制作産業で反復する。標準の集中は効率と引き換えにロックインを生む。
+- **参考リンク**: https://www.shacknews.com/article/149693/unreal-engine-6-generative-ai-models-claude-codex , https://www.creativebloq.com/3d/video-game-design/unreal-engines-ai-push-sparks-backlash-as-developers-fear-the-end-of-blueprints
+
+## Steam Machine発売＝Valveの「赤字販売しない」リビングPC戦略
+- **記録日**: 2026-07-01
+- **詳細**: Valveは6/23にSteam Machineの価格（512GB $1,049〜、2TB $1,349）を発表し、ランダム抽選予約を開始、6/30に出荷を始めた。Steam Deckの約6倍の性能を持つSteamOS搭載の小型リビングPCで、再設計版Steam ControllerとVRヘッドセットSteam Frameも同時展開する。最大の論点は価格思想で、ValveはSony/Microsoftと異なり「本体を赤字で売らない」と明言。従来コンソールの逆ザヤ（ハードで損してソフト/サブスクで回収）モデルを否定し、PCとしての原価積み上げ型価格を採った。$1,049は同性能ゲーミングPCと同等で、コンソールの「安さ」を捨てる代わりにSteamエコシステムの自由度で勝負する構図。MicrosoftがXbox本体を値上げ・2TBモデル販売終了へ動いた局面とも重なり、リビングルームの主導権争いが再点火した。
+- **関連企業/IP**: Valve, SteamOS, Steam Deck, Steam Frame, Microsoft(Xbox), Sony(PlayStation)
+- **キーワード・構造解説**: コンソール経済は長らく「ハード逆ザヤ×ソフト/ライセンス回収」が前提だった。Valveはストア手数料（Steam 30%）で十分な収益基盤を持つため、ハードを利益商品化できる。半導体・メモリ高騰で逆ザヤの原価負担が増す中、MSはXbox本体を値上げ・2TB撤退へ動いた。Valveの選択は「ハードは薄利のPC、儲けはストア」という構造を鮮明にし、垂直統合コンソール勢との分岐を示す。
+- **示唆**: 「入口を赤字にして囲い込む」プラットフォーム経済は原価高騰局面で持続困難になる。回収エンジンを別レイヤー（ストア/サブスク）に持つ者だけがハード価格を自由化できる。
+- **参考リンク**: https://www.geekwire.com/2026/surprise-valves-new-steam-machine-is-here-but-the-price-is-the-real-shocker/ , https://www.pcgamesn.com/steam-machine/launch
+
+## MOLE現象——マイクロスタジオ心理ホラーが口コミだけで急伸
+- **記録日**: 2026-07-01
+- **詳細**: 6/15発売の心理ホラーシム『MOLE』（Off Black Creations開発／Oro Interactive販売）が、大型マーケティングなしにSteamトレンド上位に居座り続け、98%「圧倒的に好評」を獲得した。スラブ圏の戦後神話を土台にした独自世界観で、レビューでは『Iron Lung』『Mouthwashing』の系譜に位置づけられ、一部は「それらが約束した以上」と評す。ソロ〜極小チーム制作でありながら口コミ（word of mouth）だけで拡散した点が特徴。同時期に『Voidling Bound』も94%好評（1,617件）を記録し、6月は見過ごされがちな小規模作の高評価が相次いだ。潤沢な広告費を持たない作品が、明確な情緒的コアと短時間で語れる体験設計によってディスカバリーを突破する構図が続いている。
+- **関連企業/IP**: Off Black Creations, Oro Interactive, MOLE, Voidling Bound, (系譜)Iron Lung/Mouthwashing
+- **キーワード・構造解説**: 心理ホラーは(1)低予算でも情緒的インパクトを最大化しやすい、(2)配信・実況との相性が良く無償の拡散導線を持つ、(3)短尺で「語れる」ため口コミ単価が高い、という三点でマイクロスタジオの構造的勝ち筋になっている。Steamのディスカバリーはウィッシュリストとトレンド滞在で自己強化するため、初速の好評が指数的露出を生む。広告費ではなく「語りたくなる密度」が分配関数を握る。
+- **示唆**: 注意経済では、広告投下量よりも「他者に語らせる情緒的フック」がディスカバリーを規定する。低予算×高密度体験の勝ち筋は動画・出版など他コンテンツ産業にも通じる。
+- **参考リンク**: https://bestof.games/en/articles/mole-steam-horror-hit-june-2026 , https://livecards.net/en/all-blogs/game-releases-you-probably-missed-june-2026
+
+## Switch 2発売1年、19.86M台でPS5超え——サードパーティ本格回帰
+- **記録日**: 2026-07-01
+- **詳細**: Switch 2は発売1年で累計19.86M台に到達し、同期間のPS5を上回った。象徴的なのはサードパーティの本格回帰で、6月には『Final Fantasy VII Rebirth』が任天堂機に初上陸、Capcomも『Devil May Cry 5』を6/23に投入。旧Switchの非力さゆえに「移植の最後の砦（port of last resort）」扱いだった大型タイトルが、Switch 2のグラフィック性能向上で標準的な出荷先へ転じつつある。Not-E3 2026（6/1〜9）では13本前後のサード作が集中発表され、週約3本のペースで配信された。任天堂エコシステムのサード売上は前年比+76%（2024年13億ドル→2025年23億ドル）と伸長。急速な普及がSwitch 2を「無視できない必須プラットフォーム」へ押し上げ、マルチプラットフォーム前提の開発計画を後押ししている。
+- **関連企業/IP**: 任天堂, Square Enix(FF7 Rebirth), Capcom(DMC5), Warner Bros., Switch 2
+- **キーワード・構造解説**: サードパーティの投資判断はインストールベースの規模と成長率で決まる。旧Switchは巨大な台数を持ちつつ性能制約で大型作を弾いたため「規模はあるが載らない」状態だった。Switch 2は台数の立ち上がりと性能向上を同時に満たしこの矛盾を解消。結果、最後の移植先から初期ラインアップに組み込む前提の必須機へ格上げされた。普及速度そのものが開発優先順位を書き換える。
+- **示唆**: プラットフォームの価値は「規模×能力」の積で決まり、片方だけでは開発者を動かせない。両輪が揃った瞬間にエコシステムの引力が非線形に強まる。
+- **参考リンク**: https://tech-insider.org/nintendo-switch-2-sales-19-million-2026/ , https://famiboards.com/threads/all-of-the-third-party-switch-2-games-dates-announced-during-not-e3-2026-june-1st-june-9th.17747/
 
 ## Krafton×Hanwha提携が示すゲーム技術の防衛・産業転用
 - **記録日**: 2026-06-24
