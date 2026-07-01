@@ -1,6 +1,6 @@
 # 業界マトリクス
 
-_最終更新: 2026-06-30 22:11_
+_最終更新: 2026-07-01 00:06_
 
 | 年 | 月 | コンソール | PC/Steam | モバイル | クラウド/サブスク | eSports | M&A/出資 | 規制 | 技術(AI/XR) | 海外大手 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -33,7 +33,7 @@ _最終更新: 2026-06-30 22:11_
 |  | 3月 |  |  |  |  |  |  |  |  |  |
 |  | 4月 |  |  |  |  |  |  |  |  |  |
 |  | 5月 | ・任天堂Switch 2を日本で¥49,980→¥59,980（+20%、5/25）に値上げ、購入「50時間」条件も撤廃<br>・任天堂FY26決算 売上+98.6%／営業益+27.5%、Switch 2効果で大幅増益<br>・GTA6を11/19、CoD:MW4を10/23と発売日確定し年末商戦に大型作集中<br>・新作『007 First Light』Metacritic88点、スクエニDQXII開発リスタート発表 | ・Valve、Steam Deck OLEDを$649→$949（+46%）に大幅値上げ、メモリ高騰・物流逼迫が背景<br>・『Path of Exile 2』5/30よりSteamフリーウィークエンド＋EA版50%OFF | ・サイバーエージェント中間決算 ゲーム営業益+106%、ウマ娘英語版で海外売上3.6倍<br>・Kuro Games『鳴潮』×ZOZOTOWNコラボ受注開始、ゲームIPのアパレルEC連携進む<br>・NetEase Q1ゲーム部門RMB257億（+6.9%）で安定成長 | ・Bungie『Destiny 2』ライブ運営を6/9で終了、9年に幕（サーバは継続）<br>・CoD:MW4はGame Pass初日除外（約1年後追加）、MSのサブスク戦略見直しが鮮明 | ・EVO Japan 2026閉幕、『スト6』ヤマグチ・『鉄拳8』iKARiが新王者、Riot『2XKO』初開催<br>・Esports World Cup 2026、賞金総額7500万ドルでパリ開催決定（中東情勢でリヤドから移転） | ・Q1ゲームM&A総額77億ドル、Savvy(PIF)のMoonton 60億ドル買収が牽引<br>・EmbracerがLotR/Tomb Raider等をFellowshipに分離、2027年Nasdaq上場へ<br>・eBayのGameStop買収提案(560億ドル)拒絶、IMCがPlaystack(Balatro)を約1.5億ドルで取得<br>・Griffin Gamingがインディー向け1億ドルファンド始動 | ・Microsoft、Activision買収巡る株主訴訟を2.5億ドルで和解（自社負担40%）<br>・欧州BEUCが各国にルートボックス規制を要請、PEGIは6月から年齢制限引き上げ | ・Morgan Stanley、生成AIでゲーム業界に220億ドルの利益機会と試算（工期短縮・費用削減）<br>・Google CloudがCapcomのエンタープライズAgentic AI導入事例を公開（内製パイプライン統合）<br>・Steamforged、R6ボードゲーム宣材のAI生成発覚で炎上、制作の透明性問題が再燃 | ・NetEase Q1売上RMB306億（+6.1%）、Marvel Rivalsが寄与<br>・ソニーがBungie関連で5.65億ドル減損（累計7.65億ドル）<br>・Take-Two、GTA6を11/19と再確認「これ以上の延期なし」 |
-|  | 6月 |  |  |  |  |  |  |  |  |  |
+|  | 6月 | ・任天堂Switch 2が累計1,700万台超で自社最速ベストセラー、通期目標を1,900万台へ上方修正<br>・ソニーがPS5/Pro/Portalを追加値上げ、PS6は時期・価格とも未定<br>・MicrosoftがXboxを8/1に最大$150値上げ(Series X $799.99)、25周年で独占回帰<br>・Valve『Steam Machine』日本上陸(189,980円) | ・Steam Next Fest 6月版が過去最大の約5,000本デモで閉幕<br>・Steamサマーセール2026が6/25開幕(〜7/9)<br>・PC Gaming Show 2026でControl続編など50本超を公開<br>・『Steam Machine』日本発売でPC陣営のリビング市場攻勢 | ・スマホ新法施行半年もiPhone外部アプリストアにゲーム主要30社の出店ゼロ<br>・ポケモン対戦特化『Pokémon Champions』スマホ版を6/17配信<br>・『FGO』がUnity 6へエンジン移行(約16GB再DL)<br>・ByteDance系Moonton売却交渉(60〜70億ドル) | ・NVIDIA『GeForce Now』がQuest 3/Vision Pro/Pico対応、XRでクラウドゲーミング拡大<br>・Xbox幹部がGame Pass値上げで「数百万人」解約と認め、$22.99へ価格調整 | ・CS2『IEM Cologne Major 2026』がピーク約70万人・賞金125万ドル<br>・VALORANT Masters London 2026でLeviatánが初優勝<br>・LoL『LCK Road to MSI』でT1優勝、ピーク218万人<br>・EVO 2026開幕、SF6が4年連続最多2,414名 | ・EA 550億ドルLBO非公開化が6/30最終局面、EU審査(7/22・7/30期限)<br>・Netflix×Warner Bros.($82.7B)を全額現金取引に修正しWB Games統合<br>・Nexonが投資子会社『Nexon Partners』設立<br>・コーエーテクモがガストを吸収合併 | ・PEGI新リスク区分で課金ルートボックスは最低16歳指定を6月適用<br>・EU AI法が8/2全面適用へ<br>・米加州『ゲーム保護法案』AB1921が下院通過<br>・任天堂が仏当局にJoy-Conドリフトで約35M€の制裁金<br>・英が16歳未満のオンライン制限、Robloxは年齢確認を強化 | ・NVIDIAが『ACE Game Agent SDK』ベータ公開、KraftonがPUBGにAI僚機を実装<br>・Google Cloudが自律型AIエージェント群を本格投入<br>・ゲーム生成AI市場は2026年に約22億ドル見通し<br>・一方カプコン・ポケットペアは生成AIの本編不使用を表明 | ・Microsoft/Xboxが7月に大規模レイオフ、Ninja Theory閉鎖、25周年で独占回帰<br>・Take-Two『GTA6』予約開始($79.99/11-19)、FY27純予約80億ドル超予想<br>・Ubisoftが年6度目の再編で複数スタジオ閉鎖・約380人削減<br>・Tencent・NetEaseが海外買収を加速 |
 |  | 7月 |  |  |  |  |  |  |  |  |  |
 |  | 8月 |  |  |  |  |  |  |  |  |  |
 |  | 9月 |  |  |  |  |  |  |  |  |  |
