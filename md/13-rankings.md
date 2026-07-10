@@ -1,8 +1,23 @@
 # 週間ランキング
 
-_最終更新: 2026-07-10 08:59_
+_最終更新: 2026-07-10 18:13_
 
 ## 国内ファミ通
+
+### 2026-06-29〜07-05
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | リズム天国 ミラクルスターズ | Switch | 393,378 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202607/80856 | 初登場首位 |
+| 2 | がんばれゴエモン大集合！ | Switch | 60,428 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202607/80856 | 初登場 |
+| 3 | トモダチコレクション わくわく生活 | Switch | 26,552 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202607/80856 | 前回2位 |
+| 4 | パワフルプロ野球2026-2027 | Switch | 13,261 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202607/80856 | 前回3位 |
+| 5 | Star Fox（スターフォックス） | Switch 2 | 10,388 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202607/80856 | 前回1位 |
+| 6 | がんばれゴエモン大集合！ | PS5 | 8,773 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202607/80856 | 初登場 |
+| 7 | ぽこ あ ポケモン | Switch 2 | 6,724 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202607/80856 | 前回5位 |
+| 8 | マリオカート ワールド | Switch 2 | 5,976 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202607/80856 | 前回6位 |
+| 9 | eFootball Kick-Off！ | Switch 2 | 5,946 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202607/80856 | 前回4位 |
+| 10 | Minecraft（マインクラフト） | Switch | 4,027 |  |  | ファミ通.com 週間販売数 https://www.famitsu.com/article/202607/80856 | 前回10位 |
 
 ### 2026-06-15〜06-21
 
@@ -49,6 +64,21 @@ _最終更新: 2026-07-10 08:59_
 | 10 | アストロボット | PS5 | 3,460 | 103,717 |  | ファミ通.com 週販 https://www.famitsu.com/article/202606/78042 |  |
 
 ## Steamトップセラー
+
+### 2026-06-29〜07-05
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | MECCHA CHAMELEON（めっちゃカメレオン） | PC(Steam) |  |  |  | GameGrin/SteamDB Steam週間トップセラー Week28(〜7/5) https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-29th-of-june-to-5th-of-july-2026 | 日本産インディーが継続首位 |
+| 2 | Cyberpunk 2077（サイバーパンク2077） | PC(Steam) |  |  |  | GameGrin/SteamDB Steam週間トップセラー Week28(〜7/5) https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-29th-of-june-to-5th-of-july-2026 | 累計4,000万本突破と大型セールで再燃 |
+| 3 | Dead by Daylight（デッドバイデイライト） | PC(Steam) |  |  |  | GameGrin/SteamDB Steam週間トップセラー Week28(〜7/5) https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-29th-of-june-to-5th-of-july-2026 |  |
+| 4 | Assassin's Creed Black Flag Resynced（アサシン クリード ブラックフラッグ リシンク） | PC(Steam) |  |  | 99,451（発売直後ピーク・SteamDB） | GameGrin/SteamDB Steam週間トップセラー Week28(〜7/5) https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-29th-of-june-to-5th-of-july-2026 | 予約分含む。発売後は同接99,451 |
+| 5 | Steam Deck（ハードウェア） | ハードウェア |  |  |  | GameGrin/SteamDB Steam週間トップセラー Week28(〜7/5) https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-29th-of-june-to-5th-of-july-2026 | 収益ベースのためハード含む |
+| 6 | EA Sports FC 26 | PC(Steam) |  |  |  | GameGrin/SteamDB Steam週間トップセラー Week28(〜7/5) https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-29th-of-june-to-5th-of-july-2026 |  |
+| 7 | ARK: Survival Ascended（アーク：サバイバル アセンデッド） | PC(Steam) |  |  |  | GameGrin/SteamDB Steam週間トップセラー Week28(〜7/5) https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-29th-of-june-to-5th-of-july-2026 |  |
+| 8 | Grand Theft Auto V Enhanced（GTA5 エンハンスド） | PC(Steam) |  |  |  | GameGrin/SteamDB Steam週間トップセラー Week28(〜7/5) https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-29th-of-june-to-5th-of-july-2026 |  |
+| 9 | The Binding of Isaac: Rebirth | PC(Steam) |  |  |  | GameGrin/SteamDB Steam週間トップセラー Week28(〜7/5) https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-29th-of-june-to-5th-of-july-2026 |  |
+| 10 | Red Dead Redemption 2（レッド・デッド・リデンプション2） | PC(Steam) |  |  |  | GameGrin/SteamDB Steam週間トップセラー Week28(〜7/5) https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-29th-of-june-to-5th-of-july-2026 |  |
 
 ### 2026-06-17〜06-23
 
