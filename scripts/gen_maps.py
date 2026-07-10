@@ -537,15 +537,19 @@ def build_lineage_section(wb, mdata):
     lanes=[l for l in LINEAGE_LANES if any(n["lane"]==l for n in nodes.values())]
 
     W=1480; padL=132; padR=44; padT=58; padB=70
-    bandH=(848-padT-padB)/len(lanes); H=int(padT+padB+bandH*len(lanes))
+    bandH=(910-padT-padB)/len(lanes); H=int(padT+padB+bandH*len(lanes))
     def xof(y): return padL+(y-minY)/(maxY-minY)*(W-padL-padR)
     laneY={l:padT+(i+0.5)*bandH for i,l in enumerate(lanes)}
-    # stagger within lane by year order
+    # stagger within lane: push nodes with近い年 apart across 4 vertical levels
+    LEVELS=[-16,18,-40,42]
     yoff={}
     for l in lanes:
         seq=sorted([nm for nm,n in nodes.items() if n["lane"]==l], key=lambda nm:nodes[nm]["year"])
-        for j,nm in enumerate(seq):
-            yoff[nm]=(-20 if j%2==0 else 18)
+        lvl=0; lastx=None
+        for nm in seq:
+            x=xof(nodes[nm]["year"])
+            lvl=(lvl+1)%len(LEVELS) if (lastx is not None and x-lastx<155) else 0
+            yoff[nm]=LEVELS[lvl]; lastx=x
     def pos(nm):
         n=nodes[nm]; return xof(n["year"]), laneY[n["lane"]]+yoff.get(nm,0)
 
@@ -586,14 +590,14 @@ def build_lineage_section(wb, mdata):
                     ["現行型",esc(n["pattern"]) if n["pattern"] else "—"]]}
         if n["kind"].startswith("現在"):
             c,bg,tc,lab=pattern_color(n["pattern"])
-            label=nm if len(nm)<=20 else nm[:19]+"…"
-            bw=min(len(label)*12+22, 260); bx=min(x, W-bw-8); by=y-15
+            label=nm if len(nm)<=16 else nm[:15]+"…"
+            bw=min(len(label)*12+20, 240); bx=min(x, W-bw-8); by=y-15
             svg.append(f'<g class="mnode" style="cursor:pointer" onclick="mShow(\'{key}\')">'
                        f'<rect x="{bx:.0f}" y="{by:.0f}" width="{bw}" height="30" rx="8" fill="{bg}" stroke="{c}" stroke-width="2"/>'
                        f'<text x="{bx+10:.0f}" y="{by+19:.0f}" font-size="11" font-weight="800" fill="{tc}">{esc(label)}</text></g>')
         else:
             fill=KIND_FILL.get(n["kind"],"#94a3b8")
-            label=nm if len(nm)<=22 else nm[:21]+"…"
+            label=nm if len(nm)<=18 else nm[:17]+"…"
             # place label right if room else left
             right = x < W-260
             tx = x+11 if right else x-11
