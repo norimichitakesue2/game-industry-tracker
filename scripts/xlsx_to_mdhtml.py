@@ -130,6 +130,8 @@ def nav_html(active_slug=None):
         if sn == "README":
             continue
         items.append((slug, sn))
+    items.append(('design-map', 'デザイン連動マップ'))
+    items.append(('industry-map', '全体連動マップ'))
     parts = []
     for slug, label in items:
         href = "index.html" if slug == "00-readme" else f"{slug}.html"
@@ -496,6 +498,11 @@ def main():
     (DOCS_DIR / "index.html").write_text(render_index_html(stats), encoding='utf-8')
     (REPO_ROOT / "README.md").write_text(render_index_md(stats), encoding='utf-8')
     print(f"Generated for {len(stats)} sheets. Total rows: {sum(stats.values())}")
+    try:
+        import gen_maps
+        gen_maps.generate()
+    except Exception as e:
+        print("map generation skipped:", e, file=sys.stderr)
 
 if __name__ == "__main__":
     main()
