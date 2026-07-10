@@ -184,7 +184,7 @@ def build_design(wb, mdata):
     ds.sort(key=lambda d:(order.get(d["_g"],9), -d["_att"]))
 
     # ---- View A: 連動マップ ----
-    n = len(ds); top=64; step=46; dh=40
+    n = len(ds); top=64; step=56; dh=50
     dW, dX = 322, 458
     drvX, drvW, drvH = 20, 176, 46
     height = top + (n-1)*step + dh + 60
@@ -223,10 +223,13 @@ def build_design(wb, mdata):
         name=str(d.get("デザイン名/パターン",""))
         short=name if len(name)<=22 else name[:21]+"…"
         att=d["_att"]; key=f"d{i}"
+        rep=str(d.get("代表タイトル") or "").replace("、",",").replace("，",",").split(",")[0].strip()
+        rep=rep if len(rep)<=22 else rep[:21]+"…"
         svg.append(f'<g class="mnode" style="cursor:pointer" onclick="mShow(\'{key}\')">'
                    f'<rect x="{dX}" y="{y}" width="{dW}" height="{dh}" rx="9" fill="{bg}" stroke="{c}" stroke-width="1.6"/>'
                    f'<text x="{dX+12}" y="{y+18}" font-size="11.5" font-weight="700" fill="{tc}">{esc(short)}</text>'
-                   f'<text x="{dX+12}" y="{y+33}" font-size="10" fill="{c}">{esc(lab)}</text>'
+                   f'<text x="{dX+12}" y="{y+30}" font-size="10" fill="{c}">{esc(lab)}</text>'
+                   f'<text x="{dX+12}" y="{y+44}" font-size="10.5" fill="#64748b">代表: {esc(rep)}</text>'
                    f'<circle cx="{dX+dW-20}" cy="{y+dh/2}" r="12" fill="{c}"/>'
                    f'<text x="{dX+dW-20}" y="{y+dh/2+4}" font-size="12" font-weight="800" fill="#fff" text-anchor="middle">{att}</text></g>')
         mdata[key]={"t":esc(name),"s":esc(d.get("概要・特徴","")),
@@ -275,8 +278,9 @@ def build_design(wb, mdata):
     leadA=('外部の力（生成AI・GaaS逆風・規制・再編・コスト・ユーザー志向）が、どのデザインの型を'
            '<b>押し上げ／押し下げ</b>ているかの因果マップ。ノードをクリックで詳細。')
     leadB='横軸=成熟度（台頭→流行→成熟→衰退、右下は再評価/復権）、縦軸=注目度。<b>今どの型が伸び盛りで、どれが折り返しつつあるか</b>を一望。'
+    secC = build_lineage_section(wb, mdata)
     return [section("A","デザイン連動マップ", leadA, viewA),
-            section("B","デザイン・ライフサイクル俯瞰", leadB, viewB)]
+            section("B","デザイン・ライフサイクル俯瞰", leadB, viewB), secC]
 
 # ============================================================
 # 2) 業界全体 ページ
@@ -492,6 +496,128 @@ def build_industry(wb, mdata):
            '右上ほど“確度が高く近い”＝今すぐ追うべき論点。色はテーマ。')
     return [section("A","ゲーム業界 全体連動マップ", leadA, viewA),
             section("B","今後の予測マップ", leadB, viewB)]
+
+
+# ============================================================
+# 3) デザイン派生系統（時系列・統合系統樹）
+# ============================================================
+LINEAGE_LANES = ["対話型AI系","ローグ系","抽出/PvPvE系","MMO→GaaS系",
+                 "買い切りエバーグリーン系","シネマティック物語系","サバイバル×収集系"]
+LANE_ACCENT = {
+    "対話型AI系":"#7c3aed","ローグ系":"#0891b2","抽出/PvPvE系":"#dc2626",
+    "MMO→GaaS系":"#d97706","買い切りエバーグリーン系":"#059669",
+    "シネマティック物語系":"#2563eb","サバイバル×収集系":"#db2777",
+}
+KIND_FILL = {"祖先":"#cbd5e1","発展":"#94a3b8","確立":"#64748b"}
+
+def build_lineage_section(wb, mdata):
+    ln = rows(wb, "デザイン派生系統")
+    # 現行型の状態色（ゲームデザイン・トレンドから引く）
+    ds = rows(wb, "ゲームデザイン・トレンド")
+    def pattern_color(pat):
+        for d in ds:
+            nm=str(d.get("デザイン名/パターン",""))
+            if pat and (pat in nm or nm in pat):
+                return STATUS_COLORS[status_group(d.get("ステータス"))]
+        return STATUS_COLORS["hot"]
+    if not ln:
+        return section("C","デザイン派生系統（時系列）","データ準備中。","<svg viewBox=\"0 0 100 20\"></svg>")
+
+    # index nodes
+    nodes={}
+    for r in ln:
+        nm=str(r.get("ノード(タイトル/技術)","")).strip()
+        try: yr=int(r.get("年"))
+        except: continue
+        nodes[nm]={"lane":str(r.get("系統名","")),"year":yr,"kind":str(r.get("種別","")),
+                   "parents":[x.strip() for x in str(r.get("派生元") or "").replace("、",",").split(",") if x.strip()],
+                   "pattern":str(r.get("現行型") or ""),"memo":str(r.get("メモ") or "")}
+    years=[n["year"] for n in nodes.values()]
+    minY=min(years); maxY=2027
+    lanes=[l for l in LINEAGE_LANES if any(n["lane"]==l for n in nodes.values())]
+
+    W=1480; padL=132; padR=44; padT=58; padB=70
+    bandH=(848-padT-padB)/len(lanes); H=int(padT+padB+bandH*len(lanes))
+    def xof(y): return padL+(y-minY)/(maxY-minY)*(W-padL-padR)
+    laneY={l:padT+(i+0.5)*bandH for i,l in enumerate(lanes)}
+    # stagger within lane by year order
+    yoff={}
+    for l in lanes:
+        seq=sorted([nm for nm,n in nodes.items() if n["lane"]==l], key=lambda nm:nodes[nm]["year"])
+        for j,nm in enumerate(seq):
+            yoff[nm]=(-20 if j%2==0 else 18)
+    def pos(nm):
+        n=nodes[nm]; return xof(n["year"]), laneY[n["lane"]]+yoff.get(nm,0)
+
+    svg=[f'<svg viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg" role="img" '
+         f'style="width:100%;height:auto;min-width:1200px" font-family="-apple-system,\'Hiragino Sans\',\'Noto Sans JP\',sans-serif">']
+    svg.append('<title>デザイン派生系統（統合系統樹）</title>')
+    # year gridlines
+    for yr in [1980,1990,2000,2010,2020,2026]:
+        if yr<minY: continue
+        x=xof(yr)
+        svg.append(f'<line x1="{x:.0f}" y1="{padT-6}" x2="{x:.0f}" y2="{H-padB+6}" stroke="#e2e8f0" stroke-width="1" opacity="0.5"/>')
+        svg.append(f'<text x="{x:.0f}" y="{padT-14}" font-size="11" fill="#94a3b8" text-anchor="middle">{yr}</text>')
+        svg.append(f'<text x="{x:.0f}" y="{H-padB+22}" font-size="11" fill="#94a3b8" text-anchor="middle">{yr}</text>')
+    # lane labels + separators
+    for i,l in enumerate(lanes):
+        yb=padT+i*bandH
+        svg.append(f'<line x1="{padL-8}" y1="{yb:.0f}" x2="{W-padR}" y2="{yb:.0f}" stroke="#eef2f7" stroke-width="1"/>')
+        svg.append(f'<text x="10" y="{laneY[l]+4:.0f}" font-size="11.5" font-weight="700" fill="{LANE_ACCENT.get(l,"#475569")}">{esc(l)}</text>')
+    # edges
+    ep=[]
+    for nm,n in nodes.items():
+        x2,y2=pos(nm)
+        for pnm in n["parents"]:
+            if pnm in nodes:
+                x1,y1=pos(pnm)
+                cross = nodes[pnm]["lane"]!=n["lane"]
+                col = "#f97316" if cross else "#cbd5e1"
+                dash=' stroke-dasharray="5 4"' if cross else ""
+                ep.append(f'<path d="{bezier(x1,y1,x2,y2)}" fill="none" stroke="{col}" stroke-width="{2.2 if cross else 1.6}"{dash} opacity="0.8"/>')
+    svg.append('<g>'+''.join(ep)+'</g>')
+    # nodes
+    idx=0
+    for nm,n in sorted(nodes.items(), key=lambda kv:kv[1]["year"]):
+        x,y=pos(nm); key=f"ln{idx}"; idx+=1
+        mdata[key]={"t":esc(nm),"s":esc(n["memo"]),
+            "rows":[["年",str(n["year"])],["系統",esc(n["lane"])],["種別",esc(n["kind"])],
+                    ["派生元",esc("、".join(n["parents"]) or "—")]+([] if False else []),
+                    ["現行型",esc(n["pattern"]) if n["pattern"] else "—"]]}
+        if n["kind"].startswith("現在"):
+            c,bg,tc,lab=pattern_color(n["pattern"])
+            label=nm if len(nm)<=20 else nm[:19]+"…"
+            bw=min(len(label)*12+22, 260); bx=min(x, W-bw-8); by=y-15
+            svg.append(f'<g class="mnode" style="cursor:pointer" onclick="mShow(\'{key}\')">'
+                       f'<rect x="{bx:.0f}" y="{by:.0f}" width="{bw}" height="30" rx="8" fill="{bg}" stroke="{c}" stroke-width="2"/>'
+                       f'<text x="{bx+10:.0f}" y="{by+19:.0f}" font-size="11" font-weight="800" fill="{tc}">{esc(label)}</text></g>')
+        else:
+            fill=KIND_FILL.get(n["kind"],"#94a3b8")
+            label=nm if len(nm)<=22 else nm[:21]+"…"
+            # place label right if room else left
+            right = x < W-260
+            tx = x+11 if right else x-11
+            anc = "start" if right else "end"
+            svg.append(f'<g class="mnode" style="cursor:pointer" onclick="mShow(\'{key}\')">'
+                       f'<circle cx="{x:.0f}" cy="{y:.0f}" r="6" fill="{fill}" stroke="#fff" stroke-width="1.2"/>'
+                       f'<text x="{tx:.0f}" y="{y+4:.0f}" font-size="10.5" fill="var(--text)" text-anchor="{anc}">{esc(label)}</text></g>')
+    # legend
+    ly=H-22
+    svg.append(f'<text x="{padL}" y="{ly}" font-size="11.5" font-weight="700" fill="#475569">種別:</text>')
+    xx=padL+42
+    for k in ["祖先","発展","確立"]:
+        svg.append(f'<circle cx="{xx}" cy="{ly-4}" r="6" fill="{KIND_FILL[k]}"/><text x="{xx+12}" y="{ly}" font-size="11.5" fill="#475569">{k}</text>')
+        xx+=len(k)*13+34
+    svg.append(f'<rect x="{xx}" y="{ly-11}" width="14" height="12" rx="3" fill="#eff6ff" stroke="#2563eb"/><text x="{xx+18}" y="{ly}" font-size="11.5" fill="#475569">現在の型</text>')
+    xx+=120
+    svg.append(f'<line x1="{xx}" y1="{ly-4}" x2="{xx+22}" y2="{ly-4}" stroke="#cbd5e1" stroke-width="3"/><text x="{xx+28}" y="{ly}" font-size="11.5" fill="#475569">同系統</text>')
+    xx+=110
+    svg.append(f'<line x1="{xx}" y1="{ly-4}" x2="{xx+22}" y2="{ly-4}" stroke="#f97316" stroke-width="3" stroke-dasharray="5 4"/><text x="{xx+28}" y="{ly}" font-size="11.5" fill="#475569">他系統からの影響</text>')
+    svg.append('</svg>')
+
+    lead=('主要な型が<b>いつ・何から派生したか</b>を1本の時間軸に統合した系統樹。丸=節目タイトル、'
+          '囲み=現在の型、<span style="color:#f97316">橙の点線</span>は他系統からの影響（例: GaaS逆風→買い切りエバーグリーン/シングル大作復権）。ノードをクリックで詳細。')
+    return section("C","デザイン派生系統（時系列・統合系統樹）", lead, "".join(svg))
 
 # ============================================================
 def generate():
