@@ -194,7 +194,7 @@ def build_design(wb, mdata):
     dspan_top, dspan_bot = ycent[0], ycent[-1]
     drv_c = [dspan_top + (dspan_bot-dspan_top)*i/(dn-1) for i in range(dn)]
 
-    svg=[f'<svg viewBox="0 0 {dX+dW+30} {height}" xmlns="http://www.w3.org/2000/svg" role="img" style="width:100%;height:auto;min-width:820px" font-family="-apple-system,\'Hiragino Sans\',\'Noto Sans JP\',sans-serif">']
+    svg=[f'<svg viewBox="0 0 {dX+dW+120} {height}" xmlns="http://www.w3.org/2000/svg" role="img" style="width:100%;height:auto;min-width:820px" font-family="-apple-system,\'Hiragino Sans\',\'Noto Sans JP\',sans-serif">']
     svg.append('<title>ゲームデザイン連動マップ</title>')
     svg.append(f'<text x="{drvX+8}" y="46" font-size="12" font-weight="700" fill="#64748b">外部ドライバー</text>')
     svg.append(f'<text x="{dX+8}" y="46" font-size="12" font-weight="700" fill="#64748b">デザインの型（色＝状態 / 数字＝注目度）</text>')
