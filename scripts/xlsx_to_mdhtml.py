@@ -85,6 +85,13 @@ a{color:var(--accent)}
 footer{margin-top:30px; color:var(--muted); font-size:12px; text-align:center}
 .tag{display:inline-block; background:rgba(88,166,255,0.15); color:var(--accent-2);
   padding:2px 8px; border-radius:10px; font-size:11px; margin-right:4px; margin-bottom:3px}
+.chips{margin:2px 0 6px}
+.tagbar{display:flex; flex-wrap:wrap; gap:6px; margin:0 0 14px; align-items:center}
+.tagbar .tb-label{color:var(--muted); font-size:12px; margin-right:2px}
+.tagfilter{background:var(--panel); color:var(--muted); border:1px solid var(--border);
+  border-radius:14px; padding:4px 12px; font-size:12px; cursor:pointer; line-height:1.2}
+.tagfilter:hover{border-color:var(--accent); color:var(--accent)}
+.tagfilter.active{background:var(--accent); color:#fff; border-color:var(--accent)}
 </style>
 """
 
@@ -92,13 +99,39 @@ JS = """
 <script>
 (function(){
   const inp=document.getElementById('search');
-  if(!inp) return;
-  inp.addEventListener('input',()=>{
-    const q=inp.value.toLowerCase();
+  const bar=document.getElementById('tagbar');
+  const active=new Set();
+  function apply(){
+    const q=(inp?inp.value.toLowerCase():'');
     document.querySelectorAll('.searchable').forEach(el=>{
-      el.style.display = el.textContent.toLowerCase().includes(q) ? '' : 'none';
+      const textOk = !q || el.textContent.toLowerCase().includes(q);
+      let tagOk = true;
+      if(active.size>0){
+        const tags=(el.dataset.tags||'').split('|').filter(Boolean);
+        tagOk = tags.some(t=>active.has(t));
+      }
+      el.style.display=(textOk&&tagOk)?'':'none';
     });
-  });
+  }
+  if(inp) inp.addEventListener('input', apply);
+  if(bar){
+    const allBtn=bar.querySelector('.tagfilter[data-tag="__all__"]');
+    bar.querySelectorAll('.tagfilter').forEach(btn=>{
+      btn.addEventListener('click',()=>{
+        const t=btn.dataset.tag;
+        if(t==='__all__'){
+          active.clear();
+          bar.querySelectorAll('.tagfilter').forEach(b=>b.classList.remove('active'));
+          btn.classList.add('active');
+        } else {
+          if(active.has(t)){active.delete(t); btn.classList.remove('active');}
+          else{active.add(t); btn.classList.add('active');}
+          if(active.size===0){allBtn.classList.add('active');} else {allBtn.classList.remove('active');}
+        }
+        apply();
+      });
+    });
+  }
   // sort
   document.querySelectorAll('table').forEach(table=>{
     table.querySelectorAll('th').forEach((th,idx)=>{
@@ -214,11 +247,17 @@ def render_section_html(sheet_name, headers, rows):
     nav = nav_html(SHEET_SLUGS.get(sheet_name))
     title = html.escape(sheet_name)
     sections = []
+    all_tags = []
     for row in rows:
         d = {headers[i]: fmt_cell(v) for i, v in enumerate(row) if i < len(headers)}
         if not any(d.values()): continue
         head_field = headers[1] if len(headers) > 1 else headers[0]
         h2 = html.escape(d.get(head_field, '') or '(無題)')
+        tags = [t.strip() for t in re.split(r'[,、]\s*', d.get('タグ', '') or '') if t.strip()]
+        for t in tags:
+            if t not in all_tags: all_tags.append(t)
+        data_tags = html.escape('|'.join(tags))
+        chips = ''.join(f'<span class="tag">{html.escape(t)}</span>' for t in tags)
         meta_parts = []
         if d.get('日付'): meta_parts.append(d['日付'])
         if d.get('記録日'): meta_parts.append(d['記録日'])
@@ -226,7 +265,6 @@ def render_section_html(sheet_name, headers, rows):
         if d.get('関連IP/タイトル') or d.get('関連企業/IP'):
             ip = d.get('関連IP/タイトル') or d.get('関連企業/IP')
             meta_parts.append(f"IP: {ip}")
-        if d.get('タグ'): meta_parts.append(d['タグ'])
         if d.get('確度'): meta_parts.append(f"確度: {d['確度']}")
         meta = ' · '.join(meta_parts)
         dls = []
@@ -242,10 +280,18 @@ def render_section_html(sheet_name, headers, rows):
             else:
                 vh = url_to_link(v) if 'http' in v else html.escape(v).replace('\n','<br>')
             dls.append(f'<dt>{html.escape(k)}</dt><dd>{vh}</dd>')
-        sections.append(f'<div class="section searchable"><h2>{h2}</h2>'
+        sections.append(f'<div class="section searchable" data-tags="{data_tags}"><h2>{h2}</h2>'
                         + (f'<div class="meta">{html.escape(meta)}</div>' if meta else '')
+                        + (f'<div class="chips">{chips}</div>' if chips else '')
                         + (f'<dl>{"".join(dls)}</dl>' if dls else '') + '</div>')
+    tagbar = ''
+    if all_tags:
+        btns = ['<span class="tb-label">タグで絞り込み:</span>',
+                '<button class="tagfilter active" data-tag="__all__">すべて</button>']
+        btns += [f'<button class="tagfilter" data-tag="{html.escape(t)}">{html.escape(t)}</button>' for t in all_tags]
+        tagbar = '<div class="tagbar" id="tagbar">' + ''.join(btns) + '</div>'
     body = ('<div class="search-wrap"><input class="search" id="search" placeholder="全文検索…"></div>'
+            + tagbar
             + (''.join(sections) if sections else '<div class="empty">データなし</div>'))
     updated = datetime.now().strftime('%Y-%m-%d %H:%M')
     return f"""<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8">
