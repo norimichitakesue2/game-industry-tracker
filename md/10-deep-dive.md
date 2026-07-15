@@ -1,6 +1,30 @@
 # 掘り下げ・分析
 
-_最終更新: 2026-07-14 13:17_
+_最終更新: 2026-07-15 12:11_
+
+## Palworld 1.0正式化と任天堂訴訟の実質崩壊
+- **記録日**: 2026-07-15
+- **詳細**: Pocketpairの『Palworld』が7/10にEarly Accessを卒業し1.0へ。累計4000万本、Steam同接は855Kに達しSteam歴代best-everプレイヤー数リスト入り（過去最高2.1Mには未達）。72体追加で総287体、World Tree/Sky Islands/PvP/遺伝子交配を実装、1.0でも価格を据え置き『Overwhelmingly Positive』の評価。並行して任天堂・ポケモン社の特許訴訟は和解額が実質3万ドル規模へ縮小、日本特許庁は関連特許を独創性欠如で却下、米国でも23件中22件が拒絶。約30か月に及んだ法的リスクが『rounding error』と評される着地に向かう。
+- **関連企業/IP**: Pocketpair, Nintendo, The Pokémon Company, Palworld
+- **キーワード・構造解説**: サバイバル×クリーチャーコレクション×基地建設という複合ジャンルを、長期EA運営で磨き上げてから1.0で再点火する『二度目の全盛期』設計。価格据え置き＋既存所有者無償という信頼設計がレビュー好転を生む。特許訴訟は『似ている』と『権利侵害』の距離、及び先行公知による特許無効化リスクを可視化し、模倣回避設計の実務ラインを示した。
+- **示唆**: モンスター収集の独占的ブランド価値が法で守り切れない時代。IPは訴訟でなく運営速度と信頼で堀を築く。他業界のブランド係争にも通じる論点。
+- **参考リンク**: https://www.forbes.com/sites/paultassi/2026/07/10/palworld-10-is-putting-up-enormous-steam-player-numbers-at-launch/ , https://gamerant.com/nintendo-palworld-lawsuit-end-date-version-changes-explained/
+
+## ポケモン値上げ内部方針リークと$80時代の地ならし
+- **記録日**: 2026-07-15
+- **詳細**: ポケモン社の内部文書（teraleak由来、2018〜20年頃）が流出し、メインライン作を標準60ドル超へ引き上げたい意向と、赤・青型の『両バージョン購入促進』策を検討していたことが判明。Sword/Shield時代から値上げを望みつつ、北米で高価格を正常化した競合が不在だったため見送っていたとされる。次回作『Pokémon Winds and Waves』は独Amazonで€79.99掲載が観測され、Mario Kart World同額の79.99ドルを示唆。値上げは国内優先で並行輸入が論点化、ダブルパックのロイヤリティは据え置き方向。公式価格は未確定で発表は2026末〜2027想定。
+- **関連企業/IP**: The Pokémon Company, Nintendo, Game Freak, Pokémon Winds and Waves
+- **キーワード・構造解説**: 任天堂は既にMario Kart Worldで79.99ドルを提示し、業界の心理的天井を押し上げた。ポケモンという最大量販IPが追随すれば『80ドル標準』が一気に既成事実化する。内部文書は値上げ判断が品質でなく『誰が先に嫌われ役をやるか』という囚人のジレンマで決まってきたことを示す。両バージョン商法＝実質的な単価二重化の温存も透ける。
+- **示唆**: 価格は原価でなく競合の正常化タイミングで決まる。ブランド力の強いIPほど値上げの先導役になれる——サブスクや他消費財の価格戦略にも接続。
+- **参考リンク**: https://nintendoeverything.com/pokemon-company-document-shows-wanting-to-increase-price-from-60-encouraging-people-to-buy-both-versions/ , https://games.gg/news/pokemon-winds-waves-price-increase-leak/
+
+## 2大レガシーリメイク同月投入と端境期カレンダーの穴埋め
+- **記録日**: 2026-07-15
+- **詳細**: 7月は『Assassin's Creed Black Flag: Resynced』と『Halo: Campaign Evolved』という大型リメイク/再構築が同月ローンチ。UbisoftはBlack Flag Resyncedの初週実売数を異例の形で公表するほど好発進を強調。大型新規AAAが乏しくGTA6待ちで『枯れたカレンダー』が続くなか、確立IPの再武装が供給ギャップを埋める構図が鮮明化。Steam/Game Pass経由の旧作再パッケージや、サバイバーライクのday-one Game Pass投入なども重なり、7月は『新規より再利用』が主旋律に。
+- **関連企業/IP**: Ubisoft, Xbox Game Studios, Halo Studios, Assassin's Creed, Halo
+- **キーワード・構造解説**: 新規開発費とリスクが高騰するなか、実績IPのリメイクは既知の需要曲線に賭けられる低リスク投資。同時に、初週販売数の異例公表はライブ運営前提でのKPI開示文化がリメイクにも波及したことを示す。サブスク＋リマスターは旧カタログを恒久収益資産に変える『IPの年金化』の一環。
+- **示唆**: コンテンツ産業全体が『新規制作』から『既存カタログの再運用』へ重心移動。映画・音楽のリマスター経済と同型の力学が働く。
+- **参考リンク**: https://www.pcgamer.com/games/pc-game-release-dates-july-2026/ , https://www.eneba.com/hub/news/weekly-roundup-physical-games-indie-game-announcements-july-2026/
 
 ## 韓国ゲーム大手のオーナー株売却連鎖と海外資本流入
 - **記録日**: 2026-07-08
