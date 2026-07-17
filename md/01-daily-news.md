@@ -1,6 +1,81 @@
 # 日次ニュース
 
-_最終更新: 2026-07-17 21:48_
+_最終更新: 2026-07-18 07:46_
+
+## PIF主導のEA買収5.5兆円、EUが7/22に承認へ——史上最大級LBOが規制の最終関門を通過間近
+- **日付**: 2026-07-18
+- **URL**: https://kfgo.com/2026/07/17/exclusive-saudi-pif-set-to-win-eu-nod-for-electronic-arts-deal-under-subsidy-rules-sources-say/
+- **背景にある出来事**: サウジPIF・Silver Lake・Affinity Partnersによる総額550億ドル($210/株)のEA買収は、株主承認を経て規制審査段階に入っていた。EUは外国補助金規則(FSR)と合併規則の両面で審査し、7/22を予備審査の期限としていた。史上最大級のレバレッジド・バイアウト(LBO)。
+- **サマリ**: 関係者によると、EUはEA買収を補助金規則の下で無条件承認する見通しで、7/22に判断期限を迎える。合併規則でも無条件クリアが見込まれ、残る焦点は米当局の判断。ソブリンウェルスファンドによる大手パブリッシャーの完全非公開化が現実味を帯びる。
+- **重要ポイント**: ・買収総額550億ドル、$210/株の現金オファー
+・EUは外国補助金規則で無条件承認の見通し(7/22期限)
+・買い手はPIF・Silver Lake・Affinity Partners
+・成立すれば史上最大級のLBO、EAは非公開化
+- **今後の予測**: EU承認が通れば残る関門は米国審査。非公開化後のEAは四半期業績圧力から解放され、FC/Maddenなど年次スポーツIPの運営モデルやコスト構造の見直しが進む可能性。PIFのゲーム投資(Savvy/Scopely等)とのシナジーや、他大手への同種PE/SWF買収の連鎖も焦点。
+- **勉強しておくべきテーマ**: ソブリンウェルスファンドによるコンテンツ産業の垂直統合とLBO
+- **関連企業**: Electronic Arts, PIF(サウジ公共投資基金), Silver Lake, Affinity Partners
+- **関連IP/タイトル**: EA Sports FC, Madden, Battlefield, The Sims
+- **タグ**: M&A, 適時開示, 規制, 海外
+
+## Bethesda、Fallout新ロードマップ公開——『Fallout 5』プリプロ入り＋3/NVリマスター、Xbox再編後の"レガシー再運用"
+- **日付**: 2026-07-18
+- **URL**: https://variety.com/2026/gaming/news/fallout-5-elder-scrolls-6-game-updates-bethesda-todd-howard-1236814611/
+- **背景にある出来事**: Xbox部門の史上最大級レイオフ・スタジオ再編の直後、BethesdaのTodd Howardが今後の開発方針を表明。The Elder Scrolls VIを最優先(主力メンバーが従事)としつつ、Falloutシリーズの複数プロジェクトを提示した。
+- **サマリ**: 『Fallout 5』はCreation Engine 3でプリプロ入り。加えて『Fallout 3』『New Vegas』のリマスター、Obsidianとの新作、『Fallout 76』大型拡張"Raven Rock"(FO3前日譚)を予告。完全新作AAAの本命はESVIに集中させ、Falloutは既存資産の再運用で"つなぐ"構図。
+- **重要ポイント**: ・Fallout 5はCreation Engine 3でプリプロ段階(発売はかなり先)
+・ESVIが最優先開発、主力チームが従事
+・Fallout 3/New Vegasリマスター＋Obsidian新作を予告
+・Fallout 76に大型拡張"Raven Rock"を来年投入
+- **今後の予測**: 新作AAAの開発長期化・高コスト化を背景に、リマスター/拡張で"端境期"の需要とブランド接点を維持する運用が定着。ドラマ版Falloutの好調と相まって、既知IPの再運用がAAA各社の標準戦略になる。ESVIの実際の発売時期がXbox再建の試金石。
+- **勉強しておくべきテーマ**: AAA長期開発下でのリマスター/拡張による"レガシー再運用"戦略
+- **関連企業**: Bethesda, Microsoft/Xbox, Obsidian
+- **関連IP/タイトル**: Fallout, Fallout 5, Fallout 3, Fallout: New Vegas, Fallout 76, The Elder Scrolls VI
+- **タグ**: 新作, リメイク・移植, トレンド, 消費者インサイト, 海外
+- **備考**: ミクロ×高インサイト枠(AAA疲れ／レガシー再運用の実例)
+
+## 米加ゲーム労組、XboxレイオフでMicrosoftを不当労働行為でNLRB提訴——440組合員解雇の手続きを問題視
+- **日付**: 2026-07-18
+- **URL**: https://massivelyop.com/2026/07/17/unions-file-unfair-labor-complaints-accusing-microsoft-of-unlawful-firings-and-coercive-action-at-xbox-studios/
+- **背景にある出来事**: 7/6にMicrosoftはXbox部門で即時1,600人＋今後1,600人の削減を発表。うちBethesda/ZeniMax系の組合員440人が対象となった。CWA・CWA Canadaは、削減前の団体交渉義務を果たさなかったとして反発を強めていた。
+- **サマリ**: 7/15、CWAとCWA CanadaはNLRBにMicrosoftを不当労働行為(ULP)で提訴。誠実交渉義務違反、威圧的行為、契約の一方的破棄、事前通知の欠如を主張。組合認証済み職場での一方的解雇は現状維持期間の団交義務に反すると訴える。
+- **重要ポイント**: ・CWA/CWA CanadaがNLRBにULP申立て(7/15)
+・対象は440組合員(Bethesda/ZeniMax/id等)
+・争点は団交前の一方的解雇と情報不開示
+・6スタジオで抗議マーチも並行
+- **今後の予測**: テック大手のゲーム部門で労組化が進むなか、大量解雇時の団交義務が法廷で争われる先例に。NLRBの判断次第で他のテック企業の再編手続きにも影響。組合の存在がレイオフのコスト・スピードを左右し、スタジオ運営の柔軟性と対立する構図が鮮明化。
+- **勉強しておくべきテーマ**: ゲーム業界の労組化とレイオフ時の団体交渉義務(NLRB)
+- **関連企業**: Microsoft/Xbox, CWA, Bethesda, ZeniMax, id Software
+- **タグ**: 規制, 人事・組織, 海外
+
+## 2026年Q2のゲームM&Aは23億ドル・54件——$100M超案件が続きミッドマーケットが牽引(Drake Star)
+- **日付**: 2026-07-18
+- **URL**: https://gamesbeat.com/financing-and-ma-for-games-make-strong-showing-in-q2-2026-drake-star-partners/
+- **背景にある出来事**: 大型統合が一巡した後のゲーム業界M&Aは、パンデミック期以来の水準でミッドマーケット(1億ドル超)が活発化。Drake Star Partnersの四半期レポートが2026年Q2の取引動向をまとめた。
+- **サマリ**: Q2 2026のゲームM&Aは54件・総額23億ドル。ScopelyによるLoom Games買収(10億ドル)などが牽引し、1億ドル超の案件数はコロナ期以来の高水準。ポートフォリオ多様化目的のスタジオ取得が主軸。EA買収成立が今後さらなるM&Aを誘発するとの見方も。
+- **重要ポイント**: ・Q2 M&Aは23億ドル/54件
+・$100M超案件はパンデミック以来の高水準
+・Scopely×Loom Games(10億ドル)が最大級
+・大型買収から中規模の"束ね買い"へ重心移動
+- **今後の予測**: 巨額買収(EA/Savvy)が一巡し、今後は中規模スタジオの選別的取得が主戦場に。私募資金はゲーム本体よりAI・広告インフラへ集中する傾向が続き、開発スタジオ側は身売り/統合の受け皿探しが加速。EA非公開化の成否がM&A市況の心理を左右。
+- **勉強しておくべきテーマ**: ゲームM&Aのミッドマーケット回帰とポートフォリオ多様化
+- **関連企業**: Drake Star Partners, Scopely, Loom Games, Nazara
+- **タグ**: M&A, 出資, トレンド, 海外
+
+## eスポーツW杯2026、Apex+74%・Valorant-45.6%——タイトル別の視聴明暗が示す"スター/人気チーム依存"
+- **日付**: 2026-07-18
+- **URL**: https://escharts.com/news/valorant-esports-world-cup-2026-recap
+- **背景にある出来事**: 7/6〜8/23のeスポーツW杯(EWC 2026、パリ)は複数タイトルを横断する大会。7/12にValorant部門が終了し、Esports Chartsが視聴データを公表した。
+- **サマリ**: Valorantの決勝ピークは約24.8万人で前年比45.6%減。Fnatic/Sentinels/Gen.G等の人気勢が不在で関心が低下した。一方Apex Legendsは視聴74%増と好対照。同じ大会内でもタイトル・出場チーム次第で視聴が大きく振れ、eスポーツ人気の"スター/人気チーム依存"が浮き彫りに。
+- **重要ポイント**: ・Valorant決勝ピーク24.8万人、前年比-45.6%
+・人気チーム(Fnatic/Sentinels/Gen.G)不在が響く
+・Apex Legendsは+74%と明暗
+・開幕週の総視聴時間は+10%(Dota 2が牽引)
+- **今後の予測**: eスポーツの視聴は競技の魅力より"看板チーム/スター選手"の出場に強く連動する。主催者・パブリッシャーは人気チームの誘致やナラティブ設計を重視せざるを得ず、リーグの序列・シード制度やスター選手の待遇が興行価値を左右する。タイトル間で視聴のボラティリティが拡大。
+- **勉強しておくべきテーマ**: eスポーツ視聴の人気チーム/スター依存と興行設計
+- **関連企業**: Esports World Cup Foundation, Riot Games, EA(Apex)
+- **関連IP/タイトル**: VALORANT, Apex Legends, Dota 2
+- **タグ**: eスポーツ, 消費者インサイト, 海外
+- **備考**: ミクロ×高インサイト枠(視聴のスター/チーム依存)
 
 ## Compulsion Games、Xboxから独立スピンアウト——IP保持し協業相手を公募
 - **日付**: 2026-07-17
