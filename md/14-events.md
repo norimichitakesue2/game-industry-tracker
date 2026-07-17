@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-07-17 21:41_
+_最終更新: 2026-07-17 21:48_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -15,7 +15,7 @@ _最終更新: 2026-07-17 21:41_
 | 2026-08-25 |  | gamescom Opening Night Live 2026 | ショーケース | 独ケルン/配信 | 配信イベント | gamescom開幕前夜の大型新作発表配信(Geoff Keighley司会)。秋〜冬商戦タイトルが集中露出。 | https://www.gamescom.global/en | 開催予定 | 2026-06-17 |
 | 2026-08-08 |  | 東京ゲームダンジョン13 | 展示会 | 東京・浜松町(都立産業貿易センター) | オフライン | 個人・インディー開発者中心の同人/インディーゲーム展示会。先着順出展で個人開発に寄り添う運営方針。 | https://tokyogamedungeon.com/ | 開催予定 | 2026-06-21 |
 | 2026-07-22 | 2026-07-24 | CEDEC 2026 | 展示会 | パシフィコ横浜ノース(横浜)/オンライン | ハイブリッド | 国内最大級のゲーム開発者向けカンファレンス。プログラミング・AI・アート・サウンド・ビジネス等、技術と知見を共有する3日間。 | https://cedec.cesa.or.jp/2026/ | 開催予定 | 2026-06-21 |
-| 2026-07-15 | 2026-07-16 | Taipei Game Developers Forum 2026 (TGDF) | 展示会 | 台北（Taipei New Horizon） | オフライン | 台湾最大級のゲーム開発者カンファレンス。アジア各国の開発者が集う。東映ゲームズ等日本勢も登壇。 | https://www.4gamer.net/games/991/G999104/20260708042/ | 開催中 | 2026-07-16 |
+| 2026-07-15 | 2026-07-16 | Taipei Game Developers Forum 2026 (TGDF) | 展示会 | 台北（Taipei New Horizon） | オフライン | 台湾最大級のゲーム開発者カンファレンス。アジア各国の開発者が集う。東映ゲームズ等日本勢も登壇。 | https://www.4gamer.net/games/991/G999104/20260708042/ | 終了 | 2026-07-17 |
 | 2026-07-15 |  | PlayStation Store SUMMER SALE 2026 | セール | オンライン(PS Store) | オンライン | PS5/PS4対象のサマーセール。最大80%OFF。旧作・大型タイトルのディスカウント商戦。 | https://www.pushsquare.com/playstation-plus | 開催中 | 2026-07-16 |
 | 2026-07-11 |  | MSI 2026（LoL Mid-Season Invitational）ファイナル | eスポーツ | 韓国・大田(Daejeon) | オフライン | 『LoL』シーズン中盤の国際大会の決勝。会場で復刻モード『League of Legends Classic』の詳細発表が予定されている。 | https://www.4gamer.net/games/073/G007372/20260627007/ | 終了 | 2026-07-16 |
 | 2026-07-10 | 2026-07-12 | bilibili World 2026 | 展示会 | 上海（国家会展中心） | オフライン | 中国最大級のサブカル/ゲーム展。世界130社が出展、Black Myth陣営やTotal War新作、Kevin Feige登壇。 | https://www.invenglobal.com/articles/23379/bilibili-world-2026-a-subculture-hub-featuring-kevin-feige | 終了 | 2026-07-13 |
