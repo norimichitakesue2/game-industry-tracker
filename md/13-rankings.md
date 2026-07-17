@@ -1,8 +1,23 @@
 # 週間ランキング
 
-_最終更新: 2026-07-16 13:37_
+_最終更新: 2026-07-17 21:41_
 
 ## 国内ファミ通
+
+### 2026-07-06〜07-12
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | リズム天国 ミラクルスターズ | Switch | 126,073 |  |  | ファミ通.com 週間販売数【7/6〜7/12】 https://www.famitsu.com/article/202607/81618 | 2週連続首位。累計50万本突破。 |
+| 2 | 魔法少女ノ魔女裁判 | Switch | 21,283 |  |  | ファミ通.com 週間販売数【7/6〜7/12】 https://www.famitsu.com/article/202607/81618 | 新作。今週トップ10に新作6本ランクイン。 |
+| 3 | トモダチコレクション わくわく生活 | Switch | 20,827 |  |  | ファミ通.com 週間販売数【7/6〜7/12】 https://www.famitsu.com/article/202607/81618 |  |
+| 4 | アサシン クリード ブラックフラッグ RE：シンクロ | PS5 | 17,152 |  |  | ファミ通.com 週間販売数【7/6〜7/12】 https://www.famitsu.com/article/202607/81618 | 国内PS5版。 |
+| 5 | Echoes of Aincrad（エコーズ・オブ・アインクラッド） | PS5 | 16,092 |  |  | ファミ通.com 週間販売数【7/6〜7/12】 https://www.famitsu.com/article/202607/81618 | SAO題材の新作アクションRPG。 |
+| 6 | デジモンストーリー タイムストレンジャー | Switch 2 | 15,644 |  |  | ファミ通.com 週間販売数【7/6〜7/12】 https://www.famitsu.com/article/202607/81618 |  |
+| 7 | グランブルーファンタジー リリンク：エンドレスラグナロク | Switch 2 | 12,544 |  |  | ファミ通.com 週間販売数【7/6〜7/12】 https://www.famitsu.com/article/202607/81618 |  |
+| 8 | デジモンストーリー タイムストレンジャー | Switch | 11,251 |  |  | ファミ通.com 週間販売数【7/6〜7/12】 https://www.famitsu.com/article/202607/81618 | Switch版（Switch2版と別集計）。 |
+| 9 | CRAZY CHA！N -エルピスの鎖- | Switch | 9,874 |  |  | ファミ通.com 週間販売数【7/6〜7/12】 https://www.famitsu.com/article/202607/81618 | 新作。 |
+| 10 | パワフルプロ野球2026-2027 | Switch | 8,917 |  |  | ファミ通.com 週間販売数【7/6〜7/12】 https://www.famitsu.com/article/202607/81618 |  |
 
 ### 2026-06-29〜07-05
 
@@ -64,6 +79,20 @@ _最終更新: 2026-07-16 13:37_
 | 10 | アストロボット | PS5 | 3,460 | 103,717 |  | ファミ通.com 週販 https://www.famitsu.com/article/202606/78042 |  |
 
 ## Steamトップセラー
+
+### 2026-07-06〜07-12
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Assassin's Creed Black Flag Resynced（アサシン クリード ブラックフラッグ リシンクド） | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week29 https://www.vgchartz.com/article/468471/steam-weekly-week-29-2026/ （GameGrin/SteamDB併用） | 無料タイトル除く首位デビュー。発売1日で200万本(報道)、AC史上最高同接を記録。 |
+| 2 | Palworld（パルワールド） | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week29 https://www.vgchartz.com/article/468471/steam-weekly-week-29-2026/ （GameGrin/SteamDB併用） | 1.0正式版化で再浮上。 |
+| 3 | Granblue Fantasy: Relink（グランブルーファンタジー リリンク） | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week29 https://www.vgchartz.com/article/468471/steam-weekly-week-29-2026/ （GameGrin/SteamDB併用） | 大型拡張で再ランクイン。 |
+| 5 | Granblue Fantasy: Relink - Endless Ragnarök Upgrade Kit | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week29 https://www.vgchartz.com/article/468471/steam-weekly-week-29-2026/ （GameGrin/SteamDB併用） | アップグレードキットが5位デビュー。 |
+| 6 | Echoes of Aincrad（エコーズ・オブ・アインクラッド） | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week29 https://www.vgchartz.com/article/468471/steam-weekly-week-29-2026/ （GameGrin/SteamDB併用） | 6位デビュー。 |
+| 7 | Dead by Daylight（デッドバイデイライト） | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week29 https://www.vgchartz.com/article/468471/steam-weekly-week-29-2026/ （GameGrin/SteamDB併用） | 5ランクダウン。 |
+| 8 | Steam Deck | PC(ハードウェア) |  |  |  | VGChartz Steam週間トップセラー Week29 https://www.vgchartz.com/article/468471/steam-weekly-week-29-2026/ （GameGrin/SteamDB併用） |  |
+| 9 | Cyberpunk 2077（サイバーパンク2077） | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week29 https://www.vgchartz.com/article/468471/steam-weekly-week-29-2026/ （GameGrin/SteamDB併用） |  |
+| 10 | EA Sports FC 26 | PC(Steam) |  |  |  | VGChartz Steam週間トップセラー Week29 https://www.vgchartz.com/article/468471/steam-weekly-week-29-2026/ （GameGrin/SteamDB併用） |  |
 
 ### 2026-06-29〜07-05
 
