@@ -33,9 +33,53 @@ SHEET_SLUGS = {
     "週間ランキング": "13-rankings",
     "イベントカレンダー": "14-events",
     "ゲームデザイン・トレンド": "15-game-design",
+    "デザイン派生系統": "16-design-lineage",
+    "メディアミックス追跡": "17-media-mix",
+    "【映画】作品ウォッチ": "20-movie-works",
+    "【映画】企業・スタジオ": "21-movie-companies",
+    "【映画】公開・興行": "22-movie-releases",
+    "【映画】トレンド": "23-movie-trends",
+    "【アニメ】作品ウォッチ": "30-anime-works",
+    "【アニメ】企業・制作": "31-anime-companies",
+    "【アニメ】放送・配信ログ": "32-anime-releases",
+    "【アニメ】トレンド": "33-anime-trends",
+    "【漫画】作品ウォッチ": "40-manga-works",
+    "【漫画】出版社・PF": "41-manga-companies",
+    "【漫画】新刊・話題作": "42-manga-releases",
+    "【漫画】トレンド": "43-manga-trends",
+    "【小説】作品ウォッチ": "50-novel-works",
+    "【小説】出版社・レーベル": "51-novel-companies",
+    "【小説】新刊・受賞": "52-novel-releases",
+    "【小説】トレンド": "53-novel-trends",
+    "【音楽】アーティストウォッチ": "60-music-works",
+    "【音楽】企業・レーベル": "61-music-companies",
+    "【音楽】リリース・チャート": "62-music-releases",
+    "【音楽】トレンド": "63-music-trends",
 }
 
 # 「行ごとセクション形式」で表示するシート
+# ナビ・INDEXのグループ分け
+SHEET_GROUPS = [
+    ("共通", ["日次ニュース", "横断的問い", "掘り下げ・分析", "今後起きそうなこと",
+              "業界マトリクス", "メディアミックス追跡", "イベントカレンダー"]),
+    ("ゲーム", ["新作リリースログ", "IP・タイトルウォッチ", "企業分析（国内）", "企業分析（海外大手）",
+                "四半期決算サマリ", "業界トレンド・技術", "インディー注目", "週間ランキング",
+                "ゲームデザイン・トレンド", "デザイン派生系統"]),
+    ("映画", ["【映画】作品ウォッチ", "【映画】企業・スタジオ", "【映画】公開・興行", "【映画】トレンド"]),
+    ("アニメ", ["【アニメ】作品ウォッチ", "【アニメ】企業・制作", "【アニメ】放送・配信ログ", "【アニメ】トレンド"]),
+    ("漫画", ["【漫画】作品ウォッチ", "【漫画】出版社・PF", "【漫画】新刊・話題作", "【漫画】トレンド"]),
+    ("小説", ["【小説】作品ウォッチ", "【小説】出版社・レーベル", "【小説】新刊・受賞", "【小説】トレンド"]),
+    ("音楽", ["【音楽】アーティストウォッチ", "【音楽】企業・レーベル", "【音楽】リリース・チャート", "【音楽】トレンド"]),
+]
+
+# ナビ表示時にグループ名を落として短くする
+def _short(sn):
+    for g in ("映画", "アニメ", "漫画", "小説", "音楽"):
+        p = f"【{g}】"
+        if sn.startswith(p):
+            return sn[len(p):]
+    return sn
+
 SECTION_SHEETS = {"日次ニュース", "今後起きそうなこと", "掘り下げ・分析", "横断的問い"}
 
 CSS = """
@@ -92,6 +136,19 @@ footer{margin-top:30px; color:var(--muted); font-size:12px; text-align:center}
   border-radius:14px; padding:4px 12px; font-size:12px; cursor:pointer; line-height:1.2}
 .tagfilter:hover{border-color:var(--accent); color:var(--accent)}
 .tagfilter.active{background:var(--accent); color:#fff; border-color:var(--accent)}
+
+nav.grouped{margin:16px 0 24px; padding:6px 14px; background:var(--panel);
+  border:1px solid var(--border); border-radius:8px}
+nav.grouped .navrow{display:flex; align-items:baseline; gap:10px; flex-wrap:wrap;
+  padding:7px 0; border-bottom:1px solid var(--border)}
+nav.grouped .navrow:last-child{border-bottom:none}
+nav.grouped .navlabel{flex:0 0 62px; color:var(--muted); font-size:11px; font-weight:700;
+  letter-spacing:.04em}
+nav.grouped a{color:var(--accent); text-decoration:none; font-size:12.5px; white-space:nowrap}
+nav.grouped a:hover{text-decoration:underline}
+nav.grouped a.active{color:var(--text); font-weight:700}
+.genre-h{margin:22px 0 6px; font-size:13px; color:var(--muted); font-weight:700;
+  letter-spacing:.04em; border-bottom:1px solid var(--border); padding-bottom:5px}
 </style>
 """
 
@@ -157,19 +214,24 @@ JS = """
 """
 
 def nav_html(active_slug=None):
-    items = []
-    items.append(('00-readme', 'TOP'))
-    for sn, slug in SHEET_SLUGS.items():
-        if sn == "README":
-            continue
-        items.append((slug, sn))
-    items.append(('design-map', 'デザイン連動マップ'))
-    items.append(('industry-map', '全体連動マップ'))
-    parts = []
-    for slug, label in items:
-        href = "index.html" if slug == "00-readme" else f"{slug}.html"
-        parts.append(f'<a href="{href}">{html.escape(label)}</a>')
-    return '<nav>' + ''.join(parts) + '</nav>'
+    parts = ['<nav class="grouped">']
+    parts.append('<div class="navrow"><span class="navlabel">TOP</span>'
+                 '<a href="index.html">ダッシュボード</a>'
+                 '<a href="design-map.html">デザイン連動マップ</a>'
+                 '<a href="industry-map.html">全体連動マップ</a></div>')
+    for gname, sheets in SHEET_GROUPS:
+        links = []
+        for sn in sheets:
+            slug = SHEET_SLUGS.get(sn)
+            if not slug:
+                continue
+            cls = ' class="active"' if slug == active_slug else ''
+            links.append(f'<a href="{slug}.html"{cls}>{html.escape(_short(sn))}</a>')
+        if links:
+            parts.append(f'<div class="navrow"><span class="navlabel">{html.escape(gname)}</span>'
+                         + ''.join(links) + '</div>')
+    parts.append('</nav>')
+    return ''.join(parts)
 
 def url_to_link(text):
     if not isinstance(text, str): return html.escape(str(text)) if text is not None else ''
@@ -440,31 +502,41 @@ def render_section_md(sheet_name, headers, rows):
 
 def render_index_html(stats):
     nav = nav_html('00-readme')
-    rows = []
-    for sn, slug in SHEET_SLUGS.items():
-        if sn == 'README': continue
-        n = stats.get(sn, 0)
-        rows.append(f'<tr><td><a href="{slug}.html">{html.escape(sn)}</a></td>'
-                    f'<td style="text-align:right">{n}</td></tr>')
+    blocks = []
+    for gname, sheets in SHEET_GROUPS:
+        rows = []
+        for sn in sheets:
+            slug = SHEET_SLUGS.get(sn)
+            if not slug:
+                continue
+            n = stats.get(sn, 0)
+            rows.append(f'<tr><td><a href="{slug}.html">{html.escape(_short(sn))}</a></td>'
+                        f'<td style="text-align:right">{n}</td></tr>')
+        if rows:
+            blocks.append(f'<div class="genre-h">{html.escape(gname)}</div>'
+                          '<div class="table-wrap"><table><thead><tr><th>シート</th>'
+                          '<th style="text-align:right">行数</th></tr></thead><tbody>'
+                          + ''.join(rows) + '</tbody></table></div>')
     updated = datetime.now().strftime('%Y-%m-%d %H:%M')
+    total = sum(stats.values())
     return f"""<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8">
-<title>ゲーム業界・時事情報収集</title>
+<title>エンタメ業界・時事情報収集</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 {CSS}</head><body><div class="container">
-<header><h1>🎮 ゲーム業界・時事情報収集</h1><span class="subtle">最終更新: {updated}</span></header>
+<header><h1>エンタメ業界・時事情報収集</h1><span class="subtle">最終更新: {updated} · 全{total}行</span></header>
 {nav}
 <div class="section">
   <h2>シート一覧</h2>
-  <div class="table-wrap"><table><thead><tr><th>シート</th><th style="text-align:right">行数</th></tr></thead>
-  <tbody>{''.join(rows)}</tbody></table></div>
+  {''.join(blocks)}
 </div>
 <div class="section">
   <h2>更新スケジュール</h2>
   <ul>
-    <li><b>毎朝 7:00</b> — 日次ニュース10件追加</li>
-    <li><b>毎週月 9:00</b> — 国内/海外大手の株価・IR更新</li>
-    <li><b>毎週金 18:00</b> — 新作リリース週次レポート</li>
-    <li><b>毎週水 12:00</b> — 業界トレンド・話題のゲームデザイン</li>
+    <li><b>毎朝 7:00</b> — 6ジャンル横断の日次ニュース + 横断的問い</li>
+    <li><b>毎週月 9:00</b> — 全ジャンルの企業・レーベル業績 + 作品ウォッチ</li>
+    <li><b>毎週水 12:00</b> — 全ジャンルのトレンド + 掘り下げ・分析</li>
+    <li><b>毎週金 18:00</b> — 全ジャンルのリリース・公開・チャート</li>
+    <li><b>毎月 1日 9:00</b> — 業界マトリクス + 今後起きそうなこと</li>
     <li><b>2/5/8/11月 上旬</b> — 四半期決算サマリ</li>
   </ul>
 </div>
@@ -472,7 +544,7 @@ def render_index_html(stats):
 </div></body></html>"""
 
 def render_index_md(stats):
-    lines = ["# 🎮 ゲーム業界・時事情報収集", "",
+    lines = ["# エンタメ業界・時事情報収集", "",
              f"_最終更新: {datetime.now().strftime('%Y-%m-%d %H:%M')}_", "",
              "## シート一覧", ""]
     for sn, slug in SHEET_SLUGS.items():
