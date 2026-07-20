@@ -1,6 +1,6 @@
 # 新作リリースログ
 
-_最終更新: 2026-07-20 13:32_
+_最終更新: 2026-07-20 13:36_
 
 | 発売日 | タイトル | 開発 | パブリッシャー | プラットフォーム | ジャンル | Metacritic | OpenCritic | Steam同接ピーク | 初週推定本数 | 話題度(1-5) | 感想/メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -8,9 +8,20 @@ _最終更新: 2026-07-20 13:32_
 | 2026-08-27 | キャプテン翼2 WORLD FIGHTERS（Captain Tsubasa 2: World Fighters） | KONAMI | KONAMI | PS5/Switch/Switch 2/PC | サッカーアクション |  |  |  |  | 3 | 来月予定（評価系空欄）。『キャプテン翼』題材のアクション最新作。 | https://www.famitsu.com/schedule/all-platforms/202608 |
 | 2026-07-28 | Halo: Campaign Evolved（ヘイロー：キャンペーン エボルブド） | Halo Studios | Xbox Game Studios | Xbox Series X\|S/PC/PS5 | FPS（初代Haloキャンペーンリメイク） |  |  |  |  | 4 | 初代Halo:CEキャンペーンのUE5フルリメイク。PS5にも展開。7/23から最大5日間の早期アクセス。 | https://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-6534941/ |
 | 2026-07-23 | スプラトゥーン レイダース（Splatoon Raiders） | 任天堂 | 任天堂 | Switch 2 | 三人称アクションADV |  |  |  |  | 4 | 来週〜今月後半予定（評価系空欄）。シリーズ初スピンオフでSwitch 2専用。単独プレイ＋最大4人協力。すりみ連合(シヴァ/フウカ/マンタロー)と遺物探索。 | https://www.nintendo.com/us/store/products/splatoon-raiders-switch-2/ |
+| 2026-07-17 | ヒプノシスマイク -Alternative Rap Battle- 2nd period | アイディアファクトリー | アイディアファクトリー | Switch | リズム/アドベンチャー |  |  |  |  | 2 | 今週リリース。Switch版第2弾。1st&2ndのツインパックも同時発売。 | https://hypnosismicarb.com/switch/2nd/ |
+| 2026-07-17 | Heave Ho 2（ヒーブ・ホー2） | Le Cartel Studio | Devolver Digital | Switch/Switch 2/PC(Steam) | パーティーアクション |  |  |  |  | 3 | 今週リリース。人気ぶらぶらパーティーアクションの続編。パーティー需要で配信映え。 | https://gamebiz.jp/news/429601 |
+| 2026-07-17 | Moss: 忘れられた秘宝（Moss: The Forgotten Treasure） | Polyarc | Polyarc | マルチプラットフォーム | アクションアドベンチャー |  |  |  |  | 3 | 今週リリース。VR発『Moss』シリーズの新作を各PF向けに展開。 | https://gamebiz.jp/news/429601 |
 | 2026-07-16 | カルドセプト ビギンズ（Culdcept Begins） | 大宮ソフト | 任天堂 | Nintendo Switch 2/Switch/Steam | ボード×カードゲーム |  |  |  |  | 3 | 『カルドセプト』シリーズ10年ぶりの完全新作。来月発売予定（評価系空欄）。 | https://www.famitsu.com/schedule/switch |
 | 2026-07-16 | プロ野球スピリッツ2026 | コナミ | コナミデジタルエンタテインメント | PS5 | スポーツ（野球） |  |  |  |  | 4 | プロスピ家庭用シリーズ最新作。7/16発売予定の来月大型タイトル。4/16から予約受付開始。 | https://www.konami.com/games/corporate/ja/news/topics/20260416/ |
+| 2026-07-16 | Hi-Fi RUSH（ハイファイ ラッシュ）PS5パッケージ版 | Tango Gameworks | SUPERDELUXE GAMES | PS5 | リズムアクション |  |  |  |  | 3 | 今週リリース。旧Bethesda傘下Tangoのリズムアクションが国内PS5パッケージ化。DELUXE EDITIONは全DLC同梱。 | https://prtimes.jp/main/html/rd/p/000000370.000082433.html |
+| 2026-07-16 | RATATAN（ラタタン）コンソール版 | ratata Arts | Game Source Entertainment | PS5/Switch 2 | リズムアクション・ローグライク |  |  |  |  | 3 | 今週リリース。『パタポン』スタッフによる精神的続編のコンソール版。 | https://gamesource-ent.jp/detail/166 |
+| 2026-07-16 | 京都ザナドゥ -桜幻武-（Kyoto Xanadu） | 日本ファルコム | 日本ファルコム | PS5/Switch | アクションRPG |  |  |  |  | 3 | 今週リリース。『東亰ザナドゥ』系譜の都市型アクションRPG新作。 | https://www.falcom.co.jp/kyoxana/ |
+| 2026-07-16 | Fit Boxing 3 -Your パーソナルトレーナー- Nintendo Switch 2 Edition | イマジニア | イマジニア | Switch 2 | フィットネス |  |  |  |  | 3 | 今週リリース。Switch 2の高精度カメラ・マイク対応。KENN・緑川光ら出演。 | https://fitboxing.net/3/ |
+| 2026-07-16 | 電車アタック（Train Attack） | Game Source Entertainment | Game Source Entertainment | PS5/Switch 2 | 3Dトリックアクションレース |  |  |  |  | 2 | 今週リリース。電車で街を駆けるトリックアクションレース。 | https://gamebiz.jp/news/429601 |
+| 2026-07-15 | D-topia（ディートピア） | マルミッツゲームス | Annapurna Interactive | PC/PS5/Xbox Series X\|S | SFアドベンチャー |  |  |  |  | 3 | 今週リリース。物語重視のSF ADV。Annapurnaパブリッシングの日本発タイトル。 | https://gamebiz.jp/news/429601 |
+| 2026-07-15 | デジモンUP | バンダイナムコエンターテインメント | バンダイナムコエンターテインメント | iOS/Android | 育成/RPG |  |  |  |  | 3 | 今週リリース。デジモンIPの新作スマホアプリ。同IPは『タイムストレンジャー』とコンソール／モバイル両面展開中。 | https://gamebiz.jp/news/429601 |
 | 2026-07-13 | The Alters: Last Variable（ジ・オルターズ：ラスト・バリアブル） | 11 bit studios | 11 bit studios | PC/PS5/Xbox Series X\|S | SFサバイバル/ナラティブ（拡張） | 81 |  |  |  | 3 | 今週リリース分。『The Alters』の追加コンテンツ。MC81。 | https://www.metacritic.com/ |
+| 2026-07-13 | Ascend to ZERO（アセンド・トゥ・ゼロ） | KRAFTON | KRAFTON | PC(Steam)/Xbox Series X\|S | アクションローグライク |  |  |  |  | 3 | 今週リリース。"時間停止"を駆使するアクションローグライク。KRAFTONの中規模新規IP。 | https://gamebiz.jp/news/429601 |
 | 2026-07-10 | Palworld（パルワールド）正式版1.0 | ポケットペア | ポケットペア | PC(Steam)/Xbox Series X\|S ほか | オープンワールド・サバイバルクラフト |  |  |  |  | 4 | 早期アクセスから約2年半で1.0正式版。7月最注目タイトルとの報。EA期の最大同接210万超の実績を持つ。 | https://gamegator.net/calendar/2026/july |
 | 2026-07-09 | Assassin's Creed Black Flag Resynced（アサシン クリード ブラックフラッグ リシンクド） | Ubisoft | Ubisoft | PC/PS5/Xbox Series X\|S | オープンワールドACT | 84 |  | 99,451（GamingBolt/SteamDB, 発売直後ピーク） |  | 5 | 発売済。批評は好評(MC84・シリーズ2013年以来の高評価)だが、Steamユーザーは『賛否両論〜やや不評』(約41.5%好評/5.6万件)。カットシーン30fps・マイクロトランザクション・ストーリーカットへの不満が噴出。同接は発売直後に99,451(AC Shadowsの生涯ピーク64,825超)。 | https://www.gamesradar.com/video-game-release-dates/ |
 | 2026-07-09 | GRANBLUE FANTASY: Relink – Endless Ragnarök（グランブルーファンタジー リリンク エンドレスラグナロク） | Cygames | Cygames | Switch 2/PS5/PC | アクションRPG |  | 81 |  |  | 4 | 発売済。OpenCritic『Strong』81(28レビュー)。Steam直近30日で87%好評『非常に好評』。エンドゲームを深化させる大型有料拡張で、ハードコア層に好評だがストーリー面の新規性は限定的との評。買い切り作の“エバーグリーン化”の代表例。 | https://www.famitsu.com/schedule |
