@@ -1,6 +1,6 @@
 # 週間ランキング
 
-_最終更新: 2026-07-22 08:05_
+_最終更新: 2026-07-22 10:22_
 
 ## 国内ファミ通
 
@@ -154,6 +154,14 @@ _最終更新: 2026-07-22 08:05_
 | 10 | EA Sports FC 26 | PC(Steam) |  |  |  | Steam週間グローバルトップセラー(売上額順・F2P除く) https://www.vgchartz.com/article/468148/steam-weekly-week-24-2026/ |  |
 
 ## PS DL
+
+### 2026-06 (月間)
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | FINAL FANTASY VII REBIRTH | PS5 |  |  |  | PS Blog 月間DLランキング(国内PS5) https://blog.ja.playstation.com/2026/07/09/20260709-monthly-ps-store-ranking-s/ | 週間が無いため月間で代替。完結編『FF7 REVELATION』2027年春発売決定が追い風 |
+| 2 | 冒険家エリオットの千年物語 | PS5 |  |  |  | PS Blog 月間DLランキング(国内PS5) https://blog.ja.playstation.com/2026/07/09/20260709-monthly-ps-store-ranking-s/ | HD-2D初の新作アクションRPG。発売初月でDL2位 |
+| 3 | EA SPORTS FC 26 | PS5 |  |  |  | PS Blog 月間DLランキング(国内PS5) https://blog.ja.playstation.com/2026/07/09/20260709-monthly-ps-store-ranking-s/ | 週間が無いため月間で代替 |
 
 ### 2026-05 (月間)
 
