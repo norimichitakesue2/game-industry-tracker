@@ -1,8 +1,18 @@
 # 週間ランキング
 
-_最終更新: 2026-07-23 09:00_
+_最終更新: 2026-07-25 00:25_
 
 ## 国内ファミ通
+
+### 2026-07-13〜07-19
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | リズム天国 ミラクルスターズ | Switch | 76,786 | 596,237 |  | https://www.famitsu.com/article/202607/82215 | 3週連続首位=リズム天国。ハード週販 Switch2 24,928台/Switch 6,396台。6-10位は今回未取得 |
+| 2 | プロ野球スピリッツ2026 | PS5 | 20,661 | 20,661 |  | https://www.famitsu.com/article/202607/82215 | 3週連続首位=リズム天国。ハード週販 Switch2 24,928台/Switch 6,396台。6-10位は今回未取得 |
+| 3 | トモダチコレクション わくわく生活 | Switch | 18,608 |  |  | https://www.famitsu.com/article/202607/82215 | 3週連続首位=リズム天国。ハード週販 Switch2 24,928台/Switch 6,396台。6-10位は今回未取得 |
+| 4 | 亰都ザナドゥ -桜花幻舞- | Switch | 15,431 |  |  | https://www.famitsu.com/article/202607/82215 | 3週連続首位=リズム天国。ハード週販 Switch2 24,928台/Switch 6,396台。6-10位は今回未取得 |
+| 5 | 亰都ザナドゥ -桜花幻舞- | PS5 | 13,206 |  |  | https://www.famitsu.com/article/202607/82215 | 3週連続首位=リズム天国。ハード週販 Switch2 24,928台/Switch 6,396台。6-10位は今回未取得 |
 
 ### 2026-07-06〜07-12
 
@@ -79,6 +89,21 @@ _最終更新: 2026-07-23 09:00_
 | 10 | アストロボット | PS5 | 3,460 | 103,717 |  | ファミ通.com 週販 https://www.famitsu.com/article/202606/78042 |  |
 
 ## Steamトップセラー
+
+### 2026-07-13〜07-19
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Counter-Strike 2（カウンターストライク2） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-13th19th-of-july-2026 | 売上高ベース（Valve公式）。CS2が首位返り咲き |
+| 2 | Assassin's Creed Black Flag Resynced（アサシン クリード ブラックフラッグ リシンクド） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-13th19th-of-july-2026 | 売上高ベース（Valve公式）。CS2が首位返り咲き |
+| 3 | Steam Machine（スチームマシン／ハード） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-13th19th-of-july-2026 | 売上高ベース（Valve公式）。CS2が首位返り咲き |
+| 4 | Palworld（パルワールド） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-13th19th-of-july-2026 | 売上高ベース（Valve公式）。CS2が首位返り咲き |
+| 5 | Dota 2（ドータ2） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-13th19th-of-july-2026 | 売上高ベース（Valve公式）。CS2が首位返り咲き |
+| 6 | MECCHA CHAMELEON（メチャ・カメレオン） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-13th19th-of-july-2026 | 売上高ベース（Valve公式）。CS2が首位返り咲き |
+| 7 | PUBG: BATTLEGROUNDS（パブジー） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-13th19th-of-july-2026 | 売上高ベース（Valve公式）。CS2が首位返り咲き |
+| 8 | Warframe（ウォーフレーム） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-13th19th-of-july-2026 | 売上高ベース（Valve公式）。CS2が首位返り咲き |
+| 9 | Marvel Rivals（マーベル・ライバルズ） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-13th19th-of-july-2026 | 売上高ベース（Valve公式）。CS2が首位返り咲き |
+| 10 | Apex Legends（エーペックスレジェンズ） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-13th19th-of-july-2026 | 売上高ベース（Valve公式）。CS2が首位返り咲き |
 
 ### 2026-07-06〜07-12
 

@@ -1,13 +1,14 @@
 # 新作リリースログ
 
-_最終更新: 2026-07-23 09:00_
+_最終更新: 2026-07-25 00:25_
 
 | 発売日 | タイトル | 開発 | パブリッシャー | プラットフォーム | ジャンル | Metacritic | OpenCritic | Steam同接ピーク | 初週推定本数 | 話題度(1-5) | 感想/メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2026-08-27 | METAL GEAR SOLID: MASTER COLLECTION Vol.2 | KONAMI | KONAMI | PS5/Switch 2/Xbox/PC | アクション（コレクション） |  |  |  |  | 3 | 来月予定（評価系空欄）。MGSシリーズをまとめたマスターコレクション第2弾のボーナスコンテンツ含む展開。 | https://www.famitsu.com/schedule/all-platforms/202608 |
 | 2026-08-27 | キャプテン翼2 WORLD FIGHTERS（Captain Tsubasa 2: World Fighters） | KONAMI | KONAMI | PS5/Switch/Switch 2/PC | サッカーアクション |  |  |  |  | 3 | 来月予定（評価系空欄）。『キャプテン翼』題材のアクション最新作。 | https://www.famitsu.com/schedule/all-platforms/202608 |
+| 2026-08-04 | ビースト・オブ・リィンカーネーション（Beast of Reincarnation） | ゲームフリーク（GAME FREAK） | Happinet／Fictions | PS5/Xbox/PC(Steam) | アクションRPG |  |  |  |  | 4 | 【来月分】ゲームフリーク完全新作IP。西暦4026年の終末後の日本を舞台に、少女エマと犬の冒険を描く。パリィ×コマンドのバトル | https://www.4gamer.net/games/918/G091816/20260213002/ |
 | 2026-07-28 | Halo: Campaign Evolved（ヘイロー：キャンペーン エボルブド） | Halo Studios | Xbox Game Studios | Xbox Series X\|S/PC/PS5 | FPS（初代Haloキャンペーンリメイク） |  |  |  |  | 4 | 初代Halo:CEキャンペーンのUE5フルリメイク。PS5にも展開。7/23から最大5日間の早期アクセス。 | https://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-6534941/ |
-| 2026-07-23 | スプラトゥーン レイダース（Splatoon Raiders） | 任天堂 | 任天堂 | Switch 2 | 三人称アクションADV |  |  |  |  | 4 | 来週〜今月後半予定（評価系空欄）。シリーズ初スピンオフでSwitch 2専用。単独プレイ＋最大4人協力。すりみ連合(シヴァ/フウカ/マンタロー)と遺物探索。 | https://www.nintendo.com/us/store/products/splatoon-raiders-switch-2/ |
+| 2026-07-23 | スプラトゥーン レイダース（Splatoon Raiders） | 任天堂 | 任天堂 | Switch 2 | 三人称アクションADV | 81 |  |  |  | 5 | 2026-07-23発売。対人戦なしのスプラ派生ルートシューターとして海外レビュー高評価（Metacritic81/67レビュー、「Borderlands×DOOM」的と評される）。発売前登録行を実績で更新 | https://www.nintendo.com/us/store/products/splatoon-raiders-switch-2/ |
 | 2026-07-17 | ヒプノシスマイク -Alternative Rap Battle- 2nd period | アイディアファクトリー | アイディアファクトリー | Switch | リズム/アドベンチャー |  |  |  |  | 2 | 今週リリース。Switch版第2弾。1st&2ndのツインパックも同時発売。 | https://hypnosismicarb.com/switch/2nd/ |
 | 2026-07-17 | Heave Ho 2（ヒーブ・ホー2） | Le Cartel Studio | Devolver Digital | Switch/Switch 2/PC(Steam) | パーティーアクション |  |  |  |  | 3 | 今週リリース。人気ぶらぶらパーティーアクションの続編。パーティー需要で配信映え。 | https://gamebiz.jp/news/429601 |
 | 2026-07-17 | Moss: 忘れられた秘宝（Moss: The Forgotten Treasure） | Polyarc | Polyarc | マルチプラットフォーム | アクションアドベンチャー |  |  |  |  | 3 | 今週リリース。VR発『Moss』シリーズの新作を各PF向けに展開。 | https://gamebiz.jp/news/429601 |
