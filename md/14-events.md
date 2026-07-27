@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-07-27 09:20_
+_最終更新: 2026-07-27 10:37_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -17,8 +17,8 @@ _最終更新: 2026-07-27 09:20_
 | 2026-08-26 | 2026-08-30 | gamescom 2026 | 展示会 | 独ケルン(Koelnmesse) | オフライン展示会 | 欧州最大級のゲーム見本市。前夜祭ONLは8/25。出展・商談・一般来場。 | https://www.gamescom.global/en | 開催予定 | 2026-06-17 |
 | 2026-08-25 |  | gamescom Opening Night Live 2026 | ショーケース | 独ケルン/配信 | 配信イベント | gamescom開幕前夜の大型新作発表配信(Geoff Keighley司会)。秋〜冬商戦タイトルが集中露出。 | https://www.gamescom.global/en | 開催予定 | 2026-06-17 |
 | 2026-08-08 |  | 東京ゲームダンジョン13 | 展示会 | 東京・浜松町(都立産業貿易センター) | オフライン | 個人・インディー開発者中心の同人/インディーゲーム展示会。先着順出展で個人開発に寄り添う運営方針。 | https://tokyogamedungeon.com/ | 開催予定 | 2026-06-21 |
-| 2026-07-24 | 2026-07-26 | FUJI ROCK FESTIVAL '26 | ライブ・フェス | 新潟・苗場スキー場 | リアル＋配信(Amazon独占) | The xx・Khruangbin・藤井風・XG等70組超。Amazon Music/Prime Video/Twitchで全世界無料独占ライブ配信（Prime非会員も視聴可） | https://www.aboutamazon.jp/news/entertainment/fuji-rock-festival-26%E3%82%92prime-video%E3%81%A8twitch%E3%81%A7%E7%8B%AC%E5%8D%A0%E3%83%A9%E3%82%A4%E3%83%96%E9%85%8D%E4%BF%A1 | 開催中 | 2026-07-24 |
-| 2026-07-23 | 2026-07-26 | サンディエゴ・コミコン2026 (SDCC) | 展示会 | 米・サンディエゴ | リアル | ガンダム新作『RG XARX-ZERO』等のパネル解禁。映画・アニメ・コミックの北米向け大型発表の場 | https://www.comic-con.org/ | 開催中 | 2026-07-24 |
+| 2026-07-24 | 2026-07-26 | FUJI ROCK FESTIVAL '26 | ライブ・フェス | 新潟・苗場スキー場 | リアル＋配信(Amazon独占) | The xx・Khruangbin・藤井風・XG等70組超。Amazon Music/Prime Video/Twitchで全世界無料独占ライブ配信（Prime非会員も視聴可） | https://www.aboutamazon.jp/news/entertainment/fuji-rock-festival-26%E3%82%92prime-video%E3%81%A8twitch%E3%81%A7%E7%8B%AC%E5%8D%A0%E3%83%A9%E3%82%A4%E3%83%96%E9%85%8D%E4%BF%A1 | 終了 | 2026-07-27 |
+| 2026-07-23 | 2026-07-26 | サンディエゴ・コミコン2026 (SDCC) | 展示会 | 米・サンディエゴ | リアル | ガンダム新作『RG XARX-ZERO』等のパネル解禁。映画・アニメ・コミックの北米向け大型発表の場 | https://www.comic-con.org/ | 終了 | 2026-07-27 |
 | 2026-07-22 | 2026-07-24 | CEDEC 2026 | 展示会 | パシフィコ横浜ノース(横浜)/オンライン | ハイブリッド | 国内最大級のゲーム開発者向けカンファレンス。プログラミング・AI・アート・サウンド・ビジネス等、技術と知見を共有する3日間。 | https://cedec.cesa.or.jp/2026/ | 終了 | 2026-07-26 |
 | 2026-07-15 | 2026-07-16 | Taipei Game Developers Forum 2026 (TGDF) | 展示会 | 台北（Taipei New Horizon） | オフライン | 台湾最大級のゲーム開発者カンファレンス。アジア各国の開発者が集う。東映ゲームズ等日本勢も登壇。 | https://www.4gamer.net/games/991/G999104/20260708042/ | 終了 | 2026-07-17 |
 | 2026-07-15 |  | PlayStation Store SUMMER SALE 2026 | セール | オンライン(PS Store) | オンライン | PS5/PS4対象のサマーセール。最大80%OFF。旧作・大型タイトルのディスカウント商戦。 | https://www.pushsquare.com/playstation-plus | 終了 | 2026-07-20 |
