@@ -1,9 +1,11 @@
 # 【音楽】リリース・チャート
 
-_最終更新: 2026-07-31 07:45_
+_最終更新: 2026-07-31 18:13_
 
 | 集計日/発売日 | 区分 | タイトル/曲名 | アーティスト | レーベル | 形態 | チャート順位 | ストリーミング数 | 話題度(1-5) | メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2026-07-15（付） | チャート | Good Time | Snow Man |  | デジタル/フィジカル複合 | Billboard JAPAN Hot 100 1位 |  | 4 | 国内総合ソング・チャート首位。Snow Manは2026年上半期Hot 100でも10位に入っており、年間を通して上位に定着。 | https://www.billboard-japan.com/charts/detail?a=hot100 |
 | 2026-07-18（付） | チャート | Choosin' Texas | Ella Langley（エラ・ラングレー） |  | デジタル/ストリーミング | Billboard Hot 100（米）1位 |  | 4 | 13週連続で全米1位。カントリー勢の長期首位が続く構図。 | https://www.billboard.com/charts/hot-100/ |
 | 2026-07-22（付） | チャート | （Billboard JAPAN Hot 100 第1位） | Number_i |  |  | 1 |  | 4 | 総合ソングチャート首位。2位 Mrs. GREEN APPLE / 3位 NCT WISH / 4位 FRUITS ZIPPER / 5位 米津玄師 | https://www.billboard-japan.com/charts/detail?a=hot100 |
+| 2026-07-29（付） | チャート | 是非に及ばず | 乃木坂46 |  | CD/デジタル/ストリーミング複合 | Billboard JAPAN Hot 100 1位 |  | 4 | 総合ソングチャート首位。オリコン週間シングルでも初週51.0万枚で1位（8/3付）＝41作連続1位。Billboard合算売上75.6万枚。一ノ瀬美空初センターのパンク路線。 | https://www.oricon.co.jp/news/2470362/full/ |
+| 2026-07-25（付） | チャート | Choosin' Texas | Ella Langley（エラ・ラングレー） |  | デジタル/ストリーミング | Billboard Hot 100（米）1位 |  | 4 | 14週目の全米1位。2026年最長首位曲としてカントリー勢の長期支配が継続。 | https://www.billboard.com/charts/hot-100/ |

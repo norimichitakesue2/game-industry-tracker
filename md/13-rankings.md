@@ -1,8 +1,23 @@
 # 週間ランキング
 
-_最終更新: 2026-07-31 07:45_
+_最終更新: 2026-07-31 18:13_
 
 ## 国内ファミ通
+
+### 2026-07-20〜07-26
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | スプラトゥーン レイダース | Switch 2 | 474,684 |  |  | https://www.famitsu.com/article/202607/82960 | 任天堂「スプラトゥーン レイダース」が47万本超で初登場首位。マリオカート ワールド累計300万本、トモコレ わくわく生活150万本突破。 |
+| 2 | リズム天国 ミラクルスターズ | Switch | 78,355 |  |  | https://www.famitsu.com/article/202607/82960 | 任天堂「スプラトゥーン レイダース」が47万本超で初登場首位。マリオカート ワールド累計300万本、トモコレ わくわく生活150万本突破。 |
+| 3 | トモダチコレクション わくわく生活 | Switch | 23,468 |  |  | https://www.famitsu.com/article/202607/82960 | 任天堂「スプラトゥーン レイダース」が47万本超で初登場首位。マリオカート ワールド累計300万本、トモコレ わくわく生活150万本突破。 |
+| 4 | パワフルプロ野球2026-2027 | Switch | 7,227 |  |  | https://www.famitsu.com/article/202607/82960 | 任天堂「スプラトゥーン レイダース」が47万本超で初登場首位。マリオカート ワールド累計300万本、トモコレ わくわく生活150万本突破。 |
+| 5 | マリオカート ワールド | Switch 2 | 6,661 |  |  | https://www.famitsu.com/article/202607/82960 | 任天堂「スプラトゥーン レイダース」が47万本超で初登場首位。マリオカート ワールド累計300万本、トモコレ わくわく生活150万本突破。 |
+| 6 | ぽこ あ ポケモン | Switch 2 | 5,796 |  |  | https://www.famitsu.com/article/202607/82960 | 任天堂「スプラトゥーン レイダース」が47万本超で初登場首位。マリオカート ワールド累計300万本、トモコレ わくわく生活150万本突破。 |
+| 7 | eFootball Kick-Off！ | Switch 2 | 5,578 |  |  | https://www.famitsu.com/article/202607/82960 | 任天堂「スプラトゥーン レイダース」が47万本超で初登場首位。マリオカート ワールド累計300万本、トモコレ わくわく生活150万本突破。 |
+| 8 | Minecraft | Switch | 5,106 |  |  | https://www.famitsu.com/article/202607/82960 | 任天堂「スプラトゥーン レイダース」が47万本超で初登場首位。マリオカート ワールド累計300万本、トモコレ わくわく生活150万本突破。 |
+| 9 | がんばれゴエモン大集合！ | Switch | 3,961 |  |  | https://www.famitsu.com/article/202607/82960 | 任天堂「スプラトゥーン レイダース」が47万本超で初登場首位。マリオカート ワールド累計300万本、トモコレ わくわく生活150万本突破。 |
+| 10 | プロ野球スピリッツ2026 | PS5 | 3,915 |  |  | https://www.famitsu.com/article/202607/82960 | 任天堂「スプラトゥーン レイダース」が47万本超で初登場首位。マリオカート ワールド累計300万本、トモコレ わくわく生活150万本突破。 |
 
 ### 2026-07-13〜07-19
 
@@ -89,6 +104,21 @@ _最終更新: 2026-07-31 07:45_
 | 10 | アストロボット | PS5 | 3,460 | 103,717 |  | ファミ通.com 週販 https://www.famitsu.com/article/202606/78042 |  |
 
 ## Steamトップセラー
+
+### 2026-07-20〜07-26
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Counter-Strike 2（カウンターストライク2） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-20th26th-of-july-2026 | 売上高ベース（Valve公式トップセラー）。CS2が首位継続、Palworld正式版効果で2位に浮上。ハードウェア（Steam Machine/Steam Deck）は除外し上位ゲーム10本を記載。 |
+| 2 | Palworld（パルワールド） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-20th26th-of-july-2026 | 売上高ベース（Valve公式トップセラー）。CS2が首位継続、Palworld正式版効果で2位に浮上。ハードウェア（Steam Machine/Steam Deck）は除外し上位ゲーム10本を記載。 |
+| 3 | Assassin's Creed Black Flag Resynced（アサシン クリード ブラックフラッグ リシンクド） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-20th26th-of-july-2026 | 売上高ベース（Valve公式トップセラー）。CS2が首位継続、Palworld正式版効果で2位に浮上。ハードウェア（Steam Machine/Steam Deck）は除外し上位ゲーム10本を記載。 |
+| 4 | Dota 2（ドータ2） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-20th26th-of-july-2026 | 売上高ベース（Valve公式トップセラー）。CS2が首位継続、Palworld正式版効果で2位に浮上。ハードウェア（Steam Machine/Steam Deck）は除外し上位ゲーム10本を記載。 |
+| 5 | Apex Legends（エーペックスレジェンズ） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-20th26th-of-july-2026 | 売上高ベース（Valve公式トップセラー）。CS2が首位継続、Palworld正式版効果で2位に浮上。ハードウェア（Steam Machine/Steam Deck）は除外し上位ゲーム10本を記載。 |
+| 6 | MECCHA CHAMELEON（メチャ・カメレオン） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-20th26th-of-july-2026 | 売上高ベース（Valve公式トップセラー）。CS2が首位継続、Palworld正式版効果で2位に浮上。ハードウェア（Steam Machine/Steam Deck）は除外し上位ゲーム10本を記載。 |
+| 7 | PUBG: BATTLEGROUNDS（パブジー） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-20th26th-of-july-2026 | 売上高ベース（Valve公式トップセラー）。CS2が首位継続、Palworld正式版効果で2位に浮上。ハードウェア（Steam Machine/Steam Deck）は除外し上位ゲーム10本を記載。 |
+| 8 | Marvel Rivals（マーベル・ライバルズ） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-20th26th-of-july-2026 | 売上高ベース（Valve公式トップセラー）。CS2が首位継続、Palworld正式版効果で2位に浮上。ハードウェア（Steam Machine/Steam Deck）は除外し上位ゲーム10本を記載。 |
+| 9 | EA SPORTS FC 26 | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-20th26th-of-july-2026 | 売上高ベース（Valve公式トップセラー）。CS2が首位継続、Palworld正式版効果で2位に浮上。ハードウェア（Steam Machine/Steam Deck）は除外し上位ゲーム10本を記載。 |
+| 10 | The Mound: Omen of Cthulhu（ザ・マウンド：オーメン・オブ・クトゥルフ） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-20th26th-of-july-2026 | 売上高ベース（Valve公式トップセラー）。CS2が首位継続、Palworld正式版効果で2位に浮上。ハードウェア（Steam Machine/Steam Deck）は除外し上位ゲーム10本を記載。 |
 
 ### 2026-07-13〜07-19
 

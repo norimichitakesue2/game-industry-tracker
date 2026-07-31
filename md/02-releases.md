@@ -1,12 +1,18 @@
 # 新作リリースログ
 
-_最終更新: 2026-07-31 07:45_
+_最終更新: 2026-07-31 18:13_
 
 | 発売日 | タイトル | 開発 | パブリッシャー | プラットフォーム | ジャンル | Metacritic | OpenCritic | Steam同接ピーク | 初週推定本数 | 話題度(1-5) | 感想/メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-28 | STAR WARS ゼロ・カンパニー（Star Wars Zero Company） | Bit Reactor / Respawn Entertainment | エレクトロニック・アーツ | PC / PS5 / Xbox Series X\|S | ターン制タクティクス |  |  |  |  | 4 | 【来月分】スター・ウォーズ題材のターン制タクティクスRPG。クローン戦争期を舞台にした部隊指揮型。 | https://www.famitsu.com/schedule |
+| 2026-08-28 | ELDEN RING Tarnished Edition（エルデンリング ターニッシュド・エディション）Nintendo Switch 2版 | フロム・ソフトウェア | バンダイナムコエンターテインメント | Nintendo Switch 2 | アクションRPG |  |  |  |  | 4 | 【来月分】「ELDEN RING」＋DLCを収録したNS2向けエディション。携帯機で本編を遊べる注目移植。 | https://www.famitsu.com/schedule |
 | 2026-08-27 | METAL GEAR SOLID: MASTER COLLECTION Vol.2 | KONAMI | KONAMI | PS5/Switch 2/Xbox/PC | アクション（コレクション） |  |  |  |  | 3 | 来月予定（評価系空欄）。MGSシリーズをまとめたマスターコレクション第2弾のボーナスコンテンツ含む展開。 | https://www.famitsu.com/schedule/all-platforms/202608 |
 | 2026-08-27 | キャプテン翼2 WORLD FIGHTERS（Captain Tsubasa 2: World Fighters） | KONAMI | KONAMI | PS5/Switch/Switch 2/PC | サッカーアクション |  |  |  |  | 3 | 来月予定（評価系空欄）。『キャプテン翼』題材のアクション最新作。 | https://www.famitsu.com/schedule/all-platforms/202608 |
+| 2026-08-06 | Lies of P: コンプリートエディション（Lies of P: Complete Edition）Nintendo Switch 2版 | NEOWIZ / Round8 Studio | NEOWIZ | Nintendo Switch 2 | ソウルライクARPG |  |  |  |  | 3 | 【来週分】ソウルライク人気作＋DLC「Overture」同梱のコンプリート版がNS2に対応。 | https://www.famitsu.com/schedule |
 | 2026-08-04 | ビースト・オブ・リィンカーネーション（Beast of Reincarnation） | ゲームフリーク（GAME FREAK） | Happinet／Fictions | PS5/Xbox/PC(Steam) | アクションRPG |  |  |  |  | 4 | 【来月分】ゲームフリーク完全新作IP。西暦4026年の終末後の日本を舞台に、少女エマと犬の冒険を描く。パリィ×コマンドのバトル | https://www.4gamer.net/games/918/G091816/20260213002/ |
+| 2026-08-04 | ファイナルファンタジーXIV（FINAL FANTASY XIV）Nintendo Switch 2版 | スクウェア・エニックス | スクウェア・エニックス | Nintendo Switch 2 | MMORPG |  |  |  |  | 3 | 【来週分】人気MMORPGのNintendo Switch 2版が新規プラットフォームとして登場。 | https://www.famitsu.com/schedule |
+| 2026-07-30 | ゼノブレイド2 Nintendo Switch 2 Edition（Xenoblade2 NS2 Edition） | モノリスソフト | 任天堂 | Nintendo Switch 2 / Nintendo Switch | RPG |  |  |  |  | 4 | 今週リリース（DL版・アップグレードパス配信開始／パッケージ版は10/1）。新レアブレイド「M.O.M.O.」（ゼノサーガ）、ホムラ＆ヒカリ新衣装、ブレイドを操作する新モードを追加。DL/パッケージ¥9,778、アップグレードパス¥1,000。 | https://www.famitsu.com/article/202607/82817 |
+| 2026-07-30 | BLUE REFLECTION Quartet: 少女たちのキセキ（BLUE REFLECTION Quartet） | ガスト | コーエーテクモゲームス | PS5 / Switch 2 / Switch / PC(Steam) | RPG/アドベンチャー |  |  |  |  | 3 | 今週リリース。ゲーム・TVアニメ・サービス終了済みスマホ作を含む「BLUE REFLECTION」シリーズ全4作を1本に集約。通常版¥7,480（税込）。 | https://www.nintendo.com/us/store/products/blue-reflection-quartet-switch-2/ |
 | 2026-07-28 | Halo: Campaign Evolved（ヘイロー：キャンペーン エボルブド） | Halo Studios | Xbox Game Studios | Xbox Series X\|S/PC/PS5 | FPS（初代Haloキャンペーンリメイク） |  |  |  |  | 4 | 初代Halo:CEキャンペーンのUE5フルリメイク。PS5にも展開。7/23から最大5日間の早期アクセス。 | https://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-6534941/ |
 | 2026-07-23 | スプラトゥーン レイダース（Splatoon Raiders） | 任天堂 | 任天堂 | Switch 2 | 三人称アクションADV | 81 |  |  |  | 5 | 2026-07-23発売。対人戦なしのスプラ派生ルートシューターとして海外レビュー高評価（Metacritic81/67レビュー、「Borderlands×DOOM」的と評される）。発売前登録行を実績で更新 | https://www.nintendo.com/us/store/products/splatoon-raiders-switch-2/ |
 | 2026-07-17 | ヒプノシスマイク -Alternative Rap Battle- 2nd period | アイディアファクトリー | アイディアファクトリー | Switch | リズム/アドベンチャー |  |  |  |  | 2 | 今週リリース。Switch版第2弾。1st&2ndのツインパックも同時発売。 | https://hypnosismicarb.com/switch/2nd/ |

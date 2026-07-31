@@ -1,33 +1,33 @@
 # エンタメ業界・時事情報収集
 
-_最終更新: 2026-07-31 07:45_
+_最終更新: 2026-07-31 18:13_
 
 ## シート一覧
 
 - [日次ニュース](md/01-daily-news.md) (511行)
-- [新作リリースログ](md/02-releases.md) (48行)
+- [新作リリースログ](md/02-releases.md) (54行)
 - [IP・タイトルウォッチ](md/03-ip-watch.md) (57行)
 - [企業分析（国内）](md/04-companies-jp.md) (12行)
 - [企業分析（海外大手）](md/05-companies-overseas.md) (12行)
 - [四半期決算サマリ](md/06-earnings.md) (0行)
 - [業界トレンド・技術](md/07-trends.md) (14行)
-- [インディー注目](md/08-indie.md) (16行)
+- [インディー注目](md/08-indie.md) (17行)
 - [今後起きそうなこと](md/09-future.md) (46行)
 - [掘り下げ・分析](md/10-deep-dive.md) (48行)
 - [業界マトリクス](md/11-matrix.md) (36行)
 - [横断的問い](md/12-cross-questions.md) (100行)
-- [週間ランキング](md/13-rankings.md) (118行)
+- [週間ランキング](md/13-rankings.md) (138行)
 - [イベントカレンダー](md/14-events.md) (33行)
 - [ゲームデザイン・トレンド](md/15-game-design.md) (16行)
 - [デザイン派生系統](md/16-design-lineage.md) (39行)
 - [メディアミックス追跡](md/17-media-mix.md) (15行)
 - [【映画】作品ウォッチ](md/20-movie-works.md) (13行)
 - [【映画】企業・スタジオ](md/21-movie-companies.md) (14行)
-- [【映画】公開・興行](md/22-movie-releases.md) (9行)
+- [【映画】公開・興行](md/22-movie-releases.md) (11行)
 - [【映画】トレンド](md/23-movie-trends.md) (8行)
 - [【アニメ】作品ウォッチ](md/30-anime-works.md) (16行)
 - [【アニメ】企業・制作](md/31-anime-companies.md) (12行)
-- [【アニメ】放送・配信ログ](md/32-anime-releases.md) (3行)
+- [【アニメ】放送・配信ログ](md/32-anime-releases.md) (4行)
 - [【アニメ】トレンド](md/33-anime-trends.md) (8行)
 - [【漫画】作品ウォッチ](md/40-manga-works.md) (17行)
 - [【漫画】出版社・PF](md/41-manga-companies.md) (12行)
@@ -39,7 +39,7 @@ _最終更新: 2026-07-31 07:45_
 - [【小説】トレンド](md/53-novel-trends.md) (8行)
 - [【音楽】アーティストウォッチ](md/60-music-works.md) (17行)
 - [【音楽】企業・レーベル](md/61-music-companies.md) (12行)
-- [【音楽】リリース・チャート](md/62-music-releases.md) (3行)
+- [【音楽】リリース・チャート](md/62-music-releases.md) (5行)
 - [【音楽】トレンド](md/63-music-trends.md) (8行)
 
 ## 更新スケジュール
