@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-08-01 09:09_
+_最終更新: 2026-08-02 11:57_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -26,8 +26,8 @@ _最終更新: 2026-08-01 09:09_
 | 2026-07-15 |  | 第175回 芥川龍之介賞・直木三十五賞 選考会・発表 | 映画祭・賞 | 東京 | リアル | 芥川賞=小砂川チト『ゾンビ回収婦』(講談社)、直木賞=朝倉かすみ『けんぐゎい』(光文社)。受賞作は増刷・映像化打診の起点となり、下期文芸売上を左右する。 | https://news.web.nhk/newsweb/na/na-k10015176901000 | 終了 | 2026-07-20 |
 | 2026-07-11 |  | MSI 2026（LoL Mid-Season Invitational）ファイナル | eスポーツ | 韓国・大田(Daejeon) | オフライン | 『LoL』シーズン中盤の国際大会の決勝。会場で復刻モード『League of Legends Classic』の詳細発表が予定されている。 | https://www.4gamer.net/games/073/G007372/20260627007/ | 終了 | 2026-07-16 |
 | 2026-07-10 | 2026-07-12 | bilibili World 2026 | 展示会 | 上海（国家会展中心） | オフライン | 中国最大級のサブカル/ゲーム展。世界130社が出展、Black Myth陣営やTotal War新作、Kevin Feige登壇。 | https://www.invenglobal.com/articles/23379/bilibili-world-2026-a-subculture-hub-featuring-kevin-feige | 終了 | 2026-07-13 |
-| 2026-07-06 | 2026-08-23 | Esports World Cup 2026 | eスポーツ | 仏パリ(Paris Expo Porte de Versailles) | オフライン大会(7週間) | リヤドから移転し史上初の国外(パリ)開催。7/8にラ・セーヌ・ミュジカルで開幕セレモニー、競技は7/9〜。賞金総額7,500万ドル・24競技25種目。ソニーが技術・放送パートナーシップを拡大(7/2発表)。 | https://en.wikipedia.org/wiki/2026_Esports_World_Cup | 開催中 | 2026-07-06 |
-| 2026-07-01 | 2026-08-01 | MLBB Mid Season Cup 2026 (MSC) | eスポーツ | EWC 2026連動（会場詳細は要確認） | オフライン大会 | MoontonのMLBB年央国際大会。賞金総額300万ドル。EWC 2026の枠組みと連動。ダブルイリミGS＋シングルイリミKOで8/1決勝。ワイルドカード7/1-4。 | https://liquipedia.net/mobilelegends/MSC/2026 | 開催中 | 2026-07-02 |
+| 2026-07-06 | 2026-08-23 | Esports World Cup 2026 | eスポーツ | 仏パリ(Paris Expo Porte de Versailles) | オフライン大会(7週間) | リヤドから移転し史上初の国外(パリ)開催。7/8にラ・セーヌ・ミュジカルで開幕セレモニー、競技は7/9〜。賞金総額7,500万ドル・24競技25種目。ソニーが技術・放送パートナーシップを拡大(7/2発表)。 | https://en.wikipedia.org/wiki/2026_Esports_World_Cup | 開催中 | 2026-08-02 |
+| 2026-07-01 | 2026-08-01 | MLBB Mid Season Cup 2026 (MSC) | eスポーツ | EWC 2026連動（会場詳細は要確認） | オフライン大会 | MoontonのMLBB年央国際大会。賞金総額300万ドル。EWC 2026の枠組みと連動。ダブルイリミGS＋シングルイリミKOで8/1決勝。ワイルドカード7/1-4。 | https://liquipedia.net/mobilelegends/MSC/2026 | 終了 | 2026-08-02 |
 | 2026-06-30 |  | スプラトゥーン レイダース Direct 2026.6.30 | ショーケース | オンライン | 配信(約15分) | シリーズ初スピンオフ『スプラトゥーン レイダース』(Switch 2/7-23発売)の情報を公開。新主人公『メカニック』とすりみ連合の協力アクションADV。 | https://www.nintendo.com/jp/nintendo-direct/20260630/index.html | 終了 | 2026-07-01 |
 | 2026-06-26 | 2026-06-28 | EVO 2026 | eスポーツ | 米ラスベガス | オフライン大会 | 世界最大級の格闘ゲーム大会。スト6・鉄拳8等の頂上決戦と新作発表の場。 | https://attractmo.de/gaming-news/your-guide-to-every-major-gaming-event-in-2026 | 終了 | 2026-06-30 |
 | 2026-06-26 | 2026-06-28 | VALORANT Esports Nations Cup 2026 予選 | eスポーツ | オンライン | オンライン | 国別対抗大会の地域予選。8地域から本戦(リヤド)進出枠を選出。VALORANT部門。 | https://esportsnationscup.com/en/competitions/2026/valorant | 終了 | 2026-06-30 |
