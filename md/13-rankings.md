@@ -1,8 +1,23 @@
 # 週間ランキング
 
-_最終更新: 2026-08-07 22:08_
+_最終更新: 2026-08-07 22:13_
 
 ## 国内ファミ通
+
+### 2026-07-27〜08-02
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | スプラトゥーン レイダース | Nintendo Switch 2 | 73,542 | 548,226 |  | https://www.famitsu.com/article/202608/83747 | 任天堂『スプラトゥーン レイダース』が2週連続首位。初登場6本（4作品）がトップ10入り。集計2026-07-27〜08-02。 |
+| 2 | リズム天国 ミラクルスターズ | Nintendo Switch | 59,884 | 734,476 |  | https://www.famitsu.com/article/202608/83747 | 任天堂『スプラトゥーン レイダース』が2週連続首位。初登場6本（4作品）がトップ10入り。集計2026-07-27〜08-02。 |
+| 3 | ほの暮しの庭 | Nintendo Switch 2 | 21,965 | 21,965 |  | https://www.famitsu.com/article/202608/83747 | 任天堂『スプラトゥーン レイダース』が2週連続首位。初登場6本（4作品）がトップ10入り。集計2026-07-27〜08-02。 |
+| 4 | トモダチコレクション わくわく生活 | Nintendo Switch | 18,306 | 1,518,331 |  | https://www.famitsu.com/article/202608/83747 | 任天堂『スプラトゥーン レイダース』が2週連続首位。初登場6本（4作品）がトップ10入り。集計2026-07-27〜08-02。 |
+| 5 | テニスの王子様 も～っと 学園祭の王子様 ♡-40 and more... | Nintendo Switch | 16,996 | 16,996 |  | https://www.famitsu.com/article/202608/83747 | 任天堂『スプラトゥーン レイダース』が2週連続首位。初登場6本（4作品）がトップ10入り。集計2026-07-27〜08-02。 |
+| 6 | テニスの王子様 ぎゅ～っと！ ドキドキサバイバル Tie break ♡ game | Nintendo Switch | 16,987 | 16,987 |  | https://www.famitsu.com/article/202608/83747 | 任天堂『スプラトゥーン レイダース』が2週連続首位。初登場6本（4作品）がトップ10入り。集計2026-07-27〜08-02。 |
+| 7 | ほの暮しの庭 | Nintendo Switch | 12,458 | 12,458 |  | https://www.famitsu.com/article/202608/83747 | 任天堂『スプラトゥーン レイダース』が2週連続首位。初登場6本（4作品）がトップ10入り。集計2026-07-27〜08-02。 |
+| 8 | BLUE REFLECTION Quartet：少女たちのキセキ | Nintendo Switch | 7,880 | 7,880 |  | https://www.famitsu.com/article/202608/83747 | 任天堂『スプラトゥーン レイダース』が2週連続首位。初登場6本（4作品）がトップ10入り。集計2026-07-27〜08-02。 |
+| 9 | BLUE REFLECTION Quartet：少女たちのキセキ | PS5 | 7,019 | 7,019 |  | https://www.famitsu.com/article/202608/83747 | 任天堂『スプラトゥーン レイダース』が2週連続首位。初登場6本（4作品）がトップ10入り。集計2026-07-27〜08-02。 |
+| 10 | パワフルプロ野球2026-2027 | Nintendo Switch | 5,928 | 189,164 |  | https://www.famitsu.com/article/202608/83747 | 任天堂『スプラトゥーン レイダース』が2週連続首位。初登場6本（4作品）がトップ10入り。集計2026-07-27〜08-02。 |
 
 ### 2026-07-20〜07-26
 
@@ -104,6 +119,21 @@ _最終更新: 2026-08-07 22:08_
 | 10 | アストロボット | PS5 | 3,460 | 103,717 |  | ファミ通.com 週販 https://www.famitsu.com/article/202606/78042 |  |
 
 ## Steamトップセラー
+
+### 2026-07-27〜08-02
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Counter-Strike 2（カウンターストライク2） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-27th-of-july-to-the-2nd-of-august-2026/ | 売上高ベース（Valve公式トップセラー）。ハードウェア（Steam Machine/Steam Controller）は除外し上位ゲーム10本を記載。Mistfall Hunter/Corsair Coveが新作でランクイン、Spider-Man2/Remasteredが浮上。 |
+| 2 | Dota 2（ドータ2） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-27th-of-july-to-the-2nd-of-august-2026/ | 売上高ベース（Valve公式トップセラー）。ハードウェア（Steam Machine/Steam Controller）は除外し上位ゲーム10本を記載。Mistfall Hunter/Corsair Coveが新作でランクイン、Spider-Man2/Remasteredが浮上。 |
+| 3 | Mistfall Hunter（ミストフォール・ハンター） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-27th-of-july-to-the-2nd-of-august-2026/ | 売上高ベース（Valve公式トップセラー）。ハードウェア（Steam Machine/Steam Controller）は除外し上位ゲーム10本を記載。Mistfall Hunter/Corsair Coveが新作でランクイン、Spider-Man2/Remasteredが浮上。 |
+| 4 | Corsair Cove（コルセア・コーヴ） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-27th-of-july-to-the-2nd-of-august-2026/ | 売上高ベース（Valve公式トップセラー）。ハードウェア（Steam Machine/Steam Controller）は除外し上位ゲーム10本を記載。Mistfall Hunter/Corsair Coveが新作でランクイン、Spider-Man2/Remasteredが浮上。 |
+| 5 | Palworld（パルワールド） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-27th-of-july-to-the-2nd-of-august-2026/ | 売上高ベース（Valve公式トップセラー）。ハードウェア（Steam Machine/Steam Controller）は除外し上位ゲーム10本を記載。Mistfall Hunter/Corsair Coveが新作でランクイン、Spider-Man2/Remasteredが浮上。 |
+| 6 | Marvel's Spider-Man 2（マーベル スパイダーマン2） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-27th-of-july-to-the-2nd-of-august-2026/ | 売上高ベース（Valve公式トップセラー）。ハードウェア（Steam Machine/Steam Controller）は除外し上位ゲーム10本を記載。Mistfall Hunter/Corsair Coveが新作でランクイン、Spider-Man2/Remasteredが浮上。 |
+| 7 | Baldur's Gate 3（バルダーズ・ゲート3） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-27th-of-july-to-the-2nd-of-august-2026/ | 売上高ベース（Valve公式トップセラー）。ハードウェア（Steam Machine/Steam Controller）は除外し上位ゲーム10本を記載。Mistfall Hunter/Corsair Coveが新作でランクイン、Spider-Man2/Remasteredが浮上。 |
+| 8 | Cyberpunk 2077（サイバーパンク2077） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-27th-of-july-to-the-2nd-of-august-2026/ | 売上高ベース（Valve公式トップセラー）。ハードウェア（Steam Machine/Steam Controller）は除外し上位ゲーム10本を記載。Mistfall Hunter/Corsair Coveが新作でランクイン、Spider-Man2/Remasteredが浮上。 |
+| 9 | Apex Legends（エーペックスレジェンズ） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-27th-of-july-to-the-2nd-of-august-2026/ | 売上高ベース（Valve公式トップセラー）。ハードウェア（Steam Machine/Steam Controller）は除外し上位ゲーム10本を記載。Mistfall Hunter/Corsair Coveが新作でランクイン、Spider-Man2/Remasteredが浮上。 |
+| 10 | Marvel's Spider-Man Remastered（マーベル スパイダーマン リマスター） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-27th-of-july-to-the-2nd-of-august-2026/ | 売上高ベース（Valve公式トップセラー）。ハードウェア（Steam Machine/Steam Controller）は除外し上位ゲーム10本を記載。Mistfall Hunter/Corsair Coveが新作でランクイン、Spider-Man2/Remasteredが浮上。 |
 
 ### 2026-07-20〜07-26
 

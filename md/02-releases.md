@@ -1,15 +1,18 @@
 # 新作リリースログ
 
-_最終更新: 2026-08-07 22:08_
+_最終更新: 2026-08-07 22:13_
 
 | 発売日 | タイトル | 開発 | パブリッシャー | プラットフォーム | ジャンル | Metacritic | OpenCritic | Steam同接ピーク | 初週推定本数 | 話題度(1-5) | 感想/メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-25 | 鬼武者 Way of the Sword（おにむしゃ ウェイ・オブ・ザ・ソード） | カプコン | カプコン | PS5 / Xbox Series X\|S / PC(Steam) | 剣戟アクション |  |  |  |  | 4 | 【来月分】カプコンの人気剣戟アクション最新作。クリアー約20時間（ファミ通インタビュー）。2026-09-25発売予定。 | https://www.famitsu.com/article/202608/83267 |
 | 2026-08-28 | STAR WARS ゼロ・カンパニー（Star Wars Zero Company） | Bit Reactor / Respawn Entertainment | エレクトロニック・アーツ | PC / PS5 / Xbox Series X\|S | ターン制タクティクス |  |  |  |  | 4 | 【来月分】スター・ウォーズ題材のターン制タクティクスRPG。クローン戦争期を舞台にした部隊指揮型。 | https://www.famitsu.com/schedule |
 | 2026-08-28 | ELDEN RING Tarnished Edition（エルデンリング ターニッシュド・エディション）Nintendo Switch 2版 | フロム・ソフトウェア | バンダイナムコエンターテインメント | Nintendo Switch 2 | アクションRPG |  |  |  |  | 4 | 【来月分】「ELDEN RING」＋DLCを収録したNS2向けエディション。携帯機で本編を遊べる注目移植。 | https://www.famitsu.com/schedule |
 | 2026-08-27 | METAL GEAR SOLID: MASTER COLLECTION Vol.2 | KONAMI | KONAMI | PS5/Switch 2/Xbox/PC | アクション（コレクション） |  |  |  |  | 3 | 来月予定（評価系空欄）。MGSシリーズをまとめたマスターコレクション第2弾のボーナスコンテンツ含む展開。 | https://www.famitsu.com/schedule/all-platforms/202608 |
 | 2026-08-27 | キャプテン翼2 WORLD FIGHTERS（Captain Tsubasa 2: World Fighters） | KONAMI | KONAMI | PS5/Switch/Switch 2/PC | サッカーアクション |  |  |  |  | 3 | 来月予定（評価系空欄）。『キャプテン翼』題材のアクション最新作。 | https://www.famitsu.com/schedule/all-platforms/202608 |
+| 2026-08-20 | STEINS;GATE RE:BOOT（シュタインズ・ゲート リブート） | MAGES.（5pb.） | MAGES. | PS5 / Nintendo Switch 2 / PC(Steam) | 科学ADV |  |  |  |  | 3 | 【今月・来週分】人気科学アドベンチャー『シュタインズ・ゲート』のリブート作。2026-08-20発売予定。 | https://www.famitsu.com/schedule |
+| 2026-08-07 | MARVEL Tōkon: Fighting Souls（マーベル・トウコン：ファイティング・ソウルズ） | アークシステムワークス（Arc System Works） | PlayStation / Marvel Games | PS5 / PC(Steam) | 対戦格闘（4対4タッグ） | 発売当日・集計中 |  |  |  | 4 | Marvel×アークシステムワークスの4v4タッグ対戦格闘。8/7発売（世界8/6 PT）。ローンチ評価は「フラッシーで間口が広い」と好意的だがMetacritic集計中。 | https://www.metacritic.com/game/marvel-tokon-fighting-souls/ |
 | 2026-08-06 | Lies of P: コンプリートエディション（Lies of P: Complete Edition）Nintendo Switch 2版 | NEOWIZ / Round8 Studio | NEOWIZ | Nintendo Switch 2 | ソウルライクARPG |  |  |  |  | 3 | 【来週分】ソウルライク人気作＋DLC「Overture」同梱のコンプリート版がNS2に対応。 | https://www.famitsu.com/schedule |
-| 2026-08-04 | ビースト・オブ・リィンカーネーション（Beast of Reincarnation） | ゲームフリーク（GAME FREAK） | Happinet／Fictions | PS5/Xbox/PC(Steam) | アクションRPG |  |  |  |  | 4 | 【来月分】ゲームフリーク完全新作IP。西暦4026年の終末後の日本を舞台に、少女エマと犬の冒険を描く。パリィ×コマンドのバトル | https://www.4gamer.net/games/918/G091816/20260213002/ |
+| 2026-08-04 | ビースト・オブ・リィンカーネーション（Beast of Reincarnation） | ゲームフリーク（GAME FREAK） | Happinet／Fictions | PS5/Xbox/PC(Steam) | アクションRPG | PC 72 / PS5 73 |  |  |  | 4 | 2026-08-04発売。ゲームフリーク完全新作IP。西暦4026年の終末世界の日本が舞台。Metacritic PC72/PS5 73でmixed（戦闘が「slick」と「uninspired」で評価二分）。ファミ通レビューはパリィ×連携の爽快アクションを好評。 | https://www.metacritic.com/game/beast-of-reincarnation/ |
 | 2026-08-04 | ファイナルファンタジーXIV（FINAL FANTASY XIV）Nintendo Switch 2版 | スクウェア・エニックス | スクウェア・エニックス | Nintendo Switch 2 | MMORPG |  |  |  |  | 3 | 【来週分】人気MMORPGのNintendo Switch 2版が新規プラットフォームとして登場。 | https://www.famitsu.com/schedule |
 | 2026-07-30 | ゼノブレイド2 Nintendo Switch 2 Edition（Xenoblade2 NS2 Edition） | モノリスソフト | 任天堂 | Nintendo Switch 2 / Nintendo Switch | RPG |  |  |  |  | 4 | 今週リリース（DL版・アップグレードパス配信開始／パッケージ版は10/1）。新レアブレイド「M.O.M.O.」（ゼノサーガ）、ホムラ＆ヒカリ新衣装、ブレイドを操作する新モードを追加。DL/パッケージ¥9,778、アップグレードパス¥1,000。 | https://www.famitsu.com/article/202607/82817 |
 | 2026-07-30 | BLUE REFLECTION Quartet: 少女たちのキセキ（BLUE REFLECTION Quartet） | ガスト | コーエーテクモゲームス | PS5 / Switch 2 / Switch / PC(Steam) | RPG/アドベンチャー |  |  |  |  | 3 | 今週リリース。ゲーム・TVアニメ・サービス終了済みスマホ作を含む「BLUE REFLECTION」シリーズ全4作を1本に集約。通常版¥7,480（税込）。 | https://www.nintendo.com/us/store/products/blue-reflection-quartet-switch-2/ |
