@@ -147,6 +147,8 @@ nav.grouped .navlabel{flex:0 0 62px; color:var(--muted); font-size:11px; font-we
 nav.grouped a{color:var(--accent); text-decoration:none; font-size:12.5px; white-space:nowrap}
 nav.grouped a:hover{text-decoration:underline}
 nav.grouped a.active{color:var(--text); font-weight:700}
+nav.grouped a .nvdot,nav.grouped .navleg .nvdot{color:#e8583a; font-size:9px; vertical-align:super; margin-left:2px; line-height:0}
+nav.grouped .navleg{flex:0 0 auto; color:var(--muted); font-size:11px; margin-left:auto}
 .genre-h{margin:22px 0 6px; font-size:13px; color:var(--muted); font-weight:700;
   letter-spacing:.04em; border-bottom:1px solid var(--border); padding-bottom:5px}
 </style>
@@ -213,12 +215,19 @@ JS = """
 </script>
 """
 
+_RECENT_SLUGS = set()
+_RECENT_DATES = {}
+
 def nav_html(active_slug=None):
     parts = ['<nav class="grouped">']
-    parts.append('<div class="navrow"><span class="navlabel">TOP</span>'
-                 '<a href="index.html">ダッシュボード</a>'
-                 '<a href="design-map.html">デザイン連動マップ</a>'
-                 '<a href="industry-map.html">全体連動マップ</a></div>')
+    _top = ('<div class="navrow"><span class="navlabel">TOP</span>'
+            '<a href="index.html">ダッシュボード</a>'
+            '<a href="design-map.html">デザイン連動マップ</a>'
+            '<a href="industry-map.html">全体連動マップ</a>')
+    if _RECENT_SLUGS:
+        _top += '<span class="navleg"><span class="nvdot">●</span> 最近更新</span>'
+    _top += '</div>'
+    parts.append(_top)
     for gname, sheets in SHEET_GROUPS:
         links = []
         for sn in sheets:
@@ -226,7 +235,9 @@ def nav_html(active_slug=None):
             if not slug:
                 continue
             cls = ' class="active"' if slug == active_slug else ''
-            links.append(f'<a href="{slug}.html"{cls}>{html.escape(_short(sn))}</a>')
+            _dot = (f'<span class="nvdot" title="最近更新: {html.escape(_RECENT_DATES.get(slug,""))}">\u25cf</span>'
+                    if slug in _RECENT_SLUGS else '')
+            links.append(f'<a href="{slug}.html"{cls}>{html.escape(_short(sn))}{_dot}</a>')
         if links:
             parts.append(f'<div class="navrow"><span class="navlabel">{html.escape(gname)}</span>'
                          + ''.join(links) + '</div>')
@@ -566,6 +577,40 @@ def main():
     MD_DIR.mkdir(parents=True, exist_ok=True)
     DOCS_DIR.mkdir(parents=True, exist_ok=True)
     wb = load_workbook(XLSX_PATH, data_only=True)
+    # --- 最近更新カテゴリの判定（ヘッダーメニューに●印） ---
+    from datetime import date as _date
+    UPDATE_COLS = ('日付', '記録日', '更新日', '最終更新日')
+    RECENT_WINDOW_DAYS = 3
+    _dpat = re.compile(r'(\d{4}-\d{2}-\d{2})')
+    _latest = {}
+    for _sn in wb.sheetnames:
+        if _sn not in SHEET_SLUGS or _sn == "README":
+            continue
+        _ws = wb[_sn]
+        _hdr = [c.value for c in _ws[1]]
+        _cols = [i for i, h in enumerate(_hdr) if h in UPDATE_COLS]
+        if not _cols:
+            continue
+        _mx = ''
+        for _row in _ws.iter_rows(min_row=2, values_only=True):
+            for _i in _cols:
+                if _i < len(_row):
+                    _v = _row[_i]
+                    if isinstance(_v, datetime):
+                        _sd = _v.strftime('%Y-%m-%d')
+                    else:
+                        _m = _dpat.search(str(_v) if _v is not None else '')
+                        _sd = _m.group(1) if _m else ''
+                    if _sd > _mx:
+                        _mx = _sd
+        if _mx:
+            _latest[SHEET_SLUGS[_sn]] = _mx
+    if _latest:
+        _newest = _date.fromisoformat(max(_latest.values()))
+        for _slug, _d in _latest.items():
+            if (_newest - _date.fromisoformat(_d)).days <= RECENT_WINDOW_DAYS:
+                _RECENT_SLUGS.add(_slug)
+                _RECENT_DATES[_slug] = _d
     stats = {}
     for sn in wb.sheetnames:
         if sn not in SHEET_SLUGS: continue
