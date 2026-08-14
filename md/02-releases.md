@@ -1,6 +1,6 @@
 # 新作リリースログ
 
-_最終更新: 2026-08-14 07:52_
+_最終更新: 2026-08-14 18:11_
 
 | 発売日 | タイトル | 開発 | パブリッシャー | プラットフォーム | ジャンル | Metacritic | OpenCritic | Steam同接ピーク | 初週推定本数 | 話題度(1-5) | 感想/メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -14,6 +14,7 @@ _最終更新: 2026-08-14 07:52_
 | 2026-08-06 | Lies of P: コンプリートエディション（Lies of P: Complete Edition）Nintendo Switch 2版 | NEOWIZ / Round8 Studio | NEOWIZ | Nintendo Switch 2 | ソウルライクARPG |  |  |  |  | 3 | 【来週分】ソウルライク人気作＋DLC「Overture」同梱のコンプリート版がNS2に対応。 | https://www.famitsu.com/schedule |
 | 2026-08-04 | ビースト・オブ・リィンカーネーション（Beast of Reincarnation） | ゲームフリーク（GAME FREAK） | Happinet／Fictions | PS5/Xbox/PC(Steam) | アクションRPG | PC 72 / PS5 73 |  |  |  | 4 | 2026-08-04発売。ゲームフリーク完全新作IP。西暦4026年の終末世界の日本が舞台。Metacritic PC72/PS5 73でmixed（戦闘が「slick」と「uninspired」で評価二分）。ファミ通レビューはパリィ×連携の爽快アクションを好評。 | https://www.metacritic.com/game/beast-of-reincarnation/ |
 | 2026-08-04 | ファイナルファンタジーXIV（FINAL FANTASY XIV）Nintendo Switch 2版 | スクウェア・エニックス | スクウェア・エニックス | Nintendo Switch 2 | MMORPG |  |  |  |  | 3 | 【来週分】人気MMORPGのNintendo Switch 2版が新規プラットフォームとして登場。 | https://www.famitsu.com/schedule |
+| 2026-08-04 | Beast of Reincarnation（ビースト・オブ・リンカネーション） | ゲームフリーク（Game Freak） | ゲームフリーク（Game Freak） | PS5 / Xbox Series X\|S / PC(Steam) | アクションRPG | 73 |  |  |  | 4 | ゲームフリークの完全新作アクションRPG。少女エマともふデカ狼クゥの終末世界二人旅。PS5版Metacritic73（賛否両論、49レビュー中肯定25/賛否24/否定0）。パリィ連携戦闘と雰囲気は高評価、物語の起伏の弱さと後半のボス再戦続き・PC版動作に課題との声。 | https://www.metacritic.com/game/beast-of-reincarnation/ |
 | 2026-07-30 | ゼノブレイド2 Nintendo Switch 2 Edition（Xenoblade2 NS2 Edition） | モノリスソフト | 任天堂 | Nintendo Switch 2 / Nintendo Switch | RPG |  |  |  |  | 4 | 今週リリース（DL版・アップグレードパス配信開始／パッケージ版は10/1）。新レアブレイド「M.O.M.O.」（ゼノサーガ）、ホムラ＆ヒカリ新衣装、ブレイドを操作する新モードを追加。DL/パッケージ¥9,778、アップグレードパス¥1,000。 | https://www.famitsu.com/article/202607/82817 |
 | 2026-07-30 | BLUE REFLECTION Quartet: 少女たちのキセキ（BLUE REFLECTION Quartet） | ガスト | コーエーテクモゲームス | PS5 / Switch 2 / Switch / PC(Steam) | RPG/アドベンチャー |  |  |  |  | 3 | 今週リリース。ゲーム・TVアニメ・サービス終了済みスマホ作を含む「BLUE REFLECTION」シリーズ全4作を1本に集約。通常版¥7,480（税込）。 | https://www.nintendo.com/us/store/products/blue-reflection-quartet-switch-2/ |
 | 2026-07-28 | Halo: Campaign Evolved（ヘイロー：キャンペーン エボルブド） | Halo Studios | Xbox Game Studios | Xbox Series X\|S/PC/PS5 | FPS（初代Haloキャンペーンリメイク） |  |  |  |  | 4 | 初代Halo:CEキャンペーンのUE5フルリメイク。PS5にも展開。7/23から最大5日間の早期アクセス。 | https://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-6534941/ |

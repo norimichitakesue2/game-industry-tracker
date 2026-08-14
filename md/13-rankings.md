@@ -1,6 +1,6 @@
 # 週間ランキング
 
-_最終更新: 2026-08-14 07:52_
+_最終更新: 2026-08-14 18:11_
 
 ## 国内ファミ通
 
@@ -119,6 +119,21 @@ _最終更新: 2026-08-14 07:52_
 | 10 | アストロボット | PS5 | 3,460 | 103,717 |  | ファミ通.com 週販 https://www.famitsu.com/article/202606/78042 |  |
 
 ## Steamトップセラー
+
+### 2026-08-03〜08-09
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Apex Legends（エーペックスレジェンズ） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-3rd9th-of-august-2026 | 売上高ベース（Valve公式トップセラー）。ハードウェア（Steam Machine/Steam Controller）は除外し上位ゲーム10本を記載。Big Walk（House House新作）がNEWで上位、Apex Legendsが首位浮上。 |
+| 2 | Counter-Strike 2（カウンターストライク2） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-3rd9th-of-august-2026 | 売上高ベース（Valve公式トップセラー）。ハードウェア（Steam Machine/Steam Controller）は除外し上位ゲーム10本を記載。Big Walk（House House新作）がNEWで上位、Apex Legendsが首位浮上。 |
+| 3 | Big Walk（ビッグ・ウォーク） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-3rd9th-of-august-2026 | 売上高ベース（Valve公式トップセラー）。ハードウェア（Steam Machine/Steam Controller）は除外し上位ゲーム10本を記載。Big Walk（House House新作）がNEWで上位、Apex Legendsが首位浮上。 |
+| 4 | Dota 2 | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-3rd9th-of-august-2026 | 売上高ベース（Valve公式トップセラー）。ハードウェア（Steam Machine/Steam Controller）は除外し上位ゲーム10本を記載。Big Walk（House House新作）がNEWで上位、Apex Legendsが首位浮上。 |
+| 5 | Cyberpunk 2077（サイバーパンク2077） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-3rd9th-of-august-2026 | 売上高ベース（Valve公式トップセラー）。ハードウェア（Steam Machine/Steam Controller）は除外し上位ゲーム10本を記載。Big Walk（House House新作）がNEWで上位、Apex Legendsが首位浮上。 |
+| 6 | IRON NEST: Heavy Turret Simulator（アイアン・ネスト：ヘビー・タレット・シミュレーター） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-3rd9th-of-august-2026 | 売上高ベース（Valve公式トップセラー）。ハードウェア（Steam Machine/Steam Controller）は除外し上位ゲーム10本を記載。Big Walk（House House新作）がNEWで上位、Apex Legendsが首位浮上。 |
+| 7 | Tom Clancy's Ghost Recon Wildlands（ゴーストリコン ワイルドランズ） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-3rd9th-of-august-2026 | 売上高ベース（Valve公式トップセラー）。ハードウェア（Steam Machine/Steam Controller）は除外し上位ゲーム10本を記載。Big Walk（House House新作）がNEWで上位、Apex Legendsが首位浮上。 |
+| 8 | ReStory: Chill Electronics Repairs（リストーリー） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-3rd9th-of-august-2026 | 売上高ベース（Valve公式トップセラー）。ハードウェア（Steam Machine/Steam Controller）は除外し上位ゲーム10本を記載。Big Walk（House House新作）がNEWで上位、Apex Legendsが首位浮上。 |
+| 9 | Palworld（パルワールド） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-3rd9th-of-august-2026 | 売上高ベース（Valve公式トップセラー）。ハードウェア（Steam Machine/Steam Controller）は除外し上位ゲーム10本を記載。Big Walk（House House新作）がNEWで上位、Apex Legendsが首位浮上。 |
+| 10 | Marvel Rivals（マーベル・ライバルズ） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-3rd9th-of-august-2026 | 売上高ベース（Valve公式トップセラー）。ハードウェア（Steam Machine/Steam Controller）は除外し上位ゲーム10本を記載。Big Walk（House House新作）がNEWで上位、Apex Legendsが首位浮上。 |
 
 ### 2026-07-27〜08-02
 
@@ -239,6 +254,16 @@ _最終更新: 2026-08-14 07:52_
 | 10 | EA Sports FC 26 | PC(Steam) |  |  |  | Steam週間グローバルトップセラー(売上額順・F2P除く) https://www.vgchartz.com/article/468148/steam-weekly-week-24-2026/ |  |
 
 ## PS DL
+
+### 2026-07 (月間)
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Call of Duty: Black Ops II | PS5 |  |  |  | https://blog.ja.playstation.com/2026/08/14/20260814-monthly-ps-store-ranking-s/ , https://gamebiz.jp/news/431083 | 2026年7月PS Storeダウンロードランキング（国内PS5）。週間ランキングが無いため月間で代替。1位はPS5/PS4対応版として配信の『CoD: Black Ops II』、正式リリースの『パルワールド』が2位、『プロ野球スピリッツ2026』3位。 |
+| 2 | Palworld / パルワールド | PS5 |  |  |  | https://blog.ja.playstation.com/2026/08/14/20260814-monthly-ps-store-ranking-s/ , https://gamebiz.jp/news/431083 | 2026年7月PS Storeダウンロードランキング（国内PS5）。週間ランキングが無いため月間で代替。1位はPS5/PS4対応版として配信の『CoD: Black Ops II』、正式リリースの『パルワールド』が2位、『プロ野球スピリッツ2026』3位。 |
+| 3 | プロ野球スピリッツ2026 | PS5 |  |  |  | https://blog.ja.playstation.com/2026/08/14/20260814-monthly-ps-store-ranking-s/ , https://gamebiz.jp/news/431083 | 2026年7月PS Storeダウンロードランキング（国内PS5）。週間ランキングが無いため月間で代替。1位はPS5/PS4対応版として配信の『CoD: Black Ops II』、正式リリースの『パルワールド』が2位、『プロ野球スピリッツ2026』3位。 |
+| 4 | Echoes of Aincrad | PS5 |  |  |  | https://blog.ja.playstation.com/2026/08/14/20260814-monthly-ps-store-ranking-s/ , https://gamebiz.jp/news/431083 | 2026年7月PS Storeダウンロードランキング（国内PS5）。週間ランキングが無いため月間で代替。1位はPS5/PS4対応版として配信の『CoD: Black Ops II』、正式リリースの『パルワールド』が2位、『プロ野球スピリッツ2026』3位。 |
+| 5 | アサシン クリード ブラック フラッグ RE:シンクロ | PS5 |  |  |  | https://blog.ja.playstation.com/2026/08/14/20260814-monthly-ps-store-ranking-s/ , https://gamebiz.jp/news/431083 | 2026年7月PS Storeダウンロードランキング（国内PS5）。週間ランキングが無いため月間で代替。1位はPS5/PS4対応版として配信の『CoD: Black Ops II』、正式リリースの『パルワールド』が2位、『プロ野球スピリッツ2026』3位。 |
 
 ### 2026-06 (月間)
 
