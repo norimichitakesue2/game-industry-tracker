@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-08-14 18:11_
+_最終更新: 2026-08-15 07:24_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -9,6 +9,7 @@ _最終更新: 2026-08-14 18:11_
 | 2026-12-10 |  | The Game Awards 2026 (TGA) | ショーケース | 米LA(Peacock Theater)/配信 | 授賞式＋配信 | 年間ゲーム表彰と多数の新作発表。GOTYほか。GTA6発売直後の注目回。 | https://thegameawards.com/ | 開催予定 | 2026-06-17 |
 | 2026-11-08 |  | デジゲー博2026 | 展示会 | 秋葉原UDX(東京) | オフライン | 同人・インディーゲームオンリーの展示・即売会。14回目。サークル参加受付は7/22開始。実験的な個人開発作が多数。 | https://digigame-expo.org/ | 開催予定 | 2026-06-21 |
 | 2026-10-31 |  | 東京ゲームダンジョン14 | 展示会 | 東京・浜松町 | オフライン | 東京ゲームダンジョンの2026年秋回。インディー/個人開発の新作プレイアブル展示が中心。 | https://tokyogamedungeon.com/ | 開催予定 | 2026-06-21 |
+| 2026-10-30 | 2027-01-07 | Snow Man DOME TOUR 2026-2027 ALL SUITE | ライブ・フェス | 全国5大ドーム(札幌/名古屋/福岡/東京/大阪) | リアル | 5大ドーム計18公演。6thアルバム『AMENITY』(10/7)と連動。年末年始のライブ需要を取り込む大型ツアー | https://news.yahoo.co.jp/articles/d2915d2ef2642566fceed9c012f79d84982b01ef | 開催予定 | 2026-08-15 |
 | 2026-10-19 | 2026-10-26 | Steam Next Fest(10月版) | セール/デモ | オンライン(Steam) | 体験版一斉解禁 | 発売前タイトルの体験版を一斉公開する需要喚起イベント。秋セール直前。6月版と同パターン。 | https://store.steampowered.com/sale/nextfest | 開催予定 | 2026-06-17 |
 | 2026-10-15 | 2026-11-14 | LoL World Championship 2026 (Worlds) | eスポーツ | 米国(LA/Allen TX/NY) | オフライン大会 | LoL世界大会。決勝11/14・ブルックリンBarclays Center。米国3都市を巡回。 | https://en.wikipedia.org/wiki/2026_League_of_Legends_World_Championship | 開催予定 | 2026-06-17 |
 | 2026-10-01 |  | Steam オータムセール 2026 | セール | オンライン | オンライン | Valveが7/16に公開した2027年上半期までの日程の一部。10/1開始。 | https://news.denfaminicogamer.jp/news/260716e | 開催予定 | 2026-07-20 |
@@ -17,7 +18,7 @@ _最終更新: 2026-08-14 18:11_
 | 2026-09-17 | 2026-09-21 | 東京ゲームショウ2026 (TGS) | 展示会 | 幕張メッセ | オフライン展示会 | 30周年・会期5日間に拡大。ビジネスデー9/17-18、一般公開9/19-21。国内最大の総合見本市。 | https://events.nikkeibp.co.jp/tgs/2026/en/ | 開催予定 | 2026-06-17 |
 | 2026-08-26 | 2026-08-30 | gamescom 2026 | 展示会 | 独ケルン(Koelnmesse) | オフライン展示会 | 欧州最大級のゲーム見本市。前夜祭ONLは8/25。出展・商談・一般来場。 ／ 2026は史上初の全出展枠が完売。Xbox25本試遊、任天堂・Ubisoft・CDPR・Capcom等出展。 | https://www.gamescom.global/en | 開催予定 | 2026-08-09 |
 | 2026-08-25 |  | gamescom Opening Night Live 2026 | ショーケース | 独ケルン/配信 | 配信イベント | gamescom開幕前夜の大型新作発表配信(Geoff Keighley司会)。秋〜冬商戦タイトルが集中露出。 ／ 2026は史上初の全出展枠が完売。Xbox25本試遊、任天堂・Ubisoft・CDPR・Capcom等出展。 | https://www.gamescom.global/en | 開催予定 | 2026-08-09 |
-| 2026-08-14 | 2026-08-16 | SUMMER SONIC 2026 | ライブ・フェス | 東京(ZOZOマリン/幕張)・大阪(万博記念公園) | オフライン | Ado・L'Arc〜en〜Ciel・The Strokesらがヘッドライナー。国内最大級の都市型フェス | https://www.summersonic.com/ | 開催中 | 2026-08-14 |
+| 2026-08-14 | 2026-08-16 | SUMMER SONIC 2026 | ライブ・フェス | 東京(ZOZOマリン/幕張)・大阪(万博記念公園) | オフライン | Ado・L'Arc〜en〜Ciel・The Strokesらがヘッドライナー。国内最大級の都市型フェス | https://www.summersonic.com/ | 開催中 | 2026-08-15 |
 | 2026-08-08 |  | 東京ゲームダンジョン13 | 展示会 | 東京・浜松町(都立産業貿易センター) | オフライン | 個人・インディー開発者中心の同人/インディーゲーム展示会。先着順出展で個人開発に寄り添う運営方針。 | https://tokyogamedungeon.com/ | 終了 | 2026-08-09 |
 | 2026-07-24 | 2026-07-26 | FUJI ROCK FESTIVAL '26 | ライブ・フェス | 新潟・苗場スキー場 | リアル＋配信(Amazon独占) | The xx・Khruangbin・藤井風・XG等70組超。Amazon Music/Prime Video/Twitchで全世界無料独占ライブ配信（Prime非会員も視聴可） | https://www.aboutamazon.jp/news/entertainment/fuji-rock-festival-26%E3%82%92prime-video%E3%81%A8twitch%E3%81%A7%E7%8B%AC%E5%8D%A0%E3%83%A9%E3%82%A4%E3%83%96%E9%85%8D%E4%BF%A1 | 終了 | 2026-07-27 |
 | 2026-07-23 | 2026-07-26 | サンディエゴ・コミコン2026 (SDCC) | 展示会 | 米・サンディエゴ | リアル | ガンダム新作『RG XARX-ZERO』等のパネル解禁。映画・アニメ・コミックの北米向け大型発表の場 | https://www.comic-con.org/ | 終了 | 2026-07-27 |
