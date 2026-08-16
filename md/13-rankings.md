@@ -1,6 +1,6 @@
 # 週間ランキング
 
-_最終更新: 2026-08-16 07:16_
+_最終更新: 2026-08-16 10:19_
 
 ## 国内ファミ通
 
@@ -264,6 +264,11 @@ _最終更新: 2026-08-16 07:16_
 | 3 | プロ野球スピリッツ2026 | PS5 |  |  |  | https://blog.ja.playstation.com/2026/08/14/20260814-monthly-ps-store-ranking-s/ , https://gamebiz.jp/news/431083 | 2026年7月PS Storeダウンロードランキング（国内PS5）。週間ランキングが無いため月間で代替。1位はPS5/PS4対応版として配信の『CoD: Black Ops II』、正式リリースの『パルワールド』が2位、『プロ野球スピリッツ2026』3位。 |
 | 4 | Echoes of Aincrad | PS5 |  |  |  | https://blog.ja.playstation.com/2026/08/14/20260814-monthly-ps-store-ranking-s/ , https://gamebiz.jp/news/431083 | 2026年7月PS Storeダウンロードランキング（国内PS5）。週間ランキングが無いため月間で代替。1位はPS5/PS4対応版として配信の『CoD: Black Ops II』、正式リリースの『パルワールド』が2位、『プロ野球スピリッツ2026』3位。 |
 | 5 | アサシン クリード ブラック フラッグ RE:シンクロ | PS5 |  |  |  | https://blog.ja.playstation.com/2026/08/14/20260814-monthly-ps-store-ranking-s/ , https://gamebiz.jp/news/431083 | 2026年7月PS Storeダウンロードランキング（国内PS5）。週間ランキングが無いため月間で代替。1位はPS5/PS4対応版として配信の『CoD: Black Ops II』、正式リリースの『パルワールド』が2位、『プロ野球スピリッツ2026』3位。 |
+| 6 | Call of Duty: Black Ops | PS5 |  |  |  | https://blog.ja.playstation.com/2026/08/14/20260814-monthly-ps-store-ranking-s/ , https://gamebiz.jp/news/431083 | 2026年7月PS Storeダウンロードランキング（国内PS5）。週間ランキングが無いため月間で代替。トップ10まで記録。 |
+| 7 | EA SPORTS FC 26 | PS5 |  |  |  | https://blog.ja.playstation.com/2026/08/14/20260814-monthly-ps-store-ranking-s/ , https://gamebiz.jp/news/431083 | 2026年7月PS Storeダウンロードランキング（国内PS5）。週間ランキングが無いため月間で代替。トップ10まで記録。 |
+| 8 | がんばれゴエモン大集合！ | PS5 |  |  |  | https://blog.ja.playstation.com/2026/08/14/20260814-monthly-ps-store-ranking-s/ , https://gamebiz.jp/news/431083 | 2026年7月PS Storeダウンロードランキング（国内PS5）。週間ランキングが無いため月間で代替。トップ10まで記録。 |
+| 9 | 亰都ザナドゥ -桜花幻舞- | PS5 |  |  |  | https://blog.ja.playstation.com/2026/08/14/20260814-monthly-ps-store-ranking-s/ , https://gamebiz.jp/news/431083 | 2026年7月PS Storeダウンロードランキング（国内PS5）。週間ランキングが無いため月間で代替。トップ10まで記録。 |
+| 10 | FINAL FANTASY VII REBIRTH | PS5 |  |  |  | https://blog.ja.playstation.com/2026/08/14/20260814-monthly-ps-store-ranking-s/ , https://gamebiz.jp/news/431083 | 2026年7月PS Storeダウンロードランキング（国内PS5）。週間ランキングが無いため月間で代替。トップ10まで記録。 |
 
 ### 2026-06 (月間)
 
