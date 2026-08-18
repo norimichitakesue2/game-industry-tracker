@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-08-18 07:27_
+_最終更新: 2026-08-19 07:15_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -18,10 +18,11 @@ _最終更新: 2026-08-18 07:27_
 | 2026-09-17 | 2026-09-21 | 東京ゲームショウ2026 (TGS) | 展示会 | 幕張メッセ | オフライン展示会 | 30周年・会期5日間に拡大。ビジネスデー9/17-18、一般公開9/19-21。国内最大の総合見本市。 | https://events.nikkeibp.co.jp/tgs/2026/en/ | 開催予定 | 2026-06-17 |
 | 2026-08-26 | 2026-08-30 | gamescom 2026 | 展示会 | 独ケルン(Koelnmesse) | オフライン展示会 | 欧州最大級のゲーム見本市。前夜祭ONLは8/25。出展・商談・一般来場。 ／ 2026は史上初の全出展枠が完売。Xbox25本試遊、任天堂・Ubisoft・CDPR・Capcom等出展。 | https://www.gamescom.global/en | 開催予定 | 2026-08-09 |
 | 2026-08-25 |  | gamescom Opening Night Live 2026 | ショーケース | 独ケルン/配信 | 配信イベント | gamescom開幕前夜の大型新作発表配信(Geoff Keighley司会)。秋〜冬商戦タイトルが集中露出。 ／ 2026は史上初の全出展枠が完売。Xbox25本試遊、任天堂・Ubisoft・CDPR・Capcom等出展。 | https://www.gamescom.global/en | 開催予定 | 2026-08-09 |
-| 2026-08-18 | 2026-08-18 | PlayStation State of Play (Phantom Blade Zero) | ショーケース | オンライン | 配信 | 『Phantom Blade Zero』実機20分。予約開始・10/29発売決定 | https://blog.playstation.com/2026/08/11/watch-the-phantom-blade-zero-gameplay-deep-dive-state-of-play-on-august-17-pre-orders-live-today/ | 開催中 | 2026-08-18 |
+| 2026-08-18 | 2026-08-18 | PlayStation State of Play (Phantom Blade Zero) | ショーケース | オンライン | 配信 | 『Phantom Blade Zero』実機20分。予約開始・10/29発売決定 | https://blog.playstation.com/2026/08/11/watch-the-phantom-blade-zero-gameplay-deep-dive-state-of-play-on-august-17-pre-orders-live-today/ | 終了 | 2026-08-19 |
 | 2026-08-15 | 2026-08-16 | コミックマーケット108 (C108) | 展示会 | 東京ビッグサイト(東京国際展示場) | リアル | 世界最大級の同人誌即売会。C108は50周年の節目で企業ブース(KADOKAWA/ホロライブ/バンドリ!等)も多数出展。エンタメ各社の新作告知・限定物販の定点。 | https://www.comiket.co.jp/ | 終了 | 2026-08-17 |
 | 2026-08-14 | 2026-08-16 | SUMMER SONIC 2026 | ライブ・フェス | 東京(ZOZOマリン/幕張)・大阪(万博記念公園) | オフライン | Ado・L'Arc〜en〜Ciel・The Strokesらがヘッドライナー。国内最大級の都市型フェス | https://www.summersonic.com/ | 終了 | 2026-08-17 |
 | 2026-08-14 | 2026-08-17 | Busan Indie Connect Festival 2026 (BIC2026) | 展示会 | 釜山(韓国) | 現地 | 応募総数が過去最大を更新。41の国と地域から180作品以上が展示 | https://www.4gamer.net/ | 終了 | 2026-08-18 |
+| 2026-08-14 | 2026-08-16 | D23 2026 (The Ultimate Disney Fan Event) | 展示会 | 米・アナハイム | オフライン | ディズニー公式ファンイベント。映画部門で『アナ雪3』『リメンバー・ミー2』『ズートピア3』『ラプンツェル実写』等を発表 | https://thewaltdisneycompany.com/news/d23-2026-disney-entertainment-showcase/ | 終了 | 2026-08-19 |
 | 2026-08-08 |  | 東京ゲームダンジョン13 | 展示会 | 東京・浜松町(都立産業貿易センター) | オフライン | 個人・インディー開発者中心の同人/インディーゲーム展示会。先着順出展で個人開発に寄り添う運営方針。 | https://tokyogamedungeon.com/ | 終了 | 2026-08-09 |
 | 2026-07-24 | 2026-07-26 | FUJI ROCK FESTIVAL '26 | ライブ・フェス | 新潟・苗場スキー場 | リアル＋配信(Amazon独占) | The xx・Khruangbin・藤井風・XG等70組超。Amazon Music/Prime Video/Twitchで全世界無料独占ライブ配信（Prime非会員も視聴可） | https://www.aboutamazon.jp/news/entertainment/fuji-rock-festival-26%E3%82%92prime-video%E3%81%A8twitch%E3%81%A7%E7%8B%AC%E5%8D%A0%E3%83%A9%E3%82%A4%E3%83%96%E9%85%8D%E4%BF%A1 | 終了 | 2026-07-27 |
 | 2026-07-23 | 2026-07-26 | サンディエゴ・コミコン2026 (SDCC) | 展示会 | 米・サンディエゴ | リアル | ガンダム新作『RG XARX-ZERO』等のパネル解禁。映画・アニメ・コミックの北米向け大型発表の場 | https://www.comic-con.org/ | 終了 | 2026-07-27 |
@@ -31,7 +32,7 @@ _最終更新: 2026-08-18 07:27_
 | 2026-07-15 |  | 第175回 芥川龍之介賞・直木三十五賞 選考会・発表 | 映画祭・賞 | 東京 | リアル | 芥川賞=小砂川チト『ゾンビ回収婦』(講談社)、直木賞=朝倉かすみ『けんぐゎい』(光文社)。受賞作は増刷・映像化打診の起点となり、下期文芸売上を左右する。 | https://news.web.nhk/newsweb/na/na-k10015176901000 | 終了 | 2026-07-20 |
 | 2026-07-11 |  | MSI 2026（LoL Mid-Season Invitational）ファイナル | eスポーツ | 韓国・大田(Daejeon) | オフライン | 『LoL』シーズン中盤の国際大会の決勝。会場で復刻モード『League of Legends Classic』の詳細発表が予定されている。 | https://www.4gamer.net/games/073/G007372/20260627007/ | 終了 | 2026-07-16 |
 | 2026-07-10 | 2026-07-12 | bilibili World 2026 | 展示会 | 上海（国家会展中心） | オフライン | 中国最大級のサブカル/ゲーム展。世界130社が出展、Black Myth陣営やTotal War新作、Kevin Feige登壇。 | https://www.invenglobal.com/articles/23379/bilibili-world-2026-a-subculture-hub-featuring-kevin-feige | 終了 | 2026-07-13 |
-| 2026-07-06 | 2026-08-23 | Esports World Cup 2026 | eスポーツ | 仏パリ(Paris Expo Porte de Versailles) | オフライン大会(7週間) | リヤドから移転し史上初の国外(パリ)開催。7/8にラ・セーヌ・ミュジカルで開幕セレモニー、競技は7/9〜。賞金総額7,500万ドル・24競技25種目。ソニーが技術・放送パートナーシップを拡大(7/2発表)。 | https://en.wikipedia.org/wiki/2026_Esports_World_Cup | 開催中 | 2026-08-16 |
+| 2026-07-06 | 2026-08-23 | Esports World Cup 2026 | eスポーツ | 仏パリ(Paris Expo Porte de Versailles) | オフライン大会(7週間) | リヤドから移転し史上初の国外(パリ)開催。7/8にラ・セーヌ・ミュジカルで開幕セレモニー、競技は7/9〜。賞金総額7,500万ドル・24競技25種目。ソニーが技術・放送パートナーシップを拡大(7/2発表)。 | https://en.wikipedia.org/wiki/2026_Esports_World_Cup | 開催中 | 2026-08-19 |
 | 2026-07-01 | 2026-08-01 | MLBB Mid Season Cup 2026 (MSC) | eスポーツ | EWC 2026連動（会場詳細は要確認） | オフライン大会 | MoontonのMLBB年央国際大会。賞金総額300万ドル。EWC 2026の枠組みと連動。ダブルイリミGS＋シングルイリミKOで8/1決勝。ワイルドカード7/1-4。 | https://liquipedia.net/mobilelegends/MSC/2026 | 終了 | 2026-08-02 |
 | 2026-06-30 |  | スプラトゥーン レイダース Direct 2026.6.30 | ショーケース | オンライン | 配信(約15分) | シリーズ初スピンオフ『スプラトゥーン レイダース』(Switch 2/7-23発売)の情報を公開。新主人公『メカニック』とすりみ連合の協力アクションADV。 | https://www.nintendo.com/jp/nintendo-direct/20260630/index.html | 終了 | 2026-07-01 |
 | 2026-06-26 | 2026-06-28 | EVO 2026 | eスポーツ | 米ラスベガス | オフライン大会 | 世界最大級の格闘ゲーム大会。スト6・鉄拳8等の頂上決戦と新作発表の場。 | https://attractmo.de/gaming-news/your-guide-to-every-major-gaming-event-in-2026 | 終了 | 2026-06-30 |
