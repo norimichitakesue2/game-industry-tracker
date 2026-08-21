@@ -1,15 +1,17 @@
 # 新作リリースログ
 
-_最終更新: 2026-08-21 09:06_
+_最終更新: 2026-08-21 19:09_
 
 | 発売日 | タイトル | 開発 | パブリッシャー | プラットフォーム | ジャンル | Metacritic | OpenCritic | Steam同接ピーク | 初週推定本数 | 話題度(1-5) | 感想/メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-28(予定) | Phantom Blade Zero（ファントムブレイドゼロ） | S-GAME | S-GAME / 505 Games | PC(Steam) / PS5 | 武侠アクション |  |  |  |  | 4 | 【注目・発売前】gamescom前後で先行予約が急増し、未発売ながらSteam週間トップセラー3位(8/10-16)にランクイン。UE5製の武侠アクション。製品版でMetascore付与見込み、要ウォッチ。 | https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/ |
 | 2026-09-25 | 鬼武者 Way of the Sword（おにむしゃ ウェイ・オブ・ザ・ソード） | カプコン | カプコン | PS5 / Xbox Series X\|S / PC(Steam) | 剣戟アクション |  |  |  |  | 4 | 【来月分】カプコンの人気剣戟アクション最新作。クリアー約20時間（ファミ通インタビュー）。2026-09-25発売予定。 | https://www.famitsu.com/article/202608/83267 |
 | 2026-08-28 | STAR WARS ゼロ・カンパニー（Star Wars Zero Company） | Bit Reactor / Respawn Entertainment | エレクトロニック・アーツ | PC / PS5 / Xbox Series X\|S | ターン制タクティクス |  |  |  |  | 4 | 【来月分】スター・ウォーズ題材のターン制タクティクスRPG。クローン戦争期を舞台にした部隊指揮型。 | https://www.famitsu.com/schedule |
 | 2026-08-28 | ELDEN RING Tarnished Edition（エルデンリング ターニッシュド・エディション）Nintendo Switch 2版 | フロム・ソフトウェア | バンダイナムコエンターテインメント | Nintendo Switch 2 | アクションRPG |  |  |  |  | 4 | 【来月分】「ELDEN RING」＋DLCを収録したNS2向けエディション。携帯機で本編を遊べる注目移植。 | https://www.famitsu.com/schedule |
 | 2026-08-27 | METAL GEAR SOLID: MASTER COLLECTION Vol.2 | KONAMI | KONAMI | PS5/Switch 2/Xbox/PC | アクション（コレクション） |  |  |  |  | 3 | 来月予定（評価系空欄）。MGSシリーズをまとめたマスターコレクション第2弾のボーナスコンテンツ含む展開。 | https://www.famitsu.com/schedule/all-platforms/202608 |
 | 2026-08-27 | キャプテン翼2 WORLD FIGHTERS（Captain Tsubasa 2: World Fighters） | KONAMI | KONAMI | PS5/Switch/Switch 2/PC | サッカーアクション |  |  |  |  | 3 | 来月予定（評価系空欄）。『キャプテン翼』題材のアクション最新作。 | https://www.famitsu.com/schedule/all-platforms/202608 |
-| 2026-08-20 | STEINS;GATE RE:BOOT（シュタインズ・ゲート リブート） | MAGES.（5pb.） | MAGES. | PS5 / Nintendo Switch 2 / PC(Steam) | 科学ADV |  |  |  |  | 3 | 【今月・来週分】人気科学アドベンチャー『シュタインズ・ゲート』のリブート作。2026-08-20発売予定。 | https://www.famitsu.com/schedule |
+| 2026-08-27 | メタルギア ソリッド マスターコレクション Vol.2（Metal Gear Solid Master Collection Vol.2） | KONAMI | KONAMI | PS5 / Switch / Switch2 / Xbox Series X\|S / PC(Steam) | ステルスアクション(復刻) |  |  |  |  | 3 | 【来週分】『MGS3』『MGS4』などを収録した復刻コレクション第2弾。8/27発売予定。 | https://www.famitsu.com/schedule |
+| 2026-08-20 | STEINS;GATE RE:BOOT（シュタインズ・ゲート リブート） | MAGES.（5pb.） | MAGES. | PS5 / Nintendo Switch 2 / PC(Steam) | 科学ADV |  |  |  |  | 3 | 【今月・来週分】人気科学アドベンチャー『シュタインズ・ゲート』のリブート作。2026-08-20発売予定。 ／[実績]2026-08-20発売。Steamレビュー『非常に好評』スタート。全6機種展開。 | https://www.famitsu.com/schedule |
 | 2026-08-07 | MARVEL Tōkon: Fighting Souls（マーベル・トウコン：ファイティング・ソウルズ） | アークシステムワークス（Arc System Works） | PlayStation / Marvel Games | PS5 / PC(Steam) | 対戦格闘（4対4タッグ） | 発売当日・集計中 |  |  |  | 4 | Marvel×アークシステムワークスの4v4タッグ対戦格闘。8/7発売（世界8/6 PT）。ローンチ評価は「フラッシーで間口が広い」と好意的だがMetacritic集計中。 | https://www.metacritic.com/game/marvel-tokon-fighting-souls/ |
 | 2026-08-06 | Lies of P: コンプリートエディション（Lies of P: Complete Edition）Nintendo Switch 2版 | NEOWIZ / Round8 Studio | NEOWIZ | Nintendo Switch 2 | ソウルライクARPG |  |  |  |  | 3 | 【来週分】ソウルライク人気作＋DLC「Overture」同梱のコンプリート版がNS2に対応。 | https://www.famitsu.com/schedule |
 | 2026-08-04 | ビースト・オブ・リィンカーネーション（Beast of Reincarnation） | ゲームフリーク（GAME FREAK） | Happinet／Fictions | PS5/Xbox/PC(Steam) | アクションRPG | PC 72 / PS5 73 |  |  |  | 4 | 2026-08-04発売。ゲームフリーク完全新作IP。西暦4026年の終末世界の日本が舞台。Metacritic PC72/PS5 73でmixed（戦闘が「slick」と「uninspired」で評価二分）。ファミ通レビューはパリィ×連携の爽快アクションを好評。 | https://www.metacritic.com/game/beast-of-reincarnation/ |
