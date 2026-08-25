@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-08-25 09:30_
+_最終更新: 2026-08-26 07:21_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -17,8 +17,9 @@ _最終更新: 2026-08-25 09:30_
 | 2026-09-23 |  | 『アベンジャーズ エンドゲーム アンコール』特別版 期間限定上映 | 発売・公開 | 全国 | リアル | 新映像を追加した特別版のリバイバル上映。次期『ドゥームズデイ』前の需要喚起 | https://eiga.com/news/20260730/11/ | 開催予定 | 2026-08-03 |
 | 2026-09-17 | 2026-09-21 | 東京ゲームショウ2026 (TGS) | 展示会 | 幕張メッセ | オフライン展示会 | 30周年・会期5日間に拡大。ビジネスデー9/17-18、一般公開9/19-21。国内最大の総合見本市。 | https://events.nikkeibp.co.jp/tgs/2026/en/ | 開催予定 | 2026-06-17 |
 | 2026-09-17 | 2026-09-21 | 東京ゲームショウ2026 | 展示会 | 幕張メッセ | リアル+配信 | 史上初5日間・30周年。759社/51の国と地域が出展 | https://gamebiz.jp/news/420741 | 開催予定 | 2026-08-25 |
-| 2026-08-26 | 2026-08-30 | gamescom 2026 | 展示会 | 独ケルン(Koelnmesse) | オフライン展示会 | 欧州最大級のゲーム見本市。前夜祭ONLは8/25。出展・商談・一般来場。 ／ 2026は史上初の全出展枠が完売。Xbox25本試遊、任天堂・Ubisoft・CDPR・Capcom等出展。 | https://www.gamescom.global/en | 開催予定 | 2026-08-09 |
-| 2026-08-25 |  | gamescom Opening Night Live 2026 | ショーケース | 独ケルン/配信 | 配信イベント | gamescom開幕前夜の大型新作発表配信(Geoff Keighley司会)。秋〜冬商戦タイトルが集中露出。 ／ 2026は史上初の全出展枠が完売。Xbox25本試遊、任天堂・Ubisoft・CDPR・Capcom等出展。 | https://www.gamescom.global/en | 開催予定 | 2026-08-09 |
+| 2026-09-02 | 2026-09-12 | 第82回 ヴェネツィア国際映画祭 2026 | 映画祭・賞 | ヴェネツィア(伊) | リアル | 秋の賞レース号砲。開幕作はダニー・ボイル『Ink』、巨匠作がコンペに集結 | https://www.screendaily.com/news/venice-film-festival-reveals-2026-lineup/5218820.article | 開催予定 | 2026-08-26 |
+| 2026-08-26 | 2026-08-30 | gamescom 2026 | 展示会 | 独ケルン(Koelnmesse) | オフライン展示会 | 欧州最大級のゲーム見本市。前夜祭ONLは8/25。出展・商談・一般来場。 ／ 2026は史上初の全出展枠が完売。Xbox25本試遊、任天堂・Ubisoft・CDPR・Capcom等出展。 | https://www.gamescom.global/en | 開催中 | 2026-08-26 |
+| 2026-08-25 |  | gamescom Opening Night Live 2026 | ショーケース | 独ケルン/配信 | 配信イベント | gamescom開幕前夜の大型新作発表配信(Geoff Keighley司会)。秋〜冬商戦タイトルが集中露出。 ／ 2026は史上初の全出展枠が完売。Xbox25本試遊、任天堂・Ubisoft・CDPR・Capcom等出展。 | https://www.gamescom.global/en | 終了 | 2026-08-26 |
 | 2026-08-25 | 2026-08-30 | gamescom 2026 / Opening Night Live | 展示会 | ケルン(独) | リアル+配信 | 欧州最大級ゲーム展示会。ONLで新作を世界初公開 | https://www.gamescom.global/en/event/gamescom-opening-night-live-2026 | 開催中 | 2026-08-25 |
 | 2026-08-18 | 2026-08-18 | PlayStation State of Play (Phantom Blade Zero) | ショーケース | オンライン | 配信 | 『Phantom Blade Zero』実機20分。予約開始・10/29発売決定 | https://blog.playstation.com/2026/08/11/watch-the-phantom-blade-zero-gameplay-deep-dive-state-of-play-on-august-17-pre-orders-live-today/ | 終了 | 2026-08-19 |
 | 2026-08-15 | 2026-08-16 | コミックマーケット108 (C108) | 展示会 | 東京ビッグサイト(東京国際展示場) | リアル | 世界最大級の同人誌即売会。C108は50周年の節目で企業ブース(KADOKAWA/ホロライブ/バンドリ!等)も多数出展。エンタメ各社の新作告知・限定物販の定点。 | https://www.comiket.co.jp/ | 終了 | 2026-08-17 |

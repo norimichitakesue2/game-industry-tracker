@@ -1,10 +1,10 @@
 # エンタメ業界・時事情報収集
 
-_最終更新: 2026-08-25 09:30_
+_最終更新: 2026-08-26 07:21_
 
 ## シート一覧
 
-- [日次ニュース](md/01-daily-news.md) (831行)
+- [日次ニュース](md/01-daily-news.md) (847行)
 - [新作リリースログ](md/02-releases.md) (60行)
 - [IP・タイトルウォッチ](md/03-ip-watch.md) (58行)
 - [企業分析（国内）](md/04-companies-jp.md) (12行)
@@ -12,15 +12,15 @@ _最終更新: 2026-08-25 09:30_
 - [四半期決算サマリ](md/06-earnings.md) (15行)
 - [業界トレンド・技術](md/07-trends.md) (15行)
 - [インディー注目](md/08-indie.md) (19行)
-- [今後起きそうなこと](md/09-future.md) (62行)
+- [今後起きそうなこと](md/09-future.md) (63行)
 - [掘り下げ・分析](md/10-deep-dive.md) (62行)
 - [業界マトリクス](md/11-matrix.md) (36行)
-- [横断的問い](md/12-cross-questions.md) (142行)
+- [横断的問い](md/12-cross-questions.md) (144行)
 - [週間ランキング](md/13-rankings.md) (198行)
-- [イベントカレンダー](md/14-events.md) (41行)
-- [ゲームデザイン・トレンド](md/15-game-design.md) (16行)
+- [イベントカレンダー](md/14-events.md) (42行)
+- [ゲームデザイン・トレンド](md/15-game-design.md) (17行)
 - [デザイン派生系統](md/16-design-lineage.md) (39行)
-- [メディアミックス追跡](md/17-media-mix.md) (41行)
+- [メディアミックス追跡](md/17-media-mix.md) (44行)
 - [【映画】作品ウォッチ](md/20-movie-works.md) (13行)
 - [【映画】企業・スタジオ](md/21-movie-companies.md) (14行)
 - [【映画】公開・興行](md/22-movie-releases.md) (16行)
