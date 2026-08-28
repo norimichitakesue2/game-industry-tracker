@@ -1,8 +1,23 @@
 # 週間ランキング
 
-_最終更新: 2026-08-28 08:32_
+_最終更新: 2026-08-28 21:26_
 
 ## 国内ファミ通
+
+### 2026-08-17〜08-23
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | リズム天国 ミラクルスターズ | Switch | 37,402 |  |  | ファミ通.com ゲームソフト週間販売本数ランキング(8/17-8/23) | 5度目の首位 |
+| 2 | スプラトゥーン レイダース | Switch2 | 13,224 |  |  | ファミ通.com ゲームソフト週間販売本数ランキング(8/17-8/23) |  |
+| 3 | トモダチコレクション わくわく生活 | Switch | 12,558 |  |  | ファミ通.com ゲームソフト週間販売本数ランキング(8/17-8/23) |  |
+| 4 | シュタインズ・ゲート リブート | Switch2 | 7,613 |  |  | ファミ通.com ゲームソフト週間販売本数ランキング(8/17-8/23) | 3機種同時トップ10入り |
+| 5 | シュタインズ・ゲート リブート | PS5 | 4,002 |  |  | ファミ通.com ゲームソフト週間販売本数ランキング(8/17-8/23) |  |
+| 6 | Minecraft | Switch | 3,953 |  |  | ファミ通.com ゲームソフト週間販売本数ランキング(8/17-8/23) |  |
+| 7 | パワフルプロ野球2026-2027 | Switch | 3,718 |  |  | ファミ通.com ゲームソフト週間販売本数ランキング(8/17-8/23) |  |
+| 8 | ぽこ あ ポケモン | Switch2 | 3,701 |  |  | ファミ通.com ゲームソフト週間販売本数ランキング(8/17-8/23) |  |
+| 9 | シュタインズ・ゲート リブート | Switch | 3,538 |  |  | ファミ通.com ゲームソフト週間販売本数ランキング(8/17-8/23) |  |
+| 10 | Starsand Island | Switch2 | 3,415 |  |  | ファミ通.com ゲームソフト週間販売本数ランキング(8/17-8/23) | 農場生活SLG |
 
 ### 2026-08-03〜08-16
 
@@ -134,6 +149,21 @@ _最終更新: 2026-08-28 08:32_
 | 10 | アストロボット | PS5 | 3,460 | 103,717 |  | ファミ通.com 週販 https://www.famitsu.com/article/202606/78042 |  |
 
 ## Steamトップセラー
+
+### 2026-08-18〜08-25
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Counter-Strike 2 | PC(Steam) |  |  |  | SteamDB 週間グローバルトップセラー(収益ベース) https://steamdb.info/topsellers/ | 無料/収益ベース首位 |
+| 2 | How to Fish | PC(Steam) |  |  |  | SteamDB 週間グローバルトップセラー(収益ベース) https://steamdb.info/topsellers/ | 小規模スタジオの釣りゲーが2位 |
+| 3 | Call of Duty: Modern Warfare 4 | PC(Steam) |  |  |  | SteamDB 週間グローバルトップセラー(収益ベース) https://steamdb.info/topsellers/ | 10/23発売の予約段階でランクイン |
+| 4 | Mortal Shell II | PC(Steam) |  |  |  | SteamDB 週間グローバルトップセラー(収益ベース) https://steamdb.info/topsellers/ | 8/20発売のソウルライク続編 |
+| 5 | WARDOGS | PC(Steam) |  |  |  | SteamDB 週間グローバルトップセラー(収益ベース) https://steamdb.info/topsellers/ | 9/10発売の予約段階でランクイン |
+| 6 | Apex Legends | PC(Steam) |  |  |  | SteamDB 週間グローバルトップセラー(収益ベース) https://steamdb.info/topsellers/ | 無料 |
+| 7 | Dota 2 | PC(Steam) |  |  |  | SteamDB 週間グローバルトップセラー(収益ベース) https://steamdb.info/topsellers/ | 無料 |
+| 8 | S.T.A.L.K.E.R. 2: Heart of Chornobyl | PC(Steam) |  |  |  | SteamDB 週間グローバルトップセラー(収益ベース) https://steamdb.info/topsellers/ |  |
+| 9 | HELLDIVERS 2 | PC(Steam) |  |  |  | SteamDB 週間グローバルトップセラー(収益ベース) https://steamdb.info/topsellers/ |  |
+| 10 | Marvel Rivals | PC(Steam) |  |  |  | SteamDB 週間グローバルトップセラー(収益ベース) https://steamdb.info/topsellers/ | 無料 |
 
 ### 2026-08-10〜08-16
 
