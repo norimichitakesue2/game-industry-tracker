@@ -1,6 +1,6 @@
 # 【音楽】リリース・チャート
 
-_最終更新: 2026-09-04 07:25_
+_最終更新: 2026-09-04 20:28_
 
 | 集計日/発売日 | 区分 | タイトル/曲名 | アーティスト | レーベル | 形態 | チャート順位 | ストリーミング数 | 話題度(1-5) | メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -14,3 +14,5 @@ _最終更新: 2026-09-04 07:25_
 | 2026-08-19(付) | チャート | 『映画ちいかわ 人魚の島のひみつ』オリジナル・サウンドトラック | (サウンドトラック) |  | アルバム | Billboard JAPAN Hot Albums 総合1位 |  | 4 | 映画サントラの総合アルバム首位は『天気の子』(RADWIMPS)以来 約7年ぶり。CD 2,249枚(15位)ながらDL・ストリーミングで首位を獲得し初登場4週目で総合首位。映画本編も国内週末興行1位で、ちいかわが映画・音楽を横断して席巻。 | https://www.billboard-japan.com/d_news/detail/164616 |
 | 2026-08-19(付) | チャート | 島のうた (セイレーンver.) | (映画ちいかわ) |  | 配信シングル | Billboard JAPAN Heatseekers Songs 初登場1位 |  | 3 | 映画『ちいかわ』関連曲がチャートに続々ランクイン。総合Hot 100 TOP10の半数を関連曲が占める場面も。 | https://magazine.tunecore.co.jp/news/665827/ |
 | 2026-08-26(付) | チャート | Number_i 新曲(総合1位) | Number_i |  | デジタル/ストリーミング複合 | Billboard JAPAN Hot 100 1位 |  | 4 | Billboard JAPAN公式Xの速報で総合ソングチャート首位(2位 Mrs. GREEN APPLE、3位 HANA、4位 AKB48)。集計週・楽曲名の詳細は要確認。 | https://www.billboard-japan.com/charts/detail?a=hot100 |
+| 2026-09-02(付) | チャート/新譜 | 恋、はじめました。 |  |  | CD/デジタル/ストリーミング複合 | Billboard JAPAN Hot 100 1位 |  | 4 | 8/26発売の21stシングル表題曲が総合ソングチャート“JAPAN Hot 100”首位(集計2026-08-24〜08-30)。2位はRIIZE『Sunburst』。 | https://news.yahoo.co.jp/articles/cd49e6b1aa22491e74d352ab8356781cc89ecda1 |
+| 2026-09-05(付) | チャート | Choosin' Texas | Ella Langley |  | デジタル/ストリーミング/ラジオ複合 | Billboard Hot 100 (米) 1位 |  | 4 | 通算20週目(非連続)の首位。2026年最長首位かつ非ホリデー曲としてHot 100史上最長級の記録。 | https://www.billboard.com/charts/hot-100/ |

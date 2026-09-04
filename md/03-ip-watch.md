@@ -1,9 +1,10 @@
 # IP・タイトルウォッチ
 
-_最終更新: 2026-09-04 07:25_
+_最終更新: 2026-09-04 20:28_
 
 | IP/シリーズ名 | 権利元/開発 | 地域 | 直近動向 | 次回作情報 | シリーズ累計(万本) | ステータス | メモ | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 鬼武者（Onimusha）シリーズ | Capcom | 国内 | 完全新作『鬼武者 Way of the Sword』が2026-09-04にMetacritic86(PS5)/Switch2 89・OpenCritic86でシリーズトップ級評価。Steam同接44,000超で好スタート。 |  |  | アクティブ | 約20年ぶりのナンバリング級新作。売上・DLC・シリーズ再展開を要ウォッチ。 | 2026-09-04 |
 | Grand Theft Auto | Rockstar Games/Take-Two | 海外 | Take-Two/CEOがGTA VIの2026/11/19発売を再確認、追加延期を否定。8月下旬に拡張トレーラー公開、直前に大規模リーク(全マップ・映像)が流出しRockstarが声明 | Grand Theft Auto VI：2026/11/19発売予定(PS5/Xbox Series) |  | 発売目前 |  | 2026-08-31 |
 | Star Wars Zero Company（スター・ウォーズ ゼロ・カンパニー） | Lucasfilm Games / Bit Reactor（EA） | 海外/米国 | ターン制タクティクス『Zero Company』が2026-08-27にMetacritic86・OpenCritic88で発売。22年ぶりの高評価SWゲームとして好スタート。 |  |  | アクティブ | XCOM型の新規SW IP。DLC・続編・シリーズ化の可否を要ウォッチ。 | 2026-08-28 |
 | Beast of Reincarnation | ゲームフリーク（Game Freak） | 日本 | ゲームフリークの完全新作アクションRPG IPとして2026-08-04始動。PS5版Metacritic73と賛否両論スタートも戦闘・世界観は高評価。 |  |  | アクティブ | ポケモン以外の自社新規IP。続編・IP拡張の可否を要ウォッチ。 | 2026-08-14 |

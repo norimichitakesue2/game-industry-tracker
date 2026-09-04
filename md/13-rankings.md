@@ -1,8 +1,23 @@
 # 週間ランキング
 
-_最終更新: 2026-09-04 07:25_
+_最終更新: 2026-09-04 20:28_
 
 ## 国内ファミ通
+
+### 2026-08-24〜08-30
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | リズム天国 ミラクルスターズ | Switch | 34,688 |  |  | ファミ通.com 週間ソフト販売数(2026-08-24〜08-30) https://www.famitsu.com/article/202609/86517 |  |
+| 2 | ELDEN RING Tarnished Edition | Switch2 | 27,604 |  |  | ファミ通.com 週間ソフト販売数(2026-08-24〜08-30) https://www.famitsu.com/article/202609/86517 |  |
+| 3 | METAL GEAR SOLID: MASTER COLLECTION Vol.2 | PS5 | 12,691 |  |  | ファミ通.com 週間ソフト販売数(2026-08-24〜08-30) https://www.famitsu.com/article/202609/86517 |  |
+| 4 | スプラトゥーン レイダース | Switch2 | 11,891 |  |  | ファミ通.com 週間ソフト販売数(2026-08-24〜08-30) https://www.famitsu.com/article/202609/86517 |  |
+| 5 | トモダチコレクション わくわく生活 | Switch | 10,883 |  |  | ファミ通.com 週間ソフト販売数(2026-08-24〜08-30) https://www.famitsu.com/article/202609/86517 |  |
+| 6 | METAL GEAR SOLID: MASTER COLLECTION Vol.2 | Switch2 | 8,624 |  |  | ファミ通.com 週間ソフト販売数(2026-08-24〜08-30) https://www.famitsu.com/article/202609/86517 |  |
+| 7 | ファイナルファンタジーX/X-2 HD リマスター | Switch2 | 6,386 |  |  | ファミ通.com 週間ソフト販売数(2026-08-24〜08-30) https://www.famitsu.com/article/202609/86517 |  |
+| 8 | METAL GEAR SOLID: MASTER COLLECTION Vol.2 | Switch | 5,590 |  |  | ファミ通.com 週間ソフト販売数(2026-08-24〜08-30) https://www.famitsu.com/article/202609/86517 |  |
+| 9 | Minecraft | Switch | 4,468 |  |  | ファミ通.com 週間ソフト販売数(2026-08-24〜08-30) https://www.famitsu.com/article/202609/86517 |  |
+| 10 | キャプテン翼2 WORLD FIGHTERS | Switch | 4,384 |  |  | ファミ通.com 週間ソフト販売数(2026-08-24〜08-30) https://www.famitsu.com/article/202609/86517 |  |
 
 ### 2026-08-17〜08-23
 
@@ -149,6 +164,16 @@ _最終更新: 2026-09-04 07:25_
 | 10 | アストロボット | PS5 | 3,460 | 103,717 |  | ファミ通.com 週販 https://www.famitsu.com/article/202606/78042 |  |
 
 ## Steamトップセラー
+
+### 2026-09-04(時点)
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | The Blood of Dawnwalker | PC(Steam) |  |  |  | Steam グローバルトップセラー(取得時点スナップショット) https://store.steampowered.com/charts/topselling/global | 週次確定版でなく2026-09-04取得時点のグローバルトップセラー上位 |
+| 2 | WARDOGS | PC(Steam) |  |  |  | Steam グローバルトップセラー(取得時点スナップショット) https://store.steampowered.com/charts/topselling/global | 週次確定版でなく2026-09-04取得時点のグローバルトップセラー上位 |
+| 3 | Halloween: The Game | PC(Steam) |  |  |  | Steam グローバルトップセラー(取得時点スナップショット) https://store.steampowered.com/charts/topselling/global | 週次確定版でなく2026-09-04取得時点のグローバルトップセラー上位 |
+| 4 | Onimusha: Way of the Sword（鬼武者） | PC(Steam) |  |  |  | Steam グローバルトップセラー(取得時点スナップショット) https://store.steampowered.com/charts/topselling/global | 週次確定版でなく2026-09-04取得時点のグローバルトップセラー上位 |
+| 5 | Bodycam | PC(Steam) |  |  |  | Steam グローバルトップセラー(取得時点スナップショット) https://store.steampowered.com/charts/topselling/global | 週次確定版でなく2026-09-04取得時点のグローバルトップセラー上位 |
 
 ### 2026-08-18〜08-25
 
