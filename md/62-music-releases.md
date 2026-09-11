@@ -1,6 +1,6 @@
 # 【音楽】リリース・チャート
 
-_最終更新: 2026-09-11 07:53_
+_最終更新: 2026-09-11 22:50_
 
 | 集計日/発売日 | 区分 | タイトル/曲名 | アーティスト | レーベル | 形態 | チャート順位 | ストリーミング数 | 話題度(1-5) | メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -16,3 +16,4 @@ _最終更新: 2026-09-11 07:53_
 | 2026-08-26(付) | チャート | Number_i 新曲(総合1位) | Number_i |  | デジタル/ストリーミング複合 | Billboard JAPAN Hot 100 1位 |  | 4 | Billboard JAPAN公式Xの速報で総合ソングチャート首位(2位 Mrs. GREEN APPLE、3位 HANA、4位 AKB48)。集計週・楽曲名の詳細は要確認。 | https://www.billboard-japan.com/charts/detail?a=hot100 |
 | 2026-09-02(付) | チャート/新譜 | 恋、はじめました。 |  |  | CD/デジタル/ストリーミング複合 | Billboard JAPAN Hot 100 1位 |  | 4 | 8/26発売の21stシングル表題曲が総合ソングチャート“JAPAN Hot 100”首位(集計2026-08-24〜08-30)。2位はRIIZE『Sunburst』。 | https://news.yahoo.co.jp/articles/cd49e6b1aa22491e74d352ab8356781cc89ecda1 |
 | 2026-09-05(付) | チャート | Choosin' Texas | Ella Langley |  | デジタル/ストリーミング/ラジオ複合 | Billboard Hot 100 (米) 1位 |  | 4 | 通算20週目(非連続)の首位。2026年最長首位かつ非ホリデー曲としてHot 100史上最長級の記録。 | https://www.billboard.com/charts/hot-100/ |
+| 2026-09-10(付) | チャート | JI BLUE 新曲(総合1位) | JI BLUE |  | デジタル/ストリーミング複合 | Billboard JAPAN Hot 100 1位 |  | 4 | 総合ソングチャート“JAPAN Hot 100”首位(集計2026-08-31〜09-06)。2位は嵐、3位Lienel。 | https://www.billboard-japan.com/charts/detail?a=hot100 |

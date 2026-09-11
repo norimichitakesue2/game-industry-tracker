@@ -1,6 +1,6 @@
 # 新作リリースログ
 
-_最終更新: 2026-09-11 07:53_
+_最終更新: 2026-09-11 22:50_
 
 | 発売日 | タイトル | 開発 | パブリッシャー | プラットフォーム | ジャンル | Metacritic | OpenCritic | Steam同接ピーク | 初週推定本数 | 話題度(1-5) | 感想/メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -10,10 +10,13 @@ _最終更新: 2026-09-11 07:53_
 | 2026-09-28(予定) | エースコンバット8（ACE COMBAT 8: Wings of Theve） | Bandai Namco | Bandai Namco | PC(Steam) / PS5 / Xbox Series X\|S | フライトシューティング |  |  |  |  |  | 【今月の大型】人気フライトSTG最新作。9/28発売予定。 | https://en.wikipedia.org/wiki/Ace_Combat |
 | 2026-09-24(予定) | SILENT HILL: Townfall（サイレントヒル タウンフォール） | No Code / Annapurna | KONAMI | PC(Steam) / PS5 | サイコロジカルホラー |  |  |  |  |  | 【今月の注目】『Stories Untold』のNo Codeが手掛けるサイレントヒル新作。9/24発売予定。 | https://en.wikipedia.org/wiki/Silent_Hill:_Townfall |
 | 2026-09-17(予定) | 空の軌跡 the 2nd（Trails in the Sky the 2nd） | 日本ファルコム | 日本ファルコム | Switch2 / Switch / PS5 / PC(Steam) | ストーリーRPG |  |  |  |  |  | 【来週の注目】『軌跡』シリーズ完全リメイク第2弾。エステルとヨシュアの旅の結末。9/17全世界同時発売。通常版8,800円(DL)。 | https://www.falcom.co.jp/sora2/ |
-| 2026-09-15(予定) | Marvel's Wolverine（マーベル ウルヴァリン） | Insomniac Games | SIE | PS5 | アクション |  |  |  |  |  | 【来週の大型】Insomniacの新規X-MEN三部作第1弾。PS5独占、9/15発売予定。GTA6を避けた9月大型ラッシュの中核。 | https://en.wikipedia.org/wiki/Marvel%27s_Wolverine |
+| 2026-09-15(予定) | Marvel's Wolverine（マーベル ウルヴァリン） | Insomniac Games | SIE | PS5 | アクション | 77 |  |  |  |  | 【来週の大型】Insomniacの新規X-MEN三部作第1弾。PS5独占、9/15発売予定。GTA6を避けた9月大型ラッシュの中核。 ※9/10レビュー解禁、Metacritic77(102レビュー)。Insomniac作品では約10年ぶりの低評価だが戦闘とビジュアルは高評価。 | https://en.wikipedia.org/wiki/Marvel%27s_Wolverine |
+| 2026-09-10 | トルネコの大冒険 不思議のダンジョン ちょっとステキなリマスター | スクウェア・エニックス | スクウェア・エニックス | PS5 | ローグライク/ダンジョンRPG |  |  |  |  | 3 | 名作ローグライクのリマスター。9/10にPS5で配信開始。 | https://blog.ja.playstation.com/2026/09/10/20260910-torneko-title-announcement-o/ |
 | 2026-09-04 | 鬼武者 Way of the Sword（おにむしゃ ウェイ・オブ・ザ・ソード） | Capcom | Capcom | PC(Steam) / PS5 / Xbox Series X\|S / Switch2 | 剣戟アクション | 86 | 86 | 44,000超 |  | 5 | 9/4発売。宮本武蔵を主人公にシリーズ復活。メタスコアPS5版86(89レビュー)・Switch2版89・OpenCritic86でシリーズトップ級。爽快な剣戟(弾き・一閃)が高評価、オープンワールド要素に一部批判。発売初日Steam同接44,000超(AUTOMATON)。 | https://automaton-media.com/articles/newsjp/onimusha-way-of-the-sword-20260904-465220/ |
 | 2026-09-04(予定) | NBA 2K27 | Visual Concepts | 2K | PC(Steam) / PS5 / PS4 / Xbox / Switch2 | スポーツ |  |  |  |  | 3 | 【来週予定】バスケシム年次最新作。9/4発売。発売前からSteamトップセラー圏内。 | https://store.steampowered.com/app/4356430/NBA_2K27/ |
+| 2026-09-04 | 鬼武者 Way of the Sword（Onimusha: Way of the Sword） | カプコン | カプコン | PS5 / Switch2 / Xbox Series X\|S / PC(Steam) | 剣戟アクション | 86 | 86 | 44,000 |  | 5 | 20年ぶりのシリーズ完全新作。国内ファミ通週販で初登場1位(PS5版76,530本＋Switch2版19,499本)。発売初日に世界販売100万本突破、シリーズ累計1000万本達成。Metacritic PS5=86/Switch2=89、OpenCritic86(Mighty)、IGN10/10も。Steam同接ピーク約44,000。 | https://www.famitsu.com/article/202609/87520 |
 | 2026-09-03 | The Blood of Dawnwalker（ブラッド・オブ・ドーンウォーカー） | Rebel Wolves | Bandai Namco Entertainment | PC(Steam) / PS5 / Xbox Series X\|S | ダークファンタジーRPG | 83 | 84 |  |  | 4 | 9/3発売。ウィッチャー3ディレクター率いるRebel Wolvesの吸血鬼オープンワールドRPG第一章。Metacritic83(41レビュー・93%好意的)/OpenCritic84(Mighty)。昼は人間・夜は吸血鬼の構造とダークな物語・選択が高評価、反復クエスト/技術的粗に批判。Steamトップセラー1位。 | https://opencritic.com/game/20499/the-blood-of-dawnwalker |
+| 2026-09-03 | オービタルズ Orbitals | Kepler Interactive | Kepler Interactive | Switch2 / PS5 / Xbox Series X\|S / PC(Steam) | 協力アクションアドベンチャー |  |  |  | 3,949 | 3 | 1980〜90年代の日本SFアニメ風絵柄が話題の2人協力アクション。ファミ通週販9位で初登場(Switch2版3,949本)。gamescom 2026試遊で好評。 | https://www.famitsu.com/article/202609/87520 |
 | 2026-08-28 | STAR WARS ゼロ・カンパニー（Star Wars Zero Company） | Bit Reactor / Respawn Entertainment | エレクトロニック・アーツ | PC / PS5 / Xbox Series X\|S | ターン制タクティクス |  |  |  |  | 4 | 【来月分】スター・ウォーズ題材のターン制タクティクスRPG。クローン戦争期を舞台にした部隊指揮型。 | https://www.famitsu.com/schedule |
 | 2026-08-28 | ELDEN RING Tarnished Edition（エルデンリング ターニッシュド・エディション）Nintendo Switch 2版 | フロム・ソフトウェア | バンダイナムコエンターテインメント | Nintendo Switch 2 | アクションRPG |  |  |  |  | 4 | 【来月分】「ELDEN RING」＋DLCを収録したNS2向けエディション。携帯機で本編を遊べる注目移植。 | https://www.famitsu.com/schedule |
 | 2026-08-27 | METAL GEAR SOLID: MASTER COLLECTION Vol.2 | KONAMI | KONAMI | PS5/Switch 2/Xbox/PC | アクション（コレクション） |  |  |  |  | 3 | 来月予定（評価系空欄）。MGSシリーズをまとめたマスターコレクション第2弾のボーナスコンテンツ含む展開。 | https://www.famitsu.com/schedule/all-platforms/202608 |

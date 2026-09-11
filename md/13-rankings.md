@@ -1,8 +1,23 @@
 # 週間ランキング
 
-_最終更新: 2026-09-11 07:53_
+_最終更新: 2026-09-11 22:50_
 
 ## 国内ファミ通
+
+### 2026-08-31〜09-06
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 鬼武者 Way of the Sword | PS5 | 76,530 | 76,530 |  | ファミ通.com 週間ソフト販売数(2026-08-31〜09-06) https://www.famitsu.com/article/202609/87520 | 初登場。発売初日世界100万本突破 |
+| 2 | リズム天国 ミラクルスターズ | Switch | 29,360 | 975,289 |  | ファミ通.com 週間ソフト販売数(2026-08-31〜09-06) https://www.famitsu.com/article/202609/87520 | 前回1位 |
+| 3 | 鬼武者 Way of the Sword | Switch2 | 19,499 | 19,499 |  | ファミ通.com 週間ソフト販売数(2026-08-31〜09-06) https://www.famitsu.com/article/202609/87520 | 初登場 |
+| 4 | スプラトゥーン レイダース | Switch2 | 10,267 | 648,529 |  | ファミ通.com 週間ソフト販売数(2026-08-31〜09-06) https://www.famitsu.com/article/202609/87520 | 前回4位 |
+| 5 | トモダチコレクション わくわく生活 | Switch | 9,880 | 1,595,536 |  | ファミ通.com 週間ソフト販売数(2026-08-31〜09-06) https://www.famitsu.com/article/202609/87520 | 前回5位 |
+| 6 | ELDEN RING Tarnished Edition | Switch2 | 6,559 | 34,163 |  | ファミ通.com 週間ソフト販売数(2026-08-31〜09-06) https://www.famitsu.com/article/202609/87520 | 前回2位 |
+| 7 | The Blood of Dawnwalker | PS5 | 4,618 | 4,618 |  | ファミ通.com 週間ソフト販売数(2026-08-31〜09-06) https://www.famitsu.com/article/202609/87520 | 初登場 |
+| 8 | マリオカート ワールド | Switch2 | 4,259 | 3,028,216 |  | ファミ通.com 週間ソフト販売数(2026-08-31〜09-06) https://www.famitsu.com/article/202609/87520 | 前回18位 |
+| 9 | オービタルズ Orbitals | Switch2 | 3,949 | 3,949 |  | ファミ通.com 週間ソフト販売数(2026-08-31〜09-06) https://www.famitsu.com/article/202609/87520 | 初登場 |
+| 10 | Minecraft | Switch | 3,754 | 4,274,163 |  | ファミ通.com 週間ソフト販売数(2026-08-31〜09-06) https://www.famitsu.com/article/202609/87520 | 前回9位 |
 
 ### 2026-08-24〜08-30
 
@@ -175,6 +190,21 @@ _最終更新: 2026-09-11 07:53_
 | 4 | Onimusha: Way of the Sword（鬼武者） | PC(Steam) |  |  |  | Steam グローバルトップセラー(取得時点スナップショット) https://store.steampowered.com/charts/topselling/global | 週次確定版でなく2026-09-04取得時点のグローバルトップセラー上位 |
 | 5 | Bodycam | PC(Steam) |  |  |  | Steam グローバルトップセラー(取得時点スナップショット) https://store.steampowered.com/charts/topselling/global | 週次確定版でなく2026-09-04取得時点のグローバルトップセラー上位 |
 
+### 2026-09-01〜09-08
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | The Blood of Dawnwalker | PC(Steam) |  |  |  | Steam週間トップセラー(2026-09-01〜09-08) https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-1st8th-of-september-2026 | 初登場首位 |
+| 2 | Onimusha: Way of the Sword（鬼武者） | PC(Steam) |  |  |  | Steam週間トップセラー(2026-09-01〜09-08) https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-1st8th-of-september-2026 | 初登場2位 |
+| 3 | WARDOGS | PC(Steam) |  |  |  | Steam週間トップセラー(2026-09-01〜09-08) https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-1st8th-of-september-2026 | 予約段階でランクイン |
+| 4 | Bodycam | PC(Steam) |  |  |  | Steam週間トップセラー(2026-09-01〜09-08) https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-1st8th-of-september-2026 | 再ランクイン |
+| 5 | How to Fish | PC(Steam) |  |  |  | Steam週間トップセラー(2026-09-01〜09-08) https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-1st8th-of-september-2026 | 小規模スタジオの釣りゲー継続 |
+| 6 | Halloween: The Game | PC(Steam) |  |  |  | Steam週間トップセラー(2026-09-01〜09-08) https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-1st8th-of-september-2026 | 予約段階でランクイン |
+| 7 | NBA 2K27 | PC(Steam) |  |  |  | Steam週間トップセラー(2026-09-01〜09-08) https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-1st8th-of-september-2026 | 予約/発売段階 |
+| 8 | Star Wars Zero Company | PC(Steam) |  |  |  | Steam週間トップセラー(2026-09-01〜09-08) https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-1st8th-of-september-2026 | 予約段階 |
+| 9 | Crimson Desert Enhanced | PC(Steam) |  |  |  | Steam週間トップセラー(2026-09-01〜09-08) https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-1st8th-of-september-2026 | 予約段階 |
+| 10 | Red Dead Redemption 2 | PC(Steam) |  |  |  | Steam週間トップセラー(2026-09-01〜09-08) https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-1st8th-of-september-2026 | ロングセラー |
+
 ### 2026-08-18〜08-25
 
 | 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
@@ -339,6 +369,21 @@ _最終更新: 2026-09-11 07:53_
 | 10 | EA Sports FC 26 | PC(Steam) |  |  |  | Steam週間グローバルトップセラー(売上額順・F2P除く) https://www.vgchartz.com/article/468148/steam-weekly-week-24-2026/ |  |
 
 ## PS DL
+
+### 2026-08 (月間)
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Beast of Reincarnation | PS5 |  |  |  | PlayStation.Blog 日本語 2026年8月PS Storeダウンロードランキング https://blog.ja.playstation.com/2026/09/11/20260911-monthly-ps-store-ranking-s | 週間が無いため月間で代替。国内PS5部門。新作アクションRPGが月間首位 |
+| 2 | METAL GEAR SOLID: MASTER COLLECTION Vol.2 | PS5 |  |  |  | PlayStation.Blog 日本語 2026年8月PS Storeダウンロードランキング https://blog.ja.playstation.com/2026/09/11/20260911-monthly-ps-store-ranking-s | 週間が無いため月間で代替。国内PS5部門。 |
+| 3 | Palworld / パルワールド | PS5 |  |  |  | PlayStation.Blog 日本語 2026年8月PS Storeダウンロードランキング https://blog.ja.playstation.com/2026/09/11/20260911-monthly-ps-store-ranking-s | 週間が無いため月間で代替。国内PS5部門。 |
+| 4 | ほの暮しの庭 | PS5 |  |  |  | PlayStation.Blog 日本語 2026年8月PS Storeダウンロードランキング https://blog.ja.playstation.com/2026/09/11/20260911-monthly-ps-store-ranking-s | 週間が無いため月間で代替。国内PS5部門。 |
+| 5 | FINAL FANTASY VII REBIRTH | PS5 |  |  |  | PlayStation.Blog 日本語 2026年8月PS Storeダウンロードランキング https://blog.ja.playstation.com/2026/09/11/20260911-monthly-ps-store-ranking-s | 週間が無いため月間で代替。国内PS5部門。 |
+| 6 | Mistfall Hunter | PS5 |  |  |  | PlayStation.Blog 日本語 2026年8月PS Storeダウンロードランキング https://blog.ja.playstation.com/2026/09/11/20260911-monthly-ps-store-ranking-s | 週間が無いため月間で代替。国内PS5部門。 |
+| 7 | MARVEL Tokon: Fighting Souls | PS5 |  |  |  | PlayStation.Blog 日本語 2026年8月PS Storeダウンロードランキング https://blog.ja.playstation.com/2026/09/11/20260911-monthly-ps-store-ranking-s | 週間が無いため月間で代替。国内PS5部門。 |
+| 8 | マインクラフト | PS5 |  |  |  | PlayStation.Blog 日本語 2026年8月PS Storeダウンロードランキング https://blog.ja.playstation.com/2026/09/11/20260911-monthly-ps-store-ranking-s | 週間が無いため月間で代替。国内PS5部門。 |
+| 9 | 新 鬼武者 DAWN OF DREAMS | PS5 |  |  |  | PlayStation.Blog 日本語 2026年8月PS Storeダウンロードランキング https://blog.ja.playstation.com/2026/09/11/20260911-monthly-ps-store-ranking-s | 週間が無いため月間で代替。国内PS5部門。鬼武者新作効果で旧作も浮上 |
+| 10 | Marvel's Spider-Man 2 | PS5 |  |  |  | PlayStation.Blog 日本語 2026年8月PS Storeダウンロードランキング https://blog.ja.playstation.com/2026/09/11/20260911-monthly-ps-store-ranking-s | 週間が無いため月間で代替。国内PS5部門。 |
 
 ### 2026-07 (月間)
 
