@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-09-12 07:46_
+_最終更新: 2026-09-13 08:20_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -20,17 +20,17 @@ _最終更新: 2026-09-12 07:46_
 | 2026-09-17 | 2026-09-21 | 東京ゲームショウ2026 (TGS) | 展示会 | 幕張メッセ | オフライン展示会 | 30周年・会期5日間に拡大。ビジネスデー9/17-18、一般公開9/19-21。国内最大の総合見本市。 | https://events.nikkeibp.co.jp/tgs/2026/en/ | 開催予定 | 2026-06-17 |
 | 2026-09-17 | 2026-09-21 | 東京ゲームショウ2026 | 展示会 | 幕張メッセ | リアル+配信 | 史上初5日間・30周年。759社/51の国と地域が出展 | https://gamebiz.jp/news/420741 | 開催予定 | 2026-08-25 |
 | 2026-09-15 |  | tinyBuild Connect（オンラインショーケース） | ショーケース | オンライン | 配信 | tinyBuild取扱タイトルの最新情報を紹介するショーケース | https://www.tinybuild.com/ | 開催予定 | 2026-09-12 |
-| 2026-09-12 | 2026-09-21 | ROCK IN JAPAN FESTIVAL 2026 | ライブ・フェス | 千葉市蘇我スポーツ公園 | 現地 | 全115組が出演する国内最大級ロックフェス。9月に複数日開催。ライブ経済拡大の象徴。 | https://www.billboard-japan.com/d_news/detail/162115/2 | 開催中 | 2026-09-12 |
-| 2026-09-10 | 2026-09-20 | トロント国際映画祭 2026 (TIFF) | 映画祭・賞 | カナダ・トロント | 現地 | 今年から150社超が参加する初の公式マーケットを新設。開幕前から配給権取引が活発化（セス・ローゲン『Babies』等）。欧州系映画祭に対抗する取引ハブ化が焦点。 | https://deadline.com/2026/08/seth-rogen-anna-kendrick-babies-tiff-acquisition-1237049895/ | 開催中 | 2026-09-10 |
+| 2026-09-12 | 2026-09-21 | ROCK IN JAPAN FESTIVAL 2026 | ライブ・フェス | 千葉市蘇我スポーツ公園 | 現地 | 全115組が出演する国内最大級ロックフェス。9月に複数日開催。ライブ経済拡大の象徴。 | https://www.billboard-japan.com/d_news/detail/162115/2 | 開催中 | 2026-09-13 |
+| 2026-09-10 | 2026-09-20 | トロント国際映画祭 2026 (TIFF) | 映画祭・賞 | カナダ・トロント | 現地 | 今年から150社超が参加する初の公式マーケットを新設。開幕前から配給権取引が活発化（セス・ローゲン『Babies』等）。欧州系映画祭に対抗する取引ハブ化が焦点。 | https://deadline.com/2026/08/seth-rogen-anna-kendrick-babies-tiff-acquisition-1237049895/ | 開催中 | 2026-09-13 |
 | 2026-09-09 |  | Nintendo Direct 2026.9.9 | ショーケース | オンライン | 配信 | 約45分の通常Direct＋Treehouse実機配信。年末Switch2ラインナップの全容開示が見込まれる | https://www.nintendolife.com/news/2026/09/nintendo-announces-two-directs-for-next-week-8th-and-9th-september-2026 | 終了 | 2026-09-10 |
 | 2026-09-08 |  | Nintendo Direct: ゼルダの伝説40周年 2026.9.8 | ショーケース | オンライン | 配信 | 『ゼルダの伝説』40周年に特化した約30分の配信。時のオカリナ リメイク等の続報が有力視 | https://www.nintendolife.com/news/2026/09/nintendo-announces-two-directs-for-next-week-8th-and-9th-september-2026 | 終了 | 2026-09-09 |
 | 2026-09-06 | 2026-09-06 | Nintendo Direct(2026年9月) | ショーケース | オンライン | 配信 | 約50分。Switch 2/Switch向け発売予定タイトル中心 | https://www.nintendo.com/en-gb/News/Nintendo-Direct/2026/Nintendo-Direct-09-06-2026-3130904.html | 終了 | 2026-09-07 |
 | 2026-09-05 | 2026-09-06 | 日向坂46『ひなたフェス2026』 | ライブ・フェス | 宮崎・ひなたサンマリンスタジアム宮崎 | 現地 | 日向坂46の大型屋外フェス。台風24号接近・警報級の雨予報で開催中止に | https://natalie.mu/music/news/687781 | 終了 | 2026-09-08 |
-| 2026-09-05 | 2026-09-15 | Steam エンドサマーセール 2026 | セール | オンライン | オンライン | 夏の締めセール。TGS前の端境期に旧作・インディーの需要を喚起する大型セール。 | https://game8.jp/steam/769004 | 開催中 | 2026-09-05 |
+| 2026-09-05 | 2026-09-15 | Steam エンドサマーセール 2026 | セール | オンライン | オンライン | 夏の締めセール。TGS前の端境期に旧作・インディーの需要を喚起する大型セール。 | https://game8.jp/steam/769004 | 開催中 | 2026-09-13 |
 | 2026-09-04 |  | 劇場アニメ『SEKIRO: NO DEFEAT』全国公開（3週間限定） | 発売・公開 | 全国56劇場 | 現地 | フロム原作 初の劇場アニメ。手描き2D時代劇、主題歌 坂本龍一“Blu” | https://news.denfaminicogamer.jp/news/2606193v | 終了 | 2026-09-10 |
 | 2026-09-04 |  | 『AKIRA』4K/IMAX北米上映(Crunchyroll×Sony) | 発売・公開 | 北米(米国・カナダ) | 劇場 | 名作AKIRAを初の4K/IMAXで再上映。旧作アニメの劇場再エンゲージ事例。 | https://www.animenewsnetwork.com/news/2026-07-02/crunchyroll-to-screen-akira-anime-film-in-u.s-canada-in-4k-imax-on-september-4/.239235 | 終了 | 2026-09-10 |
 | 2026-09-03 | 2026-09-03 | State of Play / State of Play Japan(2026年9月) | ショーケース | オンライン | 配信 | PS向け新作情報。本国版と日本版を同時開催 | https://www.eventhubs.com/news/2026/aug/31/state-play-sony-playstation-stream/ | 終了 | 2026-09-04 |
-| 2026-09-02 | 2026-09-12 | 第82回 ヴェネツィア国際映画祭 2026 | 映画祭・賞 | ヴェネツィア(伊) | リアル | 秋の賞レース号砲。開幕作はダニー・ボイル『Ink』、巨匠作がコンペに集結 | https://www.screendaily.com/news/venice-film-festival-reveals-2026-lineup/5218820.article | 開催中 | 2026-09-02 |
+| 2026-09-02 | 2026-09-12 | 第82回 ヴェネツィア国際映画祭 2026 | 映画祭・賞 | ヴェネツィア(伊) | リアル | 秋の賞レース号砲。開幕作はダニー・ボイル『Ink』、巨匠作がコンペに集結 | https://www.screendaily.com/news/venice-film-festival-reveals-2026-lineup/5218820.article | 終了 | 2026-09-13 |
 | 2026-08-26 | 2026-08-30 | gamescom 2026 | 展示会 | 独ケルン(Koelnmesse) | オフライン展示会 | 欧州最大級のゲーム見本市。前夜祭ONLは8/25。出展・商談・一般来場。 ／ 2026は史上初の全出展枠が完売。Xbox25本試遊、任天堂・Ubisoft・CDPR・Capcom等出展。 | https://www.gamescom.global/en | 終了 | 2026-08-31 |
 | 2026-08-25 |  | gamescom Opening Night Live 2026 | ショーケース | 独ケルン/配信 | 配信イベント | gamescom開幕前夜の大型新作発表配信(Geoff Keighley司会)。秋〜冬商戦タイトルが集中露出。 ／ 2026は史上初の全出展枠が完売。Xbox25本試遊、任天堂・Ubisoft・CDPR・Capcom等出展。 | https://www.gamescom.global/en | 終了 | 2026-09-10 |
 | 2026-08-25 | 2026-08-30 | gamescom 2026 / Opening Night Live | 展示会 | ケルン(独) | リアル+配信 | 欧州最大級ゲーム展示会。ONLで新作を世界初公開 | https://www.gamescom.global/en/event/gamescom-opening-night-live-2026 | 終了 | 2026-08-31 |
@@ -59,3 +59,4 @@ _最終更新: 2026-09-12 07:46_
 | 2026-06-12 | 2026-06-21 | VALORANT Masters London 2026 | eスポーツ | 英ロンドン | オフライン大会 | VCT 2026 Stage 2の国際大会。プレイオフ佳境でPaper Rexが優勝候補筆頭。グランドファイナルは6/21。 | https://www.vlr.gg/event/2765/valorant-masters-london-2026 | 終了 | 2026-06-22 |
 |  |  | The International 2026 (Dota 2) | eスポーツ | 中国・上海(Oriental Sports Center) | オフライン大会 | Dota2最高峰。予選6月実施、本戦は2026年内予定(日程は要確認)。中国回帰。 | https://escharts.com/news/how-watch-international-2026 | 日程未確定 | 2026-06-17 |
 |  |  | INDIE Live Expo 2026(冬) | ショーケース | オンライン配信 | オンライン | アジア最大級のインディーゲーム情報番組。世界初公開タイトルや発売日発表が多数。次回は2026年冬開催予定(日程未定)。 | https://indie.live-expo.games/ | 日程未確定 | 2026-06-21 |
+|  |  | 第39回 東京国際映画祭 | 映画祭・賞 | 東京 | リアル | ポスター公開。チケット料金改定、学生料金は値下げ。若年層の裾野拡大狙い。 | https://eiga.com/news/20260911/5/ | 日程未確定 | 2026-09-13 |
