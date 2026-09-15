@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-09-14 09:25_
+_最終更新: 2026-09-15 09:03_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -13,6 +13,7 @@ _最終更新: 2026-09-14 09:25_
 | 2026-10-30 | 2027-01-07 | Snow Man DOME TOUR 2026-2027 ALL SUITE | ライブ・フェス | 全国5大ドーム(札幌/名古屋/福岡/東京/大阪) | リアル | 5大ドーム計18公演。6thアルバム『AMENITY』(10/7)と連動。年末年始のライブ需要を取り込む大型ツアー | https://news.yahoo.co.jp/articles/d2915d2ef2642566fceed9c012f79d84982b01ef | 開催予定 | 2026-08-15 |
 | 2026-10-19 | 2026-10-26 | Steam Next Fest(10月版) | セール/デモ | オンライン(Steam) | 体験版一斉解禁 | 発売前タイトルの体験版を一斉公開する需要喚起イベント。秋セール直前。6月版と同パターン。 | https://store.steampowered.com/sale/nextfest | 開催予定 | 2026-06-17 |
 | 2026-10-15 | 2026-11-14 | LoL World Championship 2026 (Worlds) | eスポーツ | 米国(LA/Allen TX/NY) | オフライン大会 | LoL世界大会。決勝11/14・ブルックリンBarclays Center。米国3都市を巡回。 | https://en.wikipedia.org/wiki/2026_League_of_Legends_World_Championship | 開催予定 | 2026-06-17 |
+| 2026-10-07 |  | Crunchyroll Anime Future Forum(招待制アニメ業界サミット) | 展示会 | 米ニューヨーク(Javits Center) | オフライン | Crunchyroll主催の初のアニメ業界サミット。テーマ『Designing for Anime’s Future』、NYCC前日に開催 | https://www.animenewsnetwork.com/news/2026-05-08/crunchyroll-hosts-inaugural-anime-leadership-summit-in-new-york-on-october-7/.237184 | 開催予定 | 2026-09-15 |
 | 2026-10-01 |  | Steam オータムセール 2026 | セール | オンライン | オンライン | Valveが7/16に公開した2027年上半期までの日程の一部。10/1開始。 | https://news.denfaminicogamer.jp/news/260716e | 開催予定 | 2026-07-20 |
 | 2026-09-24 | 2026-10-18 | VALORANT Champions 2026 | eスポーツ | 中国・上海 | オフライン大会 | VCT世界一決定戦。16チーム・賞金225万ドル。中国開催。 | https://liquipedia.net/valorant/VCT/2026/Champions | 開催予定 | 2026-06-17 |
 | 2026-09-23 |  | 『アベンジャーズ エンドゲーム アンコール』特別版 期間限定上映 | 発売・公開 | 全国 | リアル | 新映像を追加した特別版のリバイバル上映。次期『ドゥームズデイ』前の需要喚起 | https://eiga.com/news/20260730/11/ | 開催予定 | 2026-08-03 |
@@ -20,7 +21,7 @@ _最終更新: 2026-09-14 09:25_
 | 2026-09-17 | 2026-09-21 | 東京ゲームショウ2026 (TGS) | 展示会 | 幕張メッセ | オフライン展示会 | 30周年・会期5日間に拡大。ビジネスデー9/17-18、一般公開9/19-21。国内最大の総合見本市。 | https://events.nikkeibp.co.jp/tgs/2026/en/ | 開催予定 | 2026-06-17 |
 | 2026-09-17 | 2026-09-21 | 東京ゲームショウ2026 | 展示会 | 幕張メッセ | リアル+配信 | 史上初5日間・30周年。759社/51の国と地域が出展 | https://gamebiz.jp/news/420741 | 開催予定 | 2026-08-25 |
 | 2026-09-17 | 2026-09-21 | 東京ゲームショウ2026(TGS2026) | 展示会 | 千葉・幕張メッセ | オフライン+配信 | 30周年・史上初の5日間開催。国内540社/海外598社の計1138社・3999小間が出展、53の国・地域が参加し過去最大規模。 | https://www.famitsu.com/article/202609/87472 | 開催予定 | 2026-09-14 |
-| 2026-09-15 |  | tinyBuild Connect（オンラインショーケース） | ショーケース | オンライン | 配信 | tinyBuild取扱タイトルの最新情報を紹介するショーケース | https://www.tinybuild.com/ | 開催予定 | 2026-09-12 |
+| 2026-09-15 |  | tinyBuild Connect（オンラインショーケース） | ショーケース | オンライン | 配信 | tinyBuild取扱タイトルの最新情報を紹介するショーケース | https://www.tinybuild.com/ | 開催中 | 2026-09-15 |
 | 2026-09-12 | 2026-09-21 | ROCK IN JAPAN FESTIVAL 2026 | ライブ・フェス | 千葉市蘇我スポーツ公園 | 現地 | 全115組が出演する国内最大級ロックフェス。9月に複数日開催。ライブ経済拡大の象徴。 | https://www.billboard-japan.com/d_news/detail/162115/2 | 開催中 | 2026-09-13 |
 | 2026-09-10 | 2026-09-20 | トロント国際映画祭 2026 (TIFF) | 映画祭・賞 | カナダ・トロント | 現地 | 今年から150社超が参加する初の公式マーケットを新設。開幕前から配給権取引が活発化（セス・ローゲン『Babies』等）。欧州系映画祭に対抗する取引ハブ化が焦点。 | https://deadline.com/2026/08/seth-rogen-anna-kendrick-babies-tiff-acquisition-1237049895/ | 開催中 | 2026-09-13 |
 | 2026-09-09 |  | Nintendo Direct 2026.9.9 | ショーケース | オンライン | 配信 | 約45分の通常Direct＋Treehouse実機配信。年末Switch2ラインナップの全容開示が見込まれる | https://www.nintendolife.com/news/2026/09/nintendo-announces-two-directs-for-next-week-8th-and-9th-september-2026 | 終了 | 2026-09-10 |
