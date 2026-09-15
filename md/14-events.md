@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-09-15 09:03_
+_最終更新: 2026-09-16 07:19_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -21,14 +21,15 @@ _最終更新: 2026-09-15 09:03_
 | 2026-09-17 | 2026-09-21 | 東京ゲームショウ2026 (TGS) | 展示会 | 幕張メッセ | オフライン展示会 | 30周年・会期5日間に拡大。ビジネスデー9/17-18、一般公開9/19-21。国内最大の総合見本市。 | https://events.nikkeibp.co.jp/tgs/2026/en/ | 開催予定 | 2026-06-17 |
 | 2026-09-17 | 2026-09-21 | 東京ゲームショウ2026 | 展示会 | 幕張メッセ | リアル+配信 | 史上初5日間・30周年。759社/51の国と地域が出展 | https://gamebiz.jp/news/420741 | 開催予定 | 2026-08-25 |
 | 2026-09-17 | 2026-09-21 | 東京ゲームショウ2026(TGS2026) | 展示会 | 千葉・幕張メッセ | オフライン+配信 | 30周年・史上初の5日間開催。国内540社/海外598社の計1138社・3999小間が出展、53の国・地域が参加し過去最大規模。 | https://www.famitsu.com/article/202609/87472 | 開催予定 | 2026-09-14 |
-| 2026-09-15 |  | tinyBuild Connect（オンラインショーケース） | ショーケース | オンライン | 配信 | tinyBuild取扱タイトルの最新情報を紹介するショーケース | https://www.tinybuild.com/ | 開催中 | 2026-09-15 |
+| 2026-09-16 |  | Capcom Spotlight \| TGS 2026（オンライン配信） | ショーケース | オンライン | 配信 | 『モンハンワイルズ：アセンダンス』等カプコン最新作を約40分で発表（9/16 23:00開始） | https://blog.playstation.com/2026/09/03/monster-hunter-wilds-ascendance-reveals-new-monsters-story-details-and-gameplay/ | 開催予定 | 2026-09-16 |
+| 2026-09-15 |  | tinyBuild Connect（オンラインショーケース） | ショーケース | オンライン | 配信 | tinyBuild取扱タイトルの最新情報を紹介するショーケース | https://www.tinybuild.com/ | 終了 | 2026-09-16 |
 | 2026-09-12 | 2026-09-21 | ROCK IN JAPAN FESTIVAL 2026 | ライブ・フェス | 千葉市蘇我スポーツ公園 | 現地 | 全115組が出演する国内最大級ロックフェス。9月に複数日開催。ライブ経済拡大の象徴。 | https://www.billboard-japan.com/d_news/detail/162115/2 | 開催中 | 2026-09-13 |
 | 2026-09-10 | 2026-09-20 | トロント国際映画祭 2026 (TIFF) | 映画祭・賞 | カナダ・トロント | 現地 | 今年から150社超が参加する初の公式マーケットを新設。開幕前から配給権取引が活発化（セス・ローゲン『Babies』等）。欧州系映画祭に対抗する取引ハブ化が焦点。 | https://deadline.com/2026/08/seth-rogen-anna-kendrick-babies-tiff-acquisition-1237049895/ | 開催中 | 2026-09-13 |
 | 2026-09-09 |  | Nintendo Direct 2026.9.9 | ショーケース | オンライン | 配信 | 約45分の通常Direct＋Treehouse実機配信。年末Switch2ラインナップの全容開示が見込まれる | https://www.nintendolife.com/news/2026/09/nintendo-announces-two-directs-for-next-week-8th-and-9th-september-2026 | 終了 | 2026-09-10 |
 | 2026-09-08 |  | Nintendo Direct: ゼルダの伝説40周年 2026.9.8 | ショーケース | オンライン | 配信 | 『ゼルダの伝説』40周年に特化した約30分の配信。時のオカリナ リメイク等の続報が有力視 | https://www.nintendolife.com/news/2026/09/nintendo-announces-two-directs-for-next-week-8th-and-9th-september-2026 | 終了 | 2026-09-09 |
 | 2026-09-06 | 2026-09-06 | Nintendo Direct(2026年9月) | ショーケース | オンライン | 配信 | 約50分。Switch 2/Switch向け発売予定タイトル中心 | https://www.nintendo.com/en-gb/News/Nintendo-Direct/2026/Nintendo-Direct-09-06-2026-3130904.html | 終了 | 2026-09-07 |
 | 2026-09-05 | 2026-09-06 | 日向坂46『ひなたフェス2026』 | ライブ・フェス | 宮崎・ひなたサンマリンスタジアム宮崎 | 現地 | 日向坂46の大型屋外フェス。台風24号接近・警報級の雨予報で開催中止に | https://natalie.mu/music/news/687781 | 終了 | 2026-09-08 |
-| 2026-09-05 | 2026-09-15 | Steam エンドサマーセール 2026 | セール | オンライン | オンライン | 夏の締めセール。TGS前の端境期に旧作・インディーの需要を喚起する大型セール。 | https://game8.jp/steam/769004 | 開催中 | 2026-09-13 |
+| 2026-09-05 | 2026-09-15 | Steam エンドサマーセール 2026 | セール | オンライン | オンライン | 夏の締めセール。TGS前の端境期に旧作・インディーの需要を喚起する大型セール。 | https://game8.jp/steam/769004 | 終了 | 2026-09-16 |
 | 2026-09-04 |  | 劇場アニメ『SEKIRO: NO DEFEAT』全国公開（3週間限定） | 発売・公開 | 全国56劇場 | 現地 | フロム原作 初の劇場アニメ。手描き2D時代劇、主題歌 坂本龍一“Blu” | https://news.denfaminicogamer.jp/news/2606193v | 終了 | 2026-09-10 |
 | 2026-09-04 |  | 『AKIRA』4K/IMAX北米上映(Crunchyroll×Sony) | 発売・公開 | 北米(米国・カナダ) | 劇場 | 名作AKIRAを初の4K/IMAXで再上映。旧作アニメの劇場再エンゲージ事例。 | https://www.animenewsnetwork.com/news/2026-07-02/crunchyroll-to-screen-akira-anime-film-in-u.s-canada-in-4k-imax-on-september-4/.239235 | 終了 | 2026-09-10 |
 | 2026-09-03 | 2026-09-03 | State of Play / State of Play Japan(2026年9月) | ショーケース | オンライン | 配信 | PS向け新作情報。本国版と日本版を同時開催 | https://www.eventhubs.com/news/2026/aug/31/state-play-sony-playstation-stream/ | 終了 | 2026-09-04 |
