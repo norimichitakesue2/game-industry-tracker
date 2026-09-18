@@ -1,6 +1,6 @@
 # 【音楽】リリース・チャート
 
-_最終更新: 2026-09-18 08:12_
+_最終更新: 2026-09-18 19:55_
 
 | 集計日/発売日 | 区分 | タイトル/曲名 | アーティスト | レーベル | 形態 | チャート順位 | ストリーミング数 | 話題度(1-5) | メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -17,3 +17,5 @@ _最終更新: 2026-09-18 08:12_
 | 2026-09-02(付) | チャート/新譜 | 恋、はじめました。 |  |  | CD/デジタル/ストリーミング複合 | Billboard JAPAN Hot 100 1位 |  | 4 | 8/26発売の21stシングル表題曲が総合ソングチャート“JAPAN Hot 100”首位(集計2026-08-24〜08-30)。2位はRIIZE『Sunburst』。 | https://news.yahoo.co.jp/articles/cd49e6b1aa22491e74d352ab8356781cc89ecda1 |
 | 2026-09-05(付) | チャート | Choosin' Texas | Ella Langley |  | デジタル/ストリーミング/ラジオ複合 | Billboard Hot 100 (米) 1位 |  | 4 | 通算20週目(非連続)の首位。2026年最長首位かつ非ホリデー曲としてHot 100史上最長級の記録。 | https://www.billboard.com/charts/hot-100/ |
 | 2026-09-10(付) | チャート | JI BLUE 新曲(総合1位) | JI BLUE |  | デジタル/ストリーミング複合 | Billboard JAPAN Hot 100 1位 |  | 4 | 総合ソングチャート“JAPAN Hot 100”首位(集計2026-08-31〜09-06)。2位は嵐、3位Lienel。 | https://www.billboard-japan.com/charts/detail?a=hot100 |
+| 2026-09-16(付) | チャート | 時空超えてユニバース | M!LK |  | デジタル/ストリーミング/動画 | Billboard JAPAN「Japan Hot Shot Songs」1位 |  | 4 | 急上昇ソングチャート首位(集計期間2026-09-07〜09-13)。M!LKが勢いを維持。 | https://magazine.tunecore.co.jp/news/666771/ |
+| 2026-09-16(付) | 新譜/チャート | ありふれた世界の果てに | YAO(Awich, CHICO CARLITO, ONE OK ROCK & Paledusk) |  | 配信シングル | Japan Hot Shot Songs 2位 |  | 4 | 話題沸騰のコラボプロジェクトYAO第2弾。配信直後から急上昇。 | https://magazine.tunecore.co.jp/news/666771/ |

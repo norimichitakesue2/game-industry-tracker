@@ -1,15 +1,17 @@
 # 新作リリースログ
 
-_最終更新: 2026-09-18 08:12_
+_最終更新: 2026-09-18 19:55_
 
 | 発売日 | タイトル | 開発 | パブリッシャー | プラットフォーム | ジャンル | Metacritic | OpenCritic | Steam同接ピーク | 初週推定本数 | 話題度(1-5) | 感想/メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2026-11-19(予定) | Grand Theft Auto VI（グランド・セフト・オート6） | Rockstar Games | Rockstar Games | PS5 / Xbox Series X\|S | オープンワールドアクション |  |  |  |  |  | 【来月の超大型】世界最注目の年内本命。11/19発売予定。これを避けて多数の大型作が9月に前倒し集中する“GTA6効果”の震源。 | https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI |
+| 2026-11-05(予定) | ゼルダの伝説 時のオカリナ -Switch2 | 任天堂 | 任天堂 | Switch2 | アクションアドベンチャー |  |  |  |  | 5 | 【来月の超大型】N64の不朽の名作をSwitch2向けにフルリメイク。Amazon予約数ランキング（9/6-12）で首位。11/5発売予定。 | https://www.famitsu.com/article/202609/88399 |
 | 2026-10-28(予定) | Phantom Blade Zero（ファントムブレイドゼロ） | S-GAME | S-GAME / 505 Games | PC(Steam) / PS5 | 武侠アクション |  |  |  |  | 4 | 【注目・発売前】gamescom前後で先行予約が急増し、未発売ながらSteam週間トップセラー3位(8/10-16)にランクイン。UE5製の武侠アクション。製品版でMetascore付与見込み、要ウォッチ。 | https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/ |
 | 2026-10-23(予定) | Call of Duty: Modern Warfare 4（コール オブ デューティ モダン・ウォーフェア4） | Infinity Ward | Activision | PC(Steam) / PS5 / Xbox Series X\|S | FPS |  |  |  |  | 5 | 【来月大型】CoD年次最新作。10/23発売。予約段階で8/18-25週のSteamトップセラー3位に急浮上。 | https://store.steampowered.com/app/4435490/ |
 | 2026-09-28(予定) | エースコンバット8（ACE COMBAT 8: Wings of Theve） | Bandai Namco | Bandai Namco | PC(Steam) / PS5 / Xbox Series X\|S | フライトシューティング |  |  |  |  |  | 【今月の大型】人気フライトSTG最新作。9/28発売予定。 | https://en.wikipedia.org/wiki/Ace_Combat |
 | 2026-09-24(予定) | SILENT HILL: Townfall（サイレントヒル タウンフォール） | No Code / Annapurna | KONAMI | PC(Steam) / PS5 | サイコロジカルホラー |  |  |  |  |  | 【今月の注目】『Stories Untold』のNo Codeが手掛けるサイレントヒル新作。9/24発売予定。 | https://en.wikipedia.org/wiki/Silent_Hill:_Townfall |
 | 2026-09-17(予定) | 空の軌跡 the 2nd（Trails in the Sky the 2nd） | 日本ファルコム | 日本ファルコム | Switch2 / Switch / PS5 / PC(Steam) | ストーリーRPG |  |  |  |  |  | 【来週の注目】『軌跡』シリーズ完全リメイク第2弾。エステルとヨシュアの旅の結末。9/17全世界同時発売。通常版8,800円(DL)。 | https://www.falcom.co.jp/sora2/ |
+| 2026-09-17 | ファイアーエムブレム 万紫千紅 | インテリジェントシステムズ | 任天堂 | Switch2 | シミュレーションRPG | 89 |  |  |  | 5 | 神々が支配する「ダグザ帝国」の大剣闘祭を巡る4人主人公の群像劇。メタスコア89（批評家64媒体中95%が高評価・満点10媒体、否定的ゼロ）。「4本分のボリューム」100時間超の大作。Switch2週販28,341台とハードを牽引。 | https://news.denfaminicogamer.jp/news/260917k |
 | 2026-09-15(予定) | Marvel's Wolverine（マーベル ウルヴァリン） | Insomniac Games | SIE | PS5 | アクション | 77 |  |  |  |  | 【来週の大型】Insomniacの新規X-MEN三部作第1弾。PS5独占、9/15発売予定。GTA6を避けた9月大型ラッシュの中核。 ※9/10レビュー解禁、Metacritic77(102レビュー)。Insomniac作品では約10年ぶりの低評価だが戦闘とビジュアルは高評価。 | https://en.wikipedia.org/wiki/Marvel%27s_Wolverine |
 | 2026-09-10 | トルネコの大冒険 不思議のダンジョン ちょっとステキなリマスター | スクウェア・エニックス | スクウェア・エニックス | PS5 | ローグライク/ダンジョンRPG |  |  |  |  | 3 | 名作ローグライクのリマスター。9/10にPS5で配信開始。 | https://blog.ja.playstation.com/2026/09/10/20260910-torneko-title-announcement-o/ |
 | 2026-09-04 | 鬼武者 Way of the Sword（おにむしゃ ウェイ・オブ・ザ・ソード） | Capcom | Capcom | PC(Steam) / PS5 / Xbox Series X\|S / Switch2 | 剣戟アクション | 86 | 86 | 44,000超 |  | 5 | 9/4発売。宮本武蔵を主人公にシリーズ復活。メタスコアPS5版86(89レビュー)・Switch2版89・OpenCritic86でシリーズトップ級。爽快な剣戟(弾き・一閃)が高評価、オープンワールド要素に一部批判。発売初日Steam同接44,000超(AUTOMATON)。 | https://automaton-media.com/articles/newsjp/onimusha-way-of-the-sword-20260904-465220/ |

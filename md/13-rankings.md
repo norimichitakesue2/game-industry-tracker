@@ -1,8 +1,23 @@
 # 週間ランキング
 
-_最終更新: 2026-09-18 08:12_
+_最終更新: 2026-09-18 19:55_
 
 ## 国内ファミ通
+
+### 2026-09-07〜09-13
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | リズム天国 ミラクルスターズ | Switch | 24,756 | 100万45 |  | https://www.famitsu.com/article/202609/88346 | 国内ファミ通週販。『リズム天国』累計100万本突破で7度目首位。 |
+| 2 | 鬼武者 Way of the Sword | PS5 | 19,654 | 96,184 |  | https://www.famitsu.com/article/202609/88346 | 国内ファミ通週販。 |
+| 3 | スプラトゥーン レイダース | Switch2 | 8,163 | 65万6692 |  | https://www.famitsu.com/article/202609/88346 | 国内ファミ通週販。 |
+| 4 | トモダチコレクション わくわく生活 | Switch | 7,607 | 160万3143 |  | https://www.famitsu.com/article/202609/88346 | 国内ファミ通週販。 |
+| 5 | 鬼武者 Way of the Sword | Switch2 | 7,070 | 26,569 |  | https://www.famitsu.com/article/202609/88346 | 国内ファミ通週販。 |
+| 6 | 学校であった怖い話と晦-つきこもり | Switch | 3,683 | 3,683 |  | https://www.famitsu.com/article/202609/88346 | 国内ファミ通週販。初登場。 |
+| 7 | Minecraft | Switch | 3,324 | 427万7487 |  | https://www.famitsu.com/article/202609/88346 | 国内ファミ通週販。 |
+| 8 | マリオカート ワールド | Switch2 | 3,141 | 303万1357 |  | https://www.famitsu.com/article/202609/88346 | 国内ファミ通週販。 |
+| 9 | ほの暮しの庭 | Switch2 | 2,837 | 35,901 |  | https://www.famitsu.com/article/202609/88346 | 国内ファミ通週販。 |
+| 10 | 三國志14 with パワーアップキット Complete Edition | Switch | 2,797 | 2,797 |  | https://www.famitsu.com/article/202609/88346 | 国内ファミ通週販。初登場。 |
 
 ### 2026-08-31〜09-06
 
@@ -179,6 +194,21 @@ _最終更新: 2026-09-18 08:12_
 | 10 | アストロボット | PS5 | 3,460 | 103,717 |  | ファミ通.com 週販 https://www.famitsu.com/article/202606/78042 |  |
 
 ## Steamトップセラー
+
+### 2026-09-08〜09-15
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | WARDOGS | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-8th15th-of-september-2026 | Steam週間グローバルトップセラー（GameGrin集計、順位のみ）。早期アクセス新作が首位浮上。 |
+| 2 | PUBG: BATTLEGROUNDS | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-8th15th-of-september-2026 | Steam週間グローバルトップセラー（GameGrin集計、順位のみ）。 |
+| 3 | Counter-Strike 2 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-8th15th-of-september-2026 | Steam週間グローバルトップセラー（GameGrin集計、順位のみ）。 |
+| 4 | Apex Legends | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-8th15th-of-september-2026 | Steam週間グローバルトップセラー（GameGrin集計、順位のみ）。 |
+| 5 | Marvel Rivals | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-8th15th-of-september-2026 | Steam週間グローバルトップセラー（GameGrin集計、順位のみ）。 |
+| 6 | Halloween: The Game | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-8th15th-of-september-2026 | Steam週間グローバルトップセラー（GameGrin集計、順位のみ）。 |
+| 7 | Dota 2 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-8th15th-of-september-2026 | Steam週間グローバルトップセラー（GameGrin集計、順位のみ）。 |
+| 8 | Overwatch | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-8th15th-of-september-2026 | Steam週間グローバルトップセラー（GameGrin集計、順位のみ）。 |
+| 9 | Bodycam | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-8th15th-of-september-2026 | Steam週間グローバルトップセラー（GameGrin集計、順位のみ）。 |
+| 10 | The Blood of Dawnwalker | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-8th15th-of-september-2026 | Steam週間グローバルトップセラー（GameGrin集計、順位のみ）。 |
 
 ### 2026-09-04(時点)
 
