@@ -1,9 +1,10 @@
 # 【音楽】アーティストウォッチ
 
-_最終更新: 2026-09-21 07:23_
+_最終更新: 2026-09-21 09:14_
 
 | アーティスト名 | 所属レーベル | 事務所 | ジャンル | 地域 | ステータス | 直近動向 | メモ | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| NewJeans/ILLIT等 HYBE系 | HYBE | HYBE | K-POP | 韓国 | ウォッチ | HYBE系の9月コムバックが集中。LE SSERAFIMがシングル『Made My Night』(9/11)、日本発の&TEAMが初の韓国語ミニ『Mark on Me』(9/8)をリリース。マルチレーベル戦略の実行が進む。 | HYBE内紛の影響も追跡 | 2026-09-21 |
 | Stray Kids | JYP | JYP | K-POP | 韓国 | 活動中/ワールドツアー中 | 10thミニ「THIS & THAT」発表(2026年初のフルグループ韓国語作)。「RUN IT」ワールドツアー展開中。HYBE/SM/YG/JYPのK-POPフェスJVも追い風 |  | 2026-08-31 |
 | TWS（トゥアス） |  | PLEDIS Entertainment | K-POP/J-POP | 韓国/日本 | アクティブ | 日本2ndシングル『SODA SODA』(8/4)がBillboard JAPAN Hot 100で1位（2026-08-12付）。 | K-POPグループの日本市場定着枠として定点観測。 | 2026-08-14 |
 | BTS | HYBE/BIGHIT | HYBE | K-POP | 韓国 | 完全体活動 継続中 | 完全体での『Arirang』ワールドツアーが本格化し、HYBEのQ2過去最高業績を牽引。 |  | 2026-08-03 |
@@ -16,7 +17,6 @@ _最終更新: 2026-09-21 07:23_
 | Mrs. GREEN APPLE | ユニバーサル | — | J-POP | 日本 | アクティブ |  |  |  |
 | あいみょん | ワーナー | — | J-POP | 日本 | アクティブ |  |  |  |
 | BLACKPINK | YG | YG | K-POP | 韓国 | アクティブ |  |  |  |
-| NewJeans/ILLIT等 HYBE系 | HYBE | HYBE | K-POP | 韓国 | ウォッチ |  | HYBE内紛の影響も追跡 |  |
 | Taylor Swift | Republic/UMG | — | ポップ | 米国 | アクティブ |  |  |  |
 | Bad Bunny | Rimas | — | レゲトン | プエルトリコ | アクティブ |  |  |  |
 | Billie Eilish | Interscope/UMG | — | ポップ | 米国 | アクティブ |  |  |  |
