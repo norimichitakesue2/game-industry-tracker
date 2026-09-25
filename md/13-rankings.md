@@ -1,8 +1,23 @@
 # 週間ランキング
 
-_最終更新: 2026-09-25 07:52_
+_最終更新: 2026-09-25 21:35_
 
 ## 国内ファミ通
+
+### 2026-09-15〜09-21
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | マリオカート ワールド | Switch2 | 33,861 |  |  | https://www.famitsu.com/article/202509/53444 | ファミ通週販トップ10（週販本数付き）。 |
+| 2 | 英雄伝説 空の軌跡 the 1st | PS5 | 21,511 |  |  | https://www.famitsu.com/article/202509/53444 | ファミ通週販トップ10（週販本数付き）。 |
+| 3 | 英雄伝説 空の軌跡 the 1st | Switch | 21,453 |  |  | https://www.famitsu.com/article/202509/53444 | ファミ通週販トップ10（週販本数付き）。 |
+| 4 | ドンキーコング バナンザ | Switch2 | 11,300 |  |  | https://www.famitsu.com/article/202509/53444 | ファミ通週販トップ10（週販本数付き）。 |
+| 5 | Castlevania Dominus Collection | Switch | 9,503 |  |  | https://www.famitsu.com/article/202509/53444 | ファミ通週販トップ10（週販本数付き）。 |
+| 6 | 鬼滅の刃 ヒノカミ血風譚2 | Switch | 7,170 |  |  | https://www.famitsu.com/article/202509/53444 | ファミ通週販トップ10（週販本数付き）。 |
+| 7 | 牧場物語 Let's！ 風のグランドバザール | Switch | 6,059 |  |  | https://www.famitsu.com/article/202509/53444 | ファミ通週販トップ10（週販本数付き）。 |
+| 8 | Minecraft | Switch | 5,762 |  |  | https://www.famitsu.com/article/202509/53444 | ファミ通週販トップ10（週販本数付き）。 |
+| 9 | マリオカート8 デラックス | Switch | 5,203 |  |  | https://www.famitsu.com/article/202509/53444 | ファミ通週販トップ10（週販本数付き）。 |
+| 10 | 五等分のプリンセス ～幻想と深淵と魔法学院～ | Switch | 5,077 |  |  | https://www.famitsu.com/article/202509/53444 | ファミ通週販トップ10（週販本数付き）。 |
 
 ### 2026-09-07〜09-13
 
@@ -194,6 +209,21 @@ _最終更新: 2026-09-25 07:52_
 | 10 | アストロボット | PS5 | 3,460 | 103,717 |  | ファミ通.com 週販 https://www.famitsu.com/article/202606/78042 |  |
 
 ## Steamトップセラー
+
+### 2026-09-15〜09-22
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | WARDOGS | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-15th22nd-of-september-2026 | Steam週間グローバルトップセラー（GameGrin集計、順位のみ）。 |
+| 2 | EA SPORTS FC 27 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-15th22nd-of-september-2026 | Steam週間グローバルトップセラー（GameGrin集計、順位のみ）。 |
+| 3 | Counter-Strike 2 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-15th22nd-of-september-2026 | Steam週間グローバルトップセラー（GameGrin集計、順位のみ）。 |
+| 4 | PUBG: BATTLEGROUNDS | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-15th22nd-of-september-2026 | Steam週間グローバルトップセラー（GameGrin集計、順位のみ）。 |
+| 5 | Dota 2 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-15th22nd-of-september-2026 | Steam週間グローバルトップセラー（GameGrin集計、順位のみ）。 |
+| 6 | Apex Legends | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-15th22nd-of-september-2026 | Steam週間グローバルトップセラー（GameGrin集計、順位のみ）。 |
+| 7 | Marvel Rivals | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-15th22nd-of-september-2026 | Steam週間グローバルトップセラー（GameGrin集計、順位のみ）。 |
+| 8 | Aniimo | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-15th22nd-of-september-2026 | Steam週間グローバルトップセラー（GameGrin集計、順位のみ）。 |
+| 9 | Diablo IV | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-15th22nd-of-september-2026 | Steam週間グローバルトップセラー（GameGrin集計、順位のみ）。 |
+| 10 | 英雄伝説 空の軌跡 the 2nd (Trails in the Sky 2nd Chapter) | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-15th22nd-of-september-2026 | Steam週間グローバルトップセラー（GameGrin集計、順位のみ）。 |
 
 ### 2026-09-08〜09-15
 

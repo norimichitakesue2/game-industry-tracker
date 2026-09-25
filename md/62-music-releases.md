@@ -1,6 +1,6 @@
 # 【音楽】リリース・チャート
 
-_最終更新: 2026-09-25 07:52_
+_最終更新: 2026-09-25 21:35_
 
 | 集計日/発売日 | 区分 | タイトル/曲名 | アーティスト | レーベル | 形態 | チャート順位 | ストリーミング数 | 話題度(1-5) | メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -19,3 +19,6 @@ _最終更新: 2026-09-25 07:52_
 | 2026-09-10(付) | チャート | JI BLUE 新曲(総合1位) | JI BLUE |  | デジタル/ストリーミング複合 | Billboard JAPAN Hot 100 1位 |  | 4 | 総合ソングチャート“JAPAN Hot 100”首位(集計2026-08-31〜09-06)。2位は嵐、3位Lienel。 | https://www.billboard-japan.com/charts/detail?a=hot100 |
 | 2026-09-16(付) | チャート | 時空超えてユニバース | M!LK |  | デジタル/ストリーミング/動画 | Billboard JAPAN「Japan Hot Shot Songs」1位 |  | 4 | 急上昇ソングチャート首位(集計期間2026-09-07〜09-13)。M!LKが勢いを維持。 | https://magazine.tunecore.co.jp/news/666771/ |
 | 2026-09-16(付) | 新譜/チャート | ありふれた世界の果てに | YAO(Awich, CHICO CARLITO, ONE OK ROCK & Paledusk) |  | 配信シングル | Japan Hot Shot Songs 2位 |  | 4 | 話題沸騰のコラボプロジェクトYAO第2弾。配信直後から急上昇。 | https://magazine.tunecore.co.jp/news/666771/ |
+| 2026-09-21(付) | チャート | Yes! 東京 | EBiDAN |  | デジタル/CD/配信 | Billboard JAPAN Hot 100 1位(集計9/7-13) |  | 4 | 総合ソング・チャート首位。 | https://ja.wikipedia.org/wiki/2026%E5%B9%B4Billboard_Japan_Hot_100%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB1%E4%BD%8D%E3%81%AE%E4%B8%80%E8%A6%A7 |
+| 2026-09-21(付) | チャート | Dance Forever | SixTONES |  | 両A面シングル | Billboard JAPAN Hot 100 2位(集計9/7-13) |  | 3 | デビュー6周年第2弾の両A面(9/9発売)。 | https://www.billboard-japan.com/charts/detail?a=hot100 |
+| 2026-09-25(付) | 新譜/チャート | LOVE ENG!NE | M!LK | ソニー・ミュージック | アルバム | ビルボードジャパン3指標(CD/DL/ストリーミング)上位・トップアーティストチャート初制覇 |  | 4 | CD・DL・配信を横断する総合力型ヒット。 | https://www.imaoto.com/entry/2026/09/25/060000 |
