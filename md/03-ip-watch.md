@@ -1,14 +1,14 @@
 # IP・タイトルウォッチ
 
-_最終更新: 2026-09-28 07:37_
+_最終更新: 2026-09-28 09:06_
 
 | IP/シリーズ名 | 権利元/開発 | 地域 | 直近動向 | 次回作情報 | シリーズ累計(万本) | ステータス | メモ | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Roblox | Roblox Corp | 海外 | Meta Connect(9/24)でAIゲーム制作ツール『Horizon Create/Studio』が発表され、UGC/クリエイター基盤に競合脅威との受け止め。株価は9/25に約-4.3%下落。RDC2026で示した独立アプリ配信『Roblox Everywhere』やWallet戦略は継続。 | 独立アプリ配信(Roblox Everywhere)、Roblox Wallet、AI制作ツール |  | アクティブ |  | 2026-09-28 |
 | ファイナルファンタジー | スクウェア・エニックス | 日本 | TGS2026で『FINAL FANTASY VII Revelation』と『FF Resonance』を試遊出展、ブースでDQ/ディシディア系のトレーラーも上映。FF7リメイク系の新展開に注目が集まる。 | FINAL FANTASY VII Revelation、FF Resonance |  | アクティブ |  | 2026-09-21 |
 | モンスターハンター | カプコン | 日本 | TGS2026で『Monster Hunter Wilds: Ascendance』(2027予定、古龍テオ・テスカトル復活/新機構Boost Bracer等)を発表。モバイル新作『Monster Hunter Outlanders』も事前登録を開始し、シリーズの多面展開が進む。 | Monster Hunter Wilds: Ascendance(2027)、Monster Hunter Outlanders(モバイル) |  | アクティブ |  | 2026-09-21 |
 | ペルソナ | アトラス/セガ | 日本 | TGS2026でATLUSが完全新作『ペルソナ6』(PS5/Xbox/PC、新キャストの独立作)を正式発表。『ペルソナ4 Revival』は2027/2/18にXbox/PCで発売(Game Pass初日)、Switch2版は2027/5/20予定。 | ペルソナ6(発売日未定)、ペルソナ4 Revival(2027/2/18) |  | アクティブ |  | 2026-09-21 |
 | Grand Theft Auto | Rockstar Games/Take-Two | 海外 | GTA6は2026/11/19発売を再確認。PS予約でUltimate Edition比率が88.5%と高単価志向が鮮明で、Take-Two株の支援材料に。年末商戦の最大目玉。 | GTA6 — 2026年11月19日発売予定 |  | 発売直前 |  | 2026-09-21 |
-| Roblox | Roblox Corp | 海外 | RDC2026(9/11)で『Roblox Everywhere』を発表し、体験を独立アプリとして各ストア配信可能に。ブラウザプレイ・2Dゲーム拡張・Roblox Walletも公開。好感され株価は9/14に+12.73%。 | 独立アプリ配信(Roblox Everywhere)、Roblox Wallet |  | アクティブ |  | 2026-09-21 |
 | ゼルダの伝説 | 任天堂 | 日本 | 9/8にゼルダの伝説40周年記念Nintendo Directを実施予定。Switch2向けの新展開や記念タイトルへの期待が高まる。 | ゼルダの伝説 時のオカリナ リメイク（Switch 2、2026年後半予定） |  | アクティブ |  | 2026-09-07 |
 | ドラゴンクエスト | スクウェア・エニックス | 日本 | TGS2026に『ドラゴンクエスト モンスターズ 枯れた世界』を出展。DQモンスターズ系の新作が前進。 | ドラゴンクエスト モンスターズ 枯れた世界(TGS2026出展) |  | アクティブ |  | 2026-09-07 |
 | ソニック | セガ | 日本 | TGS2026でセガが『Sonic Racing: CrossWorlds』を出展。レース系新作としてマルチ展開を推進。 | Sonic Racing: CrossWorlds(TGS2026出展) |  | アクティブ |  | 2026-09-07 |
