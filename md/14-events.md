@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-09-29 12:00_
+_最終更新: 2026-09-30 08:08_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -14,7 +14,9 @@ _最終更新: 2026-09-29 12:00_
 | 2026-10-31 |  | 東京ゲームダンジョン14 | 展示会 | 東京・浜松町 | オフライン | 東京ゲームダンジョンの2026年秋回。インディー/個人開発の新作プレイアブル展示が中心。 | https://tokyogamedungeon.com/ | 開催予定 | 2026-06-21 |
 | 2026-10-30 | 2027-01-07 | Snow Man DOME TOUR 2026-2027 ALL SUITE | ライブ・フェス | 全国5大ドーム(札幌/名古屋/福岡/東京/大阪) | リアル | 5大ドーム計18公演。6thアルバム『AMENITY』(10/7)と連動。年末年始のライブ需要を取り込む大型ツアー | https://news.yahoo.co.jp/articles/d2915d2ef2642566fceed9c012f79d84982b01ef | 開催予定 | 2026-08-15 |
 | 2026-10-19 | 2026-10-26 | Steam Next Fest(10月版) | セール/デモ | オンライン(Steam) | 体験版一斉解禁 | 発売前タイトルの体験版を一斉公開する需要喚起イベント。秋セール直前。6月版と同パターン。 | https://store.steampowered.com/sale/nextfest | 開催予定 | 2026-06-17 |
+| 2026-10-19 | 2026-10-26 | Steam Next Fest: October 2026 Edition | セール | オンライン | オンライン | 体験版・開発者配信が集中する大型プロモイベント。10/19 10:00 PDT開始。提出締切は9/28 | https://store.steampowered.com/sale/nextfest | 開催予定 | 2026-09-30 |
 | 2026-10-15 | 2026-11-14 | LoL World Championship 2026 (Worlds) | eスポーツ | 米国(LA/Allen TX/NY) | オフライン大会 | LoL世界大会。決勝11/14・ブルックリンBarclays Center。米国3都市を巡回。 | https://en.wikipedia.org/wiki/2026_League_of_Legends_World_Championship | 開催予定 | 2026-06-17 |
+| 2026-10-10 | 2026-10-12 | BMSG FES'26 | ライブ・フェス | 日本 | オフライン | BMSG所属勢の大型フェス。各日トリはSTARGLOW/MAZZEL/BE:FIRST。自社アーティスト×新人育成の垂直型興行 | https://natalie.mu/music/news/691500 | 開催予定 | 2026-09-30 |
 | 2026-10-07 |  | Crunchyroll Anime Future Forum(招待制アニメ業界サミット) | 展示会 | 米ニューヨーク(Javits Center) | オフライン | Crunchyroll主催の初のアニメ業界サミット。テーマ『Designing for Anime’s Future』、NYCC前日に開催 | https://www.animenewsnetwork.com/news/2026-05-08/crunchyroll-hosts-inaugural-anime-leadership-summit-in-new-york-on-october-7/.237184 | 開催予定 | 2026-09-15 |
 | 2026-10-01 |  | Steam オータムセール 2026 | セール | オンライン | オンライン | Valveが7/16に公開した2027年上半期までの日程の一部。10/1開始。 | https://news.denfaminicogamer.jp/news/260716e | 開催予定 | 2026-07-20 |
 | 2026-09-24 | 2026-10-18 | VALORANT Champions 2026 | eスポーツ | 中国・上海 | オフライン大会 | VCT世界一決定戦。16チーム・賞金225万ドル。中国開催。 | https://liquipedia.net/valorant/VCT/2026/Champions | 開催中 | 2026-09-24 |
