@@ -1,6 +1,6 @@
 # 【音楽】リリース・チャート
 
-_最終更新: 2026-10-02 07:22_
+_最終更新: 2026-10-02 18:16_
 
 | 集計日/発売日 | 区分 | タイトル/曲名 | アーティスト | レーベル | 形態 | チャート順位 | ストリーミング数 | 話題度(1-5) | メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -22,3 +22,6 @@ _最終更新: 2026-10-02 07:22_
 | 2026-09-21(付) | チャート | Yes! 東京 | EBiDAN |  | デジタル/CD/配信 | Billboard JAPAN Hot 100 1位(集計9/7-13) |  | 4 | 総合ソング・チャート首位。 | https://ja.wikipedia.org/wiki/2026%E5%B9%B4Billboard_Japan_Hot_100%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB1%E4%BD%8D%E3%81%AE%E4%B8%80%E8%A6%A7 |
 | 2026-09-21(付) | チャート | Dance Forever | SixTONES |  | 両A面シングル | Billboard JAPAN Hot 100 2位(集計9/7-13) |  | 3 | デビュー6周年第2弾の両A面(9/9発売)。 | https://www.billboard-japan.com/charts/detail?a=hot100 |
 | 2026-09-25(付) | 新譜/チャート | LOVE ENG!NE | M!LK | ソニー・ミュージック | アルバム | ビルボードジャパン3指標(CD/DL/ストリーミング)上位・トップアーティストチャート初制覇 |  | 4 | CD・DL・配信を横断する総合力型ヒット。 | https://www.imaoto.com/entry/2026/09/25/060000 |
+| 2026-10-05(付) | チャート | REBON | Number_i | Atlantic Records | シングル/配信 | Billboard JAPAN Hot 100 1位(最新週) |  | 5 | Atlantic Records移籍第一弾。『REBON』『DIGITAL GIRL』で総合チャート1-2位を独占。 | https://www.billboard-japan.com/charts/detail?a=hot100 |
+| 2026-10-05(付) | チャート | DIGITAL GIRL | Number_i | Atlantic Records | シングル/配信 | Billboard JAPAN Hot 100 2位(最新週) |  | 4 | Number_iが1位(REBON)と合わせ総合チャート上位を独占。 | https://www.billboard-japan.com/charts/detail?a=hot100 |
+| 2026-10(フラゲ) | 新譜 | POPS | Mrs. GREEN APPLE | ユニバーサル | アルバム | 先ヨミでアルバム首位独走(60.2万枚) |  | 5 | フラゲ日集計で58万枚突破、2作目のハーフミリオン達成見込みの大型新譜。 | https://www.billboard-japan.com/d_news/detail/166068/ |

@@ -1,8 +1,23 @@
 # 週間ランキング
 
-_最終更新: 2026-10-02 07:22_
+_最終更新: 2026-10-02 18:16_
 
 ## 国内ファミ通
+
+### 2026-09-21〜09-27
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | ダービースタリオン2 | Switch2 | 29,336 | 29,336 |  | https://www.famitsu.com/article/202610/89721 | ファミ通週間ソフト推定販売本数TOP10(初登場5本/4作品)。首位は競走馬育成シム最新作『ダービースタリオン2』。 |
+| 2 | リズム天国 ミラクルスターズ | Switch | 27,309 | 1,049,922 |  | https://www.famitsu.com/article/202610/89721 | ファミ通週間ソフト推定販売本数TOP10(初登場5本/4作品)。首位は競走馬育成シム最新作『ダービースタリオン2』。 |
+| 3 | ファイアーエムブレム 万紫千紅 | Switch2 | 26,728 | 153,859 |  | https://www.famitsu.com/article/202610/89721 | ファミ通週間ソフト推定販売本数TOP10(初登場5本/4作品)。首位は競走馬育成シム最新作『ダービースタリオン2』。 |
+| 4 | SILENT HILL: Townfall | PS5 | 13,596 | 13,596 |  | https://www.famitsu.com/article/202610/89721 | ファミ通週間ソフト推定販売本数TOP10(初登場5本/4作品)。首位は競走馬育成シム最新作『ダービースタリオン2』。 |
+| 5 | ドラゴンクエストXI 過ぎ去りし時を求めて S | Switch2 | 10,844 | 10,844 |  | https://www.famitsu.com/article/202610/89721 | ファミ通週間ソフト推定販売本数TOP10(初登場5本/4作品)。首位は競走馬育成シム最新作『ダービースタリオン2』。 |
+| 6 | EA SPORTS FC 27 | PS5 | 9,873 | 9,873 |  | https://www.famitsu.com/article/202610/89721 | ファミ通週間ソフト推定販売本数TOP10(初登場5本/4作品)。首位は競走馬育成シム最新作『ダービースタリオン2』。 |
+| 7 | トモダチコレクション わくわく生活 | Switch | 8,052 | 1,618,104 |  | https://www.famitsu.com/article/202610/89721 | ファミ通週間ソフト推定販売本数TOP10(初登場5本/4作品)。首位は競走馬育成シム最新作『ダービースタリオン2』。 |
+| 8 | スプラトゥーン レイダース | Switch2 | 7,405 | 671,202 |  | https://www.famitsu.com/article/202610/89721 | ファミ通週間ソフト推定販売本数TOP10(初登場5本/4作品)。首位は競走馬育成シム最新作『ダービースタリオン2』。 |
+| 9 | EA SPORTS FC 27 | Switch2 | 5,952 | 5,952 |  | https://www.famitsu.com/article/202610/89721 | ファミ通週間ソフト推定販売本数TOP10(初登場5本/4作品)。首位は競走馬育成シム最新作『ダービースタリオン2』。 |
+| 10 | 鬼武者 Way of the Sword | PS5 | 5,141 | 110,087 |  | https://www.famitsu.com/article/202610/89721 | ファミ通週間ソフト推定販売本数TOP10(初登場5本/4作品)。首位は競走馬育成シム最新作『ダービースタリオン2』。 |
 
 ### 2026-09-15〜09-21
 
@@ -209,6 +224,21 @@ _最終更新: 2026-10-02 07:22_
 | 10 | アストロボット | PS5 | 3,460 | 103,717 |  | ファミ通.com 週販 https://www.famitsu.com/article/202606/78042 |  |
 
 ## Steamトップセラー
+
+### 2026-09-22〜09-29
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | EA SPORTS FC 27 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-22nd29th-of-september-2026 | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。EA FC27が1位デビュー。 |
+| 2 | Counter-Strike 2 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-22nd29th-of-september-2026 | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。EA FC27が1位デビュー。 |
+| 3 | WARDOGS | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-22nd29th-of-september-2026 | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。EA FC27が1位デビュー。 |
+| 4 | CONTROL Resonant | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-22nd29th-of-september-2026 | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。EA FC27が1位デビュー。 |
+| 5 | Apex Legends | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-22nd29th-of-september-2026 | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。EA FC27が1位デビュー。 |
+| 6 | Total War: WARHAMMER III | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-22nd29th-of-september-2026 | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。EA FC27が1位デビュー。 |
+| 7 | Aniimo | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-22nd29th-of-september-2026 | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。EA FC27が1位デビュー。 |
+| 8 | ACE COMBAT 8: WINGS OF THEVE | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-22nd29th-of-september-2026 | Steam週間トップセラー(GameGrin集計)。本作は予約段階でのランクイン。 |
+| 9 | Warframe | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-22nd29th-of-september-2026 | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。EA FC27が1位デビュー。 |
+| 10 | PUBG: BATTLEGROUNDS | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-22nd29th-of-september-2026 | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。EA FC27が1位デビュー。 |
 
 ### 2026-09-15〜09-22
 

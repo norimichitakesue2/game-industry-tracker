@@ -1,6 +1,6 @@
 # 新作リリースログ
 
-_最終更新: 2026-10-02 07:22_
+_最終更新: 2026-10-02 18:16_
 
 | 発売日 | タイトル | 開発 | パブリッシャー | プラットフォーム | ジャンル | Metacritic | OpenCritic | Steam同接ピーク | 初週推定本数 | 話題度(1-5) | 感想/メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -8,10 +8,13 @@ _最終更新: 2026-10-02 07:22_
 | 2026-11-05(予定) | ゼルダの伝説 時のオカリナ -Switch2 | 任天堂 | 任天堂 | Switch2 | アクションアドベンチャー |  |  |  |  | 5 | 【来月の超大型】N64の不朽の名作をSwitch2向けにフルリメイク。Amazon予約数ランキング（9/6-12）で首位。11/5発売予定。 | https://www.famitsu.com/article/202609/88399 |
 | 2026-10-28(予定) | Phantom Blade Zero（ファントムブレイドゼロ） | S-GAME | S-GAME / 505 Games | PC(Steam) / PS5 | 武侠アクション |  |  |  |  | 4 | 【注目・発売前】gamescom前後で先行予約が急増し、未発売ながらSteam週間トップセラー3位(8/10-16)にランクイン。UE5製の武侠アクション。製品版でMetascore付与見込み、要ウォッチ。 | https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/ |
 | 2026-10-23(予定) | Call of Duty: Modern Warfare 4（コール オブ デューティ モダン・ウォーフェア4） | Infinity Ward | Activision | PC(Steam) / PS5 / Xbox Series X\|S | FPS |  |  |  |  | 5 | 【来月大型】CoD年次最新作。10/23発売。予約段階で8/18-25週のSteamトップセラー3位に急浮上。 | https://store.steampowered.com/app/4435490/ |
-| 2026-10-02(予定) | ACE COMBAT 8: WINGS OF THEVE（エースコンバット8 ウイングス・オブ・シーヴ） | バンダイナムコエンターテインメント | バンダイナムコエンターテインメント | PS5/Xbox/PC(Steam) | フライトシューティング |  |  |  |  | 5 | 【来週の大型】フライトシューティング シリーズ ナンバリング最新作。10/2発売、DELUXE EDITIONは9/29アーリーアクセス。早期購入特典で『ACE ZERO』移植版も。 | https://prtimes.jp/main/html/rd/p/000002204.000051316.html |
+| 2026-10-09(予定) | Dragon's Dogma 2: Dark Arisen（ドラゴンズドグマ2：ダークアリズン） | カプコン | カプコン | PS5/Xbox/PC | アクションRPG(拡張) |  |  |  |  | 4 | 【来週の大型】『ドラゴンズドグマ2』の大型拡張/強化版。10/9発売予定。 | https://www.gamegrin.com/directory/game/dragons-dogma-2-dark-arisen/about |
+| 2026-10-08(予定) | KINGDOM HEARTS Collection [I～III]（キングダム ハーツ コレクション） | スクウェア・エニックス | スクウェア・エニックス | PS5/Switch2/PC/Xbox | アクションRPG(コレクション) |  |  |  |  | 4 | 【来週の大型】KHシリーズ主要作を収録したコレクション。10/8発売予定。 | https://www.gamegrin.com/directory/game/kingdom-hearts-collection-iiii/about |
+| 2026-10-05(予定) | AION 2（アイオン2） | NC | NC | PC/モバイル | MMORPG(基本無料) |  |  |  |  | 3 | 【来週】NCSOFTの人気MMO続編。基本無料。Steam週間トップセラーに予約でNEWランクイン。※AI生成コンテンツ開示あり。 | https://store.steampowered.com/app/3393110/AION_2/ |
+| 2026-10-02 | ACE COMBAT 8: WINGS OF THEVE（エースコンバット8 ウイングス・オブ・シーヴ） | バンダイナムコエンターテインメント | バンダイナムコエンターテインメント | PS5/Xbox/PC(Steam) | フライトシューティング | 87 | 88 |  |  | 5 | シリーズナンバリング最新作。Metacritic87(PS5)/OpenCritic88・推奨98%で“25年ぶりのシリーズ最高級”(AC04の89点に次ぐ)。空戦・楽曲・ストーリーを絶賛、演出のテンポに一部指摘。Steam週間トップセラー8位(予約)。 | https://prtimes.jp/main/html/rd/p/000002204.000051316.html |
 | 2026-09-28(予定) | エースコンバット8（ACE COMBAT 8: Wings of Theve） | Bandai Namco | Bandai Namco | PC(Steam) / PS5 / Xbox Series X\|S | フライトシューティング |  |  |  |  |  | 【今月の大型】人気フライトSTG最新作。9/28発売予定。 | https://en.wikipedia.org/wiki/Ace_Combat |
 | 2026-09-24(予定) | SILENT HILL: Townfall（サイレントヒル タウンフォール） | No Code / Annapurna | KONAMI | PC(Steam) / PS5 | サイコロジカルホラー |  |  |  |  |  | 【今月の注目】『Stories Untold』のNo Codeが手掛けるサイレントヒル新作。9/24発売予定。 | https://en.wikipedia.org/wiki/Silent_Hill:_Townfall |
-| 2026-09-24 | Silent Hill: Townfall（サイレントヒル タウンフォール） | No Code | KONAMI（Annapurna Interactive共同） | PS5/PC | サイコロジカルホラー | 81 | 82 | 8,360 |  | 4 | スコットランドの架空漁村セント・アメリアが舞台。雰囲気・町の設計・パズルは高評価だが、ステルスや敵挙動・技術的バグが没入を削ぐとの指摘。Steam同接ピーク8,360（egw.news）。 | https://egw.news/gaming/news/37451/silent-hill-townfall-launches-on-steam-with-a-peak-wR1tJBOhj |
+| 2026-09-24 | Silent Hill: Townfall（サイレントヒル タウンフォール） | No Code | KONAMI（Annapurna Interactive共同） | PS5/PC | サイコロジカルホラー | 81 | 81 | 8,360 | 初週13,596本(ファミ通/国内PS5) | 4 | サイコロジカルホラー。Metacritic/OpenCritic ともに81(OC 86パーセンタイル・推奨83%)。雰囲気・サウンド・心理的恐怖を高評価も、ステルス戦とチェックポイントの渋さに批判。ファミ通週販4位(初週13,596本)。Digital Spy等は満点。 | https://egw.news/gaming/news/37451/silent-hill-townfall-launches-on-steam-with-a-peak-wR1tJBOhj |
 | 2026-09-24 | CONTROL Resonant（コントロール レゾナント） | Remedy Entertainment | Remedy Entertainment | PS5/Xbox/PC | アクションRPG | 84 | 84 |  |  | 4 | Remedy最新作。前作を上回るメタスコア84、OpenCritic『Mighty』(平均84・86%が推奨)。Steam週間トップセラーにNEWランクイン。※AI生成コンテンツ開示あり。 | https://www.gamesradar.com/games/action-rpg/control-resonant-metacritic-score-places-it-higher-than-its-predecessor-but-it-cant-touch-2026s-top-20-bangers-like-resident-evil-requiem-and-pokemon-pokopia/ |
 | 2026-09-24 | EA SPORTS FC 27 | EA Vancouver / EA Romania | Electronic Arts | PS5/Xbox/PC/Switch | スポーツ(サッカー) | 84 | 80 |  |  | 4 | サッカーゲーム最新作。メタスコア84(PS5/PC)、OpenCritic『Strong』80。Steam週間トップセラーにNEW2位。※AI生成コンテンツ開示あり。 | https://www.metacritic.com/game/ea-sports-fc-27/ |
 | 2026-09-17(予定) | 空の軌跡 the 2nd（Trails in the Sky the 2nd） | 日本ファルコム | 日本ファルコム | Switch2 / Switch / PS5 / PC(Steam) | ストーリーRPG |  |  |  |  |  | 【来週の注目】『軌跡』シリーズ完全リメイク第2弾。エステルとヨシュアの旅の結末。9/17全世界同時発売。通常版8,800円(DL)。 | https://www.falcom.co.jp/sora2/ |
