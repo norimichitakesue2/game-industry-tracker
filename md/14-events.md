@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-10-07 03:22_
+_最終更新: 2026-10-07 22:29_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -19,7 +19,7 @@ _最終更新: 2026-10-07 03:22_
 | 2026-10-15 | 2026-11-14 | LoL World Championship 2026 (Worlds) | eスポーツ | 米国(LA/Allen TX/NY) | オフライン大会 | LoL世界大会。決勝11/14・ブルックリンBarclays Center。米国3都市を巡回。 | https://en.wikipedia.org/wiki/2026_League_of_Legends_World_Championship | 開催予定 | 2026-06-17 |
 | 2026-10-10 | 2026-10-12 | BMSG FES'26 | ライブ・フェス | 日本 | オフライン | BMSG所属勢の大型フェス。各日トリはSTARGLOW/MAZZEL/BE:FIRST。自社アーティスト×新人育成の垂直型興行 | https://natalie.mu/music/news/691500 | 開催予定 | 2026-09-30 |
 | 2026-10-08 | 2026-10-08 | 2026年ノーベル文学賞 発表 | 映画祭・賞 | スウェーデン | オンライン | アミタヴ・ゴーシュが有力候補。KADOKAWAが代表作『銃ノ島』を先行邦訳 | https://www.kadokawa.co.jp/topics/17916/ | 開催予定 | 2026-10-02 |
-| 2026-10-07 |  | Crunchyroll Anime Future Forum(招待制アニメ業界サミット) | 展示会 | 米ニューヨーク(Javits Center) | オフライン | Crunchyroll主催の初のアニメ業界サミット。テーマ『Designing for Anime’s Future』、NYCC前日に開催 | https://www.animenewsnetwork.com/news/2026-05-08/crunchyroll-hosts-inaugural-anime-leadership-summit-in-new-york-on-october-7/.237184 | 開催予定 | 2026-09-15 |
+| 2026-10-07 |  | Crunchyroll Anime Future Forum(招待制アニメ業界サミット) | 展示会 | 米ニューヨーク(Javits Center) | オフライン | Crunchyroll主催の初のアニメ業界サミット。テーマ『Designing for Anime’s Future』、NYCC前日に開催 | https://www.animenewsnetwork.com/news/2026-05-08/crunchyroll-hosts-inaugural-anime-leadership-summit-in-new-york-on-october-7/.237184 | 開催中 | 2026-10-07 |
 | 2026-10-01 |  | Steam オータムセール 2026 | セール | オンライン | オンライン | Valveが7/16に公開した2027年上半期までの日程の一部。10/1開始。 | https://news.denfaminicogamer.jp/news/260716e | 終了 | 2026-10-03 |
 | 2026-09-24 | 2026-10-18 | VALORANT Champions 2026 | eスポーツ | 中国・上海 | オフライン大会 | VCT世界一決定戦。16チーム・賞金225万ドル。中国開催。 | https://liquipedia.net/valorant/VCT/2026/Champions | 開催中 | 2026-09-24 |
 | 2026-09-23 |  | 『アベンジャーズ エンドゲーム アンコール』特別版 期間限定上映 | 発売・公開 | 全国 | リアル | 新映像を追加した特別版のリバイバル上映。次期『ドゥームズデイ』前の需要喚起 | https://eiga.com/news/20260730/11/ | 終了 | 2026-10-04 |
