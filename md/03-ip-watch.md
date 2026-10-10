@@ -1,9 +1,10 @@
 # IP・タイトルウォッチ
 
-_最終更新: 2026-10-10 01:31_
+_最終更新: 2026-10-10 03:10_
 
 | IP/シリーズ名 | 権利元/開発 | 地域 | 直近動向 | 次回作情報 | シリーズ累計(万本) | ステータス | メモ | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| KEMURI（ケムリ） | Unseen Inc.（中村育美） | 国内 | 2026-06-02のPlayStation State of Playで正式発表。妖怪ハンターとして『ケムリシティ』で妖怪と契約し力を得るスタイリッシュ・アクション（狐の窓、憑依アパレル、近接/遠隔/祈祷・護符）。 | 2027年発売予定（PS5確定、PC等は要確認） |  | 発表済・2027予定 | 旧Tango（Ghostwire: Tokyo）の中村育美が率いる新スタジオの第1作。創作者主導の新スタジオの実例。発売日確定・ベータ・プレビュー等の次報で日次に再登場させる。出典: VGC 2026-06-02 | 2026-10-10 |
 | Roblox | Roblox Corp | 海外 | Meta Connect(9/24)でAIゲーム制作ツール『Horizon Create/Studio』が発表され、UGC/クリエイター基盤に競合脅威との受け止め。株価は9/25に約-4.3%下落。RDC2026で示した独立アプリ配信『Roblox Everywhere』やWallet戦略は継続。 | 独立アプリ配信(Roblox Everywhere)、Roblox Wallet、AI制作ツール |  | アクティブ |  | 2026-09-28 |
 | ファイナルファンタジー | スクウェア・エニックス | 日本 | TGS2026で『FINAL FANTASY VII Revelation』と『FF Resonance』を試遊出展、ブースでDQ/ディシディア系のトレーラーも上映。FF7リメイク系の新展開に注目が集まる。 | FINAL FANTASY VII Revelation、FF Resonance |  | アクティブ |  | 2026-09-21 |
 | モンスターハンター | カプコン | 日本 | TGS2026で『Monster Hunter Wilds: Ascendance』(2027予定、古龍テオ・テスカトル復活/新機構Boost Bracer等)を発表。モバイル新作『Monster Hunter Outlanders』も事前登録を開始し、シリーズの多面展開が進む。 | Monster Hunter Wilds: Ascendance(2027)、Monster Hunter Outlanders(モバイル) |  | アクティブ |  | 2026-09-21 |
