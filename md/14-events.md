@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-10-13 22:25_
+_最終更新: 2026-10-14 22:23_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -18,22 +18,25 @@ _最終更新: 2026-10-13 22:25_
 | 2026-12-10 |  | The Game Awards 2026 (TGA) | ショーケース | 米LA(Peacock Theater)/配信 | 授賞式＋配信 | 年間ゲーム表彰と多数の新作発表。GOTYほか。GTA6発売直後の注目回。 | https://thegameawards.com/ | 開催予定 | 2026-06-17 |
 | 2026-11-20 | 2026-11-20 | IMART2026（マンガ・IPカンファレンス） | 展示会 | 東京・池袋 アニメイトシアター | リアル | 基調講演にKADOKAWA。第1回IMARTアワード | https://manga.watch.impress.co.jp/docs/news/2126030.html | 開催予定 | 2026-10-11 |
 | 2026-11-20 | 2026-11-21 | 2026 MAMA AWARDS（京セラドーム大阪） | 映画祭・賞 | 京セラドーム大阪 | ハイブリッド | K-POP授賞式を日本開催。大阪一帯で「MAMA FAN FESTA」（11/9〜21）を新設、Mnet Plusで世界配信 | https://prtimes.jp/main/html/rd/p/000001633.000003711.html | 開催予定 | 2026-10-13 |
+| 2026-11-19 |  | 『Grand Theft Auto VI』発売 | 発売・公開 | 全世界 | PS5/Xbox Series | ロックスター12年ぶりのGTA新作。幹部は次回作に8年はかからないと発言 | https://www.videogameschronicle.com/news/rockstar-says-its-next-game-after-grand-theft-auto-6-wont-take-another-eight-years-to-make/ | 開催予定 | 2026-10-15 |
 | 2026-11-16 | 2026-11-16 | 第69回グラミー賞 ノミネート発表 | 映画祭・賞 | 米国 | オンライン | 2027年グラミー賞のノミネート発表。Drake・BTS・Stray Kidsは不参加と報道 | https://www.grammy.com/news/2027-grammys-show-air-date-nominations-announced/ | 開催予定 | 2026-10-11 |
 | 2026-11-15 |  | 第176回 直木賞 候補作発表 | 映画祭・賞 | - | 発表 | 候補作の発表時期を従来の12月から11月中旬へ前倒し。受賞発表は2027年1月中旬予定。販促リードタイム確保が狙い。 | https://bungakushinko.or.jp/info/251212/index.html | 開催予定 | 2026-09-06 |
 | 2026-11-14 |  | BOOK MEETS NEXT 特別イベント「世界につながる、日本の本」 | 映画祭・賞 | 東京・宝生能楽堂 | オフライン | 朝井リョウ×柚木麻子対談。Billboard JAPAN Book Charts初の年間チャート発表・授賞 | https://www.shinbunka.co.jp/archives/14510 | 開催予定 | 2026-10-13 |
 | 2026-11-13 | 2026-11-26 | 『風を継ぐもの -はじまり-』劇場先行版上映 | 発売・公開 | 全国の劇場 | オフライン | TV放送(2027年1月)前に2週間限定で劇場先行。Live2D×セルの映像を劇場で初公開 | https://www.oricon.co.jp/news/2486065/full/ | 開催予定 | 2026-10-13 |
 | 2026-11-09 | 2026-11-09 | ブッカー賞2026 受賞作発表 | 映画祭・賞 | ロンドン（Old Billingsgate） | リアル | 最終候補6作（M・ジョン・ハリスン、マーロン・ジェイムズ、エリザベス・ストラウト、ダグラス・スチュアートほか） | https://thebookerprizes.com/the-booker-library/prize-years/2026 | 開催予定 | 2026-10-11 |
 | 2026-11-08 |  | デジゲー博2026 | 展示会 | 秋葉原UDX(東京) | オフライン | 同人・インディーゲームオンリーの展示・即売会。14回目。サークル参加受付は7/22開始。実験的な個人開発作が多数。 | https://digigame-expo.org/ | 開催予定 | 2026-06-21 |
+| 2026-11-08 | 2026-11-08 | 文学フリマ東京43 | 展示会 | 東京 | オフライン | 同人・インディー文芸の即売会。印刷費上昇で同人誌の値上げが進む中での開催 | https://bunfree.net/event/tokyo43/ | 開催予定 | 2026-10-15 |
 | 2026-11-07 | 2026-11-08 | 氣志團万博2026 ～房総爆音リゾート～ | ライブ・フェス | 千葉・幕張メッセ | オフライン | 氣志團主催の音楽フェス。10/3にPRラッピングトラックが都内走行 | https://natalie.mu/music | 開催予定 | 2026-10-02 |
 | 2026-10-31 |  | 東京ゲームダンジョン14 | 展示会 | 東京・浜松町 | オフライン | 東京ゲームダンジョンの2026年秋回。インディー/個人開発の新作プレイアブル展示が中心。 | https://tokyogamedungeon.com/ | 開催予定 | 2026-06-21 |
 | 2026-10-30 | 2027-01-07 | Snow Man DOME TOUR 2026-2027 ALL SUITE | ライブ・フェス | 全国5大ドーム(札幌/名古屋/福岡/東京/大阪) | リアル | 5大ドーム計18公演。6thアルバム『AMENITY』(10/7)と連動。年末年始のライブ需要を取り込む大型ツアー | https://news.yahoo.co.jp/articles/d2915d2ef2642566fceed9c012f79d84982b01ef | 開催予定 | 2026-08-15 |
+| 2026-10-30 | 2026-11-02 | TOKYO ANIME NEXT | 映画祭・賞 | 東京・池袋ほか | オフライン | 日本動画協会主催。11/2に2027年創設の新アニメアワードを初公開 | https://www.gamebusiness.jp/article/2026/10/14/28312.html | 開催予定 | 2026-10-15 |
 | 2026-10-28 | 2026-10-30 | TIFFCOM 2026（Tokyo IP Market） | 展示会 | 東京・竹芝 | リアル | 国際コンテンツ見本市。10/28の「Tokyo IP Market」で漫画IP4作が海外映像化パートナーを募るピッチ | https://branc.jp/article/2026/10/09/3183.html | 開催予定 | 2026-10-11 |
 | 2026-10-26 | 2026-11-04 | 第39回 東京国際映画祭 | 映画祭・賞 | 東京 | リアル | オープニング『SUKIYAKI 上を向いて歩こう』、センターピース『ゴジラ-0.0』、クロージング ヨン・サンホ監督『コロニー』。併催TIFFCOM（10/28-30） | https://eiga.com/news/20260911/5/ | 開催予定 | 2026-10-11 |
 | 2026-10-23 | 2026-10-23 | 劇場版『進撃の巨人』前編「紅蓮の弓矢」公開 | 発売・公開 | 日本 | 劇場(SCREEN X/4DX/ULTRA 4DX) | 人気IPの劇場再構成を体感型プレミアム上映で公開。旧作再活用×体験単価向上の事例。 | https://anime.eiga.com/news/127619/ | 開催予定 | 2026-10-09 |
 | 2026-10-19 | 2026-10-26 | Steam Next Fest(10月版) | セール/デモ | オンライン(Steam) | 体験版一斉解禁 | 発売前タイトルの体験版を一斉公開する需要喚起イベント。秋セール直前。6月版と同パターン。 | https://store.steampowered.com/sale/nextfest | 開催予定 | 2026-06-17 |
 | 2026-10-19 | 2026-10-26 | Steam Next Fest: October 2026 Edition | セール | オンライン | オンライン | 体験版・開発者配信が集中する大型プロモイベント。10/19 10:00 PDT開始。提出締切は9/28 | https://store.steampowered.com/sale/nextfest | 開催予定 | 2026-09-30 |
 | 2026-10-18 | 2027-01-11 | 30周年記念展『ALL OF EVANGELION』（ひらかたパーク） | 展示会 | 大阪府枚方市 ひらかたパーク | リアル | セル画・原画・新劇場版デジタル制作資料を展示。京阪電鉄が記念乗車券・装飾列車で連動 | https://animeanime.jp/article/2026/10/12/103720.html | 開催予定 | 2026-10-12 |
-| 2026-10-15 | 2026-11-14 | LoL World Championship 2026 (Worlds) | eスポーツ | 米国(LA/Allen TX/NY) | オフライン大会 | LoL世界大会。決勝11/14・ブルックリンBarclays Center。米国3都市を巡回。 | https://en.wikipedia.org/wiki/2026_League_of_Legends_World_Championship | 開催予定 | 2026-06-17 |
+| 2026-10-15 | 2026-11-14 | LoL World Championship 2026 (Worlds) | eスポーツ | 米国(LA/Allen TX/NY) | オフライン大会 | LoL世界大会。決勝11/14・ブルックリンBarclays Center。米国3都市を巡回。 | https://en.wikipedia.org/wiki/2026_League_of_Legends_World_Championship | 開催中 | 2026-10-15 |
 | 2026-10-10 | 2026-10-12 | BMSG FES'26 | ライブ・フェス | 日本 | オフライン | BMSG所属勢の大型フェス。各日トリはSTARGLOW/MAZZEL/BE:FIRST。自社アーティスト×新人育成の垂直型興行 | https://natalie.mu/music/news/691500 | 終了 | 2026-10-13 |
 | 2026-10-08 | 2026-10-08 | 2026年ノーベル文学賞 発表 | 映画祭・賞 | スウェーデン | オンライン | アミタヴ・ゴーシュが有力候補。KADOKAWAが代表作『銃ノ島』を先行邦訳 | https://www.kadokawa.co.jp/topics/17916/ | 終了 | 2026-10-09 |
 | 2026-10-07 |  | Crunchyroll Anime Future Forum(招待制アニメ業界サミット) | 展示会 | 米ニューヨーク(Javits Center) | オフライン | Crunchyroll主催の初のアニメ業界サミット。テーマ『Designing for Anime’s Future』、NYCC前日に開催 | https://www.animenewsnetwork.com/news/2026-05-08/crunchyroll-hosts-inaugural-anime-leadership-summit-in-new-york-on-october-7/.237184 | 終了 | 2026-10-10 |
