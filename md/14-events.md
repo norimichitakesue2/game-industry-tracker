@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-10-17 22:28_
+_最終更新: 2026-10-18 22:26_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -40,9 +40,13 @@ _最終更新: 2026-10-17 22:28_
 | 2026-10-26 | 2026-11-04 | 第39回 東京国際映画祭 | 映画祭・賞 | 東京 | リアル | オープニング『SUKIYAKI 上を向いて歩こう』、センターピース『ゴジラ-0.0』、クロージング ヨン・サンホ監督『コロニー』。併催TIFFCOM（10/28-30） | https://eiga.com/news/20260911/5/ | 開催予定 | 2026-10-11 |
 | 2026-10-23 | 2026-10-23 | 劇場版『進撃の巨人』前編「紅蓮の弓矢」公開 | 発売・公開 | 日本 | 劇場(SCREEN X/4DX/ULTRA 4DX) | 人気IPの劇場再構成を体感型プレミアム上映で公開。旧作再活用×体験単価向上の事例。 | https://anime.eiga.com/news/127619/ | 開催予定 | 2026-10-09 |
 | 2026-10-23 |  | 『Call of Duty: Modern Warfare 4』発売 | 発売・公開 | PS5/Xbox Series X\|S/PC ほか | オンライン | Activisionが「章を閉じる」と位置づける現行MWシリーズの完結編。GTA6前の年末商戦の試金石（購入意向は前年比低下と同社） | https://www.videogameschronicle.com/news/cod-modern-warfare-4-will-close-this-chapter-and-launch-a-new-one-for-the-series-activision-says/ | 開催予定 | 2026-10-17 |
+| 2026-10-23 | 2026-10-23 | ドージャ・キャット『Tour Ma Vie』記録映画（Ray-Ban Meta撮影）YouTube公開 | 発売・公開 | オンライン | オンライン | スマートグラスのみで撮影した約12分の記録映画。Meta Lab LAポップアップは10/17〜25 | https://www.digitalmusicnews.com/2026/10/16/doja-cat-meta-ray-ban-tour-ma-vie-documentary/ | 開催予定 | 2026-10-18 |
+| 2026-10-23 |  | DC Studios『Clayface』北米公開 | 発売・公開 | 北米 | 劇場 | R指定のスーパーヒーロー・ホラー。同日にLaika『Wildwood』、タイカ・ワイティティ『Klara and the Sun』も公開 | https://www.boxofficepro.com/weekend-box-office-street-fighter-wins-the-weekend-as-you-can-see-everything-shocks-with-15m-debut/ | 開催予定 | 2026-10-18 |
+| 2026-10-22 | 2026-10-25 | 舞台『転生したらスライムだった件3 -魔王覚醒編＆八星輝翔編-』 | ライブ・フェス | 日本 | リアル | 全8公演。直前に第1・2弾をYouTubeで全編プレミア公開（アーカイブなし） | https://ln-news.com/articles/126976 | 開催予定 | 2026-10-18 |
+| 2026-10-20 | 2026-10-20 | Netflix 2026年7〜9月期決算発表 | 発売・公開 | 米国 | オンライン | 広告収入（年30億ドル目標）の進捗、通期売上510億〜514億ドル・営業利益率31.5%の達成可否、10〜12月期ガイダンス | https://www.ig.com/uk/news-and-trade-ideas/netflix-q3-results-preview-can-advertising-deliver-the-next-phas-261012 | 開催予定 | 2026-10-18 |
 | 2026-10-19 | 2026-10-26 | Steam Next Fest(10月版) | セール/デモ | オンライン(Steam) | 体験版一斉解禁 | 発売前タイトルの体験版を一斉公開する需要喚起イベント。秋セール直前。6月版と同パターン。 | https://store.steampowered.com/sale/nextfest | 開催予定 | 2026-06-17 |
 | 2026-10-19 | 2026-10-26 | Steam Next Fest: October 2026 Edition | セール | オンライン | オンライン | 体験版・開発者配信が集中する大型プロモイベント。10/19 10:00 PDT開始。提出締切は9/28 | https://store.steampowered.com/sale/nextfest | 開催予定 | 2026-09-30 |
-| 2026-10-18 | 2027-01-11 | 30周年記念展『ALL OF EVANGELION』（ひらかたパーク） | 展示会 | 大阪府枚方市 ひらかたパーク | リアル | セル画・原画・新劇場版デジタル制作資料を展示。京阪電鉄が記念乗車券・装飾列車で連動 | https://animeanime.jp/article/2026/10/12/103720.html | 開催予定 | 2026-10-12 |
+| 2026-10-18 | 2027-01-11 | 30周年記念展『ALL OF EVANGELION』（ひらかたパーク） | 展示会 | 大阪府枚方市 ひらかたパーク | リアル | セル画・原画・新劇場版デジタル制作資料を展示。京阪電鉄が記念乗車券・装飾列車で連動 | https://animeanime.jp/article/2026/10/12/103720.html | 開催中 | 2026-10-18 |
 | 2026-10-15 | 2026-11-14 | LoL World Championship 2026 (Worlds) | eスポーツ | 米国(LA/Allen TX/NY) | オフライン大会 | LoL世界大会。決勝11/14・ブルックリンBarclays Center。米国3都市を巡回。 | https://en.wikipedia.org/wiki/2026_League_of_Legends_World_Championship | 開催中 | 2026-10-15 |
 | 2026-10-10 | 2026-10-12 | BMSG FES'26 | ライブ・フェス | 日本 | オフライン | BMSG所属勢の大型フェス。各日トリはSTARGLOW/MAZZEL/BE:FIRST。自社アーティスト×新人育成の垂直型興行 | https://natalie.mu/music/news/691500 | 終了 | 2026-10-13 |
 | 2026-10-08 | 2026-10-08 | 2026年ノーベル文学賞 発表 | 映画祭・賞 | スウェーデン | オンライン | アミタヴ・ゴーシュが有力候補。KADOKAWAが代表作『銃ノ島』を先行邦訳 | https://www.kadokawa.co.jp/topics/17916/ | 終了 | 2026-10-09 |
