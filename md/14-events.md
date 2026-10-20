@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-10-20 01:00_
+_最終更新: 2026-10-20 22:26_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -33,6 +33,7 @@ _最終更新: 2026-10-20 01:00_
 | 2026-11-08 |  | デジゲー博2026 | 展示会 | 秋葉原UDX(東京) | オフライン | 同人・インディーゲームオンリーの展示・即売会。14回目。サークル参加受付は7/22開始。実験的な個人開発作が多数。 | https://digigame-expo.org/ | 開催予定 | 2026-06-21 |
 | 2026-11-08 | 2026-11-08 | 文学フリマ東京43 | 展示会 | 東京 | オフライン | 同人・インディー文芸の即売会。印刷費上昇で同人誌の値上げが進む中での開催 | https://bunfree.net/event/tokyo43/ | 開催予定 | 2026-10-15 |
 | 2026-11-07 | 2026-11-08 | 氣志團万博2026 ～房総爆音リゾート～ | ライブ・フェス | 千葉・幕張メッセ | オフライン | 氣志團主催の音楽フェス。10/3にPRラッピングトラックが都内走行 | https://natalie.mu/music | 開催予定 | 2026-10-02 |
+| 2026-11-06 |  | 劇場アニメ『GROTESQQQUE‐グロテスク‐』全国公開 | 発売・公開 | 日本 | 劇場 | CloverWorks・錦織敦史監督のオムニバス。1話を10/23〜11/5にNetflixで先行独占配信。 | https://anime.eiga.com/news/127694/ | 開催予定 | 2026-10-21 |
 | 2026-11-05 |  | 『崩落の国』発売（CygamesEdge第1弾） | 発売・公開 | Steam/PS5/Nintendo Switch 2 | オンライン | Cygamesの実験作ブランド「CygamesEdge」のデビュー作（1,100円）。大手のサブブランド戦略の初速を見る | https://automaton-media.com/articles/interviewsjp/where-the-seeds-fall-20261016-473933/ | 開催予定 | 2026-10-17 |
 | 2026-11-03 |  | 『ゴジラ-0.0』公開 | 発売・公開 | 日本（北米は11月6日から、世界約80カ国） | 劇場公開 | 東宝の下期業績の柱。海外直接展開の試金石 | https://gamebiz.jp/news/434114 | 開催予定 | 2026-10-16 |
 | 2026-10-31 |  | 東京ゲームダンジョン14 | 展示会 | 東京・浜松町 | オフライン | 東京ゲームダンジョンの2026年秋回。インディー/個人開発の新作プレイアブル展示が中心。 | https://tokyogamedungeon.com/ | 開催予定 | 2026-06-21 |
@@ -47,8 +48,9 @@ _最終更新: 2026-10-20 01:00_
 | 2026-10-23 | 2026-10-23 | ドージャ・キャット『Tour Ma Vie』記録映画（Ray-Ban Meta撮影）YouTube公開 | 発売・公開 | オンライン | オンライン | スマートグラスのみで撮影した約12分の記録映画。Meta Lab LAポップアップは10/17〜25 | https://www.digitalmusicnews.com/2026/10/16/doja-cat-meta-ray-ban-tour-ma-vie-documentary/ | 開催予定 | 2026-10-18 |
 | 2026-10-23 |  | DC Studios『Clayface』北米公開 | 発売・公開 | 北米 | 劇場 | R指定のスーパーヒーロー・ホラー。同日にLaika『Wildwood』、タイカ・ワイティティ『Klara and the Sun』も公開 | https://www.boxofficepro.com/weekend-box-office-street-fighter-wins-the-weekend-as-you-can-see-everything-shocks-with-15m-debut/ | 開催予定 | 2026-10-18 |
 | 2026-10-22 | 2026-10-25 | 舞台『転生したらスライムだった件3 -魔王覚醒編＆八星輝翔編-』 | ライブ・フェス | 日本 | リアル | 全8公演。直前に第1・2弾をYouTubeで全編プレミア公開（アーカイブなし） | https://ln-news.com/articles/126976 | 開催予定 | 2026-10-18 |
-| 2026-10-20 | 2026-10-20 | Netflix 2026年7〜9月期決算発表 | 発売・公開 | 米国 | オンライン | 広告収入（年30億ドル目標）の進捗、通期売上510億〜514億ドル・営業利益率31.5%の達成可否、10〜12月期ガイダンス | https://www.ig.com/uk/news-and-trade-ideas/netflix-q3-results-preview-can-advertising-deliver-the-next-phas-261012 | 開催中 | 2026-10-20 |
-| 2026-10-20 |  | 『サイバーパンク エッジランナーズ2』Netflix配信開始 | 発売・公開 | オンライン | 配信 | CD PROJEKT RED×TRIGGER共同制作の全10話。ゲームIPのアニメ化の成否を測る試金石。 | https://outof.games/news/9592-cyberpunk-edgerunners-2-hits-netflix-on-october-20-with-a-fresh-cast-and-a-new-trailer/ | 開催中 | 2026-10-20 |
+| 2026-10-22 | 2026-10-23 | 『ウマ娘 プリティーダービー』7th EVENT WORLD TOUR “THE STAGE” in Los Angeles | ライブ・フェス | 米ロサンゼルス | リアル＋配信 | 出演者の米国ビザが下りず中止（10/20発表）。チケット・ツアー・LVは払い戻し。 | https://www.4gamer.net/games/554/G055489/20261020019/ | 中止 | 2026-10-21 |
+| 2026-10-20 | 2026-10-20 | Netflix 2026年7〜9月期決算発表 | 発売・公開 | 米国 | オンライン | 広告収入（年30億ドル目標）の進捗、通期売上510億〜514億ドル・営業利益率31.5%の達成可否、10〜12月期ガイダンス | https://www.ig.com/uk/news-and-trade-ideas/netflix-q3-results-preview-can-advertising-deliver-the-next-phas-261012 | 終了 | 2026-10-21 |
+| 2026-10-20 |  | 『サイバーパンク エッジランナーズ2』Netflix配信開始 | 発売・公開 | オンライン | 配信 | CD PROJEKT RED×TRIGGER共同制作の全10話。ゲームIPのアニメ化の成否を測る試金石。 | https://outof.games/news/9592-cyberpunk-edgerunners-2-hits-netflix-on-october-20-with-a-fresh-cast-and-a-new-trailer/ | 終了 | 2026-10-21 |
 | 2026-10-19 | 2026-10-26 | Steam Next Fest(10月版) | セール/デモ | オンライン(Steam) | 体験版一斉解禁 | 発売前タイトルの体験版を一斉公開する需要喚起イベント。秋セール直前。6月版と同パターン。 | https://store.steampowered.com/sale/nextfest | 開催中 | 2026-10-20 |
 | 2026-10-19 | 2026-10-26 | Steam Next Fest: October 2026 Edition | セール | オンライン | オンライン | 体験版・開発者配信が集中する大型プロモイベント。10/19 10:00 PDT開始。提出締切は9/28 | https://store.steampowered.com/sale/nextfest | 開催中 | 2026-10-20 |
 | 2026-10-18 | 2027-01-11 | 30周年記念展『ALL OF EVANGELION』（ひらかたパーク） | 展示会 | 大阪府枚方市 ひらかたパーク | リアル | セル画・原画・新劇場版デジタル制作資料を展示。京阪電鉄が記念乗車券・装飾列車で連動 | https://animeanime.jp/article/2026/10/12/103720.html | 開催中 | 2026-10-18 |
@@ -108,3 +110,4 @@ _最終更新: 2026-10-20 01:00_
 |  |  | RADIOHEAD 来日公演 2027 | ライブ・フェス | GMOアリーナさいたま | リアル | 19年ぶりの単独来日。海外大物の来日ラッシュの一環 | https://natalie.mu/music/ | 日程未確定 | 2026-09-23 |
 |  |  | FIFAe Finals 2026（ジッダ） | eスポーツ | サウジアラビア・ジッダ | オフライン | 当初10/16〜25の予定から延期。日本・ブラジルが安全面を理由に撤退。新日程未定 | https://www.pocketgamer.biz/fifae-finals-2026-postponed-amid-regional-security-concerns/ | 日程未確定 | 2026-10-16 |
 |  |  | Esports Nations Cup（初開催・2027年11月に延期） | eスポーツ | サウジアラビア・リヤド | オフライン | 国別対抗の新大会。2026年11月開催予定から地域情勢を理由に2027年11月へ1年延期。具体日程は未発表。 | https://www.pocketgamer.biz/esports-nations-cup-postponed-to-november-2027/ | 日程未確定 | 2026-10-20 |
+|  |  | Esports World Cup 2027（EWC Qualifier Program 応募締切 2026-12-20） | eスポーツ | サウジアラビア（リヤド） | リアル | 2027年夏開催。公式予選網を400大会・180万人規模へ拡大、予選は2027/6/1までに終了。 | https://www.gamebusiness.jp/article/2026/10/20/28388.html | 日程未確定 | 2026-10-21 |
