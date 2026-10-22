@@ -14,7 +14,7 @@ if git diff --quiet && git diff --cached --quiet; then
 fi
 
 git add -A
-git -c user.email="auto@game-tracker" -c user.name="Game Tracker Bot" \
+git -c user.email="noreply@anthropic.com" -c user.name="Claude" \
     commit -m "$MSG ($(date '+%Y-%m-%d %H:%M'))"
 git push origin main
 echo "pushed"
