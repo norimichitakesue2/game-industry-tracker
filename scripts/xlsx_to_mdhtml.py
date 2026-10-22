@@ -377,6 +377,170 @@ def render_section_html(sheet_name, headers, rows):
 </div>{JS}</body></html>"""
 
 
+DAILY_CSS = """
+<style>
+.dbar{position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 0 6px}
+.dbar .row{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-bottom:6px}
+.dbar .lbl{color:var(--muted);font-size:12px;margin-right:2px;min-width:52px}
+.gf{border:1px solid var(--border);background:var(--panel);color:var(--text);border-radius:999px;padding:4px 12px;font-size:12px;cursor:pointer}
+.gf.active{background:var(--accent);border-color:var(--accent);color:#fff}
+.gf .n{color:var(--muted);margin-left:4px;font-size:11px}
+.gf.active .n{color:#fff}
+.dayh{display:flex;align-items:baseline;gap:10px;margin:26px 0 10px;padding-bottom:6px;border-bottom:2px solid var(--border);scroll-margin-top:110px}
+.dayh h2{margin:0;font-size:18px}
+.dayh .c{color:var(--muted);font-size:12px}
+.dayh .mix{display:flex;gap:4px;flex-wrap:wrap}
+.nitem{background:var(--panel);border:1px solid var(--border);border-radius:10px;padding:12px 16px;margin-bottom:8px}
+.nitem .top{display:flex;gap:8px;align-items:flex-start}
+.nitem h3{margin:0;font-size:14.5px;line-height:1.5}
+.nitem h3 a{color:var(--text);text-decoration:none}
+.nitem h3 a:hover{color:var(--accent)}
+.nitem .sum{font-size:13px;color:var(--text);margin:6px 0 4px;line-height:1.65}
+.nitem .meta{color:var(--muted);font-size:11.5px}
+.nitem details summary{cursor:pointer;color:var(--accent);font-size:12px;margin-top:6px}
+.nitem dl{margin:8px 0 0;display:grid;grid-template-columns:max-content 1fr;gap:6px 14px;font-size:12.5px}
+.nitem dt{color:var(--muted);white-space:nowrap}
+.nitem dd{margin:0}
+.gb{display:inline-block;font-size:11px;font-weight:700;padding:1px 8px;border-radius:999px;white-space:nowrap;flex:0 0 auto;margin-top:3px}
+.g0{background:rgba(124,92,255,.18);color:#a08cff}.g1{background:rgba(229,83,75,.18);color:#ff7b72}
+.g2{background:rgba(240,136,62,.18);color:#f0883e}.g3{background:rgba(46,160,67,.18);color:#3fb950}
+.g4{background:rgba(187,128,9,.2);color:#d29922}.g5{background:rgba(219,97,162,.18);color:#f778ba}
+.g6{background:rgba(88,166,255,.18);color:#79c0ff}
+@media (prefers-color-scheme: light){.g0{color:#6639ba}.g1{color:#c93c37}.g2{color:#bc4c00}.g3{color:#1a7f37}.g4{color:#9a6700}.g5{color:#bf3989}.g6{color:#0969da}}
+.dnav{display:flex;gap:6px;overflow-x:auto;padding-bottom:4px}
+.dnav a{font-size:11.5px;white-space:nowrap;color:var(--accent);text-decoration:none;border:1px solid var(--border);border-radius:6px;padding:2px 8px}
+.more{display:block;margin:18px auto;padding:9px 18px;border:1px solid var(--border);background:var(--panel);color:var(--text);border-radius:999px;cursor:pointer}
+</style>
+"""
+
+DAILY_JS = """
+<script>
+(function(){
+  const inp=document.getElementById('search');
+  const gsel=new Set(), tsel=new Set();
+  let limitDays=14, filtering=false;
+  const days=[...document.querySelectorAll('.dayblock')];
+  function apply(){
+    const q=(inp.value||'').toLowerCase();
+    filtering = !!q || gsel.size>0 || tsel.size>0;
+    days.forEach((b,i)=>{
+      let vis=0;
+      b.querySelectorAll('.nitem').forEach(el=>{
+        const okq=!q||el.textContent.toLowerCase().includes(q);
+        const okg=!gsel.size||gsel.has(el.dataset.g);
+        const tags=(el.dataset.tags||'').split('|');
+        const okt=!tsel.size||tags.some(t=>tsel.has(t));
+        const ok=okq&&okg&&okt; el.style.display=ok?'':'none'; if(ok)vis++;
+      });
+      const within = filtering || i<limitDays;
+      b.style.display=(vis&&within)?'':'none';
+      const c=b.querySelector('.vis'); if(c) c.textContent = filtering ? ('（該当 '+vis+'件）') : '';
+    });
+    document.getElementById('more').style.display = (!filtering && limitDays<days.length)?'':'none';
+  }
+  function toggle(set,btn,key){
+    if(key==='__all__'){set.clear();btn.parentNode.querySelectorAll('.gf').forEach(b=>b.classList.remove('active'));btn.classList.add('active');}
+    else{ if(set.has(key)){set.delete(key);btn.classList.remove('active');}else{set.add(key);btn.classList.add('active');}
+      btn.parentNode.querySelector('[data-k="__all__"]').classList.toggle('active',set.size===0);}
+    apply();
+  }
+  document.querySelectorAll('#gfil .gf').forEach(b=>b.onclick=()=>toggle(gsel,b,b.dataset.k));
+  document.querySelectorAll('#tfil .gf').forEach(b=>b.onclick=()=>toggle(tsel,b,b.dataset.k));
+  inp.addEventListener('input',apply);
+  document.getElementById('more').onclick=()=>{limitDays+=14;apply();};
+  // ハッシュで古い日付に飛んだときも表示する
+  function hash(){const h=location.hash.slice(1);const i=days.findIndex(b=>b.id===h);
+    if(i>=limitDays){limitDays=i+1;apply();document.getElementById(h).scrollIntoView();}}
+  window.addEventListener('hashchange',hash);
+  apply(); hash();
+})();
+</script>
+"""
+
+_GENRES = ["ゲーム", "映画", "アニメ", "漫画", "小説", "音楽", "横断"]
+_WD = "月火水木金土日"
+
+def _gb(g):
+    g = g or "横断"
+    i = _GENRES.index(g) if g in _GENRES else 6
+    return f'<span class="gb g{i}">{html.escape(g)}</span>'
+
+def render_daily_html(sheet_name, headers, rows):
+    from collections import OrderedDict, Counter
+    nav = nav_html(SHEET_SLUGS.get(sheet_name))
+    days = OrderedDict()
+    for row in rows:
+        d = {headers[i]: fmt_cell(v) for i, v in enumerate(row) if i < len(headers)}
+        if not any(d.values()):
+            continue
+        m = re.search(r'\d{4}-\d{2}-\d{2}', d.get('日付', '') or '')
+        days.setdefault(m.group(0) if m else '日付なし', []).append(d)
+    gcount = Counter(); tcount = Counter()
+    blocks = []
+    dnav = []
+    for day, items in days.items():
+        try:
+            dt = datetime.strptime(day, '%Y-%m-%d'); lab = f"{dt.year}年{dt.month}月{dt.day}日（{_WD[dt.weekday()]}）"
+        except Exception:
+            lab = day
+        gc = Counter((x.get('ジャンル') or '横断') for x in items)
+        mix = ''.join(f'{_gb(g)}<span class="c">{gc[g]}</span>' for g in _GENRES if gc.get(g))
+        its = []
+        for x in items:
+            g = x.get('ジャンル') or '横断'
+            gcount[g] += 1
+            tags = [t.strip() for t in re.split(r'[,、]\s*', x.get('タグ', '') or '') if t.strip()]
+            for t in tags: tcount[t] += 1
+            chips = ''.join(f'<span class="tag">{html.escape(t)}</span>' for t in tags)
+            url = x.get('URL', '')
+            title = html.escape(x.get('見出し', '') or '(無題)')
+            th = f'<a href="{html.escape(url)}" target="_blank" rel="noopener">{title}</a>' if url else title
+            meta = ' · '.join(p for p in [
+                f"関連企業: {x['関連企業']}" if x.get('関連企業') else '',
+                f"IP: {x['関連IP/タイトル']}" if x.get('関連IP/タイトル') else ''] if p)
+            dls = []
+            for k in ('背景にある出来事', '重要ポイント', '今後の予測', '勉強しておくべきテーマ', '備考'):
+                v = x.get(k, '')
+                if v:
+                    vh = html.escape(v).replace('\n', '<br>')
+                    if k == '重要ポイント':
+                        vh = '<ul style="margin:0;padding-left:18px">' + ''.join(
+                            f'<li>{html.escape(l.lstrip("・- "))}</li>' for l in v.split('\n') if l.strip()) + '</ul>'
+                    dls.append(f'<dt>{html.escape(k)}</dt><dd>{vh}</dd>')
+            its.append(f'<div class="nitem" data-g="{html.escape(g)}" data-tags="{html.escape("|".join(tags))}">'
+                       f'<div class="top">{_gb(g)}<h3>{th}</h3></div>'
+                       + (f'<div class="sum">{html.escape(x.get("サマリ", ""))}</div>' if x.get('サマリ') else '')
+                       + f'<div class="chips">{chips}</div>'
+                       + (f'<div class="meta">{html.escape(meta)}</div>' if meta else '')
+                       + (f'<details><summary>背景・ポイント・予測を開く</summary><dl>{"".join(dls)}</dl></details>' if dls else '')
+                       + '</div>')
+        blocks.append(f'<div class="dayblock" id="d-{day}"><div class="dayh"><h2>{lab}</h2>'
+                      f'<span class="c">{len(items)}件</span><span class="mix">{mix}</span><span class="c vis"></span></div>'
+                      + ''.join(its) + '</div>')
+        if len(dnav) < 21:
+            dnav.append(f'<a href="#d-{day}">{day[5:].replace("-", "/")}</a>')
+    gbtn = ['<span class="lbl">ジャンル</span><button class="gf active" data-k="__all__">すべて</button>']
+    gbtn += [f'<button class="gf" data-k="{g}">{g}<span class="n">{gcount[g]}</span></button>' for g in _GENRES if gcount.get(g)]
+    tbtn = ['<span class="lbl">タグ</span><button class="gf active" data-k="__all__">すべて</button>']
+    tbtn += [f'<button class="gf" data-k="{html.escape(t)}">{html.escape(t)}<span class="n">{n}</span></button>'
+             for t, n in tcount.most_common()]
+    bar = (f'<div class="dbar"><input class="search" id="search" placeholder="見出し・本文・企業名で検索…">'
+           f'<div class="row" id="gfil" style="margin-top:8px">{"".join(gbtn)}</div>'
+           f'<details><summary class="subtle" style="cursor:pointer">タグで絞り込む</summary><div class="row" id="tfil">{"".join(tbtn)}</div></details>'
+           f'<div class="dnav">{"".join(dnav)}</div></div>')
+    updated = datetime.now().strftime('%Y-%m-%d %H:%M')
+    total = sum(len(v) for v in days.values())
+    return f"""<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8">
+<title>日次ニュース | エンタメ業界トラッカー</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+{CSS}{DAILY_CSS}</head><body><div class="container">
+<header><h1>日次ニュース</h1><span class="subtle">全{total:,}件 · {len(days)}日分 · 最終更新: {updated}</span></header>
+{nav}{bar}{''.join(blocks)}
+<button class="more" id="more">さらに古い日付を表示</button>
+<footer>エンタメ業界・時事情報収集 · 自動生成</footer>
+</div>{DAILY_JS}</body></html>"""
+
+
 RANKING_SHEET = "週間ランキング"
 RANK_GROUP_ORDER = ["国内ファミ通", "Steamトップセラー", "NSW DL", "PS DL"]
 
@@ -612,6 +776,7 @@ def main():
                 _RECENT_SLUGS.add(_slug)
                 _RECENT_DATES[_slug] = _d
     stats = {}
+    sheet_data = {}
     for sn in wb.sheetnames:
         if sn not in SHEET_SLUGS: continue
         if sn == "README": continue
@@ -648,17 +813,29 @@ def main():
                     return m.group(1) if m else ''
                 rows.sort(key=_date_key, reverse=True)
         stats[sn] = len(rows)
+        sheet_data[sn] = (headers, rows)
         slug = SHEET_SLUGS[sn]
         if sn == RANKING_SHEET:
             (MD_DIR / f"{slug}.md").write_text(render_ranking_md(sn, headers, rows), encoding='utf-8')
             (DOCS_DIR / f"{slug}.html").write_text(render_ranking_html(sn, headers, rows), encoding='utf-8')
+        elif sn == "日次ニュース":
+            (MD_DIR / f"{slug}.md").write_text(render_section_md(sn, headers, rows), encoding='utf-8')
+            (DOCS_DIR / f"{slug}.html").write_text(render_daily_html(sn, headers, rows), encoding='utf-8')
         elif sn in SECTION_SHEETS:
             (MD_DIR / f"{slug}.md").write_text(render_section_md(sn, headers, rows), encoding='utf-8')
             (DOCS_DIR / f"{slug}.html").write_text(render_section_html(sn, headers, rows), encoding='utf-8')
         else:
             (MD_DIR / f"{slug}.md").write_text(render_table_md(sn, headers, rows), encoding='utf-8')
             (DOCS_DIR / f"{slug}.html").write_text(render_table_html(sn, headers, rows), encoding='utf-8')
-    (DOCS_DIR / "index.html").write_text(render_index_html(stats), encoding='utf-8')
+    try:
+        sys.path.insert(0, str(Path(__file__).resolve().parent))
+        import dashboard
+        idx = dashboard.render_dashboard_html(sheet_data, stats, SHEET_GROUPS, SHEET_SLUGS, _short,
+                                              _RECENT_SLUGS, nav_html, CSS)
+    except Exception as e:
+        print("dashboard fallback:", e, file=sys.stderr)
+        idx = render_index_html(stats)
+    (DOCS_DIR / "index.html").write_text(idx, encoding='utf-8')
     (REPO_ROOT / "README.md").write_text(render_index_md(stats), encoding='utf-8')
     print(f"Generated for {len(stats)} sheets. Total rows: {sum(stats.values())}")
     try:
