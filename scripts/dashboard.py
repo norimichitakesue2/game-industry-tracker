@@ -152,7 +152,22 @@ DASH_CSS = """
 .dayrow a{color:var(--text);text-decoration:none}
 .dayrow a:hover{color:var(--accent)}
 .dayrow .cnt{color:var(--muted);text-align:right}
+.tgrid2{display:grid;gap:10px;grid-template-columns:repeat(auto-fill,minmax(280px,1fr))}
+.tcard2{display:block;border:1px solid var(--border);border-radius:10px;padding:12px 14px;text-decoration:none;color:var(--text)}
+.tcard2:hover{border-color:var(--accent)}
+.tcard2 .tn{font-weight:800;font-size:14px}
+.tcard2 .tq{color:var(--muted);font-size:12px;margin:2px 0 6px}
+.tcard2 .tv{font-size:12px;line-height:1.6;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.tcard2 .tm{font-size:11px;color:var(--muted);margin-top:8px}
+.newb{font-size:10px;background:#e8583a;color:#fff;border-radius:5px;padding:1px 6px;vertical-align:middle}
+.plist{display:flex;flex-direction:column;gap:8px}
+.prow{display:grid;grid-template-columns:1fr 160px 130px;gap:12px;align-items:center;font-size:12.5px}
+.prow .pbar{height:8px;border-radius:4px;background:rgba(127,127,127,.18);overflow:hidden}
+.prow .pbar span{display:block;height:100%}
+.prow .pl{font-weight:700;font-size:12px}
+.prow .pl small{display:block;font-weight:400;color:var(--muted);font-size:10.5px}
 @media (max-width:640px){
+  .prow{grid-template-columns:1fr;gap:4px}
   body{padding:14px}
   .hero{padding:18px}
   .dayrow{grid-template-columns:72px 40px 1fr}
@@ -269,6 +284,61 @@ def render_dashboard_html(sheet_data, stats, groups, slugs, short, recent_slugs,
         f'<span class="badge">{esc(f.get("想定時期"))}</span>{gbadge(f.get("ジャンル"))}</div>'
         f'<div class="cm">記録日 {esc(dstr(f.get("記録日")))} · 検証: {esc(first_line(f.get("検証メモ"), 70))}</div></div>' for f in fs)
 
+    # ---- 論点テーマ（問い・掘り下げ）と予測の進行状況
+    deephtml, predhtml = "", ""
+    try:
+        import insights
+        themes, items, preds = insights.collect(sheet_data)
+        ld = todate(latest) or date.today()
+        tl = []
+        for t in themes:
+            its = items.get(t["id"], [])
+            if its and t["id"] != "T99":
+                tl.append((max(x["d"] for x in its), t, its))
+        tl.sort(key=lambda x: x[0], reverse=True)
+        pc = Counter(p["tid"] for p in preds)
+        tc = []
+        for last, t, its in tl[:6]:
+            newn = sum(1 for x in its if x["d"] and (ld - todate(x["d"])).days <= 3)
+            nq = sum(1 for x in its if x["kind"] == "問い")
+            tc.append(f'<a class="tcard2" href="18-deep.html#{t["id"]}"><div class="tn">{esc(t["name"])}'
+                      + (f' <span class="newb">NEW {newn}</span>' if newn else "") + "</div>"
+                      f'<div class="tq">{esc(t["q"])}</div><div class="tv">{esc(t["view"])}</div>'
+                      f'<div class="tm">問い {nq} · 掘り下げ {len(its) - nq} · 予測 {pc.get(t["id"], 0)} · 最終 {last[5:]}</div></a>')
+        deephtml = f'<div class="tgrid2">{"".join(tc)}</div>'
+        cur = ld.year * 12 + ld.month - 1
+        st = Counter()
+        rowsp = []
+        for p in preds:
+            s0 = p["s"][0] * 12 + p["s"][1] - 1; e0 = p["e"][0] * 12 + p["e"][1] - 1
+            v = p.get("verdict", "")
+            k = "ok" if v.startswith("的中") else ("ng" if v.startswith("外れ") else ("due" if e0 < cur else ("live" if s0 <= cur else "future")))
+            st[k] += 1
+            p["_k"], p["_e0"], p["_s0"] = k, e0, s0
+        near = sorted([p for p in preds if p["_k"] in ("due", "live")], key=lambda p: p["_e0"])
+        due = [p for p in near if p["_k"] == "due"][:3]
+        live = [p for p in near if p["_k"] == "live"][:5]
+        for p in due + live:
+            r = todate(p["d"]) or ld
+            r0 = r.year * 12 + r.month - 1
+            tot = max(p["_e0"] + 1 - r0, 1)
+            el = min(max(cur - r0 + ld.day / 31, 0), tot)
+            pctv = el / tot * 100
+            left = p["_e0"] - cur
+            lab = ("期限超過・要判定" if p["_k"] == "due" else (f"残り約{left}ヶ月" if left > 0 else "今月が期限"))
+            col = "#e8583a" if p["_k"] == "due" else ("#d29922" if left <= 2 else "#58a6ff")
+            rowsp.append(f'<div class="prow"><div class="pt">{gbadge(p["g"])} {esc(first_line(p["text"], 70))}</div>'
+                         f'<div class="pbar"><span style="width:{pctv:.0f}%;background:{col}"></span></div>'
+                         f'<div class="pl" style="color:{col}">{lab}<small>{esc(p["when"])} · 確度{esc(p["conf"])}</small></div></div>')
+        predhtml = (f'<div class="kpis"><div class="kpi"><div class="n">{len(preds)}</div><div class="l">予測の総数</div></div>'
+                    f'<div class="kpi"><div class="n" style="color:#e8583a">{st["due"]}</div><div class="l">検証待ち（期限超過）</div></div>'
+                    f'<div class="kpi"><div class="n">{st["live"]}</div><div class="l">期間中</div></div>'
+                    f'<div class="kpi"><div class="n">{st["future"]}</div><div class="l">これから</div></div>'
+                    f'<div class="kpi"><div class="n" style="color:#3fb950">{st["ok"]}</div><div class="l">的中（外れ {st["ng"]}）</div></div></div>'
+                    f'<div class="sub-h">期限が近い予測（バーは記録日から期限までの経過）</div><div class="plist">{"".join(rowsp)}</div>')
+    except Exception as e:
+        import sys, traceback; traceback.print_exc()
+
     mm = today_of("メディアミックス追跡")
     mmcards = "".join(
         f'<div class="card"><div class="ct">{esc(m.get("原作名"))}</div>'
@@ -355,8 +425,8 @@ def render_dashboard_html(sheet_data, stats, groups, slugs, short, recent_slugs,
         f'''<div class="hero"><div class="eyebrow">ENTERTAINMENT INDUSTRY TRACKER</div>
 <h1>エンタメ業界・時事ダッシュボード</h1>
 <p>ゲーム・映画・アニメ・漫画・小説・音楽の6ジャンルを毎朝集約 · 最終更新 {updated} · 全{total_rows:,}行</p>
-<a class="cta" href="01-daily-news.html#d-{latest}">最新の日次ニュース（{jdate(latest)}）を読む →</a></div>''',
-        '<div class="anchors"><a href="#today">★ 今日の変化</a><a href="#trend">推移</a><a href="#future">予測</a>'
+<a class="cta" href="01-daily-news.html#d-{latest}">最新の日次ニュース {jdate(latest)} を読む →</a></div>''',
+        '<div class="anchors"><a href="#today">★ 今日の変化</a><a href="#deep">問い・掘り下げ</a><a href="#future">予測</a><a href="#trend">推移</a>'
         '<a href="#events">イベント</a><a href="#library">ライブラリ</a><a href="#daily">日次一覧</a></div>',
         sec("today", "★", f"今日の変化 · {jdate(latest)}",
             f"前回 {jdate(prev)} からの追加分。件数をクリックするとその日のニュースへ移動します。",
@@ -364,11 +434,13 @@ def render_dashboard_html(sheet_data, stats, groups, slugs, short, recent_slugs,
             f'<div class="sub-h">注目の3件</div><div class="picks">{"".join(picks)}</div>'
             f'<div class="sub-h">ジャンル別ヘッドライン</div><div class="glist">{"".join(gcols)}</div>'
             + other),
+        sec("deep", "?", "問いで追う論点", '横断的問いと掘り下げを論点テーマごとに整理（最近動いた順）。<a href="18-deep.html">すべてのテーマ →</a>',
+            deephtml),
+        sec("future", "🔮", "予測の進行状況", '<a href="19-predictions.html">予測マップ（タイムライン）を開く →</a>',
+            predhtml + f'<div class="sub-h">最新の予測</div><div class="cards">{fcards}</div>'),
         sec("trend", "📈", "直近7日の推移", "日次ニュースのジャンル構成と、よく付いたタグ（直近7日、カッコ内は前の7日との差）。",
             f'<div class="trend">{"".join(trows)}</div><div class="legend">{legend}</div>'
             f'<div class="sub-h">タグの増減</div><div class="chiprow">{"".join(tagchips)}</div>'),
-        sec("future", "🔮", "最新の予測", '「今後起きそうなこと」の新しい順。<a href="09-future.html">すべて見る →</a>',
-            f'<div class="cards">{fcards}</div>'),
         sec("events", "📅", "直近2週間のイベント", '<a href="14-events.html">イベントカレンダー全体 →</a>',
             "".join(evhtml) or '<div class="empty">予定なし</div>'),
         sec("library", "◎", "ライブラリ", "シート別の蓄積件数。● は直近3日以内に更新。", f'<div class="lib">{"".join(libs)}</div>'),
@@ -378,8 +450,8 @@ def render_dashboard_html(sheet_data, stats, groups, slugs, short, recent_slugs,
 <title>エンタメ業界・時事ダッシュボード</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 {css}{DASH_CSS}</head><body><div class="container">
-{body[0]}
 {nav_html('00-readme')}
+{body[0]}
 {''.join(body[1:])}
 <footer>自動生成 · GitHub Pages · 毎朝の日次タスクで更新</footer>
 </div></body></html>"""

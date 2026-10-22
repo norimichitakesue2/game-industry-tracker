@@ -149,6 +149,28 @@ nav.grouped a:hover{text-decoration:underline}
 nav.grouped a.active{color:var(--text); font-weight:700}
 nav.grouped a .nvdot,nav.grouped .navleg .nvdot{color:#e8583a; font-size:9px; vertical-align:super; margin-left:2px; line-height:0}
 nav.grouped .navleg{flex:0 0 auto; color:var(--muted); font-size:11px; margin-left:auto}
+.topbar{background:var(--panel);border:1px solid var(--border);border-radius:12px;margin:0 0 18px;overflow:hidden}
+.topbar .tb-row{display:flex;align-items:center;gap:14px;padding:10px 14px;flex-wrap:wrap}
+.topbar .brand{display:flex;align-items:center;gap:8px;font-weight:800;font-size:14px;color:var(--text);text-decoration:none;white-space:nowrap}
+.topbar .logo{display:inline-flex;width:26px;height:26px;border-radius:7px;background:var(--header-bg);color:#fff;align-items:center;justify-content:center;font-size:13px}
+.topbar .prim{display:flex;gap:2px;overflow-x:auto;flex:1;scrollbar-width:none}
+.topbar .prim::-webkit-scrollbar{display:none}
+.topbar .prim a{white-space:nowrap;font-size:13px;color:var(--muted);text-decoration:none;padding:6px 11px;border-radius:8px;position:relative}
+.topbar .prim a:hover{color:var(--text);background:rgba(127,127,127,.1)}
+.topbar .prim a.on{color:var(--text);background:rgba(88,166,255,.15);font-weight:700}
+.topbar i.nd{display:inline-block;width:6px;height:6px;border-radius:50%;background:#e8583a;margin-left:4px;vertical-align:super}
+.allsheets{border-top:1px solid var(--border)}
+.allsheets summary{cursor:pointer;font-size:12px;color:var(--muted);padding:7px 14px;list-style:none;display:flex;justify-content:space-between}
+.allsheets summary::-webkit-details-marker{display:none}
+.allsheets summary .st:before{content:"▸ ";}
+.allsheets[open] summary .st:before{content:"▾ ";}
+.allsheets summary .leg{font-size:11px}
+.mgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:4px 14px;padding:4px 14px 12px}
+.mcol .mh{font-size:11px;font-weight:800;color:var(--muted);letter-spacing:.05em;margin:6px 0 2px}
+.mcol a{display:block;font-size:12.5px;color:var(--accent);text-decoration:none;padding:2px 0}
+.mcol a:hover{text-decoration:underline}
+.mcol a.on{color:var(--text);font-weight:700}
+@media (max-width:640px){.topbar .tb-row{flex-direction:column;align-items:stretch;gap:6px}}
 .genre-h{margin:22px 0 6px; font-size:13px; color:var(--muted); font-weight:700;
   letter-spacing:.04em; border-bottom:1px solid var(--border); padding-bottom:5px}
 </style>
@@ -218,31 +240,43 @@ JS = """
 _RECENT_SLUGS = set()
 _RECENT_DATES = {}
 
+PRIMARY_NAV = [
+    ("index", "ダッシュボード"),
+    ("01-daily-news", "日次ニュース"),
+    ("18-deep", "問い・掘り下げ"),
+    ("19-predictions", "予測マップ"),
+    ("14-events", "イベント"),
+    ("17-media-mix", "メディアミックス"),
+    ("industry-map", "連動マップ"),
+]
+
 def nav_html(active_slug=None):
-    parts = ['<nav class="grouped">']
-    _top = ('<div class="navrow"><span class="navlabel">TOP</span>'
-            '<a href="index.html">ダッシュボード</a>'
-            '<a href="design-map.html">デザイン連動マップ</a>'
-            '<a href="industry-map.html">全体連動マップ</a>')
-    if _RECENT_SLUGS:
-        _top += '<span class="navleg"><span class="nvdot">●</span> 最近更新</span>'
-    _top += '</div>'
-    parts.append(_top)
+    act = "index" if active_slug in (None, "00-readme") else active_slug
+    prim = []
+    for slug, label in PRIMARY_NAV:
+        cls = ' class="on"' if slug == act else ''
+        dot = '<i class="nd"></i>' if slug in _RECENT_SLUGS else ''
+        prim.append(f'<a href="{slug}.html"{cls}>{html.escape(label)}{dot}</a>')
+    cols = []
     for gname, sheets in SHEET_GROUPS:
         links = []
         for sn in sheets:
             slug = SHEET_SLUGS.get(sn)
             if not slug:
                 continue
-            cls = ' class="active"' if slug == active_slug else ''
-            _dot = (f'<span class="nvdot" title="最近更新: {html.escape(_RECENT_DATES.get(slug,""))}">\u25cf</span>'
-                    if slug in _RECENT_SLUGS else '')
-            links.append(f'<a href="{slug}.html"{cls}>{html.escape(_short(sn))}{_dot}</a>')
+            cls = ' class="on"' if slug == act else ''
+            dot = '<i class="nd"></i>' if slug in _RECENT_SLUGS else ''
+            links.append(f'<a href="{slug}.html"{cls}>{html.escape(_short(sn))}{dot}</a>')
         if links:
-            parts.append(f'<div class="navrow"><span class="navlabel">{html.escape(gname)}</span>'
-                         + ''.join(links) + '</div>')
-    parts.append('</nav>')
-    return ''.join(parts)
+            cols.append(f'<div class="mcol"><div class="mh">{html.escape(gname)}</div>{"".join(links)}</div>')
+    cols.append('<div class="mcol"><div class="mh">マップ</div><a href="industry-map.html">全体連動マップ</a>'
+                '<a href="design-map.html">デザイン連動マップ</a></div>')
+    open_attr = ' open' if act not in [s for s, _ in PRIMARY_NAV] else ''
+    return ('<nav class="topbar"><div class="tb-row">'
+            '<a class="brand" href="index.html"><span class="logo">E</span><span>エンタメ業界トラッカー</span></a>'
+            f'<div class="prim">{"".join(prim)}</div></div>'
+            f'<details class="allsheets"{open_attr}><summary><span class="st">すべてのシート（ジャンル別）</span><span class="leg"><i class="nd"></i> 最近更新</span></summary>'
+            f'<div class="mgrid">{"".join(cols)}</div></details></nav>')
 
 def url_to_link(text):
     if not isinstance(text, str): return html.escape(str(text)) if text is not None else ''
@@ -311,8 +345,9 @@ def render_table_html(sheet_name, headers, rows):
 <title>{title} | ゲーム業界トラッカー</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 {CSS}</head><body><div class="container">
+{nav}
 <header><h1>{title}</h1><span class="subtle">最終更新: {updated}</span></header>
-{nav}{body}
+{body}
 <footer>ゲーム業界・時事情報収集 · 自動生成</footer>
 </div>{JS}</body></html>"""
 
@@ -371,8 +406,9 @@ def render_section_html(sheet_name, headers, rows):
 <title>{title} | ゲーム業界トラッカー</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 {CSS}</head><body><div class="container">
+{nav}
 <header><h1>{title}</h1><span class="subtle">最終更新: {updated}</span></header>
-{nav}{body}
+{body}
 <footer>ゲーム業界・時事情報収集 · 自動生成</footer>
 </div>{JS}</body></html>"""
 
@@ -534,8 +570,9 @@ def render_daily_html(sheet_name, headers, rows):
 <title>日次ニュース | エンタメ業界トラッカー</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 {CSS}{DAILY_CSS}</head><body><div class="container">
+{nav}
 <header><h1>日次ニュース</h1><span class="subtle">全{total:,}件 · {len(days)}日分 · 最終更新: {updated}</span></header>
-{nav}{bar}{''.join(blocks)}
+{bar}{''.join(blocks)}
 <button class="more" id="more">さらに古い日付を表示</button>
 <footer>エンタメ業界・時事情報収集 · 自動生成</footer>
 </div>{DAILY_JS}</body></html>"""
@@ -619,8 +656,9 @@ document.querySelectorAll('select.week-sel').forEach(sel=>{
 <title>{title} | ゲーム業界トラッカー</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 {CSS}</head><body><div class="container">
+{nav}
 <header><h1>{title}</h1><span class="subtle">最終更新: {updated}</span></header>
-{nav}{body}
+{body}
 <footer>ゲーム業界・時事情報収集 · 自動生成</footer>
 </div>{JS}{week_js}</body></html>"""
 
@@ -827,8 +865,27 @@ def main():
         else:
             (MD_DIR / f"{slug}.md").write_text(render_table_md(sn, headers, rows), encoding='utf-8')
             (DOCS_DIR / f"{slug}.html").write_text(render_table_html(sn, headers, rows), encoding='utf-8')
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    for _extra in ("論点テーマ",):
+        if _extra in wb.sheetnames:
+            _ws = wb[_extra]
+            _rows = list(_ws.iter_rows(values_only=True))
+            if _rows:
+                sheet_data[_extra] = (list(_rows[0]), [list(r) for r in _rows[1:] if any(v not in (None, '') for v in r)])
+    _latest_news = ''
+    if "日次ニュース" in sheet_data:
+        _h, _r = sheet_data["日次ニュース"]
+        _i = _h.index('日付')
+        _latest_news = max((str(x[_i])[:10] for x in _r if x[_i]), default='')
     try:
-        sys.path.insert(0, str(Path(__file__).resolve().parent))
+        import insights
+        _deep, _themes, _items, _preds = insights.render_deep_html(sheet_data, CSS, nav_html, _latest_news)
+        (DOCS_DIR / "18-deep.html").write_text(_deep, encoding='utf-8')
+        (DOCS_DIR / "19-predictions.html").write_text(
+            insights.render_pred_html(sheet_data, CSS, nav_html, _latest_news, _themes, _preds), encoding='utf-8')
+    except Exception as e:
+        import traceback; traceback.print_exc()
+    try:
         import dashboard
         idx = dashboard.render_dashboard_html(sheet_data, stats, SHEET_GROUPS, SHEET_SLUGS, _short,
                                               _RECENT_SLUGS, nav_html, CSS)

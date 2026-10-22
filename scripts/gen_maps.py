@@ -142,8 +142,8 @@ def page(title, subtitle, active_nav, sections_html, mdata_json):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(title)}</title>
 {CSS}{PAGE_CSS}</head><body><div class="container">
-<header><h1>🎮 {esc(title)}</h1><span class="subtle" style="color:var(--muted);font-size:13px">{esc(subtitle)}</span></header>
-{nav_html()}
+{nav_html('industry-map' if 'デザイン' not in title else 'design-map')}
+<header><h1>{esc(title)}</h1><span class="subtle" style="color:var(--muted);font-size:13px">{esc(subtitle)}</span></header>
 {''.join(body)}
 <div id="mdetail"></div>
 </div>{js}</body></html>"""
