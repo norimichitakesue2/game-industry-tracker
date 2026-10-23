@@ -1,8 +1,53 @@
 # 週間ランキング
 
-_最終更新: 2026-10-23 23:29_
+_最終更新: 2026-10-23 23:47_
 
 ## 国内ファミ通
+
+### 2026-10-12〜10-18
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | テイルズ オブ エターニア リマスター | Switch2 | 17,911 | 17,911 |  | https://www.famitsu.com/article/202610/91765 | ファミ通週販トップ10（週販本数付き、推計値）。『テイルズ オブ エターニア リマスター』Switch2版が首位、3機種ともトップ10入り。2026-10-24に補完 |
+| 2 | Castlevania: Belmont's Curse Midnight Edition | Switch | 15,630 | 15,630 |  | https://www.famitsu.com/article/202610/91765 | ファミ通週販トップ10（週販本数付き、推計値）。『テイルズ オブ エターニア リマスター』Switch2版が首位、3機種ともトップ10入り。2026-10-24に補完 |
+| 3 | テイルズ オブ エターニア リマスター | Switch | 14,003 | 14,003 |  | https://www.famitsu.com/article/202610/91765 | ファミ通週販トップ10（週販本数付き、推計値）。『テイルズ オブ エターニア リマスター』Switch2版が首位、3機種ともトップ10入り。2026-10-24に補完 |
+| 4 | リズム天国 ミラクルスターズ | Switch | 13,084 | 1,093,427 |  | https://www.famitsu.com/article/202610/91765 | ファミ通週販トップ10（週販本数付き、推計値）。『テイルズ オブ エターニア リマスター』Switch2版が首位、3機種ともトップ10入り。2026-10-24に補完 |
+| 5 | テイルズ オブ エターニア リマスター | PS5 | 10,390 | 10,390 |  | https://www.famitsu.com/article/202610/91765 | ファミ通週販トップ10（週販本数付き、推計値）。『テイルズ オブ エターニア リマスター』Switch2版が首位、3機種ともトップ10入り。2026-10-24に補完 |
+| 6 | Castlevania: Belmont's Curse Midnight Edition | PS5 | 7,621 | 7,621 |  | https://www.famitsu.com/article/202610/91765 | ファミ通週販トップ10（週販本数付き、推計値）。『テイルズ オブ エターニア リマスター』Switch2版が首位、3機種ともトップ10入り。2026-10-24に補完 |
+| 7 | ACE COMBAT 8: WINGS OF THEVE | PS5 | 5,834 | 82,648 |  | https://www.famitsu.com/article/202610/91765 | ファミ通週販トップ10（週販本数付き、推計値）。『テイルズ オブ エターニア リマスター』Switch2版が首位、3機種ともトップ10入り。2026-10-24に補完 |
+| 8 | キングダム ハーツ コレクション［I～III］ | Switch2 | 5,404 | 28,815 |  | https://www.famitsu.com/article/202610/91765 | ファミ通週販トップ10（週販本数付き、推計値）。『テイルズ オブ エターニア リマスター』Switch2版が首位、3機種ともトップ10入り。2026-10-24に補完 |
+| 9 | ファイアーエムブレム 万紫千紅 | Switch2 | 5,221 | 177,755 |  | https://www.famitsu.com/article/202610/91765 | ファミ通週販トップ10（週販本数付き、推計値）。『テイルズ オブ エターニア リマスター』Switch2版が首位、3機種ともトップ10入り。2026-10-24に補完 |
+| 10 | トモダチコレクション わくわく生活 | Switch | 5,212 | 1,633,297 |  | https://www.famitsu.com/article/202610/91765 | ファミ通週販トップ10（週販本数付き、推計値）。『テイルズ オブ エターニア リマスター』Switch2版が首位、3機種ともトップ10入り。2026-10-24に補完 |
+
+### 2026-10-05〜10-11
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | キングダム ハーツ コレクション［I～III］ | Switch2 | 23,411 | 23,411 |  | https://www.famitsu.com/article/202610/91095 | ファミ通週販トップ10（週販本数付き、推計値）。『キングダム ハーツ コレクション I～III』Switch2版が首位。2026-10-24に補完 |
+| 2 | リズム天国 ミラクルスターズ | Switch | 14,527 | 1,080,343 |  | https://www.famitsu.com/article/202610/91095 | ファミ通週販トップ10（週販本数付き、推計値）。『キングダム ハーツ コレクション I～III』Switch2版が首位。2026-10-24に補完 |
+| 3 | ACE COMBAT 8: WINGS OF THEVE | PS5 | 13,801 | 76,814 |  | https://www.famitsu.com/article/202610/91095 | ファミ通週販トップ10（週販本数付き、推計値）。『キングダム ハーツ コレクション I～III』Switch2版が首位。2026-10-24に補完 |
+| 4 | ドラゴンズドグマ 2：ダークアリズン | Switch2 | 7,314 | 7,314 |  | https://www.famitsu.com/article/202610/91095 | ファミ通週販トップ10（週販本数付き、推計値）。『キングダム ハーツ コレクション I～III』Switch2版が首位。2026-10-24に補完 |
+| 5 | キングダム ハーツ コレクション［I～III］ | PS5 | 6,261 | 6,261 |  | https://www.famitsu.com/article/202610/91095 | ファミ通週販トップ10（週販本数付き、推計値）。『キングダム ハーツ コレクション I～III』Switch2版が首位。2026-10-24に補完 |
+| 6 | ファイアーエムブレム 万紫千紅 | Switch2 | 5,888 | 172,534 |  | https://www.famitsu.com/article/202610/91095 | ファミ通週販トップ10（週販本数付き、推計値）。『キングダム ハーツ コレクション I～III』Switch2版が首位。2026-10-24に補完 |
+| 7 | 地球防衛軍5 for Nintendo Switch 2 | Switch2 | 5,237 | 5,237 |  | https://www.famitsu.com/article/202610/91095 | ファミ通週販トップ10（週販本数付き、推計値）。『キングダム ハーツ コレクション I～III』Switch2版が首位。2026-10-24に補完 |
+| 8 | ドラゴンズドグマ 2：ダークアリズン | PS5 | 5,099 | 5,099 |  | https://www.famitsu.com/article/202610/91095 | ファミ通週販トップ10（週販本数付き、推計値）。『キングダム ハーツ コレクション I～III』Switch2版が首位。2026-10-24に補完 |
+| 9 | スプラトゥーン レイダース | Switch2 | 5,043 | 681,648 |  | https://www.famitsu.com/article/202610/91095 | ファミ通週販トップ10（週販本数付き、推計値）。『キングダム ハーツ コレクション I～III』Switch2版が首位。2026-10-24に補完 |
+| 10 | トモダチコレクション わくわく生活 | Switch | 4,663 | 1,628,085 |  | https://www.famitsu.com/article/202610/91095 | ファミ通週販トップ10（週販本数付き、推計値）。『キングダム ハーツ コレクション I～III』Switch2版が首位。2026-10-24に補完 |
+
+### 2026-09-28〜10-04
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | ACE COMBAT 8: WINGS OF THEVE | PS5 | 63,013 | 63,013 |  | https://www.famitsu.com/article/202610/90441 | ファミ通週販トップ10（週販本数付き、推計値）。『エースコンバット8』が6.3万本で首位スタート。2026-10-24に補完 |
+| 2 | 真・三國無双2 with 猛将伝 Remastered | PS5 | 18,724 | 18,724 |  | https://www.famitsu.com/article/202610/90441 | ファミ通週販トップ10（週販本数付き、推計値）。『エースコンバット8』が6.3万本で首位スタート。2026-10-24に補完 |
+| 3 | リズム天国 ミラクルスターズ | Switch | 15,894 | 1,065,816 |  | https://www.famitsu.com/article/202610/90441 | ファミ通週販トップ10（週販本数付き、推計値）。『エースコンバット8』が6.3万本で首位スタート。2026-10-24に補完 |
+| 4 | ファイアーエムブレム 万紫千紅 | Switch2 | 12,787 | 166,646 |  | https://www.famitsu.com/article/202610/90441 | ファミ通週販トップ10（週販本数付き、推計値）。『エースコンバット8』が6.3万本で首位スタート。2026-10-24に補完 |
+| 5 | Minecraft Dungeons II | Switch2 | 12,093 | 12,093 |  | https://www.famitsu.com/article/202610/90441 | ファミ通週販トップ10（週販本数付き、推計値）。『エースコンバット8』が6.3万本で首位スタート。2026-10-24に補完 |
+| 6 | 真・三國無双2 with 猛将伝 Remastered | Switch2 | 11,684 | 11,684 |  | https://www.famitsu.com/article/202610/90441 | ファミ通週販トップ10（週販本数付き、推計値）。『エースコンバット8』が6.3万本で首位スタート。2026-10-24に補完 |
+| 7 | ダービースタリオン2 | Switch2 | 7,819 | 37,155 |  | https://www.famitsu.com/article/202610/90441 | ファミ通週販トップ10（週販本数付き、推計値）。『エースコンバット8』が6.3万本で首位スタート。2026-10-24に補完 |
+| 8 | ゼノブレイド2 Nintendo Switch 2 Edition | Switch2 | 5,780 | 5,780 |  | https://www.famitsu.com/article/202610/90441 | ファミ通週販トップ10（週販本数付き、推計値）。『エースコンバット8』が6.3万本で首位スタート。2026-10-24に補完 |
+| 9 | スプラトゥーン レイダース | Switch2 | 5,403 | 676,605 |  | https://www.famitsu.com/article/202610/90441 | ファミ通週販トップ10（週販本数付き、推計値）。『エースコンバット8』が6.3万本で首位スタート。2026-10-24に補完 |
+| 10 | トモダチコレクション わくわく生活 | Switch | 5,318 | 1,623,422 |  | https://www.famitsu.com/article/202610/90441 | ファミ通週販トップ10（週販本数付き、推計値）。『エースコンバット8』が6.3万本で首位スタート。2026-10-24に補完 |
 
 ### 2026-09-21〜09-27
 
@@ -224,6 +269,51 @@ _最終更新: 2026-10-23 23:29_
 | 10 | アストロボット | PS5 | 3,460 | 103,717 |  | ファミ通.com 週販 https://www.famitsu.com/article/202606/78042 |  |
 
 ## Steamトップセラー
+
+### 2026-10-13〜10-20
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | PUBG: BATTLEGROUNDS | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-13th20th-of-october-2026/ | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。15ランク上昇で1位。2026-10-24に補完 |
+| 2 | Call of Duty: Modern Warfare 4 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-13th20th-of-october-2026/ | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。17ランク上昇（記事上の発売日10/22）。2026-10-24に補完 |
+| 3 | Dota 2 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-13th20th-of-october-2026/ | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。2ランク下降。2026-10-24に補完 |
+| 4 | AION 2 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-13th20th-of-october-2026/ | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。2ランク下降。2026-10-24に補完 |
+| 5 | Counter-Strike 2 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-13th20th-of-october-2026/ | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。2ランク下降。2026-10-24に補完 |
+| 6 | Planet Zoo 2 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-13th20th-of-october-2026/ | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。14ランク上昇（10/13発売）。2026-10-24に補完 |
+| 7 | EA SPORTS FC 27 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-13th20th-of-october-2026/ | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。2ランク下降。2026-10-24に補完 |
+| 8 | Apex Legends | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-13th20th-of-october-2026/ | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。9ランク上昇。2026-10-24に補完 |
+| 9 | Enshrouded | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-13th20th-of-october-2026/ | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。初登場。2026-10-24に補完 |
+| 10 | Battlefield 6 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-13th20th-of-october-2026/ | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。初登場。2026-10-24に補完 |
+
+### 2026-10-06〜10-13
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Dota 2 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-6th13th-of-october-2026/ | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。13ランク上昇で1位。2026-10-24に補完 |
+| 2 | AION 2 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-6th13th-of-october-2026/ | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。1ランク下降。2026-10-24に補完 |
+| 3 | Counter-Strike 2 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-6th13th-of-october-2026/ | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。1ランク下降。2026-10-24に補完 |
+| 4 | STAR WARS: Galactic Racer | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-6th13th-of-october-2026/ | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。初登場。2026-10-24に補完 |
+| 5 | EA SPORTS FC 27 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-6th13th-of-october-2026/ | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。1ランク下降。2026-10-24に補完 |
+| 6 | Steam Deck | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-6th13th-of-october-2026/ | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。初登場（ハードウェア）。2026-10-24に補完 |
+| 7 | Gears of War: E-Day | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-6th13th-of-october-2026/ | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。1ランク下降。2026-10-24に補完 |
+| 8 | Risk of Rain 2 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-6th13th-of-october-2026/ | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。初登場。2026-10-24に補完 |
+| 9 | ARC Raiders | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-6th13th-of-october-2026/ | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。初登場。2026-10-24に補完 |
+| 10 | Risk of Rain 2: Hallowed Concepts | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-6th13th-of-october-2026/ | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。初登場（10/8発売DLC）。2026-10-24に補完 |
+
+### 2026-09-29〜10-06
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | AION 2 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-29th-of-september-to-the-6th-of-october-2026 | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。15ランク上昇で1位（10/5発売）。2026-10-24に補完 |
+| 2 | Counter-Strike 2 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-29th-of-september-to-the-6th-of-october-2026 | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。前週と同順位。2026-10-24に補完 |
+| 3 | ACE COMBAT 8: WINGS OF THEVE | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-29th-of-september-to-the-6th-of-october-2026 | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。5ランク上昇。2026-10-24に補完 |
+| 4 | EA SPORTS FC 27 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-29th-of-september-to-the-6th-of-october-2026 | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。3ランク下降。2026-10-24に補完 |
+| 5 | WARDOGS | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-29th-of-september-to-the-6th-of-october-2026 | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。2ランク下降。2026-10-24に補完 |
+| 6 | Gears of War: E-Day | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-29th-of-september-to-the-6th-of-october-2026 | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。初登場（10/6発売）。2026-10-24に補完 |
+| 7 | Transport Fever 3 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-29th-of-september-to-the-6th-of-october-2026 | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。7ランク上昇。2026-10-24に補完 |
+| 8 | Wuthering Waves | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-29th-of-september-to-the-6th-of-october-2026 | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。初登場。2026-10-24に補完 |
+| 9 | Cyberpunk 2077 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-29th-of-september-to-the-6th-of-october-2026 | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。初登場。2026-10-24に補完 |
+| 10 | Minecraft Dungeons II | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-29th-of-september-to-the-6th-of-october-2026 | Steam週間トップセラー(GameGrin集計、収益ベース、順位のみ)。5ランク上昇。2026-10-24に補完 |
 
 ### 2026-09-22〜09-29
 
@@ -459,6 +549,21 @@ _最終更新: 2026-10-23 23:29_
 | 10 | EA Sports FC 26 | PC(Steam) |  |  |  | Steam週間グローバルトップセラー(売上額順・F2P除く) https://www.vgchartz.com/article/468148/steam-weekly-week-24-2026/ |  |
 
 ## PS DL
+
+### 2026-09 (月間)
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 鬼武者 Way of the Sword | PS5 |  |  |  | https://blog.ja.playstation.com/2026/10/23/20261023-monthly-ps-store-ranking-s/ | PS Store国内PS5月間DLランキング（週間が無いため月間で代替、PS4版からのアップグレード含まず）。2026-10-23公開 |
+| 2 | トルネコの大冒険 不思議のダンジョン ちょっとステキなリマスター | PS5 |  |  |  | https://blog.ja.playstation.com/2026/10/23/20261023-monthly-ps-store-ranking-s/ | PS Store国内PS5月間DLランキング（週間が無いため月間で代替、PS4版からのアップグレード含まず）。2026-10-23公開 |
+| 3 | EA SPORTS FC 27 | PS5 |  |  |  | https://blog.ja.playstation.com/2026/10/23/20261023-monthly-ps-store-ranking-s/ | PS Store国内PS5月間DLランキング（週間が無いため月間で代替、PS4版からのアップグレード含まず）。2026-10-23公開 |
+| 4 | FINAL FANTASY VII REBIRTH | PS5 |  |  |  | https://blog.ja.playstation.com/2026/10/23/20261023-monthly-ps-store-ranking-s/ | PS Store国内PS5月間DLランキング（週間が無いため月間で代替、PS4版からのアップグレード含まず）。2026-10-23公開 |
+| 5 | Marvel's Wolverine | PS5 |  |  |  | https://blog.ja.playstation.com/2026/10/23/20261023-monthly-ps-store-ranking-s/ | PS Store国内PS5月間DLランキング（週間が無いため月間で代替、PS4版からのアップグレード含まず）。2026-10-23公開 |
+| 6 | シティーズ：スカイライン リマスター | PS5 |  |  |  | https://blog.ja.playstation.com/2026/10/23/20261023-monthly-ps-store-ranking-s/ | PS Store国内PS5月間DLランキング（週間が無いため月間で代替、PS4版からのアップグレード含まず）。2026-10-23公開 |
+| 7 | Valheim | PS5 |  |  |  | https://blog.ja.playstation.com/2026/10/23/20261023-monthly-ps-store-ranking-s/ | PS Store国内PS5月間DLランキング（週間が無いため月間で代替、PS4版からのアップグレード含まず）。2026-10-23公開 |
+| 8 | 空の軌跡 the 2nd | PS5 |  |  |  | https://blog.ja.playstation.com/2026/10/23/20261023-monthly-ps-store-ranking-s/ | PS Store国内PS5月間DLランキング（週間が無いため月間で代替、PS4版からのアップグレード含まず）。2026-10-23公開 |
+| 9 | バイオハザード RE:4 | PS5 |  |  |  | https://blog.ja.playstation.com/2026/10/23/20261023-monthly-ps-store-ranking-s/ | PS Store国内PS5月間DLランキング（週間が無いため月間で代替、PS4版からのアップグレード含まず）。2026-10-23公開 |
+| 10 | Minecraft Dungeons II | PS5 |  |  |  | https://blog.ja.playstation.com/2026/10/23/20261023-monthly-ps-store-ranking-s/ | PS Store国内PS5月間DLランキング（週間が無いため月間で代替、PS4版からのアップグレード含まず）。2026-10-23公開 |
 
 ### 2026-08 (月間)
 
