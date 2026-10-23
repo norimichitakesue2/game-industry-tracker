@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-10-22 01:21_
+_最終更新: 2026-10-23 23:29_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -44,14 +44,17 @@ _最終更新: 2026-10-22 01:21_
 | 2026-10-30 |  | 実写『SAKAMOTO DAYS』Prime Video世界独占配信開始 | 発売・公開 | オンライン | 配信 | 興収28.1億円の漫画原作実写が劇場公開から約6カ月で世界独占配信。 | https://anime.eiga.com/news/127556/ | 開催予定 | 2026-10-20 |
 | 2026-10-28 | 2026-10-30 | TIFFCOM 2026（Tokyo IP Market） | 展示会 | 東京・竹芝 | リアル | 国際コンテンツ見本市。10/28の「Tokyo IP Market」で漫画IP4作が海外映像化パートナーを募るピッチ | https://branc.jp/article/2026/10/09/3183.html | 開催予定 | 2026-10-11 |
 | 2026-10-28 | 2026-11-01 | Lucca Comics & Games 2026 | 展示会 | イタリア・ルッカ | オフライン | 欧州最大級のコミック・ゲームの祭典。MBSが『ダンダダン』で出展予定など、日本アニメの欧州プロモーションの場。 | https://animeanime.jp/article/2026/10/19/103962.html | 開催予定 | 2026-10-20 |
+| 2026-10-28 |  | 『トイ・ストーリー5』Disney+見放題独占配信開始 | 発売・公開 | 日本 | オンライン | 国内興収約130億円の大ヒット作を劇場公開から約117日で見放題化。国内ウィンドウの基準事例 | https://www.cinematoday.jp/news/N0157591 | 開催予定 | 2026-10-24 |
+| 2026-10-28 | 2027-02-08 | 少女漫画・インフィニティ 萩尾望都×山岸凉子×大和和紀 三人展 | 展示会 | 東京・国立新美術館 | オフライン | 3人の作品800点以上を展示。旧作少女漫画の再評価の流れ | https://animeanime.jp/article/2026/10/23/104104.html | 開催予定 | 2026-10-24 |
 | 2026-10-26 | 2026-11-04 | 第39回 東京国際映画祭 | 映画祭・賞 | 東京 | リアル | オープニング『SUKIYAKI 上を向いて歩こう』、センターピース『ゴジラ-0.0』、クロージング ヨン・サンホ監督『コロニー』。併催TIFFCOM（10/28-30） | https://eiga.com/news/20260911/5/ | 開催予定 | 2026-10-11 |
 | 2026-10-26 | 2026-10-26 | TVアニメ『BLEACH 千年血戦篇』最終話（#50）放送 | 発売・公開 | 日本（テレビ東京系） | TV放送/配信 | 前日10/25にお台場で#41〜49の一挙上映＋久保帯人氏ら登壇のトーク（4500円）。完結作のイベント収益化の事例。 | https://dengekionline.com/article/202610/91242 | 開催予定 | 2026-10-22 |
-| 2026-10-23 | 2026-10-23 | 劇場版『進撃の巨人』前編「紅蓮の弓矢」公開 | 発売・公開 | 日本 | 劇場(SCREEN X/4DX/ULTRA 4DX) | 人気IPの劇場再構成を体感型プレミアム上映で公開。旧作再活用×体験単価向上の事例。 | https://anime.eiga.com/news/127619/ | 開催予定 | 2026-10-09 |
-| 2026-10-23 |  | 『Call of Duty: Modern Warfare 4』発売 | 発売・公開 | PS5/Xbox Series X\|S/PC ほか | オンライン | Activisionが「章を閉じる」と位置づける現行MWシリーズの完結編。GTA6前の年末商戦の試金石（購入意向は前年比低下と同社） | https://www.videogameschronicle.com/news/cod-modern-warfare-4-will-close-this-chapter-and-launch-a-new-one-for-the-series-activision-says/ | 開催予定 | 2026-10-17 |
-| 2026-10-23 | 2026-10-23 | ドージャ・キャット『Tour Ma Vie』記録映画（Ray-Ban Meta撮影）YouTube公開 | 発売・公開 | オンライン | オンライン | スマートグラスのみで撮影した約12分の記録映画。Meta Lab LAポップアップは10/17〜25 | https://www.digitalmusicnews.com/2026/10/16/doja-cat-meta-ray-ban-tour-ma-vie-documentary/ | 開催予定 | 2026-10-18 |
-| 2026-10-23 |  | DC Studios『Clayface』北米公開 | 発売・公開 | 北米 | 劇場 | R指定のスーパーヒーロー・ホラー。同日にLaika『Wildwood』、タイカ・ワイティティ『Klara and the Sun』も公開 | https://www.boxofficepro.com/weekend-box-office-street-fighter-wins-the-weekend-as-you-can-see-everything-shocks-with-15m-debut/ | 開催予定 | 2026-10-18 |
+| 2026-10-24 | 2026-10-25 | MUSIC EXPO LIVE 2026 in TAIPEI | ライブ・フェス | 台湾・台北 TAIPEI ARENA | オフライン（NHK・TVBSで放送予定） | NHK音楽番組MUSIC EXPO初の海外公演。NHK×TVBS共同制作で日台放送。King & Prince、櫻坂46、ATEEZ等8組 | https://www.thefirsttimes.jp/news/0000904234/ | 開催中 | 2026-10-24 |
+| 2026-10-23 | 2026-10-23 | 劇場版『進撃の巨人』前編「紅蓮の弓矢」公開 | 発売・公開 | 日本 | 劇場(SCREEN X/4DX/ULTRA 4DX) | 人気IPの劇場再構成を体感型プレミアム上映で公開。旧作再活用×体験単価向上の事例。 | https://anime.eiga.com/news/127619/ | 終了 | 2026-10-24 |
+| 2026-10-23 |  | 『Call of Duty: Modern Warfare 4』発売 | 発売・公開 | PS5/Xbox Series X\|S/PC ほか | オンライン | Activisionが「章を閉じる」と位置づける現行MWシリーズの完結編。GTA6前の年末商戦の試金石（購入意向は前年比低下と同社） | https://www.videogameschronicle.com/news/cod-modern-warfare-4-will-close-this-chapter-and-launch-a-new-one-for-the-series-activision-says/ | 終了 | 2026-10-24 |
+| 2026-10-23 | 2026-10-23 | ドージャ・キャット『Tour Ma Vie』記録映画（Ray-Ban Meta撮影）YouTube公開 | 発売・公開 | オンライン | オンライン | スマートグラスのみで撮影した約12分の記録映画。Meta Lab LAポップアップは10/17〜25 | https://www.digitalmusicnews.com/2026/10/16/doja-cat-meta-ray-ban-tour-ma-vie-documentary/ | 終了 | 2026-10-24 |
+| 2026-10-23 |  | DC Studios『Clayface』北米公開 | 発売・公開 | 北米 | 劇場 | R指定のスーパーヒーロー・ホラー。同日にLaika『Wildwood』、タイカ・ワイティティ『Klara and the Sun』も公開 | https://www.boxofficepro.com/weekend-box-office-street-fighter-wins-the-weekend-as-you-can-see-everything-shocks-with-15m-debut/ | 終了 | 2026-10-24 |
 | 2026-10-22 | 2026-10-25 | 舞台『転生したらスライムだった件3 -魔王覚醒編＆八星輝翔編-』 | ライブ・フェス | 日本 | リアル | 全8公演。直前に第1・2弾をYouTubeで全編プレミア公開（アーカイブなし） | https://ln-news.com/articles/126976 | 開催中 | 2026-10-22 |
-| 2026-10-22 | 2026-10-23 | 『ウマ娘 プリティーダービー』7th EVENT WORLD TOUR “THE STAGE” in Los Angeles | ライブ・フェス | 米ロサンゼルス | リアル＋配信 | 出演者の米国ビザが下りず中止（10/20発表）。チケット・ツアー・LVは払い戻し。 | https://www.4gamer.net/games/554/G055489/20261020019/ | 中止 | 2026-10-21 |
+| 2026-10-22 | 2026-10-23 | 『ウマ娘 プリティーダービー』7th EVENT WORLD TOUR “THE STAGE” in Los Angeles | ライブ・フェス | 米ロサンゼルス | リアル＋配信 | 出演者の米国ビザが下りず中止（10/20発表）。チケット・ツアー・LVは払い戻し。 | https://www.4gamer.net/games/554/G055489/20261020019/ | 終了 | 2026-10-24 |
 | 2026-10-20 | 2026-10-20 | Netflix 2026年7〜9月期決算発表 | 発売・公開 | 米国 | オンライン | 広告収入（年30億ドル目標）の進捗、通期売上510億〜514億ドル・営業利益率31.5%の達成可否、10〜12月期ガイダンス | https://www.ig.com/uk/news-and-trade-ideas/netflix-q3-results-preview-can-advertising-deliver-the-next-phas-261012 | 終了 | 2026-10-21 |
 | 2026-10-20 |  | 『サイバーパンク エッジランナーズ2』Netflix配信開始 | 発売・公開 | オンライン | 配信 | CD PROJEKT RED×TRIGGER共同制作の全10話。ゲームIPのアニメ化の成否を測る試金石。 | https://outof.games/news/9592-cyberpunk-edgerunners-2-hits-netflix-on-october-20-with-a-fresh-cast-and-a-new-trailer/ | 終了 | 2026-10-21 |
 | 2026-10-19 | 2026-10-26 | Steam Next Fest(10月版) | セール/デモ | オンライン(Steam) | 体験版一斉解禁 | 発売前タイトルの体験版を一斉公開する需要喚起イベント。秋セール直前。6月版と同パターン。 | https://store.steampowered.com/sale/nextfest | 開催中 | 2026-10-20 |
