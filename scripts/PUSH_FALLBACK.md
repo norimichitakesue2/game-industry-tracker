@@ -17,14 +17,17 @@ push に失敗しても **作業を捨てず**、以下の手順でユーザーP
 cd "$WORK"
 git fetch -q origin main || true
 mkdir -p /mnt/user-data/outputs
-git bundle create /mnt/user-data/outputs/tracker.bundle origin/main..HEAD
+B=/mnt/user-data/outputs/tracker-$(git rev-parse --short HEAD)-$(date +%s).bundle   # 毎回ユニークな名前にする（同名だと古い内容が送られることがある）
+git bundle create "$B" origin/main..HEAD
+git bundle list-heads "$B"   # ← このハッシュを控える
 ```
-2. `mcp__remote-devices__device_commit_files` で stagedPath `/mnt/user-data/outputs/tracker.bundle` を、
+2. `mcp__remote-devices__device_commit_files` で stagedPath に上の `$B`（ユニーク名） を、
    devicePath `/Users/takesue/Downloads/.game-tracker-push.bundle` に書き込む（毎回上書き。既存ファイルがあれば `force: true`）。
 3. `mcp__remote-devices__device_bash` で次を実行する（PC側の /sessions は容量不足なので、必ず /tmp を使う）
 ```bash
-T=$(mktemp -d /tmp/gtp.XXXX) && cd $T && git clone -q https://x-access-token:<TOKEN>@github.com/norimichitakesue2/game-industry-tracker.git repo && cd repo && git fetch -q "$HOME/mnt/Downloads/.game-tracker-push.bundle" HEAD:incoming && git checkout -q incoming && git -c user.email=noreply@anthropic.com -c user.name=Claude rebase -q main && git push -q origin incoming:main && git ls-remote origin HEAD; rm -rf $T
+git bundle list-heads "$HOME/mnt/Downloads/.game-tracker-push.bundle" && T=$(mktemp -d /tmp/gtp.XXXX) && cd $T && git clone -q https://x-access-token:<TOKEN>@github.com/norimichitakesue2/game-industry-tracker.git repo && cd repo && git fetch -q "$HOME/mnt/Downloads/.game-tracker-push.bundle" HEAD:incoming && git checkout -q incoming && git -c user.email=noreply@anthropic.com -c user.name=Claude rebase -q main && git push -q origin incoming:main && git ls-remote origin HEAD; rm -rf $T
 ```
+   - 先頭の `list-heads` が手順1で控えたハッシュと一致しない場合は、古い bundle が届いている。ユニーク名で手順1・2をやり直す。
    - `<TOKEN>` には、タスクの手順にある clone 用 URL と同じトークンを使う。
    - xlsx が競合して rebase に失敗した場合は、クラウド側で最新 main を clone し直し、xlsx への追記を再適用してから 1. からやり直す。
 4. 出力された `ls-remote` のハッシュが、自分のコミット（rebase 後のもの）になっていることを確認する。
@@ -32,4 +35,5 @@ T=$(mktemp -d /tmp/gtp.XXXX) && cd $T && git clone -q https://x-access-token:<TO
    PushNotification で「push 失敗：理由・未反映の内容」を **必ず** 通知する。
 
 ## 実績
+※ 同じ stagedPath を使い回すと古い bundle が届くことがあった（2026-10-24）。ファイル名は毎回変えること。
 2026-10-24、この手順で 8ed4682（日次ニュース）と 69faa1e（ランキング補完）を push できた。
