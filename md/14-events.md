@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-10-24 00:57_
+_最終更新: 2026-10-24 22:28_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -13,24 +13,32 @@ _最終更新: 2026-10-24 00:57_
 | 2027-02-22 | 2027-03-01 | Steam Next Fest 2027（2月版） | セール | オンライン | オンライン | インディーのデモ露出最大機会。2027年上半期分として日程確定。 | https://news.denfaminicogamer.jp/news/260716e | 開催予定 | 2026-07-20 |
 | 2027-02-07 | 2027-02-07 | 第69回グラミー賞 授賞式 | 映画祭・賞 | 米国 | リアル＋配信 | ABC生中継、Disney+/Hulu配信 | https://www.grammy.com/news/2027-grammys-show-air-date-nominations-announced/ | 開催予定 | 2026-10-11 |
 | 2027-02-05 |  | 『ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編』最終章 公開 | 発売・公開 | 全国の劇場 | オフライン | ラブライブ！シリーズの劇場完結編。 | https://anime.eiga.com/news/127680/ | 開催予定 | 2026-10-20 |
+| 2027-02-05 |  | 『ラブライブ!虹ヶ咲学園スクールアイドル同好会 完結編 最終章』公開 | 発売・公開 | 新宿ピカデリーほか | オフライン | 劇場3部作の最終章 | https://eiga.com/news/20261024/7/ | 開催予定 | 2026-10-25 |
 | 2027-02-01 |  | Atari VCS ストア閉鎖 | 発売・公開 | オンライン | オンライン | 購入は2027年1月31日まで。OSのローカル化とHomebrewアプリで購入済みゲームの継続利用を担保 | https://www.videogameschronicle.com/news/atari-is-ending-support-for-its-2021-vcs-console-will-release-a-homebrew-app-to-let-players-keep-making-and-adding-games/ | 開催予定 | 2026-10-23 |
 | 2027-01-22 |  | 『キル・ビル ザ・ホール・ブラッディー・アフェア』公開 | 発売・公開 | TOHOシネマズ日比谷ほか | 劇場公開（2週間限定） | 275分・R18+、Production I.Gの新規アニメを追加 | https://eiga.com/news/20261016/21/ | 開催予定 | 2026-10-16 |
 | 2027-01-15 |  | 劇場アニメ『機動戦士ガンダムSEED FREEDOM ZERO』公開 | 発売・公開 | 全国劇場 | リアル | 松竹が下期に配給する劇場アニメの目玉。松竹映像事業の回復の鍵 |  | 開催予定 | 2026-10-17 |
+| 2027-01-10 |  | TVアニメ『ラブライブ!蓮ノ空女学院スクールアイドルクラブ』放送開始 | 発売・公開 | TOKYO MXほか | TV | アプリ終了後のIPをTVアニメで継続（全7話） | https://eiga.com/news/20261024/11/ | 開催予定 | 2026-10-25 |
 | 2026-12-29 | 2026-12-31 | コミックマーケット109 (C109) | 展示会 | 東京ビッグサイト | リアル | 8年ぶりの3日間開催 | https://kai-you.net/article/94962 | 開催予定 | 2026-10-11 |
 | 2026-12-26 | 2027-02-28 | KENSHI YONEZU 2026-2027 WORLD TOUR / GHOST | ライブ・フェス | 台北・ソウル・シンガポール・オークランド・LA・メキシコシティ・ニューアーク・トロント・ロンドン・パリ・アムステルダム | ワールドツアー（11都市14公演） | 総動員約20万人見込み。台北ドーム2DAYS、5都市が初上陸 | https://www.billboard-japan.com/d_news/detail/166548 | 開催予定 | 2026-10-16 |
+| 2026-12-25 |  | HBO『ハリー・ポッター』シリーズ配信開始 | 発売・公開 | HBO／HBO Max | オンライン | 全7シーズン計画。初期投資は約2億ドルと報道 | https://www.thewrap.com/creative-content/tv-shows/harry-potter-hbo-tv-show-budget/ | 開催予定 | 2026-10-25 |
 | 2026-12-19 | 2026-12-20 | ジャンプフェスタ2027 | 展示会 | 千葉・幕張メッセ | リアル | 集英社主催。NARUTO「PROJECT RASENGAN」続報を発表予定 | https://www.famitsu.com/article/202610/90671 | 開催予定 | 2026-10-11 |
 | 2026-12-19 |  | Spotify On Stage Tokyo 2026 -10th Anniversary Special- with YOASOBI | ライブ・フェス | 東京ガーデンシアター | ハイブリッド | Premiumトップリスナー5,000名を抽選招待する完全招待制ライブ。後日Spotify限定で世界配信 | https://spotifynewsroom.jp/2026-10-13/spotify-on-stage-tokyo-yoasobi/ | 開催予定 | 2026-10-13 |
 | 2026-12-17 |  | Steam ウィンターセール 2026 | セール | オンライン | オンライン | 年内最大級のセール。12/17開始。同日程公開分。 | https://news.denfaminicogamer.jp/news/260716e | 開催予定 | 2026-07-20 |
 | 2026-12-11 | 2026-12-24 | 『閃光のハサウェイ キルケーの魔女』再上映（BD劇場先行販売） | 発売・公開 | 全国の劇場 | オフライン | 2週間限定の再上映。上映劇場でBDを一般発売（2027-01-27）に先行して販売。 | https://anime.eiga.com/news/127672/ | 開催予定 | 2026-10-20 |
+| 2026-12-11 |  | 『劇場版 薬屋のひとりごと 亡妃の秘宝』公開 | 発売・公開 | 全国劇場 | オフライン | 原作者プロットの劇場版。12/9に小説版発売・漫画版連載開始と同時展開 | https://mantan-web.jp/prtimes/article/20261023prt00m200000114a.html | 開催予定 | 2026-10-25 |
 | 2026-12-10 |  | The Game Awards 2026 (TGA) | ショーケース | 米LA(Peacock Theater)/配信 | 授賞式＋配信 | 年間ゲーム表彰と多数の新作発表。GOTYほか。GTA6発売直後の注目回。 | https://thegameawards.com/ | 開催予定 | 2026-06-17 |
+| 2026-11-25 |  | uploader.jp サービス終了（全データ削除） | 発売・公開 | オンライン | オンライン | 国内MOD・翻訳パッチ・フリーゲーム資産の主要置き場が23:59に全データ削除 | https://www.gamebusiness.jp/article/2026/10/24/28432.html | 開催予定 | 2026-10-25 |
 | 2026-11-20 | 2026-11-20 | IMART2026（マンガ・IPカンファレンス） | 展示会 | 東京・池袋 アニメイトシアター | リアル | 基調講演にKADOKAWA。第1回IMARTアワード | https://manga.watch.impress.co.jp/docs/news/2126030.html | 開催予定 | 2026-10-11 |
 | 2026-11-20 | 2026-11-21 | 2026 MAMA AWARDS（京セラドーム大阪） | 映画祭・賞 | 京セラドーム大阪 | ハイブリッド | K-POP授賞式を日本開催。大阪一帯で「MAMA FAN FESTA」（11/9〜21）を新設、Mnet Plusで世界配信 | https://prtimes.jp/main/html/rd/p/000001633.000003711.html | 開催予定 | 2026-10-13 |
+| 2026-11-20 |  | 『装甲騎兵ボトムズ 灰色の魔女』第1作 劇場公開 | 発売・公開 | 全国劇場 | オフライン | サンライズ50周年。押井守監督の劇場2部作の第1作。旧作のYouTube無料配信と連動 | https://anime.eiga.com/news/127708/ | 開催予定 | 2026-10-25 |
 | 2026-11-19 |  | 『Grand Theft Auto VI』発売 | 発売・公開 | 全世界 | PS5/Xbox Series | ロックスター12年ぶりのGTA新作。幹部は次回作に8年はかからないと発言 | https://www.videogameschronicle.com/news/rockstar-says-its-next-game-after-grand-theft-auto-6-wont-take-another-eight-years-to-make/ | 開催予定 | 2026-10-15 |
 | 2026-11-18 |  | Japan in Translation Initiative キックオフセミナー／プレミーティング | 展示会 | 東京ドームプリズムホール Bサイド | 対面（配信なし） | マンガ等の日英翻訳者を育成するJTIの始動イベント。セミナーは約100名、翻訳者向けプレミーティングは約30名（応募は10/26正午まで） | https://www.jpic.or.jp/topics/2026/10/14/095355.html | 開催予定 | 2026-10-16 |
 | 2026-11-16 | 2026-11-16 | 第69回グラミー賞 ノミネート発表 | 映画祭・賞 | 米国 | オンライン | 2027年グラミー賞のノミネート発表。Drake・BTS・Stray Kidsは不参加と報道 | https://www.grammy.com/news/2027-grammys-show-air-date-nominations-announced/ | 開催予定 | 2026-10-11 |
 | 2026-11-15 |  | 第176回 直木賞 候補作発表 | 映画祭・賞 | - | 発表 | 候補作の発表時期を従来の12月から11月中旬へ前倒し。受賞発表は2027年1月中旬予定。販促リードタイム確保が狙い。 | https://bungakushinko.or.jp/info/251212/index.html | 開催予定 | 2026-09-06 |
 | 2026-11-14 |  | BOOK MEETS NEXT 特別イベント「世界につながる、日本の本」 | 映画祭・賞 | 東京・宝生能楽堂 | オフライン | 朝井リョウ×柚木麻子対談。Billboard JAPAN Book Charts初の年間チャート発表・授賞 | https://www.shinbunka.co.jp/archives/14510 | 開催予定 | 2026-10-13 |
 | 2026-11-13 | 2026-11-26 | 『風を継ぐもの -はじまり-』劇場先行版上映 | 発売・公開 | 全国の劇場 | オフライン | TV放送(2027年1月)前に2週間限定で劇場先行。Live2D×セルの映像を劇場で初公開 | https://www.oricon.co.jp/news/2486065/full/ | 開催予定 | 2026-10-13 |
+| 2026-11-12 | 2026-11-15 | 2026 Epic AI MegaJam | 展示会 | オンライン／米サンフランシスコ（Digital Jungle SF） | ハイブリッド | Epic主催のゲームジャム。人間5人まで・AIエージェント数は無制限。上位作に最大5万ドルの継続開発助成 | https://www.gamebusiness.jp/article/2026/10/23/28424.html | 開催予定 | 2026-10-25 |
+| 2026-11-10 |  | 実写『秒速5センチメートル』Netflix見放題独占配信開始 | 発売・公開 | 日本 | オンライン | 2025年10月劇場公開の実写版（奥山由之監督・松村北斗主演）。劇場→独占配信の窓口 | https://www.cinematoday.jp/news/N0157590 | 開催予定 | 2026-10-25 |
 | 2026-11-09 | 2026-11-09 | ブッカー賞2026 受賞作発表 | 映画祭・賞 | ロンドン（Old Billingsgate） | リアル | 最終候補6作（M・ジョン・ハリスン、マーロン・ジェイムズ、エリザベス・ストラウト、ダグラス・スチュアートほか） | https://thebookerprizes.com/the-booker-library/prize-years/2026 | 開催予定 | 2026-10-11 |
 | 2026-11-08 |  | デジゲー博2026 | 展示会 | 秋葉原UDX(東京) | オフライン | 同人・インディーゲームオンリーの展示・即売会。14回目。サークル参加受付は7/22開始。実験的な個人開発作が多数。 | https://digigame-expo.org/ | 開催予定 | 2026-06-21 |
 | 2026-11-08 | 2026-11-08 | 文学フリマ東京43 | 展示会 | 東京 | オフライン | 同人・インディー文芸の即売会。印刷費上昇で同人誌の値上げが進む中での開催 | https://bunfree.net/event/tokyo43/ | 開催予定 | 2026-10-15 |
@@ -38,6 +46,7 @@ _最終更新: 2026-10-24 00:57_
 | 2026-11-06 |  | 劇場アニメ『GROTESQQQUE‐グロテスク‐』全国公開 | 発売・公開 | 日本 | 劇場 | CloverWorks・錦織敦史監督のオムニバス。1話を10/23〜11/5にNetflixで先行独占配信。 | https://anime.eiga.com/news/127694/ | 開催予定 | 2026-10-21 |
 | 2026-11-06 |  | 『ゴジラ-0.0』北米公開（GKIDS配給） | 発売・公開 | 北米 | リアル | 日本11/3公開に対し北米11/6、国産ゴジラで初の日米ほぼ同時公開。初週成績が邦画の同時公開戦略の試金石に。 | https://gkids.com/?p=5400 | 開催予定 | 2026-10-22 |
 | 2026-11-05 |  | 『崩落の国』発売（CygamesEdge第1弾） | 発売・公開 | Steam/PS5/Nintendo Switch 2 | オンライン | Cygamesの実験作ブランド「CygamesEdge」のデビュー作（1,100円）。大手のサブブランド戦略の初速を見る | https://automaton-media.com/articles/interviewsjp/where-the-seeds-fall-20261016-473933/ | 開催予定 | 2026-10-17 |
+| 2026-11-05 | 2026-11-07 | 丸の内BOOK CON 2026 | 展示会 | 東京・丸善丸の内本店／丸の内オアゾ | オフライン | 出版社が書店内にブースを出す展示即売会。3回目で初の日替わりテーマ制、延べ76社出展 | https://www.bunkanews.jp/article/483363/ | 開催予定 | 2026-10-25 |
 | 2026-11-03 |  | 『ゴジラ-0.0』公開 | 発売・公開 | 日本（北米は11月6日から、世界約80カ国） | 劇場公開 | 東宝の下期業績の柱。海外直接展開の試金石 | https://gamebiz.jp/news/434114 | 開催予定 | 2026-10-16 |
 | 2026-11-01 |  | KADOKAWA「Studio One Base」正式稼働 | 発売・公開 | 東京・池袋サンシャインシティ | オフライン | KADOKAWAグループのアニメ制作会社を集約した拠点が稼働。約400人体制、自社制作比率50%を目指す | https://videosalon.jp/report/202610-studio-one-base-kadokawa | 開催予定 | 2026-10-23 |
 | 2026-10-31 |  | 東京ゲームダンジョン14 | 展示会 | 東京・浜松町 | オフライン | 東京ゲームダンジョンの2026年秋回。インディー/個人開発の新作プレイアブル展示が中心。 | https://tokyogamedungeon.com/ | 開催予定 | 2026-06-21 |
@@ -51,6 +60,7 @@ _最終更新: 2026-10-24 00:57_
 | 2026-10-26 | 2026-11-04 | 第39回 東京国際映画祭 | 映画祭・賞 | 東京 | リアル | オープニング『SUKIYAKI 上を向いて歩こう』、センターピース『ゴジラ-0.0』、クロージング ヨン・サンホ監督『コロニー』。併催TIFFCOM（10/28-30） | https://eiga.com/news/20260911/5/ | 開催予定 | 2026-10-11 |
 | 2026-10-26 | 2026-10-26 | TVアニメ『BLEACH 千年血戦篇』最終話（#50）放送 | 発売・公開 | 日本（テレビ東京系） | TV放送/配信 | 前日10/25にお台場で#41〜49の一挙上映＋久保帯人氏ら登壇のトーク（4500円）。完結作のイベント収益化の事例。 | https://dengekionline.com/article/202610/91242 | 開催予定 | 2026-10-22 |
 | 2026-10-24 | 2026-10-25 | MUSIC EXPO LIVE 2026 in TAIPEI | ライブ・フェス | 台湾・台北 TAIPEI ARENA | オフライン（NHK・TVBSで放送予定） | NHK音楽番組MUSIC EXPO初の海外公演。NHK×TVBS共同制作で日台放送。King & Prince、櫻坂46、ATEEZ等8組 | https://www.thefirsttimes.jp/news/0000904234/ | 開催中 | 2026-10-24 |
+| 2026-10-24 | 2026-10-31 | HYBE CINE FEST 2026 | ライブ・フェス | 世界各国の映画館 | 劇場上映 | BTS・SEVENTEEN・TXTなどHYBE所属アーティストのライブ映像を世界の映画館で上映。音楽ライブの“劇場ODS”化 | https://www.broadwayworld.com/bwwtv/article/HYBE-CINE-FEST-2026-to-Expand-Globally-Oct-24-31-With-BTS-SEVENTEEN-TXT-20260930 | 開催中 | 2026-10-25 |
 | 2026-10-23 | 2026-10-23 | 劇場版『進撃の巨人』前編「紅蓮の弓矢」公開 | 発売・公開 | 日本 | 劇場(SCREEN X/4DX/ULTRA 4DX) | 人気IPの劇場再構成を体感型プレミアム上映で公開。旧作再活用×体験単価向上の事例。 | https://anime.eiga.com/news/127619/ | 終了 | 2026-10-24 |
 | 2026-10-23 |  | 『Call of Duty: Modern Warfare 4』発売 | 発売・公開 | PS5/Xbox Series X\|S/PC ほか | オンライン | Activisionが「章を閉じる」と位置づける現行MWシリーズの完結編。GTA6前の年末商戦の試金石（購入意向は前年比低下と同社） | https://www.videogameschronicle.com/news/cod-modern-warfare-4-will-close-this-chapter-and-launch-a-new-one-for-the-series-activision-says/ | 終了 | 2026-10-24 |
 | 2026-10-23 | 2026-10-23 | ドージャ・キャット『Tour Ma Vie』記録映画（Ray-Ban Meta撮影）YouTube公開 | 発売・公開 | オンライン | オンライン | スマートグラスのみで撮影した約12分の記録映画。Meta Lab LAポップアップは10/17〜25 | https://www.digitalmusicnews.com/2026/10/16/doja-cat-meta-ray-ban-tour-ma-vie-documentary/ | 終了 | 2026-10-24 |
