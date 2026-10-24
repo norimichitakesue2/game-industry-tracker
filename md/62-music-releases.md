@@ -1,6 +1,6 @@
 # 【音楽】リリース・チャート
 
-_最終更新: 2026-10-23 23:47_
+_最終更新: 2026-10-24 00:20_
 
 | 集計日/発売日 | 区分 | タイトル/曲名 | アーティスト | レーベル | 形態 | チャート順位 | ストリーミング数 | 話題度(1-5) | メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,4 @@ _最終更新: 2026-10-23 23:47_
 | 2026-10-05(付) | チャート | REBON | Number_i | Atlantic Records | シングル/配信 | Billboard JAPAN Hot 100 1位(最新週) |  | 5 | Atlantic Records移籍第一弾。『REBON』『DIGITAL GIRL』で総合チャート1-2位を独占。 | https://www.billboard-japan.com/charts/detail?a=hot100 |
 | 2026-10-05(付) | チャート | DIGITAL GIRL | Number_i | Atlantic Records | シングル/配信 | Billboard JAPAN Hot 100 2位(最新週) |  | 4 | Number_iが1位(REBON)と合わせ総合チャート上位を独占。 | https://www.billboard-japan.com/charts/detail?a=hot100 |
 | 2026-10(フラゲ) | 新譜 | POPS | Mrs. GREEN APPLE | ユニバーサル | アルバム | 先ヨミでアルバム首位独走(60.2万枚) |  | 5 | フラゲ日集計で58万枚突破、2作目のハーフミリオン達成見込みの大型新譜。 | https://www.billboard-japan.com/d_news/detail/166068/ |
+| 2026-10-07(付) | チャート | イチャイチャ虫 | 日向坂46 | ソニー | シングル | Billboard JAPAN Hot 100 1位(確認できた最新週) |  | 4 | 日向坂46が総合ソングチャートで週間1位。同週はMrs. GREEN APPLE『POPS』収録曲が多数チャートイン。 | https://en.wikipedia.org/wiki/List_of_Hot_100_number-one_singles_of_2026_(Japan) |

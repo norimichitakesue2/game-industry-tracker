@@ -1,13 +1,19 @@
 # 新作リリースログ
 
-_最終更新: 2026-10-23 23:47_
+_最終更新: 2026-10-24 00:20_
 
 | 発売日 | タイトル | 開発 | パブリッシャー | プラットフォーム | ジャンル | Metacritic | OpenCritic | Steam同接ピーク | 初週推定本数 | 話題度(1-5) | 感想/メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2026-11-19(予定) | Grand Theft Auto VI（グランド・セフト・オート6） | Rockstar Games | Rockstar Games | PS5 / Xbox Series X\|S | オープンワールドアクション |  |  |  |  |  | 【来月の超大型】世界最注目の年内本命。11/19発売予定。これを避けて多数の大型作が9月に前倒し集中する“GTA6効果”の震源。 | https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI |
 | 2026-11-05(予定) | ゼルダの伝説 時のオカリナ -Switch2 | 任天堂 | 任天堂 | Switch2 | アクションアドベンチャー |  |  |  |  | 5 | 【来月の超大型】N64の不朽の名作をSwitch2向けにフルリメイク。Amazon予約数ランキング（9/6-12）で首位。11/5発売予定。 | https://www.famitsu.com/article/202609/88399 |
+| 2026-10-29(予定) | 鬼滅の刃 ヒノカミ血風譚2 Nintendo Switch 2 Edition | サイバーコネクトツー | アニプレックス | Switch2 | 対戦アクション |  |  |  |  | 4 | 【来週】人気対戦アクションのSwitch2版。『無限城編 第一章』キャラクターパス同梱。10/29発売予定。 | https://www.famitsu.com/schedule/all-platforms/202610 |
+| 2026-10-29(予定) | Dune: Awakening（デューン アウェイクニング） | Funcom | Funcom | PS5 | オープンワールド サバイバルMMO |  |  |  |  | 3 | 【来週】砂の惑星『DUNE』を舞台にしたサバイバルMMOのPS5版。10/29発売予定。 | https://www.famitsu.com/schedule/all-platforms/202610 |
 | 2026-10-28(予定) | Phantom Blade Zero（ファントムブレイドゼロ） | S-GAME | S-GAME / 505 Games | PC(Steam) / PS5 | 武侠アクション |  |  |  |  | 4 | 【注目・発売前】gamescom前後で先行予約が急増し、未発売ながらSteam週間トップセラー3位(8/10-16)にランクイン。UE5製の武侠アクション。製品版でMetascore付与見込み、要ウォッチ。 | https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/ |
+| 2026-10-28(予定) | Minecraft（Switch2版） | Mojang | Microsoft | Switch2 | サンドボックス |  |  |  |  | 3 | 【来週】世界的サンドボックスのSwitch2ネイティブ版。10/28発売予定。 | https://www.famitsu.com/schedule/all-platforms/202610 |
 | 2026-10-23(予定) | Call of Duty: Modern Warfare 4（コール オブ デューティ モダン・ウォーフェア4） | Infinity Ward | Activision | PC(Steam) / PS5 / Xbox Series X\|S | FPS |  |  |  |  | 5 | 【来月大型】CoD年次最新作。10/23発売。予約段階で8/18-25週のSteamトップセラー3位に急浮上。 | https://store.steampowered.com/app/4435490/ |
+| 2026-10-23 | Call of Duty: Modern Warfare 4（コール オブ デューティ モダン・ウォーフェア4） | Infinity Ward | Activision（Microsoft） | PS5/Xbox/PC/Switch2 | FPS |  | 84 |  |  | 5 | シリーズ最新作。OpenCritic『Mighty』84・批評家推奨100%。Steamは94%『非常に好評』(4,068件)で“16年ぶりのCoD最高Steam評価”と話題。キャンペーンは10/22先行アクセス。 | https://opencritic.com/game/20690/view |
+| 2026-10-22 | ファイナルファンタジー レゾナンス（FINAL FANTASY RESONANCE） | スクウェア・エニックス | スクウェア・エニックス | PS5/Switch/Switch2/Xbox/PC | HD-2D ターン制RPG | 85(PS5)/86(PC・XSX)/83(Switch2) |  |  |  | 5 | HD-2Dを採用した新作ターン制RPG。コンセプトは『FFがドットのまま進化したら』。Metacritic PS5 85(45媒体中44媒体が好意的・98%)、PC/XSX 86、Switch2 83。DualShockers満点・Noisy Pixel 90・GamesRadar 80。Steam版は10/23。 | https://news.denfaminicogamer.jp/news/261021h |
+| 2026-10-22 | Nintendo Switch スポーツ リゾート | 任天堂 | 任天堂 | Switch2 | スポーツ(体感) |  |  |  |  | 3 | 『Wii Sports Resort』系譜の体感スポーツ新作。10/22発売。 | https://www.famitsu.com/schedule/all-platforms/202610 |
 | 2026-10-09(予定) | Dragon's Dogma 2: Dark Arisen（ドラゴンズドグマ2：ダークアリズン） | カプコン | カプコン | PS5/Xbox/PC | アクションRPG(拡張) |  |  |  |  | 4 | 【来週の大型】『ドラゴンズドグマ2』の大型拡張/強化版。10/9発売予定。 | https://www.gamegrin.com/directory/game/dragons-dogma-2-dark-arisen/about |
 | 2026-10-08(予定) | KINGDOM HEARTS Collection [I～III]（キングダム ハーツ コレクション） | スクウェア・エニックス | スクウェア・エニックス | PS5/Switch2/PC/Xbox | アクションRPG(コレクション) |  |  |  |  | 4 | 【来週の大型】KHシリーズ主要作を収録したコレクション。10/8発売予定。 | https://www.gamegrin.com/directory/game/kingdom-hearts-collection-iiii/about |
 | 2026-10-05(予定) | AION 2（アイオン2） | NC | NC | PC/モバイル | MMORPG(基本無料) |  |  |  |  | 3 | 【来週】NCSOFTの人気MMO続編。基本無料。Steam週間トップセラーに予約でNEWランクイン。※AI生成コンテンツ開示あり。 | https://store.steampowered.com/app/3393110/AION_2/ |

@@ -1,9 +1,13 @@
 # インディー注目
 
-_最終更新: 2026-10-23 23:47_
+_最終更新: 2026-10-24 00:20_
 
 | 更新日 | タイトル | 開発 | 発売日/状況 | プラットフォーム | ジャンル | 注目点 | Steam実績 | メモ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-23 | Guns of Eschaton（ガンズ・オブ・エスカトン） | Eschatology Entertainment | 発売日未定（製品版2026-12-08予定／デモ配信中・Steam Next Fest 2026年10月出展） | PC(Steam) | ウィアードウェスタン ソウルライクFPS | Steam Next Fest(2026年10月)の注目デモとして複数メディア(steamhype等)が選出。西部劇×ソウルライクFPSの異色作で会期中に大型アップデート。 | デモ配信中(Steam Next Fest 2026年10月出展) | 製品版発売でMetascore付与見込み、要ウォッチ。 |
+| 2026-10-23 | El Paso, Elsewhere 2（エルパソ・エルスウェア2） | Strange Scaffold | 発売日未定（デモ配信中・Steam Next Fest 2026年10月出展） | PC(Steam) | ゴシック バレットタイム シューター | 高評価だった前作『El Paso, Elsewhere』の続編。Next Festデモが各メディアのおすすめに選出。 | デモ配信中(Steam Next Fest 2026年10月出展) | 名手Strange Scaffoldの新作。製品版発売で要昇格。 |
+| 2026-10-23 | Probably Stolen - Cyberpunk Shopkeeper Sim | Questing Goose Studio | 2026-10-28発売予定（デモ配信中・Steam Next Fest 2026年10月出展） | PC(Steam) | サイバーパンク 店舗経営シム | tinyBuildパブリッシュ。Next Fest注目デモ特集(GameGrin等)に掲載。 | デモ配信中(Steam Next Fest 2026年10月出展) | 10/28製品版。要ウォッチ。 |
+| 2026-10-23 | Loftia（ロフティア） | Qloud Games | 2026-11-03発売予定（デモ配信中・Steam Next Fest 2026年10月出展） | PC(Steam) | コージー ライフシム | GameGrinのNext Fest注目デモ特集に掲載。癒やし系ライフシム。 | デモ配信中(Steam Next Fest 2026年10月出展) | 11/3製品版。コージー系の期待株。 |
 | 2026-10-02 | Dressmaker（ドレスメーカー） | Cozy Lives | 2026-09-21 配信 | PC(Steam) | カジュアル/クラフト・ショップ経営シム | 配信直後にSteam週間トップセラー上位(NEW)入り。『Broforce』で知られるFree Livesがパブリッシュする仕立屋ショップ運営のコージーゲーム。 | Steam週間トップセラーNEWランクイン(2026-09-22〜09-29) | Free Lives(パブ)×Cozy Lives。コージー系の話題作。継続的な同接・レビューを要ウォッチ。 |
 | 2026-10-02 | Graveyard Keeper 2（グレイブヤード キーパー2） | Lazy Bear Games | 2026-09-22 配信 | PC(Steam) | サンドボックス/経営シム | 墓守経営シムの続編。配信直後にSteam週間トップセラー上位(NEW)入り。パブはtinyBuild。 | Steam週間トップセラーNEWランクイン(2026-09-22〜09-29) | 前作が人気のインディー続編。製品版評価が固まれば要注目。 |
 | 2026-09-25 | Aniimo（アニーモ） | Pawprint Studio | 2026-09-15 配信(基本無料) | PC(Steam) | オープンワールド/クリーチャーコレクター | 配信直後にSteam週間グローバルトップセラー上位(8位圏、9/15-22集計)へNEWランクイン。基本無料の創作生物収集アクション。 | Steam週間トップセラーNEWランクイン(GameGrin 2026-09-15〜09-22) | F2Pのポケモンライク。継続的な同接・レビュー数と収益化の定着を要ウォッチ。 |
