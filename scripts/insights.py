@@ -65,7 +65,7 @@ def load_themes(sheet_data):
         kw = [k.strip() for k in str(t.get("キーワード（分類用・カンマ区切り）") or "").split(",") if k.strip()]
         out.append(dict(id=t["テーマID"], name=t.get("テーマ名") or "", q=t.get("問いの形") or "",
                         kw=kw, view=t.get("いまの見立て") or "", vdate=dstr(t.get("見立て更新日"))))
-    out.append(dict(id="T99", name="その他の論点", q="分類外の問い", kw=[], view="", vdate=""))
+    out.append(dict(id="T99", name="その他のテーマ", q="分類外の問い", kw=[], view="", vdate=""))
     return out
 
 
@@ -297,7 +297,7 @@ def render_deep_html(sheet_data, CSS, nav_html, latest):
         newb = f'<span class="badge new">NEW {newn}</span>' if newn else ""
         gattr = "|".join(g for g in gs)
         cards.append(f'<a class="tcard" href="#{t["id"]}" data-g="{gattr}"><div class="tn">{esc(t["name"])}</div>'
-                     f'<div class="tq">{esc(t["q"])}</div><div class="tv">{esc(view)}</div>'
+                     f'<div class="tv">{esc(view)}</div>'
                      f'<div class="tm">{newb}<span>問い {nq}</span><span>掘り下げ {nd}</span><span>予測 {pcount.get(t["id"], 0)}</span>'
                      f'<span>最終 {last[5:]}</span></div></a>')
         tl = []
@@ -324,7 +324,7 @@ def render_deep_html(sheet_data, CSS, nav_html, latest):
         more = (f'<button class="morebtn" onclick="this.parentNode.querySelectorAll(\'[data-more]\').forEach(e=>e.style.display=\'\');this.remove()">'
                 f'さらに{len(its) - 8}件を表示</button>') if len(its) > 8 else ""
         vlabel = f'いまの見立て（{t["vdate"]}更新）' if t["view"] and t["vdate"] else "いまの見立て（最新エントリより）"
-        blocks.append(f'<div class="theme" id="{t["id"]}" data-g="{gattr}"><h2>{esc(t["name"])} {newb}</h2><div class="q">{esc(t["q"])}</div>'
+        blocks.append(f'<div class="theme" id="{t["id"]}" data-g="{gattr}"><h2>{esc(t["name"])} {newb}</h2>'
                       f'<div class="meta">{"".join(gbadge(g) for g, _ in gs.most_common())}<span>· 問い {nq} · 掘り下げ {nd} · '
                       f'予測 {pcount.get(t["id"], 0)} · {first}〜 · 最終更新 {last}</span></div>'
                       f'<div class="view"><b>{vlabel}</b>{esc(view)}</div>'
@@ -348,8 +348,8 @@ document.querySelector('#gf [data-k="__all__"]').classList.toggle('active',!sel.
 <meta name="viewport" content="width=device-width,initial-scale=1">
 {CSS}{CSS2}{DEEP_CSS}</head><body><div class="container">
 {nav_html('18-deep')}
-<div class="pghead"><div class="eyebrow">DEEP DIVES — 問いで追う論点</div><h1>問い・掘り下げ</h1>
-<p>横断的問い {nq_all}件と掘り下げ {nd_all}件を、{len(order)}本の論点テーマに整理。各テーマに「いまの見立て」と論点の推移（新しい順）を載せています。最終更新 {updated}</p></div>
+<div class="pghead"><div class="eyebrow">DEEP DIVES</div><h1>掘り下げ：問いで追う論点（{len(order)}本・累積{nq_all + nd_all}件）</h1>
+<p>日々の横断的問い（{nq_all}件）と掘り下げ（{nd_all}件）を「問い」ごとに束ねています。最近更新された問いが先頭です。カードをタップすると、いまの見立てと論点の推移を表示します。最終更新 {updated}</p></div>
 <div class="fbar" id="gf">{"".join(fbtn)}</div>
 <div class="tgrid">{"".join(cards)}</div>
 {"".join(blocks)}

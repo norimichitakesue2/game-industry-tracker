@@ -288,6 +288,7 @@ def render_dashboard_html(sheet_data, stats, groups, slugs, short, recent_slugs,
 
     # ---- 論点テーマ（問い・掘り下げ）と予測の進行状況
     deephtml, predhtml = "", ""
+    deep_n = deep_total = 0
     try:
         import insights
         themes, items, preds = insights.collect(sheet_data)
@@ -303,10 +304,12 @@ def render_dashboard_html(sheet_data, stats, groups, slugs, short, recent_slugs,
         for last, t, its in tl[:6]:
             newn = sum(1 for x in its if x["d"] and (ld - todate(x["d"])).days <= 3)
             nq = sum(1 for x in its if x["kind"] == "問い")
-            tc.append(f'<a class="tcard2" href="18-deep.html#{t["id"]}"><div class="tn">{esc(t["name"])}'
-                      + (f' <span class="newb">NEW {newn}</span>' if newn else "") + "</div>"
-                      f'<div class="tq">{esc(t["q"])}</div><div class="tv">{esc(t["view"])}</div>'
-                      f'<div class="tm">問い {nq} · 掘り下げ {len(its) - nq} · 予測 {pc.get(t["id"], 0)} · 最終 {last[5:]}</div></a>')
+            tc.append(f'<a class="tcard2" href="18-deep.html#{t["id"]}"><div class="tn">{esc(t["name"])}</div>'
+                      f'<div class="tv">{esc(t["view"] or first_line(its[0].get("imp") or its[0].get("body") or "", 120))}</div>'
+                      f'<div class="tm">' + (f'<span class="newb">NEW</span> ' if newn else "")
+                      + f'{len(its)}件 · 最終 {last[5:]}</div></a>')
+        deep_n = sum(1 for t in themes if items.get(t["id"]))
+        deep_total = sum(len(items.get(t["id"], [])) for t in themes)
         deephtml = f'<div class="tgrid2">{"".join(tc)}</div>'
         cur = ld.year * 12 + ld.month - 1
         st = Counter()
@@ -488,8 +491,9 @@ def render_dashboard_html(sheet_data, stats, groups, slugs, short, recent_slugs,
         '<a href="#events">イベント</a><a href="#library">ライブラリ</a><a href="#daily">日次一覧</a></div>',
         (f'<div class="dsec" id="today"><h2><span class="mk">★</span><span class="dtitle">今日の変化 · {jdate(latest)}</span></h2>'
          + dayswitch + "".join(panels) + "</div>"),
-        sec("deep", "?", "問いで追う論点", '横断的問いと掘り下げを論点テーマごとに整理（最近動いた順）。<a href="18-deep.html">すべてのテーマ →</a>',
-            deephtml),
+        sec("deep", "?", f"掘り下げ：問いで追う論点（{deep_n}本・累積{deep_total}件）",
+            "日々の横断的問いと掘り下げを「問い」ごとに束ねています。最近更新された問いが先頭です。カードをタップすると、いまの見立てと論点の推移を表示します。",
+            deephtml + '<p class="lead" style="margin:10px 0 0"><a href="18-deep.html">→ すべての問いを見る</a></p>'),
         sec("future", "🔮", "予測の進行状況", '<a href="19-predictions.html">予測マップ（タイムライン）を開く →</a>',
             predhtml + f'<div class="sub-h">最新の予測</div><div class="cards">{fcards}</div>'),
         sec("trend", "📈", "直近7日の推移", "日次ニュースのジャンル構成と、よく付いたタグ（直近7日、カッコ内は前の7日との差）。",
