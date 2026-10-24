@@ -152,6 +152,17 @@ DASH_CSS = """
 .dayrow a{color:var(--text);text-decoration:none}
 .dayrow a:hover{color:var(--accent)}
 .dayrow .cnt{color:var(--muted);text-align:right}
+.dswitch{display:flex;align-items:center;gap:6px;margin:6px 0 12px}
+.dchips{display:flex;gap:6px;overflow-x:auto;scrollbar-width:thin;padding:2px 0;flex:1;min-width:0}
+.dchip{flex:0 0 auto;font:inherit;font-size:12px;border:1px solid var(--border);border-radius:999px;padding:4px 11px;
+  background:transparent;color:var(--text);cursor:pointer;white-space:nowrap}
+.dchip small{margin-left:5px;color:var(--muted);font-size:10.5px}
+.dchip:hover{border-color:var(--accent)}
+.dchip.on{background:var(--header-bg);border-color:var(--header-bg);color:#fff}
+.dchip.on small{color:rgba(255,255,255,.75)}
+.dnav{flex:0 0 auto;font:inherit;width:30px;height:30px;border-radius:8px;border:1px solid var(--border);background:var(--panel);color:var(--text);cursor:pointer}
+.dnav:disabled{opacity:.35;cursor:default}
+.daypanel[hidden]{display:none}
 .tgrid2{display:grid;gap:10px;grid-template-columns:repeat(auto-fill,minmax(280px,1fr))}
 .tcard2{display:block;border:1px solid var(--border);border-radius:10px;padding:12px 14px;text-decoration:none;color:var(--text)}
 .tcard2:hover{border-color:var(--accent)}
@@ -185,53 +196,56 @@ def render_dashboard_html(sheet_data, stats, groups, slugs, short, recent_slugs,
     dates = sorted({r["_d"] for r in news if r["_d"]}, reverse=True)
     latest = dates[0] if dates else ""
     prev = dates[1] if len(dates) > 1 else ""
-    today_rows = [r for r in news if r["_d"] == latest]
-    prev_rows = [r for r in news if r["_d"] == prev]
+    def day_core(day, pday):
+        today_rows = [r for r in news if r["_d"] == day]
+        prev_rows = [r for r in news if r["_d"] == pday]
+        latest = day
 
-    # ---- 今日のKPI（ジャンル別件数と前日比）
-    cnt = Counter((r.get("ジャンル") or "横断") for r in today_rows)
-    pcnt = Counter((r.get("ジャンル") or "横断") for r in prev_rows)
-    kpis = [f'<a class="kpi" href="01-daily-news.html#d-{latest}"><div class="n">{len(today_rows)}</div>'
-            f'<div class="l">本日の追加件数</div>{_delta(len(today_rows), len(prev_rows))}</a>']
-    for g in GENRES:
-        kpis.append(f'<a class="kpi" href="01-daily-news.html#d-{latest}"><div class="n">{cnt.get(g, 0)}</div>'
-                    f'<div class="l">{gbadge(g)}</div>{_delta(cnt.get(g, 0), pcnt.get(g, 0))}</a>')
+        # ---- 今日のKPI（ジャンル別件数と前日比）
+        cnt = Counter((r.get("ジャンル") or "横断") for r in today_rows)
+        pcnt = Counter((r.get("ジャンル") or "横断") for r in prev_rows)
+        kpis = [f'<a class="kpi" href="01-daily-news.html#d-{latest}"><div class="n">{len(today_rows)}</div>'
+                f'<div class="l">この日の追加件数</div>{_delta(len(today_rows), len(prev_rows))}</a>']
+        for g in GENRES:
+            kpis.append(f'<a class="kpi" href="01-daily-news.html#d-{latest}"><div class="n">{cnt.get(g, 0)}</div>'
+                        f'<div class="l">{gbadge(g)}</div>{_delta(cnt.get(g, 0), pcnt.get(g, 0))}</a>')
 
-    # ---- 注目3件：備考に「★」があればそれを優先、なければタグで重み付け
-    starred = [r for r in today_rows if "★" in str(r.get("備考") or "")]
-    if len(starred) < 3:
-        weight = {"M&A": 3, "規制": 3, "業績": 2, "適時開示": 2, "人事・組織": 2, "AI": 1, "出資": 2, "提携": 1}
-        rest = [r for r in today_rows if r not in starred]
-        seen_g = {r.get("ジャンル") for r in starred}
-        rest.sort(key=lambda r: -sum(weight.get(t.strip(), 0) for t in str(r.get("タグ") or "").split(",")))
-        for r in rest:
-            if len(starred) >= 3:
-                break
-            if r.get("ジャンル") in seen_g:
+        # ---- 注目3件：備考に「★」があればそれを優先、なければタグで重み付け
+        starred = [r for r in today_rows if "★" in str(r.get("備考") or "")]
+        if len(starred) < 3:
+            weight = {"M&A": 3, "規制": 3, "業績": 2, "適時開示": 2, "人事・組織": 2, "AI": 1, "出資": 2, "提携": 1}
+            rest = [r for r in today_rows if r not in starred]
+            seen_g = {r.get("ジャンル") for r in starred}
+            rest.sort(key=lambda r: -sum(weight.get(t.strip(), 0) for t in str(r.get("タグ") or "").split(",")))
+            for r in rest:
+                if len(starred) >= 3:
+                    break
+                if r.get("ジャンル") in seen_g:
+                    continue
+                starred.append(r)
+                seen_g.add(r.get("ジャンル"))
+        picks = []
+        for i, r in enumerate(starred[:3], 1):
+            tags = "".join(f'<span class="tag">{esc(t.strip())}</span>' for t in str(r.get("タグ") or "").split(",") if t.strip())
+            picks.append(f'<div class="pick"><div class="no">PICK {i} {gbadge(r.get("ジャンル"))}</div>'
+                         f'<a class="t" href="{esc(r.get("URL"))}" target="_blank" rel="noopener">{esc(r.get("見出し"))}</a>'
+                         f'<div class="s">{esc(first_line(r.get("今後の予測"), 110))}</div><div>{tags}</div></div>')
+
+        # ---- ジャンル別ヘッドライン
+        gcols = []
+        for g in GENRES:
+            items = [r for r in today_rows if (r.get("ジャンル") or "横断") == g]
+            if not items:
                 continue
-            starred.append(r)
-            seen_g.add(r.get("ジャンル"))
-    picks = []
-    for i, r in enumerate(starred[:3], 1):
-        tags = "".join(f'<span class="tag">{esc(t.strip())}</span>' for t in str(r.get("タグ") or "").split(",") if t.strip())
-        picks.append(f'<div class="pick"><div class="no">PICK {i} {gbadge(r.get("ジャンル"))}</div>'
-                     f'<a class="t" href="{esc(r.get("URL"))}" target="_blank" rel="noopener">{esc(r.get("見出し"))}</a>'
-                     f'<div class="s">{esc(first_line(r.get("今後の予測"), 110))}</div><div>{tags}</div></div>')
-
-    # ---- ジャンル別ヘッドライン
-    gcols = []
-    for g in GENRES:
-        items = [r for r in today_rows if (r.get("ジャンル") or "横断") == g]
-        if not items:
-            continue
-        li = lambda r: f'<li><a href="{esc(r.get("URL"))}" target="_blank" rel="noopener">{esc(r.get("見出し"))}</a></li>'
-        head = "".join(li(r) for r in items[:3])
-        more = ""
-        if len(items) > 3:
-            more = (f'<details><summary>ほか{len(items) - 3}件を表示</summary><ul>'
-                    + "".join(li(r) for r in items[3:]) + "</ul></details>")
-        gcols.append(f'<div class="gcol"><div class="gh">{gbadge(g)}<span class="c">{len(items)}件</span></div>'
-                     f'<ul>{head}</ul>{more}</div>')
+            li = lambda r: f'<li><a href="{esc(r.get("URL"))}" target="_blank" rel="noopener">{esc(r.get("見出し"))}</a></li>'
+            head = "".join(li(r) for r in items[:3])
+            more = ""
+            if len(items) > 3:
+                more = (f'<details><summary>ほか{len(items) - 3}件を表示</summary><ul>'
+                        + "".join(li(r) for r in items[3:]) + "</ul></details>")
+            gcols.append(f'<div class="gcol"><div class="gh">{gbadge(g)}<span class="c">{len(items)}件</span></div>'
+                         f'<ul>{head}</ul>{more}</div>')
+        return today_rows, kpis, picks, gcols
 
     # ---- 直近7日のジャンル推移
     last7 = sorted(dates[:7])
@@ -264,18 +278,6 @@ def render_dashboard_html(sheet_data, stats, groups, slugs, short, recent_slugs,
         cls = "up" if diff > 0 else ("down" if diff < 0 else "flat")
         sign = f"+{diff}" if diff > 0 else str(diff)
         tagchips.append(f'<span class="chip">{esc(t)}<b>{n}</b> <span class="{cls}">{sign}</span></span>')
-
-    # ---- その他シートの「本日分」
-    def today_of(name, col="記録日"):
-        return [r for r in rows_as_dicts(sheet_data, name) if dstr(r.get(col)) == latest]
-
-    qs = today_of("横断的問い")
-    if not qs:
-        qs = rows_as_dicts(sheet_data, "横断的問い")[:3]
-    qcards = "".join(
-        f'<div class="card"><div class="ct">{esc(first_line(q.get("問い"), 150))}</div>'
-        f'<div>{gbadge(q.get("ジャンル"))} <span class="badge">{esc(q.get("ステータス") or "")}</span></div>'
-        f'<div class="cm">発火元: {esc(first_line(q.get("発火元（ニュース等）"), 80))}</div></div>' for q in qs[:4])
 
     fs = rows_as_dicts(sheet_data, "今後起きそうなこと")[:3]
     fcards = "".join(
@@ -339,20 +341,6 @@ def render_dashboard_html(sheet_data, stats, groups, slugs, short, recent_slugs,
     except Exception as e:
         import sys, traceback; traceback.print_exc()
 
-    mm = today_of("メディアミックス追跡")
-    mmcards = "".join(
-        f'<div class="card"><div class="ct">{esc(m.get("原作名"))}</div>'
-        f'<div>{gbadge(m.get("原作ジャンル"))} → {gbadge(m.get("展開先ジャンル"))} <span class="badge">{esc(m.get("ステータス"))}</span></div>'
-        f'<div style="margin-top:6px">{esc(first_line(m.get("展開内容"), 90))}</div>'
-        f'<div class="cm">公開/開始予定: {esc(m.get("公開/開始予定") or "未定")}</div></div>' for m in mm)
-
-    gd = today_of("ゲームデザイン・トレンド")
-    gdcards = "".join(
-        f'<div class="card"><div class="ct">{esc(x.get("デザイン名/パターン"))}</div>'
-        f'<div><span class="badge">{esc(x.get("分類"))}</span><span class="badge">{esc(x.get("ステータス"))}</span>'
-        f'<span class="badge">注目度 {esc(x.get("注目度(1-5)"))}</span></div>'
-        f'<div class="cm">発火元: {esc(first_line(x.get("発火元ニュース"), 80))}</div></div>' for x in gd)
-
     # ---- 直近イベント（今日〜14日後＋開催中）
     base = todate(latest) or date.today()
     evs = []
@@ -413,13 +401,83 @@ def render_dashboard_html(sheet_data, stats, groups, slugs, short, recent_slugs,
         return (f'<div class="dsec" id="{anchor}"><h2><span class="mk">{mk}</span>{title}</h2>'
                 + (f'<p class="lead">{lead}</p>' if lead else "") + inner + "</div>")
 
-    other = ""
-    if qcards:
-        other += f'<div class="sub-h">新しい横断的問い（{len(qs[:4])}）</div><div class="cards">{qcards}</div>'
-    if mmcards:
-        other += f'<div class="sub-h">メディアミックスの動き（{len(mm)}）</div><div class="cards">{mmcards}</div>'
-    if gdcards:
-        other += f'<div class="sub-h">ゲームデザインの型（{len(gd)}）</div><div class="cards">{gdcards}</div>'
+    def day_other(day, fallback_q=False):
+        def of(name, col="記録日"):
+            return [r for r in rows_as_dicts(sheet_data, name) if dstr(r.get(col)) == day]
+        dq = of("横断的問い")
+        if not dq and fallback_q:
+            dq = rows_as_dicts(sheet_data, "横断的問い")[:3]
+        dqc = "".join(
+            f'<div class="card"><div class="ct">{esc(first_line(q.get("問い"), 150))}</div>'
+            f'<div>{gbadge(q.get("ジャンル"))} <span class="badge">{esc(q.get("ステータス") or "")}</span></div>'
+            f'<div class="cm">発火元: {esc(first_line(q.get("発火元（ニュース等）"), 80))}</div></div>' for q in dq[:4])
+        dm = of("メディアミックス追跡")
+        dmc = "".join(
+            f'<div class="card"><div class="ct">{esc(m.get("原作名"))}</div>'
+            f'<div>{gbadge(m.get("原作ジャンル"))} → {gbadge(m.get("展開先ジャンル"))} <span class="badge">{esc(m.get("ステータス"))}</span></div>'
+            f'<div style="margin-top:6px">{esc(first_line(m.get("展開内容"), 90))}</div>'
+            f'<div class="cm">公開/開始予定: {esc(m.get("公開/開始予定") or "未定")}</div></div>' for m in dm)
+        dg = of("ゲームデザイン・トレンド")
+        dgc = "".join(
+            f'<div class="card"><div class="ct">{esc(x.get("デザイン名/パターン"))}</div>'
+            f'<div><span class="badge">{esc(x.get("分類"))}</span><span class="badge">{esc(x.get("ステータス"))}</span>'
+            f'<span class="badge">注目度 {esc(x.get("注目度(1-5)"))}</span></div>'
+            f'<div class="cm">発火元: {esc(first_line(x.get("発火元ニュース"), 80))}</div></div>' for x in dg)
+        o = ""
+        if dqc:
+            o += f'<div class="sub-h">新しい横断的問い（{len(dq[:4])}）</div><div class="cards">{dqc}</div>'
+        if dmc:
+            o += f'<div class="sub-h">メディアミックスの動き（{len(dm)}）</div><div class="cards">{dmc}</div>'
+        if dgc:
+            o += f'<div class="sub-h">ゲームデザインの型（{len(dg)}）</div><div class="cards">{dgc}</div>'
+        return o
+
+    # ---- 「今日の変化」を日別に切り替えられるよう、直近14日分のパネルを生成
+    DAYS_N = 14
+    pdays = dates[:DAYS_N]
+    panels, dchips = [], []
+    for i, d in enumerate(pdays):
+        pd_ = dates[i + 1] if i + 1 < len(dates) else ""
+        trs, kp, pk, gc = day_core(d, pd_)
+        lead = (f"前回 {jdate(pd_)} からの追加分。" if pd_ else "") + "件数をクリックするとその日のニュースへ移動します。"
+        panels.append(
+            f'<div class="daypanel" data-day="{d}" data-label="{jdate(d)}"{"" if i == 0 else " hidden"}>'
+            f'<p class="lead">{lead}</p>'
+            f'<div class="kpis">{"".join(kp)}</div>'
+            f'<div class="sub-h">注目の3件</div><div class="picks">{"".join(pk)}</div>'
+            f'<div class="sub-h">ジャンル別ヘッドライン</div><div class="glist">{"".join(gc)}</div>'
+            + day_other(d, fallback_q=(i == 0)) + "</div>")
+        dchips.append(f'<button type="button" class="dchip{" on" if i == 0 else ""}" data-day="{d}">'
+                      f'{jdate(d)}<small>{len(trs)}本</small></button>')
+    dayswitch = (
+        '<div class="dswitch"><button type="button" class="dnav" data-step="1" aria-label="前の日">◀</button>'
+        f'<div class="dchips">{"".join(reversed(dchips))}</div>'
+        '<button type="button" class="dnav" data-step="-1" aria-label="次の日">▶</button></div>')
+    dayjs = """<script>
+(function(){
+  var sec=document.getElementById('today'); if(!sec) return;
+  var panels=[].slice.call(sec.querySelectorAll('.daypanel'));
+  var chipEls=[].slice.call(sec.querySelectorAll('.dchip'));
+  var title=sec.querySelector('.dtitle');
+  var days=panels.map(function(p){return p.dataset.day;});
+  var chips=days.map(function(d){return chipEls.filter(function(c){return c.dataset.day===d;})[0];});
+  var cur=0;
+  function show(i, push){
+    if(i<0||i>=panels.length) return; cur=i;
+    panels.forEach(function(p,k){p.hidden=(k!==i);});
+    chips.forEach(function(c,k){c.classList.toggle('on',k===i); if(k===i){var w=c.parentNode;w.scrollLeft=c.offsetLeft-w.offsetLeft-(w.clientWidth-c.offsetWidth)/2;}});
+    if(title) title.textContent=(i===0?'今日の変化 · ':'この日の変化 · ')+panels[i].dataset.label;
+    sec.querySelectorAll('.dnav').forEach(function(b){var s=+b.dataset.step;b.disabled=(i+s<0||i+s>=panels.length);});
+    if(push){ try{history.replaceState(null,'',i===0?location.pathname+'#today':'#day-'+days[i]);}catch(e){} }
+  }
+  chips.forEach(function(c,k){c.addEventListener('click',function(){show(k,true);});});
+  sec.querySelectorAll('.dnav').forEach(function(b){b.addEventListener('click',function(){show(cur+(+b.dataset.step),true);});});
+  var m=location.hash.match(/^#day-(\\d{4}-\\d{2}-\\d{2})$/);
+  var start=m?days.indexOf(m[1]):0;
+  show(start<0?0:start,false);
+  if(m&&start>=0){ sec.scrollIntoView(); }
+})();
+</script>"""
 
     body = [
         f'''<div class="hero"><div class="eyebrow">ENTERTAINMENT INDUSTRY TRACKER</div>
@@ -428,12 +486,8 @@ def render_dashboard_html(sheet_data, stats, groups, slugs, short, recent_slugs,
 <a class="cta" href="01-daily-news.html#d-{latest}">最新の日次ニュース {jdate(latest)} を読む →</a></div>''',
         '<div class="anchors"><a href="#today">★ 今日の変化</a><a href="#deep">問い・掘り下げ</a><a href="#future">予測</a><a href="#trend">推移</a>'
         '<a href="#events">イベント</a><a href="#library">ライブラリ</a><a href="#daily">日次一覧</a></div>',
-        sec("today", "★", f"今日の変化 · {jdate(latest)}",
-            f"前回 {jdate(prev)} からの追加分。件数をクリックするとその日のニュースへ移動します。",
-            f'<div class="kpis">{"".join(kpis)}</div>'
-            f'<div class="sub-h">注目の3件</div><div class="picks">{"".join(picks)}</div>'
-            f'<div class="sub-h">ジャンル別ヘッドライン</div><div class="glist">{"".join(gcols)}</div>'
-            + other),
+        (f'<div class="dsec" id="today"><h2><span class="mk">★</span><span class="dtitle">今日の変化 · {jdate(latest)}</span></h2>'
+         + dayswitch + "".join(panels) + "</div>"),
         sec("deep", "?", "問いで追う論点", '横断的問いと掘り下げを論点テーマごとに整理（最近動いた順）。<a href="18-deep.html">すべてのテーマ →</a>',
             deephtml),
         sec("future", "🔮", "予測の進行状況", '<a href="19-predictions.html">予測マップ（タイムライン）を開く →</a>',
@@ -454,6 +508,7 @@ def render_dashboard_html(sheet_data, stats, groups, slugs, short, recent_slugs,
 {body[0]}
 {''.join(body[1:])}
 <footer>自動生成 · GitHub Pages · 毎朝の日次タスクで更新</footer>
+{dayjs}
 </div></body></html>"""
 
 
