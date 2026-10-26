@@ -1,13 +1,13 @@
 # IP・タイトルウォッチ
 
-_最終更新: 2026-10-25 22:26_
+_最終更新: 2026-10-26 00:14_
 
 | IP/シリーズ名 | 権利元/開発 | 地域 | 直近動向 | 次回作情報 | シリーズ累計(万本) | ステータス | メモ | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| モンスターハンター | カプコン | 日本 | 10/19に『MHワイルズ』Switch 2版の無料プロローグ体験版を配信(製品版は12/4、セーブ引継ぎ・ローカル協力対応)。Switch 2の約1000万台基盤への展開で新規層取り込みを狙う。TGS発表の大型拡張『Ascendance』(2027)、モバイル『Outlanders』事前登録と並行し多面展開。 | MHワイルズ Switch 2版(2026/12/4)、Ascendance拡張(2027)、Monster Hunter Outlanders(モバイル) |  | アクティブ |  | 2026-10-26 |
 | KEMURI（ケムリ） | Unseen Inc.（中村育美） | 国内 | 2026-06-02のPlayStation State of Playで正式発表。妖怪ハンターとして『ケムリシティ』で妖怪と契約し力を得るスタイリッシュ・アクション（狐の窓、憑依アパレル、近接/遠隔/祈祷・護符）。 | 2027年発売予定（PS5確定、PC等は要確認） |  | 発表済・2027予定 | 旧Tango（Ghostwire: Tokyo）の中村育美が率いる新スタジオの第1作。創作者主導の新スタジオの実例。発売日確定・ベータ・プレビュー等の次報で日次に再登場させる。出典: VGC 2026-06-02 | 2026-10-10 |
 | Roblox | Roblox Corp | 海外 | Meta Connect(9/24)でAIゲーム制作ツール『Horizon Create/Studio』が発表され、UGC/クリエイター基盤に競合脅威との受け止め。株価は9/25に約-4.3%下落。RDC2026で示した独立アプリ配信『Roblox Everywhere』やWallet戦略は継続。 | 独立アプリ配信(Roblox Everywhere)、Roblox Wallet、AI制作ツール |  | アクティブ |  | 2026-09-28 |
 | ファイナルファンタジー | スクウェア・エニックス | 日本 | TGS2026で『FINAL FANTASY VII Revelation』と『FF Resonance』を試遊出展、ブースでDQ/ディシディア系のトレーラーも上映。FF7リメイク系の新展開に注目が集まる。 | FINAL FANTASY VII Revelation、FF Resonance |  | アクティブ |  | 2026-09-21 |
-| モンスターハンター | カプコン | 日本 | TGS2026で『Monster Hunter Wilds: Ascendance』(2027予定、古龍テオ・テスカトル復活/新機構Boost Bracer等)を発表。モバイル新作『Monster Hunter Outlanders』も事前登録を開始し、シリーズの多面展開が進む。 | Monster Hunter Wilds: Ascendance(2027)、Monster Hunter Outlanders(モバイル) |  | アクティブ |  | 2026-09-21 |
 | ペルソナ | アトラス/セガ | 日本 | TGS2026でATLUSが完全新作『ペルソナ6』(PS5/Xbox/PC、新キャストの独立作)を正式発表。『ペルソナ4 Revival』は2027/2/18にXbox/PCで発売(Game Pass初日)、Switch2版は2027/5/20予定。 | ペルソナ6(発売日未定)、ペルソナ4 Revival(2027/2/18) |  | アクティブ |  | 2026-09-21 |
 | Grand Theft Auto | Rockstar Games/Take-Two | 海外 | GTA6は2026/11/19発売を再確認。PS予約でUltimate Edition比率が88.5%と高単価志向が鮮明で、Take-Two株の支援材料に。年末商戦の最大目玉。 | GTA6 — 2026年11月19日発売予定 |  | 発売直前 |  | 2026-09-21 |
 | ゼルダの伝説 | 任天堂 | 日本 | 9/8にゼルダの伝説40周年記念Nintendo Directを実施予定。Switch2向けの新展開や記念タイトルへの期待が高まる。 | ゼルダの伝説 時のオカリナ リメイク（Switch 2、2026年後半予定） |  | アクティブ |  | 2026-09-07 |
