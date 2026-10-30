@@ -1,15 +1,20 @@
 # 新作リリースログ
 
-_最終更新: 2026-10-29 22:21_
+_最終更新: 2026-10-30 09:21_
 
 | 発売日 | タイトル | 開発 | パブリッシャー | プラットフォーム | ジャンル | Metacritic | OpenCritic | Steam同接ピーク | 初週推定本数 | 話題度(1-5) | 感想/メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2026-11-19(予定) | Grand Theft Auto VI（グランド・セフト・オート6） | Rockstar Games | Rockstar Games | PS5 / Xbox Series X\|S | オープンワールドアクション |  |  |  |  |  | 【来月の超大型】世界最注目の年内本命。11/19発売予定。これを避けて多数の大型作が9月に前倒し集中する“GTA6効果”の震源。 | https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI |
+| 2026-11-19(予定) | グランド・セフト・オートVI（Grand Theft Auto VI） | Rockstar Games | Rockstar Games | PS5/Xbox Series X\|S | オープンワールドアクション |  |  |  |  | 5 | 【来月の超大型】世代最大の注目作。延期を経て発売日を2026年11月19日に設定。 | https://dengekionline.com/article/202511/57156 |
+| 2026-11-11(予定) | Football Manager 27（フットボールマネージャー27） | Sports Interactive | SEGA | PS5/PC/Xbox | サッカー経営シム |  |  |  |  | 3 | 【来月】人気サッカー経営シム最新作。11/11にDL版、11/20にパッケージ版。 | https://www.famitsu.com/schedule/ps5/202611 |
 | 2026-11-05(予定) | ゼルダの伝説 時のオカリナ -Switch2 | 任天堂 | 任天堂 | Switch2 | アクションアドベンチャー |  |  |  |  | 5 | 【来月の超大型】N64の不朽の名作をSwitch2向けにフルリメイク。Amazon予約数ランキング（9/6-12）で首位。11/5発売予定。 | https://www.famitsu.com/article/202609/88399 |
-| 2026-10-29(予定) | 鬼滅の刃 ヒノカミ血風譚2 Nintendo Switch 2 Edition | サイバーコネクトツー | アニプレックス | Switch2 | 対戦アクション |  |  |  |  | 4 | 【来週】人気対戦アクションのSwitch2版。『無限城編 第一章』キャラクターパス同梱。10/29発売予定。 | https://www.famitsu.com/schedule/all-platforms/202610 |
-| 2026-10-29(予定) | Dune: Awakening（デューン アウェイクニング） | Funcom | Funcom | PS5 | オープンワールド サバイバルMMO |  |  |  |  | 3 | 【来週】砂の惑星『DUNE』を舞台にしたサバイバルMMOのPS5版。10/29発売予定。 | https://www.famitsu.com/schedule/all-platforms/202610 |
+| 2026-10-29 | 鬼滅の刃 ヒノカミ血風譚2 Nintendo Switch 2 Edition | サイバーコネクトツー | アニプレックス | Switch2 | 対戦アクション |  |  |  |  | 4 | 発売済み。人気対戦アクションのSwitch2版。『無限城編 第一章』キャラクターパス同梱。10/29発売予定。 | https://www.famitsu.com/schedule/all-platforms/202610 |
+| 2026-10-29 | Dune: Awakening（デューン アウェイクニング） | Funcom | Funcom | PS5 | オープンワールド サバイバルMMO |  |  |  |  | 3 | 発売済み。砂の惑星『DUNE』を舞台にしたサバイバルMMOのPS5版。10/29発売予定。 | https://www.famitsu.com/schedule/all-platforms/202610 |
+| 2026-10-29 | Monster Hunter Outlanders（モンスターハンターアウトランダーズ） | カプコン／TiMi Studio Group | カプコン | iOS/Android | ハンティングアクション(F2P) |  |  |  |  | 5 | Capcom×Tencent(TiMi)のモバイル向けモンハン。事前登録500万超、10/29に全世界配信開始。 | https://mobilegamer.biz/tencent-and-capcom-collab-monster-hunter-outlanders-releases-october-29/ |
+| 2026-10-29 | Phantom Blade Zero（ファントムブレイドゼロ） | S-GAME | S-GAME | PS5/PC | アクション(カンフー/ソウルライク) | 88 | 92 |  |  | 5 | Steam週間3位。Metacritic88/OpenCritic92でGOTY候補の声。戦闘・ボス戦が高評価、一部でストーリー/フレームレートに課題の指摘。 | https://otakukart.com/phantom-blade-zero-earns-88-on-metacritic-and-92-on-opencritic-as-critics-praise-its-combat-and-boss-battles/ |
+| 2026-10-29 | ANOMALITH（アノマリス） |  |  | PC/PS5/Switch2 | SFアクション |  |  |  |  | 3 | 10/29発売のSFアクション系新作(日本・北米同週)。 | https://www.gamespark.jp/article/2026/10/25/174051.html |
 | 2026-10-28(予定) | Phantom Blade Zero（ファントムブレイドゼロ） | S-GAME | S-GAME / 505 Games | PC(Steam) / PS5 | 武侠アクション |  |  |  |  | 4 | 【注目・発売前】gamescom前後で先行予約が急増し、未発売ながらSteam週間トップセラー3位(8/10-16)にランクイン。UE5製の武侠アクション。製品版でMetascore付与見込み、要ウォッチ。 | https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/ |
-| 2026-10-28(予定) | Minecraft（Switch2版） | Mojang | Microsoft | Switch2 | サンドボックス |  |  |  |  | 3 | 【来週】世界的サンドボックスのSwitch2ネイティブ版。10/28発売予定。 | https://www.famitsu.com/schedule/all-platforms/202610 |
+| 2026-10-28 | Minecraft（Switch2版） | Mojang | Microsoft | Switch2 | サンドボックス |  |  |  |  | 3 | 発売済み。世界的サンドボックスのSwitch2ネイティブ版。10/28発売予定。 | https://www.famitsu.com/schedule/all-platforms/202610 |
 | 2026-10-23(予定) | Call of Duty: Modern Warfare 4（コール オブ デューティ モダン・ウォーフェア4） | Infinity Ward | Activision | PC(Steam) / PS5 / Xbox Series X\|S | FPS |  |  |  |  | 5 | 【来月大型】CoD年次最新作。10/23発売。予約段階で8/18-25週のSteamトップセラー3位に急浮上。 | https://store.steampowered.com/app/4435490/ |
 | 2026-10-23 | Call of Duty: Modern Warfare 4（コール オブ デューティ モダン・ウォーフェア4） | Infinity Ward | Activision（Microsoft） | PS5/Xbox/PC/Switch2 | FPS |  | 84 |  |  | 5 | シリーズ最新作。OpenCritic『Mighty』84・批評家推奨100%。Steamは94%『非常に好評』(4,068件)で“16年ぶりのCoD最高Steam評価”と話題。キャンペーンは10/22先行アクセス。 | https://opencritic.com/game/20690/view |
 | 2026-10-22 | ファイナルファンタジー レゾナンス（FINAL FANTASY RESONANCE） | スクウェア・エニックス | スクウェア・エニックス | PS5/Switch/Switch2/Xbox/PC | HD-2D ターン制RPG | 85(PS5)/86(PC・XSX)/83(Switch2) |  |  |  | 5 | HD-2Dを採用した新作ターン制RPG。コンセプトは『FFがドットのまま進化したら』。Metacritic PS5 85(45媒体中44媒体が好意的・98%)、PC/XSX 86、Switch2 83。DualShockers満点・Noisy Pixel 90・GamesRadar 80。Steam版は10/23。 | https://news.denfaminicogamer.jp/news/261021h |

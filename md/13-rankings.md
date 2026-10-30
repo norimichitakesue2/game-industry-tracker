@@ -1,8 +1,23 @@
 # 週間ランキング
 
-_最終更新: 2026-10-29 22:21_
+_最終更新: 2026-10-30 09:21_
 
 ## 国内ファミ通
+
+### 2026-10-19〜10-25
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Nintendo Switch スポーツ リゾート | Switch2 | 64,632 |  |  | https://gematsu.com/2026/10/famitsu-sales-10-19-26-10-25-26 | ファミ通推計(gematsu経由)。FFレゾナンスは3機種合算で初週13万本超、スポーツリゾートが首位。 |
+| 2 | ファイナルファンタジー レゾナンス | Switch2 | 52,268 |  |  | https://gematsu.com/2026/10/famitsu-sales-10-19-26-10-25-26 | ファミ通推計(gematsu経由)。FFレゾナンスは3機種合算で初週13万本超、スポーツリゾートが首位。 |
+| 3 | ファイナルファンタジー レゾナンス | PS5 | 50,452 |  |  | https://gematsu.com/2026/10/famitsu-sales-10-19-26-10-25-26 | ファミ通推計(gematsu経由)。FFレゾナンスは3機種合算で初週13万本超、スポーツリゾートが首位。 |
+| 4 | ファイナルファンタジー レゾナンス | Switch | 30,471 |  |  | https://gematsu.com/2026/10/famitsu-sales-10-19-26-10-25-26 | ファミ通推計(gematsu経由)。FFレゾナンスは3機種合算で初週13万本超、スポーツリゾートが首位。 |
+| 5 | コール オブ デューティ：モダン・ウォーフェア IV | PS5 | 12,816 |  |  | https://gematsu.com/2026/10/famitsu-sales-10-19-26-10-25-26 | ファミ通推計(gematsu経由)。FFレゾナンスは3機種合算で初週13万本超、スポーツリゾートが首位。 |
+| 6 | リズム天国 ミラクルスターズ | Switch | 9,671 |  |  | https://gematsu.com/2026/10/famitsu-sales-10-19-26-10-25-26 | ファミ通推計(gematsu経由)。FFレゾナンスは3機種合算で初週13万本超、スポーツリゾートが首位。 |
+| 7 | ONE PIECE グランドグルメ | Switch2 | 5,631 |  |  | https://gematsu.com/2026/10/famitsu-sales-10-19-26-10-25-26 | ファミ通推計(gematsu経由)。FFレゾナンスは3機種合算で初週13万本超、スポーツリゾートが首位。 |
+| 8 | トモダチコレクション わくわく生活 | Switch | 4,682 |  |  | https://gematsu.com/2026/10/famitsu-sales-10-19-26-10-25-26 | ファミ通推計(gematsu経由)。FFレゾナンスは3機種合算で初週13万本超、スポーツリゾートが首位。 |
+| 9 | ファイアーエムブレム 万紫千紅 | Switch2 | 4,393 |  |  | https://gematsu.com/2026/10/famitsu-sales-10-19-26-10-25-26 | ファミ通推計(gematsu経由)。FFレゾナンスは3機種合算で初週13万本超、スポーツリゾートが首位。 |
+| 10 | マリオカート ワールド | Switch2 | 3,682 |  |  | https://gematsu.com/2026/10/famitsu-sales-10-19-26-10-25-26 | ファミ通推計(gematsu経由)。FFレゾナンスは3機種合算で初週13万本超、スポーツリゾートが首位。 |
 
 ### 2026-10-12〜10-18
 
@@ -269,6 +284,21 @@ _最終更新: 2026-10-29 22:21_
 | 10 | アストロボット | PS5 | 3,460 | 103,717 |  | ファミ通.com 週販 https://www.famitsu.com/article/202606/78042 |  |
 
 ## Steamトップセラー
+
+### 2026-10-20〜10-27
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Call of Duty: Modern Warfare 4（コール オブ デューティ：モダン・ウォーフェア IV） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-20th27th-of-october-2026/ | GameGrin週間トップセラー(順位のみ)。CoD MW4が首位継続、Phantom Blade Zeroが3位に浮上。 |
+| 2 | Dota 2 | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-20th27th-of-october-2026/ | GameGrin週間トップセラー(順位のみ)。CoD MW4が首位継続、Phantom Blade Zeroが3位に浮上。 |
+| 3 | Phantom Blade Zero（ファントムブレイドゼロ） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-20th27th-of-october-2026/ | GameGrin週間トップセラー(順位のみ)。CoD MW4が首位継続、Phantom Blade Zeroが3位に浮上。 |
+| 4 | Counter-Strike 2 | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-20th27th-of-october-2026/ | GameGrin週間トップセラー(順位のみ)。CoD MW4が首位継続、Phantom Blade Zeroが3位に浮上。 |
+| 5 | Cyberpunk 2077（サイバーパンク2077） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-20th27th-of-october-2026/ | GameGrin週間トップセラー(順位のみ)。CoD MW4が首位継続、Phantom Blade Zeroが3位に浮上。 |
+| 6 | AION 2 | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-20th27th-of-october-2026/ | GameGrin週間トップセラー(順位のみ)。CoD MW4が首位継続、Phantom Blade Zeroが3位に浮上。 |
+| 7 | PUBG: BATTLEGROUNDS | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-20th27th-of-october-2026/ | GameGrin週間トップセラー(順位のみ)。CoD MW4が首位継続、Phantom Blade Zeroが3位に浮上。 |
+| 8 | FINAL FANTASY RESONANCE（ファイナルファンタジー レゾナンス）(NEW) | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-20th27th-of-october-2026/ | GameGrin週間トップセラー(順位のみ)。CoD MW4が首位継続、Phantom Blade Zeroが3位に浮上。 |
+| 9 | Cyberpunk 2077: Phantom Liberty（仮初めの自由）(NEW) | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-20th27th-of-october-2026/ | GameGrin週間トップセラー(順位のみ)。CoD MW4が首位継続、Phantom Blade Zeroが3位に浮上。 |
+| 10 | EA SPORTS FC 27 | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-20th27th-of-october-2026/ | GameGrin週間トップセラー(順位のみ)。CoD MW4が首位継続、Phantom Blade Zeroが3位に浮上。 |
 
 ### 2026-10-13〜10-20
 

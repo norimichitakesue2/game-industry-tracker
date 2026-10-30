@@ -1,6 +1,6 @@
 # 【音楽】リリース・チャート
 
-_最終更新: 2026-10-29 22:21_
+_最終更新: 2026-10-30 09:21_
 
 | 集計日/発売日 | 区分 | タイトル/曲名 | アーティスト | レーベル | 形態 | チャート順位 | ストリーミング数 | 話題度(1-5) | メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@ _最終更新: 2026-10-29 22:21_
 | 2026-10-05(付) | チャート | DIGITAL GIRL | Number_i | Atlantic Records | シングル/配信 | Billboard JAPAN Hot 100 2位(最新週) |  | 4 | Number_iが1位(REBON)と合わせ総合チャート上位を独占。 | https://www.billboard-japan.com/charts/detail?a=hot100 |
 | 2026-10(フラゲ) | 新譜 | POPS | Mrs. GREEN APPLE | ユニバーサル | アルバム | 先ヨミでアルバム首位独走(60.2万枚) |  | 5 | フラゲ日集計で58万枚突破、2作目のハーフミリオン達成見込みの大型新譜。 | https://www.billboard-japan.com/d_news/detail/166068/ |
 | 2026-10-07(付) | チャート | イチャイチャ虫 | 日向坂46 | ソニー | シングル | Billboard JAPAN Hot 100 1位(確認できた最新週) |  | 4 | 日向坂46が総合ソングチャートで週間1位。同週はMrs. GREEN APPLE『POPS』収録曲が多数チャートイン。 | https://en.wikipedia.org/wiki/List_of_Hot_100_number-one_singles_of_2026_(Japan) |
+| 2026-10-28(付) | チャート | Touch | MAZZEL |  | 配信/CD | Billboard JAPAN Hot 100 1位 |  | 4 | 総合ソング・チャートで週間1位。2位はなにわ男子「Moonlit」、3位Lienel「愛のダバダ」。 | https://www.billboard-japan.com/charts/detail?a=hot100 |
+| 2026-10-28(付) | チャート | Moonlit | なにわ男子 |  | シングル | Billboard JAPAN Hot 100 2位 |  | 3 | MAZZEL「Touch」に次ぐ総合2位。 | https://www.billboard-japan.com/charts/detail?a=hot100 |

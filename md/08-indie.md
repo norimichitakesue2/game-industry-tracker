@@ -1,9 +1,10 @@
 # インディー注目
 
-_最終更新: 2026-10-29 22:21_
+_最終更新: 2026-10-30 09:21_
 
 | 更新日 | タイトル | 開発 | 発売日/状況 | プラットフォーム | ジャンル | 注目点 | Steam実績 | メモ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-30 | SULFUR（サルファー） | Perfect Random | 2026-10-29 製品版配信 | PC(Steam)/Switch/Switch2 | ローグライト ルーターシューター(FPS) | 長期の早期アクセスを経て製品版が配信。高ウィッシュリストを集めたインディーFPS。 | (今回未取得) | Next Fest/早期アクセスで評判を積んだ一人称ルーター。製品版の継続的レビュー動向を要ウォッチ。 |
 | 2026-10-23 | Guns of Eschaton（ガンズ・オブ・エスカトン） | Eschatology Entertainment | 発売日未定（製品版2026-12-08予定／デモ配信中・Steam Next Fest 2026年10月出展） | PC(Steam) | ウィアードウェスタン ソウルライクFPS | Steam Next Fest(2026年10月)の注目デモとして複数メディア(steamhype等)が選出。西部劇×ソウルライクFPSの異色作で会期中に大型アップデート。 | デモ配信中(Steam Next Fest 2026年10月出展) | 製品版発売でMetascore付与見込み、要ウォッチ。 |
 | 2026-10-23 | El Paso, Elsewhere 2（エルパソ・エルスウェア2） | Strange Scaffold | 発売日未定（デモ配信中・Steam Next Fest 2026年10月出展） | PC(Steam) | ゴシック バレットタイム シューター | 高評価だった前作『El Paso, Elsewhere』の続編。Next Festデモが各メディアのおすすめに選出。 | デモ配信中(Steam Next Fest 2026年10月出展) | 名手Strange Scaffoldの新作。製品版発売で要昇格。 |
 | 2026-10-23 | Probably Stolen - Cyberpunk Shopkeeper Sim | Questing Goose Studio | 2026-10-28発売予定（デモ配信中・Steam Next Fest 2026年10月出展） | PC(Steam) | サイバーパンク 店舗経営シム | tinyBuildパブリッシュ。Next Fest注目デモ特集(GameGrin等)に掲載。 | デモ配信中(Steam Next Fest 2026年10月出展) | 10/28製品版。要ウォッチ。 |
