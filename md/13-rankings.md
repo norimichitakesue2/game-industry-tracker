@@ -1,8 +1,23 @@
 # 週間ランキング
 
-_最終更新: 2026-11-05 23:08_
+_最終更新: 2026-11-06 13:41_
 
 ## 国内ファミ通
+
+### 2026-10-26〜11-01
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Nintendo Switch Sports Resort（Nintendo Switch スポーツ リゾート） | Switch2 | 23,466 | 88,098 |  | https://gematsu.com/2026/11/famitsu-sales-10-26-26-11-1-26 | ファミ通週間推定(gematsu集計) |
+| 2 | ファイナルファンタジー レゾナンス | Switch2 | 14,462 | 66,730 |  | https://gematsu.com/2026/11/famitsu-sales-10-26-26-11-1-26 | ファミ通週間推定(gematsu集計) |
+| 3 | Minecraft（マインクラフト） | Switch2 | 11,754 |  |  | https://gematsu.com/2026/11/famitsu-sales-10-26-26-11-1-26 | 新作(累計=週販)。Switch2版 |
+| 4 | ファイナルファンタジー レゾナンス | PS5 | 11,181 | 61,633 |  | https://gematsu.com/2026/11/famitsu-sales-10-26-26-11-1-26 | ファミ通週間推定(gematsu集計) |
+| 5 | リズム天国 ミラクルスターズ | Switch | 8,753 | 1,111,851 |  | https://gematsu.com/2026/11/famitsu-sales-10-26-26-11-1-26 | ロングセラー継続 |
+| 6 | ファイナルファンタジー レゾナンス | Switch | 8,425 | 38,896 |  | https://gematsu.com/2026/11/famitsu-sales-10-26-26-11-1-26 | 3機種でトップ10入り |
+| 7 | ハローキティ パーティーランド | Switch2 | 7,365 |  |  | https://gematsu.com/2026/11/famitsu-sales-10-26-26-11-1-26 | 新作。サンリオIP |
+| 8 | ハローキティ パーティーランド | Switch | 6,252 |  |  | https://gematsu.com/2026/11/famitsu-sales-10-26-26-11-1-26 | 新作。サンリオIP |
+| 9 | ファイアーエムブレム 万紫千紅 | Switch2 | 4,346 | 186,494 |  | https://gematsu.com/2026/11/famitsu-sales-10-26-26-11-1-26 | ファミ通週間推定(gematsu集計) |
+| 10 | Call of Duty: Modern Warfare 4 | PS5 | 4,024 | 16,840 |  | https://gematsu.com/2026/11/famitsu-sales-10-26-26-11-1-26 | ファミ通週間推定(gematsu集計) |
 
 ### 2026-10-19〜10-25
 
@@ -284,6 +299,21 @@ _最終更新: 2026-11-05 23:08_
 | 10 | アストロボット | PS5 | 3,460 | 103,717 |  | ファミ通.com 週販 https://www.famitsu.com/article/202606/78042 |  |
 
 ## Steamトップセラー
+
+### 2026-10-27〜11-03
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Phantom Blade Zero（ファントムブレイドゼロ） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-27th-of-october-to-3rd-of-november-2026/ | GameGrin週間トップセラー(順位のみ)。前週3位→1位 |
+| 2 | Call of Duty: Modern Warfare 4 | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-27th-of-october-to-3rd-of-november-2026/ | GameGrin週間トップセラー(順位のみ) |
+| 3 | AION 2 | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-27th-of-october-to-3rd-of-november-2026/ | GameGrin週間トップセラー(順位のみ) |
+| 4 | Counter-Strike 2 | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-27th-of-october-to-3rd-of-november-2026/ | GameGrin週間トップセラー(順位のみ) |
+| 5 | Dota 2 | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-27th-of-october-to-3rd-of-november-2026/ | GameGrin週間トップセラー(順位のみ) |
+| 6 | PUBG: BATTLEGROUNDS | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-27th-of-october-to-3rd-of-november-2026/ | GameGrin週間トップセラー(順位のみ) |
+| 7 | Probably Stolen - Cyberpunk Shopkeeper Sim | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-27th-of-october-to-3rd-of-november-2026/ | NEWランクイン。インディー店舗経営シム |
+| 8 | Moon Sweepers（ムーンスイーパーズ） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-27th-of-october-to-3rd-of-november-2026/ | 前週比+12。協力清掃ゲームのバイラルヒット |
+| 9 | Aniimo（アニーモ） | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-27th-of-october-to-3rd-of-november-2026/ | NEWランクイン。F2Pクリーチャーコレクター |
+| 10 | EA SPORTS FC 27 | PC |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-27th-of-october-to-3rd-of-november-2026/ | GameGrin週間トップセラー(順位のみ) |
 
 ### 2026-10-20〜10-27
 

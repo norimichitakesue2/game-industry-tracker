@@ -1,6 +1,6 @@
 # 【音楽】リリース・チャート
 
-_最終更新: 2026-11-05 23:08_
+_最終更新: 2026-11-06 13:41_
 
 | 集計日/発売日 | 区分 | タイトル/曲名 | アーティスト | レーベル | 形態 | チャート順位 | ストリーミング数 | 話題度(1-5) | メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,6 @@ _最終更新: 2026-11-05 23:08_
 | 2026-10-07(付) | チャート | イチャイチャ虫 | 日向坂46 | ソニー | シングル | Billboard JAPAN Hot 100 1位(確認できた最新週) |  | 4 | 日向坂46が総合ソングチャートで週間1位。同週はMrs. GREEN APPLE『POPS』収録曲が多数チャートイン。 | https://en.wikipedia.org/wiki/List_of_Hot_100_number-one_singles_of_2026_(Japan) |
 | 2026-10-28(付) | チャート | Touch | MAZZEL |  | 配信/CD | Billboard JAPAN Hot 100 1位 |  | 4 | 総合ソング・チャートで週間1位。2位はなにわ男子「Moonlit」、3位Lienel「愛のダバダ」。 | https://www.billboard-japan.com/charts/detail?a=hot100 |
 | 2026-10-28(付) | チャート | Moonlit | なにわ男子 |  | シングル | Billboard JAPAN Hot 100 2位 |  | 3 | MAZZEL「Touch」に次ぐ総合2位。 | https://www.billboard-japan.com/charts/detail?a=hot100 |
+| 2026-11-04(付) | チャート | ザッツ！超常 | M!LK | ソニー・ミュージック | シングル/配信 | Billboard JAPAN Hot 100 1位(2026-11-04付/集計10-26〜11-01) |  | 4 | M!LKが「ザッツ！超常」で初登場総合首位。自身2作目のHot100首位。 | https://www.billboard-japan.com/d_news/detail/167121 |
+| 2026-11-04(付) | チャート | しわあわせ | Vaundy |  | 配信 | Billboard JAPAN Hot 100 3位(2026-11-04付) |  | 4 | Vaundy「しわあわせ」が自身初のHot100トップ3入り(3位)。 | https://www.billboard-japan.com/d_news/detail/167121 |
+| 2026-11-04(付) | チャート | シンデレラ | Mrs. GREEN APPLE | ユニバーサル | 配信 | Billboard JAPAN Hot 100 4位(2026-11-04付) |  | 3 | ミセスは「シンデレラ」4位ほか複数曲がトップ10入り。 | https://www.billboard-japan.com/d_news/detail/167121 |

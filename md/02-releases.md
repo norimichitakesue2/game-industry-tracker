@@ -1,13 +1,17 @@
 # 新作リリースログ
 
-_最終更新: 2026-11-05 23:08_
+_最終更新: 2026-11-06 13:41_
 
 | 発売日 | タイトル | 開発 | パブリッシャー | プラットフォーム | ジャンル | Metacritic | OpenCritic | Steam同接ピーク | 初週推定本数 | 話題度(1-5) | 感想/メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2026-11-19(予定) | Grand Theft Auto VI（グランド・セフト・オート6） | Rockstar Games | Rockstar Games | PS5 / Xbox Series X\|S | オープンワールドアクション |  |  |  |  |  | 【来月の超大型】世界最注目の年内本命。11/19発売予定。これを避けて多数の大型作が9月に前倒し集中する“GTA6効果”の震源。 | https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI |
 | 2026-11-19(予定) | グランド・セフト・オートVI（Grand Theft Auto VI） | Rockstar Games | Rockstar Games | PS5/Xbox Series X\|S | オープンワールドアクション |  |  |  |  | 5 | 【来月の超大型】世代最大の注目作。延期を経て発売日を2026年11月19日に設定。 | https://dengekionline.com/article/202511/57156 |
+| 2026-11-12(予定) | メタファー：リファンタジオ（Metaphor: ReFantazio）Switch2版 | アトラス | セガ／アトラス | Switch2 | RPG |  |  |  |  | 4 | 【来週】高評価ファンタジーRPGのSwitch2移植。11/12発売。携帯機でもプレイ可能に。 | https://www.rpgsite.net/news/19530-metaphor-refantazio-switch-2-release-date-direct |
 | 2026-11-11(予定) | Football Manager 27（フットボールマネージャー27） | Sports Interactive | SEGA | PS5/PC/Xbox | サッカー経営シム |  |  |  |  | 3 | 【来月】人気サッカー経営シム最新作。11/11にDL版、11/20にパッケージ版。 | https://www.famitsu.com/schedule/ps5/202611 |
 | 2026-11-05(予定) | ゼルダの伝説 時のオカリナ -Switch2 | 任天堂 | 任天堂 | Switch2 | アクションアドベンチャー |  |  |  |  | 5 | 【来月の超大型】N64の不朽の名作をSwitch2向けにフルリメイク。Amazon予約数ランキング（9/6-12）で首位。11/5発売予定。 | https://www.famitsu.com/article/202609/88399 |
+| 2026-11-05 | ゼルダの伝説 時のオカリナ（The Legend of Zelda: Ocarina of Time） | グレッゾ／任天堂 | 任天堂 | Switch2 | アクションアドベンチャー |  |  |  |  | 5 | N64/3DSの名作『時のオカリナ』のSwitch2向けリメイク。ゼルダ40周年Directで発表、11/5発売。amiibo対応。 | https://dengekionline.com/article/202609/87215 |
+| 2026-11-03 | Zero Parades: For Dead Spies ディレクターズカット（ゼロ・パレード） | ZA/UM | ZA/UM | PS5/Switch2 | 諜報RPG |  |  |  |  | 4 | 『ディスコ エリジウム』開発元ZA/UMの新作諜報RPGのコンソール版（Director's Cut）。PC版は2026/5/21発売済。 | https://rpgamer.com/2026/09/zero-parades-for-dead-spies-directors-cut-ps5-release-date-announced/ |
+| 2026-10-30 | ハローキティ パーティーランド（Hello Kitty Party Land） |  |  | Switch2/Switch | パーティー |  |  |  |  | 2 | ファミ通週販(10/26-11/1)でSwitch2版7位・Switch版8位にランクイン。サンリオIPのパーティーゲーム。 | https://gematsu.com/2026/11/famitsu-sales-10-26-26-11-1-26 |
 | 2026-10-29 | 鬼滅の刃 ヒノカミ血風譚2 Nintendo Switch 2 Edition | サイバーコネクトツー | アニプレックス | Switch2 | 対戦アクション |  |  |  |  | 4 | 発売済み。人気対戦アクションのSwitch2版。『無限城編 第一章』キャラクターパス同梱。10/29発売予定。 | https://www.famitsu.com/schedule/all-platforms/202610 |
 | 2026-10-29 | Dune: Awakening（デューン アウェイクニング） | Funcom | Funcom | PS5 | オープンワールド サバイバルMMO |  |  |  |  | 3 | 発売済み。砂の惑星『DUNE』を舞台にしたサバイバルMMOのPS5版。10/29発売予定。 | https://www.famitsu.com/schedule/all-platforms/202610 |
 | 2026-10-29 | Monster Hunter Outlanders（モンスターハンターアウトランダーズ） | カプコン／TiMi Studio Group | カプコン | iOS/Android | ハンティングアクション(F2P) |  |  |  |  | 5 | Capcom×Tencent(TiMi)のモバイル向けモンハン。事前登録500万超、10/29に全世界配信開始。 | https://mobilegamer.biz/tencent-and-capcom-collab-monster-hunter-outlanders-releases-october-29/ |
