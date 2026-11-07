@@ -1,10 +1,10 @@
 # エンタメ業界・時事情報収集
 
-_最終更新: 2026-11-06 23:12_
+_最終更新: 2026-11-07 23:50_
 
 ## シート一覧
 
-- [日次ニュース](md/01-daily-news.md) (2627行)
+- [日次ニュース](md/01-daily-news.md) (2655行)
 - [新作リリースログ](md/02-releases.md) (98行)
 - [IP・タイトルウォッチ](md/03-ip-watch.md) (61行)
 - [企業分析（国内）](md/04-companies-jp.md) (12行)
@@ -15,12 +15,12 @@ _最終更新: 2026-11-06 23:12_
 - [今後起きそうなこと](md/09-future.md) (130行)
 - [掘り下げ・分析](md/10-deep-dive.md) (107行)
 - [業界マトリクス](md/11-matrix.md) (36行)
-- [横断的問い](md/12-cross-questions.md) (296行)
+- [横断的問い](md/12-cross-questions.md) (299行)
 - [週間ランキング](md/13-rankings.md) (433行)
-- [イベントカレンダー](md/14-events.md) (173行)
+- [イベントカレンダー](md/14-events.md) (174行)
 - [ゲームデザイン・トレンド](md/15-game-design.md) (37行)
 - [デザイン派生系統](md/16-design-lineage.md) (39行)
-- [メディアミックス追跡](md/17-media-mix.md) (168行)
+- [メディアミックス追跡](md/17-media-mix.md) (171行)
 - [【映画】作品ウォッチ](md/20-movie-works.md) (14行)
 - [【映画】企業・スタジオ](md/21-movie-companies.md) (14行)
 - [【映画】公開・興行](md/22-movie-releases.md) (40行)
