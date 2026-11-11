@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-11-11 03:10_
+_最終更新: 2026-11-11 22:20_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -30,6 +30,7 @@ _最終更新: 2026-11-11 03:10_
 | 2027-02-05 |  | 『ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編』最終章 公開 | 発売・公開 | 全国の劇場 | オフライン | ラブライブ！シリーズの劇場完結編。 | https://anime.eiga.com/news/127680/ | 開催予定 | 2026-10-20 |
 | 2027-02-05 |  | 『ラブライブ!虹ヶ咲学園スクールアイドル同好会 完結編 最終章』公開 | 発売・公開 | 新宿ピカデリーほか | オフライン | 劇場3部作の最終章 | https://eiga.com/news/20261024/7/ | 開催予定 | 2026-10-25 |
 | 2027-02-01 |  | Atari VCS ストア閉鎖 | 発売・公開 | オンライン | オンライン | 購入は2027年1月31日まで。OSのローカル化とHomebrewアプリで購入済みゲームの継続利用を担保 | https://www.videogameschronicle.com/news/atari-is-ending-support-for-its-2021-vcs-console-will-release-a-homebrew-app-to-let-players-keep-making-and-adding-games/ | 開催予定 | 2026-10-23 |
+| 2027-02-01 |  | ネット書店「ホンミライ.com」開業（今村翔吾） | 発売・公開 | オンライン | オンライン | 売上の3〜5%を読者が選んだ実店舗に還元。日販・トーハンの物流を利用。 | https://www.shinbunka.co.jp/archives/14789 | 開催予定 | 2026-11-12 |
 | 2027-01-29 |  | 『Wild Horse Nine』日本公開 | 発売・公開 | 日本 | 劇場公開 | マーティン・マクドナー監督のブラックコメディが日本で劇場公開 | https://hollywoodreporter.jp/japan/229482/ | 開催予定 | 2026-11-09 |
 | 2027-01-28 | 2027-01-31 | Angoulême Bande Dessinée 2027（新アングレーム漫画祭） | 展示会 | フランス・アングレーム | リアル | 旧FIBDに代わる新しい漫画祭。出展者のAI使用を罰則つきで禁止、賞は9部門で復活、東京に事務所 | https://www.comicsbeat.com/breaking-new-angouleme-festival-has-finally-been-revealed/ | 開催予定 | 2026-11-10 |
 | 2027-01-23 | 2027-01-24 | ブルアカふぇす！（運営移管前後の大型イベント） | ライブ・フェス | 未定 | リアル | 『ブルーアーカイブ』日本版の運営がYostarからネクソンへ移る27年1月頃の時期に開催 | https://www.gamespark.jp/article/2026/10/25/174067.html | 開催予定 | 2026-10-27 |
@@ -40,6 +41,7 @@ _最終更新: 2026-11-11 03:10_
 | 2027-01-10 |  | TVアニメ『ラブライブ!蓮ノ空女学院スクールアイドルクラブ』放送開始 | 発売・公開 | TOKYO MXほか | TV | アプリ終了後のIPをTVアニメで継続（全7話） | https://eiga.com/news/20261024/11/ | 開催予定 | 2026-10-25 |
 | 2027-01-08 |  | 『BanG Dream! It's MyGO!!!!!』×『Ave Mujica』続編TVアニメ放送開始 | 発売・公開 | 日本 | 放送 | 10/25の2バンド合同ライブで発表。ライブ起点のIP運営 | https://animecorner.me/mygo-and-ave-mujica-anime-sequel-reveals-january-2027-premiere-date/ | 開催予定 | 2026-10-26 |
 | 2027-01-08 |  | TVアニメ『ブレス』放送開始 | 発売・公開 | 日本（フジテレビ） | TV放送 | ノイタミナ枠で毎週金曜23時30分から放送 | https://mantan-web.jp/article/20261106dog00m200097000a.html | 開催予定 | 2026-11-09 |
+| 2027-01-08 | 2027-01-22 | 劇場アニメ「キンツア」新ルート route1.5／route5.5 上映開始 | 発売・公開 | 全国 | 劇場 | 本編の分岐を新作CGライブに差し替えた新ルート。route1.5は1/8、route5.5は1/22から。2/19〜4DX強化版・SCREENX復活上映。 | https://eiga.com/news/20261111/16/ | 開催予定 | 2026-11-12 |
 | 2026-12-29 | 2026-12-31 | コミックマーケット109 (C109) | 展示会 | 東京ビッグサイト | リアル | 8年ぶりの3日間開催 | https://kai-you.net/article/94962 | 開催予定 | 2026-10-11 |
 | 2026-12-26 | 2027-02-28 | KENSHI YONEZU 2026-2027 WORLD TOUR / GHOST | ライブ・フェス | 台北・ソウル・シンガポール・オークランド・LA・メキシコシティ・ニューアーク・トロント・ロンドン・パリ・アムステルダム | ワールドツアー（11都市14公演） | 総動員約20万人見込み。台北ドーム2DAYS、5都市が初上陸 | https://www.billboard-japan.com/d_news/detail/166548 | 開催予定 | 2026-10-16 |
 | 2026-12-26 | 2026-12-26 | 大阪ゲームダンジョン2 | 展示会 | 大阪 | オフライン | インディーゲームの展示・即売会。東京ゲームダンジョンの大阪版 | https://gamebiz.jp/news/434904 | 開催予定 | 2026-11-02 |
@@ -54,6 +56,7 @@ _最終更新: 2026-11-11 03:10_
 | 2026-12-11 | 2026-12-24 | 『閃光のハサウェイ キルケーの魔女』再上映（BD劇場先行販売） | 発売・公開 | 全国の劇場 | オフライン | 2週間限定の再上映。上映劇場でBDを一般発売（2027-01-27）に先行して販売。 | https://anime.eiga.com/news/127672/ | 開催予定 | 2026-10-20 |
 | 2026-12-11 |  | 『劇場版 薬屋のひとりごと 亡妃の秘宝』公開 | 発売・公開 | 全国劇場 | オフライン | 原作者プロットの劇場版。12/9に小説版発売・漫画版連載開始と同時展開 | https://mantan-web.jp/prtimes/article/20261023prt00m200000114a.html | 開催予定 | 2026-10-25 |
 | 2026-12-11 |  | 『オデュッセイア』北米再上映（IMAX 70mm含む） | 発売・公開 | 米国・カナダ1000館超 | 劇場 | 家庭向け配信の後に劇場へ戻す異例の再上映。賞レースに向けた露出 | https://hypebeast.com/2026/11/christopher-nolan-the-odyssey-returns-to-imax-70mm-theaters-december-2026-holiday-release-info | 開催予定 | 2026-11-10 |
+| 2026-12-11 |  | Netflix映画『Ink』劇場公開（1/8配信） | 発売・公開 | 米国ほか | 劇場 | ダニー・ボイル監督。ベネチア開幕作。劇場公開から約4週間でNetflix配信。 | https://www.indiewire.com/news/trailers/ink-trailer-danny-boyle-rupert-murdoch-jack-oconnell-1235226422/ | 開催予定 | 2026-11-12 |
 | 2026-12-10 |  | The Game Awards 2026 (TGA) | ショーケース | 米LA(Peacock Theater)/配信 | 授賞式＋配信 | 年間ゲーム表彰と多数の新作発表。GOTYほか。GTA6発売直後の注目回。 | https://thegameawards.com/ | 開催予定 | 2026-06-17 |
 | 2026-12-05 |  | ドラマ『花ざかりの君たちへ』放送開始 | 発売・公開 | 日本 | テレビ放送・配信（日本テレビ、TVer、Hulu） | 原作30周年企画の新実写ドラマ。毎週土曜14:30〜15:00、全8話。2027年2月から同じキャストで舞台を上演 | https://animeanime.jp/article/2026/11/07/104553.html | 開催予定 | 2026-11-09 |
 | 2026-12-04 |  | Netflix記録映画『14th』配信開始 | 発売・公開 | オンライン | 配信 | 歴史写真をAIで動かした演出が批判を受けた作品（エバ・デュバーネイ監督） | https://eiga.com/news/20261028/14/ | 開催予定 | 2026-10-29 |
@@ -88,9 +91,9 @@ _最終更新: 2026-11-11 03:10_
 | 2026-11-13 |  | 『地雷グリコ』実写ドラマ Prime Video配信開始 | 発売・公開 | オンライン | 配信 | ミステリ9冠の小説原作。森七菜・蒔田彩珠W主演 | https://ddnavi.com/article/1451885/a/ | 開催予定 | 2026-11-01 |
 | 2026-11-13 | 2026-11-13 | 映画『すべて真夜中の恋人たち』公開 | 発売・公開 | 日本 | 劇場 | 川上未映子の長編で初の映画化 | https://eiga.com/news/20261101/19/ | 開催予定 | 2026-11-02 |
 | 2026-11-13 | 2026-11-18 | 第2回 あいち・なごや国際アニメーション映画祭（ANIAFF） | 映画祭・賞 | 名古屋 | オフライン | 国際アニメ映画祭の2回目。国内のアニメ映画祭の乱立と役割分担に注目 | https://www.gamebusiness.jp/article/2026/09/11/28002.html | 開催予定 | 2026-11-04 |
-| 2026-11-12 | 2026-11-15 | 2026 Epic AI MegaJam | 展示会 | オンライン／米サンフランシスコ（Digital Jungle SF） | ハイブリッド | Epic主催のゲームジャム。人間5人まで・AIエージェント数は無制限。上位作に最大5万ドルの継続開発助成 | https://www.gamebusiness.jp/article/2026/10/23/28424.html | 開催予定 | 2026-10-25 |
-| 2026-11-12 | 2026-11-12 | 第27回 ラテン・グラミー賞 授賞式 | 映画祭・賞 | 米ラスベガス（MGMグランド・ガーデン・アリーナ） | オフライン＋配信 | テレビサ・ユニビジョンが放送・ViXで配信。広告枠は完売、新規広告主20社 | https://www.thewrap.com/industry-news/business/2026-latin-grammys-televisaunivision-ad-inventory-sold-out/ | 開催予定 | 2026-11-07 |
-| 2026-11-11 | 2026-11-11 | iHeartRadio × TikTok Live Premiere: U2 | ライブ・フェス | LA Theater（ロサンゼルス） | TikTok Live配信／ラジオ同時放送 | U2新作『Carnaval De Luz』の先行試聴とトーク | https://www.digitalmusicnews.com/2026/11/09/iheartradio-and-tiktok-live-premiere-with-u2/ | 開催中 | 2026-11-11 |
+| 2026-11-12 | 2026-11-15 | 2026 Epic AI MegaJam | 展示会 | オンライン／米サンフランシスコ（Digital Jungle SF） | ハイブリッド | Epic主催のゲームジャム。人間5人まで・AIエージェント数は無制限。上位作に最大5万ドルの継続開発助成 | https://www.gamebusiness.jp/article/2026/10/23/28424.html | 開催中 | 2026-11-12 |
+| 2026-11-12 | 2026-11-12 | 第27回 ラテン・グラミー賞 授賞式 | 映画祭・賞 | 米ラスベガス（MGMグランド・ガーデン・アリーナ） | オフライン＋配信 | テレビサ・ユニビジョンが放送・ViXで配信。広告枠は完売、新規広告主20社 | https://www.thewrap.com/industry-news/business/2026-latin-grammys-televisaunivision-ad-inventory-sold-out/ | 開催中 | 2026-11-12 |
+| 2026-11-11 | 2026-11-11 | iHeartRadio × TikTok Live Premiere: U2 | ライブ・フェス | LA Theater（ロサンゼルス） | TikTok Live配信／ラジオ同時放送 | U2新作『Carnaval De Luz』の先行試聴とトーク | https://www.digitalmusicnews.com/2026/11/09/iheartradio-and-tiktok-live-premiere-with-u2/ | 終了 | 2026-11-12 |
 | 2026-11-10 |  | 実写『秒速5センチメートル』Netflix見放題独占配信開始 | 発売・公開 | 日本 | オンライン | 2025年10月劇場公開の実写版（奥山由之監督・松村北斗主演）。劇場→独占配信の窓口 | https://www.cinematoday.jp/news/N0157590 | 終了 | 2026-11-11 |
 | 2026-11-09 | 2026-11-09 | ブッカー賞2026 受賞作発表 | 映画祭・賞 | ロンドン（Old Billingsgate） | リアル | 最終候補6作（M・ジョン・ハリスン、マーロン・ジェイムズ、エリザベス・ストラウト、ダグラス・スチュアートほか） | https://thebookerprizes.com/the-booker-library/prize-years/2026 | 終了 | 2026-11-10 |
 | 2026-11-09 |  | A24『Misty Green』Netflix（米国）配信開始 | 発売・公開 | 米国 | 配信 | A24作品がHBO Maxの包括契約を外れNetflixで初配信。限定公開から約1カ月 | https://www.whats-on-netflix.com/news/misty-green-rosalind-eleazar-netflix-arrival/ | 終了 | 2026-11-10 |
