@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-11-15 01:03_
+_最終更新: 2026-11-15 01:09_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -89,11 +89,14 @@ _最終更新: 2026-11-15 01:03_
 | 2026-11-18 |  | Japan in Translation Initiative キックオフセミナー／プレミーティング | 展示会 | 東京ドームプリズムホール Bサイド | 対面（配信なし） | マンガ等の日英翻訳者を育成するJTIの始動イベント。セミナーは約100名、翻訳者向けプレミーティングは約30名（応募は10/26正午まで） | https://www.jpic.or.jp/topics/2026/10/14/095355.html | 開催予定 | 2026-10-16 |
 | 2026-11-18 |  | 実写『モアナと伝説の海』Disney+見放題独占配信開始 | 発売・公開 | オンライン | オンライン | 7月31日劇場公開から約16週で自社配信へ | https://eiga.com/news/20261030/7 | 開催予定 | 2026-10-30 |
 | 2026-11-18 | 2026-11-18 | 全米図書賞2026 授賞式 | 映画祭・賞 | 米ニューヨーク（Cipriani Wall Street） | 授賞式 | 米国の主要文学賞。ゴンクール賞受賞作のAI使用告白後で、AIへの言及も注目 | https://www.olbg.com/news/booker-prize-2026-winner-odds-uk-betting-sites-back-marlon-james | 開催予定 | 2026-11-09 |
+| 2026-11-18 | 2026-11-18 | The Game Awards 2026 ノミネート発表 | 映画祭・賞 | オンライン | 配信 | 日本時間11月18日午前2時に特番でノミネートを発表。授賞式は12月10日 | https://news.denfaminicogamer.jp/news/261114d | 開催予定 | 2026-11-15 |
 | 2026-11-16 | 2026-11-16 | 第69回グラミー賞 ノミネート発表 | 映画祭・賞 | 米国 | オンライン | 2027年グラミー賞のノミネート発表。Drake・BTS・Stray Kidsは不参加と報道 | https://www.grammy.com/news/2027-grammys-show-air-date-nominations-announced/ | 開催予定 | 2026-10-11 |
 | 2026-11-16 | 2026-11-16 | 『Heated Rivalry』最終2話 4DX上映開始 | 発売・公開 | 米Regal各館 | 劇場（4DX） | HBO Maxのドラマの最終2話を4DXで上映 | https://deadline.com/2026/11/indie-film-box-office-independent-alternative-cinema-surges-1237216831/ | 開催予定 | 2026-11-11 |
-| 2026-11-15 |  | 第176回 直木賞 候補作発表 | 映画祭・賞 | - | 発表 | 候補作の発表時期を従来の12月から11月中旬へ前倒し。受賞発表は2027年1月中旬予定。販促リードタイム確保が狙い。 | https://bungakushinko.or.jp/info/251212/index.html | 開催予定 | 2026-09-06 |
-| 2026-11-14 |  | BOOK MEETS NEXT 特別イベント「世界につながる、日本の本」 | 映画祭・賞 | 東京・宝生能楽堂 | オフライン | 朝井リョウ×柚木麻子対談。Billboard JAPAN Book Charts初の年間チャート発表・授賞 | https://www.shinbunka.co.jp/archives/14510 | 開催中 | 2026-11-14 |
-| 2026-11-14 |  | 蔦屋書店 タイ1号店 開業 | 発売・公開 | タイ | オフライン | CCCが海外展開を「出店数」から「現地でのブランド確立」重視に転換して最初の新店 | https://www.bunkanews.jp/article/484090/ | 開催中 | 2026-11-14 |
+| 2026-11-15 |  | 第176回 直木賞 候補作発表 | 映画祭・賞 | - | 発表 | 候補作の発表時期を従来の12月から11月中旬へ前倒し。受賞発表は2027年1月中旬予定。販促リードタイム確保が狙い。 | https://bungakushinko.or.jp/info/251212/index.html | 開催中 | 2026-11-15 |
+| 2026-11-14 |  | BOOK MEETS NEXT 特別イベント「世界につながる、日本の本」 | 映画祭・賞 | 東京・宝生能楽堂 | オフライン | 朝井リョウ×柚木麻子対談。Billboard JAPAN Book Charts初の年間チャート発表・授賞 | https://www.shinbunka.co.jp/archives/14510 | 終了 | 2026-11-15 |
+| 2026-11-14 |  | 蔦屋書店 タイ1号店 開業 | 発売・公開 | タイ | オフライン | CCCが海外展開を「出店数」から「現地でのブランド確立」重視に転換して最初の新店 | https://www.bunkanews.jp/article/484090/ | 終了 | 2026-11-15 |
+| 2026-11-14 | 2026-11-15 | LoveLive! Series 15th Anniversary ラブライブ！フェス | ライブ・フェス | バンテリンドーム ナゴヤ | 現地 | シリーズ6作品・グループが出演する15周年の合同ドーム公演 | https://pylonport.bandainamcomusiclive.co.jp/news/546 | 開催中 | 2026-11-15 |
+| 2026-11-14 | 2026-11-15 | MMA2026（第18回メロン・ミュージック・アワード） | 映画祭・賞 | 韓国 | 現地＋配信 | 日本はU-NEXTが独占生配信（見逃しは2027年1月15日まで） | https://www.unext.co.jp/en/press-room/2026-11-live-lineups | 開催中 | 2026-11-15 |
 | 2026-11-13 | 2026-11-26 | 『風を継ぐもの -はじまり-』劇場先行版上映 | 発売・公開 | 全国の劇場 | オフライン | TV放送(2027年1月)前に2週間限定で劇場先行。Live2D×セルの映像を劇場で初公開 | https://www.oricon.co.jp/news/2486065/full/ | 開催中 | 2026-11-13 |
 | 2026-11-13 |  | 『地雷グリコ』実写ドラマ Prime Video配信開始 | 発売・公開 | オンライン | 配信 | ミステリ9冠の小説原作。森七菜・蒔田彩珠W主演 | https://ddnavi.com/article/1451885/a/ | 終了 | 2026-11-14 |
 | 2026-11-13 | 2026-11-13 | 映画『すべて真夜中の恋人たち』公開 | 発売・公開 | 日本 | 劇場 | 川上未映子の長編で初の映画化 | https://eiga.com/news/20261101/19/ | 終了 | 2026-11-14 |
@@ -147,7 +150,7 @@ _最終更新: 2026-11-15 01:03_
 | 2026-10-19 | 2026-10-26 | Steam Next Fest(10月版) | セール/デモ | オンライン(Steam) | 体験版一斉解禁 | 発売前タイトルの体験版を一斉公開する需要喚起イベント。秋セール直前。6月版と同パターン。 | https://store.steampowered.com/sale/nextfest | 終了 | 2026-10-27 |
 | 2026-10-19 | 2026-10-26 | Steam Next Fest: October 2026 Edition | セール | オンライン | オンライン | 体験版・開発者配信が集中する大型プロモイベント。10/19 10:00 PDT開始。提出締切は9/28 | https://store.steampowered.com/sale/nextfest | 終了 | 2026-10-27 |
 | 2026-10-18 | 2027-01-11 | 30周年記念展『ALL OF EVANGELION』（ひらかたパーク） | 展示会 | 大阪府枚方市 ひらかたパーク | リアル | セル画・原画・新劇場版デジタル制作資料を展示。京阪電鉄が記念乗車券・装飾列車で連動 | https://animeanime.jp/article/2026/10/12/103720.html | 開催中 | 2026-10-18 |
-| 2026-10-15 | 2026-11-14 | LoL World Championship 2026 (Worlds) | eスポーツ | 米国(LA/Allen TX/NY) | オフライン大会 | LoL世界大会。決勝11/14・ブルックリンBarclays Center。米国3都市を巡回。 | https://en.wikipedia.org/wiki/2026_League_of_Legends_World_Championship | 開催中 | 2026-10-15 |
+| 2026-10-15 | 2026-11-14 | LoL World Championship 2026 (Worlds) | eスポーツ | 米国(LA/Allen TX/NY) | オフライン大会 | LoL世界大会。決勝11/14・ブルックリンBarclays Center。米国3都市を巡回。 | https://en.wikipedia.org/wiki/2026_League_of_Legends_World_Championship | 終了 | 2026-11-15 |
 | 2026-10-10 | 2026-10-12 | BMSG FES'26 | ライブ・フェス | 日本 | オフライン | BMSG所属勢の大型フェス。各日トリはSTARGLOW/MAZZEL/BE:FIRST。自社アーティスト×新人育成の垂直型興行 | https://natalie.mu/music/news/691500 | 終了 | 2026-10-13 |
 | 2026-10-08 | 2026-10-08 | 2026年ノーベル文学賞 発表 | 映画祭・賞 | スウェーデン | オンライン | アミタヴ・ゴーシュが有力候補。KADOKAWAが代表作『銃ノ島』を先行邦訳 | https://www.kadokawa.co.jp/topics/17916/ | 終了 | 2026-10-09 |
 | 2026-10-07 |  | Crunchyroll Anime Future Forum(招待制アニメ業界サミット) | 展示会 | 米ニューヨーク(Javits Center) | オフライン | Crunchyroll主催の初のアニメ業界サミット。テーマ『Designing for Anime’s Future』、NYCC前日に開催 | https://www.animenewsnetwork.com/news/2026-05-08/crunchyroll-hosts-inaugural-anime-leadership-summit-in-new-york-on-october-7/.237184 | 終了 | 2026-10-10 |
@@ -204,3 +207,4 @@ _最終更新: 2026-11-15 01:03_
 |  |  | FIFAe Finals 2026（ジッダ） | eスポーツ | サウジアラビア・ジッダ | オフライン | 当初10/16〜25の予定から延期。日本・ブラジルが安全面を理由に撤退。新日程未定 | https://www.pocketgamer.biz/fifae-finals-2026-postponed-amid-regional-security-concerns/ | 日程未確定 | 2026-10-16 |
 |  |  | Esports Nations Cup（初開催・2027年11月に延期） | eスポーツ | サウジアラビア・リヤド | オフライン | 国別対抗の新大会。2026年11月開催予定から地域情勢を理由に2027年11月へ1年延期。具体日程は未発表。 | https://www.pocketgamer.biz/esports-nations-cup-postponed-to-november-2027/ | 日程未確定 | 2026-10-20 |
 |  |  | Esports World Cup 2027（EWC Qualifier Program 応募締切 2026-12-20） | eスポーツ | サウジアラビア（リヤド） | リアル | 2027年夏開催。公式予選網を400大会・180万人規模へ拡大、予選は2027/6/1までに終了。 | https://www.gamebusiness.jp/article/2026/10/20/28388.html | 日程未確定 | 2026-10-21 |
+|  |  | LoL World Championship 2027（Worlds 2027・日韓共催） | eスポーツ | 名古屋（スイスステージ）／水原／ソウル | 現地 | 2027年後半。Worlds初の日本開催。決勝はソウルの新設Seoul Arena | https://news.denfaminicogamer.jp/news/261114a | 日程未確定 | 2026-11-15 |
