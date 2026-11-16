@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-11-16 00:10_
+_最終更新: 2026-11-16 23:06_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -14,6 +14,7 @@ _最終更新: 2026-11-16 00:10_
 | 2027-06-25 | 2027-06-27 | D23 Asia 2027（初開催） | ライブ・フェス | シンガポール（マリーナベイ・サンズ） | オフライン | ディズニー初のアジア版D23。2日目は日本・韓国作品を含むDisney+の発表。チケットは2026年11月下旬発売 | https://eiga.com/news/20261106/18/ | 開催予定 | 2026-11-07 |
 | 2027-06-19 | 2027-06-19 | MUSIC AWARDS JAPAN 2027 | 映画祭・賞 | TOYOTA ARENA TOKYO | 授賞式＋業界向けセミナー・ショーケース | CEIPA主催の国際音楽賞の3回目 | https://www.billboard-japan.com/d_news/detail/167317 | 開催予定 | 2026-11-11 |
 | 2027-05-21 |  | 『ガールズバンドクライ THE MOVIE』公開 | 発売・公開 | 全国 | 劇場 | 舞台（2027/3/21〜28）・トゲナシトゲアリK-Arena公演（2027/3/20）と同時発表 | https://animeanime.jp/article/2026/11/03/104457.html | 開催予定 | 2026-11-04 |
+| 2027-04-17 | 2027-04-17 | YOASOBI アジア・オセアニア11都市ツアー最終公演（韓国・高陽総合運動場） | ライブ・フェス | 韓国・高陽 | リアル | YOASOBI初の韓国スタジアム公演 | https://www.billboard-japan.com/d_news/detail/167491 | 開催予定 | 2026-11-17 |
 | 2027-04-09 | 2027-04-11 | 2027 F1日本グランプリ（ウマ娘がファウンディングパートナー） | ライブ・フェス | 三重・鈴鹿サーキット | リアル | Cygames『ウマ娘』が日本GP初のファウンディングパートナー。130Rは「ウマ娘130R」に（11/20から約1年）。チケットは11/15発売 | https://www.cygames.co.jp/news/id-25155/ | 開催予定 | 2026-11-14 |
 | 2027-04-02 | 2027-04-04 | WePlay Expo JAPAN 2027 | 展示会 | 日本(幕張メッセ) | オフライン | 上海発の中国系ゲーム文化イベントの日本版。EedとSaneiが主催、日中インディー交流の常設拠点化。 | https://www.gamespark.jp/article/2026/10/08/173328.html | 開催予定 | 2026-10-09 |
 | 2027-03-26 |  | 劇場版『デート・ア・ライブ F Last Date』公開 | 発売・公開 | 日本 | 劇場 | ラノベ原作TVアニメの完結編を劇場で。同作者『王の求婚』も27年TVアニメ化 | https://animenewsnetwork.com/news/2026-10-25/date-a-live-f-last-date-anime-reveals-film-format-march-26-2027-opening-in-teaser-video/.243174 | 開催予定 | 2026-10-26 |
@@ -43,6 +44,7 @@ _最終更新: 2026-11-16 00:10_
 | 2027-01-21 |  | 第99回アカデミー賞 ノミネート発表 | 映画祭・賞 | 米ロサンゼルス | オンライン | WOWOW・Leminoが授賞式を独占生中継。 | https://www.cinematoday.jp/news/N0157940 | 開催予定 | 2026-11-13 |
 | 2027-01-15 |  | 劇場アニメ『機動戦士ガンダムSEED FREEDOM ZERO』公開 | 発売・公開 | 全国劇場 | リアル | 松竹が下期に配給する劇場アニメの目玉。松竹映像事業の回復の鍵 |  | 開催予定 | 2026-10-17 |
 | 2027-01-15 | 2027-01-15 | 劇場版『虎に翼』公開 | 発売・公開 | 全国 | 劇場 | 朝ドラ初の主演続投での映画化。主題歌は米津玄師の新曲 | https://eiga.com/news/20261102/24/ | 開催予定 | 2026-11-03 |
+| 2027-01-12 | 2027-01-12 | KADOKAWA 女性向け新文芸レーベル「ミアNOVELS」創刊 | 発売・公開 | 日本 | 書籍 | 初回4作（うち2作はカクヨムのコンテスト受賞作）、2/12に第2弾3作 | https://ln-news.com/articles/127210 | 開催予定 | 2026-11-17 |
 | 2027-01-11 |  | 実写ショートドラマ『あたしゃ川尻こだまだよ』放送・配信開始 | 発売・公開 | 日本 | 地上波（ZIP!）＋Hulu | 1話3分。Huluは毎週月曜に1週間分を先行配信 | https://eiga.com/news/20261106/3/ | 開催予定 | 2026-11-06 |
 | 2027-01-10 |  | TVアニメ『ラブライブ!蓮ノ空女学院スクールアイドルクラブ』放送開始 | 発売・公開 | TOKYO MXほか | TV | アプリ終了後のIPをTVアニメで継続（全7話） | https://eiga.com/news/20261024/11/ | 開催予定 | 2026-10-25 |
 | 2027-01-08 |  | 『BanG Dream! It's MyGO!!!!!』×『Ave Mujica』続編TVアニメ放送開始 | 発売・公開 | 日本 | 放送 | 10/25の2バンド合同ライブで発表。ライブ起点のIP運営 | https://animecorner.me/mygo-and-ave-mujica-anime-sequel-reveals-january-2027-premiere-date/ | 開催予定 | 2026-10-26 |
@@ -87,12 +89,13 @@ _最終更新: 2026-11-16 00:10_
 | 2026-11-20 | 2026-11-20 | 『ハンガー・ゲーム サンライズ・オン・ザ・リーピング』北米公開 | 発売・公開 | 北米 | 劇場公開 | 前日11/19に『GTA6』が発売。予想初週末5500万〜6500万ドル。大作ゲームと映画の競合の検証材料 | https://fortune.com/2026/11/02/halloween-box-office-gta-vi-november-hunger-games | 開催予定 | 2026-11-06 |
 | 2026-11-19 |  | 『Grand Theft Auto VI』発売 | 発売・公開 | 全世界 | PS5/Xbox Series | ロックスター12年ぶりのGTA新作。幹部は次回作に8年はかからないと発言 | https://www.videogameschronicle.com/news/rockstar-says-its-next-game-after-grand-theft-auto-6-wont-take-another-eight-years-to-make/ | 開催予定 | 2026-10-15 |
 | 2026-11-19 | 2026-11-19 | 『グランド・セフト・オートVI』発売 | 発売・公開 | 世界 | 発売 | PS5/Xbox Series X\|S。他社AAAの多くが2027年へ回避した一方、11月の前半にインディー・中規模作が集中（Game*Spark調べ46作） | https://www.gamebusiness.jp/article/2026/11/10/28607.html | 開催予定 | 2026-11-10 |
+| 2026-11-19 | 2026-11-19 | 集英社『本宮ひろ志漫画大全集』刊行開始 | 発売・公開 | 日本 | 書籍 | 全152巻超・連載73作と読み切り38作。第1期は27年12月までに33巻。集英社創業100周年企画 | https://prtimes.jp/main/html/rd/p/000000871.000011454.html | 開催予定 | 2026-11-17 |
 | 2026-11-18 |  | Japan in Translation Initiative キックオフセミナー／プレミーティング | 展示会 | 東京ドームプリズムホール Bサイド | 対面（配信なし） | マンガ等の日英翻訳者を育成するJTIの始動イベント。セミナーは約100名、翻訳者向けプレミーティングは約30名（応募は10/26正午まで） | https://www.jpic.or.jp/topics/2026/10/14/095355.html | 開催予定 | 2026-10-16 |
 | 2026-11-18 |  | 実写『モアナと伝説の海』Disney+見放題独占配信開始 | 発売・公開 | オンライン | オンライン | 7月31日劇場公開から約16週で自社配信へ | https://eiga.com/news/20261030/7 | 開催予定 | 2026-10-30 |
 | 2026-11-18 | 2026-11-18 | 全米図書賞2026 授賞式 | 映画祭・賞 | 米ニューヨーク（Cipriani Wall Street） | 授賞式 | 米国の主要文学賞。ゴンクール賞受賞作のAI使用告白後で、AIへの言及も注目 | https://www.olbg.com/news/booker-prize-2026-winner-odds-uk-betting-sites-back-marlon-james | 開催予定 | 2026-11-09 |
 | 2026-11-18 | 2026-11-18 | The Game Awards 2026 ノミネート発表 | 映画祭・賞 | オンライン | 配信 | 日本時間11月18日午前2時に特番でノミネートを発表。授賞式は12月10日 | https://news.denfaminicogamer.jp/news/261114d | 開催予定 | 2026-11-15 |
-| 2026-11-16 | 2026-11-16 | 第69回グラミー賞 ノミネート発表 | 映画祭・賞 | 米国 | オンライン | 2027年グラミー賞のノミネート発表。Drake・BTS・Stray Kidsは不参加と報道 | https://www.grammy.com/news/2027-grammys-show-air-date-nominations-announced/ | 開催中 | 2026-11-16 |
-| 2026-11-16 | 2026-11-16 | 『Heated Rivalry』最終2話 4DX上映開始 | 発売・公開 | 米Regal各館 | 劇場（4DX） | HBO Maxのドラマの最終2話を4DXで上映 | https://deadline.com/2026/11/indie-film-box-office-independent-alternative-cinema-surges-1237216831/ | 開催中 | 2026-11-16 |
+| 2026-11-16 | 2026-11-16 | 第69回グラミー賞 ノミネート発表 | 映画祭・賞 | 米国 | オンライン | 2027年グラミー賞のノミネート発表。Drake・BTS・Stray Kidsは不参加と報道 | https://www.grammy.com/news/2027-grammys-show-air-date-nominations-announced/ | 終了 | 2026-11-17 |
+| 2026-11-16 | 2026-11-16 | 『Heated Rivalry』最終2話 4DX上映開始 | 発売・公開 | 米Regal各館 | 劇場（4DX） | HBO Maxのドラマの最終2話を4DXで上映 | https://deadline.com/2026/11/indie-film-box-office-independent-alternative-cinema-surges-1237216831/ | 終了 | 2026-11-17 |
 | 2026-11-15 |  | 第176回 直木賞 候補作発表 | 映画祭・賞 | - | 発表 | 候補作の発表時期を従来の12月から11月中旬へ前倒し。受賞発表は2027年1月中旬予定。販促リードタイム確保が狙い。 | https://bungakushinko.or.jp/info/251212/index.html | 終了 | 2026-11-16 |
 | 2026-11-14 |  | BOOK MEETS NEXT 特別イベント「世界につながる、日本の本」 | 映画祭・賞 | 東京・宝生能楽堂 | オフライン | 朝井リョウ×柚木麻子対談。Billboard JAPAN Book Charts初の年間チャート発表・授賞 | https://www.shinbunka.co.jp/archives/14510 | 終了 | 2026-11-15 |
 | 2026-11-14 |  | 蔦屋書店 タイ1号店 開業 | 発売・公開 | タイ | オフライン | CCCが海外展開を「出店数」から「現地でのブランド確立」重視に転換して最初の新店 | https://www.bunkanews.jp/article/484090/ | 終了 | 2026-11-15 |
@@ -209,3 +212,4 @@ _最終更新: 2026-11-16 00:10_
 |  |  | Esports Nations Cup（初開催・2027年11月に延期） | eスポーツ | サウジアラビア・リヤド | オフライン | 国別対抗の新大会。2026年11月開催予定から地域情勢を理由に2027年11月へ1年延期。具体日程は未発表。 | https://www.pocketgamer.biz/esports-nations-cup-postponed-to-november-2027/ | 日程未確定 | 2026-10-20 |
 |  |  | Esports World Cup 2027（EWC Qualifier Program 応募締切 2026-12-20） | eスポーツ | サウジアラビア（リヤド） | リアル | 2027年夏開催。公式予選網を400大会・180万人規模へ拡大、予選は2027/6/1までに終了。 | https://www.gamebusiness.jp/article/2026/10/20/28388.html | 日程未確定 | 2026-10-21 |
 |  |  | LoL World Championship 2027（Worlds 2027・日韓共催） | eスポーツ | 名古屋（スイスステージ）／水原／ソウル | 現地 | 2027年後半。Worlds初の日本開催。決勝はソウルの新設Seoul Arena | https://news.denfaminicogamer.jp/news/261114a | 日程未確定 | 2026-11-15 |
+|  |  | FRUITS ZIPPER 初のスタジアムツアー（2027年6月開始） | ライブ・フェス | 日本 | リアル | 結成5周年。具体的な日程・会場は未発表 | https://www.billboard-japan.com/d_news/detail/167488 | 日程未確定 | 2026-11-17 |
