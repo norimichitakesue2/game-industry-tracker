@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-11-18 22:19_
+_最終更新: 2026-11-19 22:24_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -53,6 +53,7 @@ _最終更新: 2026-11-18 22:19_
 | 2027-01-08 |  | 『BanG Dream! It's MyGO!!!!!』×『Ave Mujica』続編TVアニメ放送開始 | 発売・公開 | 日本 | 放送 | 10/25の2バンド合同ライブで発表。ライブ起点のIP運営 | https://animecorner.me/mygo-and-ave-mujica-anime-sequel-reveals-january-2027-premiere-date/ | 開催予定 | 2026-10-26 |
 | 2027-01-08 |  | TVアニメ『ブレス』放送開始 | 発売・公開 | 日本（フジテレビ） | TV放送 | ノイタミナ枠で毎週金曜23時30分から放送 | https://mantan-web.jp/article/20261106dog00m200097000a.html | 開催予定 | 2026-11-09 |
 | 2027-01-08 | 2027-01-22 | 劇場アニメ「キンツア」新ルート route1.5／route5.5 上映開始 | 発売・公開 | 全国 | 劇場 | 本編の分岐を新作CGライブに差し替えた新ルート。route1.5は1/8、route5.5は1/22から。2/19〜4DX強化版・SCREENX復活上映。 | https://eiga.com/news/20261111/16/ | 開催予定 | 2026-11-12 |
+| 2027-01-06 | 2027-01-09 | CES 2027（WMGカインCEOが基調講演） | 展示会 | 米ラスベガス | リアル | 音楽メジャーCEOの基調講演。AIと音楽ライセンスの方針に注目 | https://www.musicbusinessworldwide.com/warner-music-group-tops-2b-in-a-quarter-for-the-first-time-subscription-streaming-revenues-rose-14-7-yoy-in-calendar-q3/ | 開催予定 | 2026-11-20 |
 | 2026-12-31 | 2026-12-31 | 第77回NHK紅白歌合戦 | ライブ・フェス | 東京・NHKホール | ハイブリッド | 出場40組（紅19・白21）。初出場は＝LOVE、Aぇ! group、EBiDANら7組。TMN・高田みづえも出場。19:20〜23:45 | https://www.oricon.co.jp/news/2492367/full/ | 開催予定 | 2026-11-14 |
 | 2026-12-29 | 2026-12-31 | コミックマーケット109 (C109) | 展示会 | 東京ビッグサイト | リアル | 8年ぶりの3日間開催 | https://kai-you.net/article/94962 | 開催予定 | 2026-10-11 |
 | 2026-12-26 | 2027-02-28 | KENSHI YONEZU 2026-2027 WORLD TOUR / GHOST | ライブ・フェス | 台北・ソウル・シンガポール・オークランド・LA・メキシコシティ・ニューアーク・トロント・ロンドン・パリ・アムステルダム | ワールドツアー（11都市14公演） | 総動員約20万人見込み。台北ドーム2DAYS、5都市が初上陸 | https://www.billboard-japan.com/d_news/detail/166548 | 開催予定 | 2026-10-16 |
@@ -88,20 +89,21 @@ _最終更新: 2026-11-18 22:19_
 | 2026-11-25 | 2026-12-06 | Games Without AI Showcase（生成AI不使用インディーの配信・Steam特集） | ショーケース | オンライン | 配信 | アート・音楽・ボイスに生成AIを使わない作品のみ。コミュニティ投票と自己申告で審査 | https://www.gamebusiness.jp/article/2026/10/31/28519.html | 開催予定 | 2026-11-02 |
 | 2026-11-25 | 2026-12-08 | Netflix『Cliff Booth』IMAX限定公開（米国・AMCのみ） | 発売・公開 | 米国 | 劇場 | Netflix初のIMAX公開作。2週間限定で、シネマーク・リーガルは上映を見送り。12/25に配信 | https://www.thewrap.com/creative-content/movies/why-cliff-booth-not-on-cinemark-imax-theaters-explained/ | 開催予定 | 2026-11-04 |
 | 2026-11-24 | 2026-11-24 | NEW ANIME WORKFLOW 2026 | 展示会 | 東京・ベルサール九段 | オフライン | バーチャルカメラ、『ルックバック』のクラウド編集、リアルタイムVFXなどアニメ制作の新手法を紹介（ボーンデジタル主催） | https://prtimes.jp/main/html/rd/p/000000301.000073594.html | 開催予定 | 2026-11-05 |
+| 2026-11-24 | 2026-11-24 | Netflix Games『モンスターハンターライズ』配信開始 | 発売・公開 | オンライン（Netflix） | 配信 | カプコンの据え置き大作をNetflix会員向けにスマホで無料提供。武器別タッチ操作・自動回復ボタン | https://www.pocketgamer.biz/monster-hunter-rise-coming-to-mobile-via-netflix-games-on-november-24th/ | 開催予定 | 2026-11-20 |
 | 2026-11-21 | 2026-11-21 | Netflix クリエイターズ道場～アニメ～ | 展示会 | 東京都内 | オフライン | Netflixのアニメプロデューサー育成講座。トリガー大塚社長、コロリド桃原Pが登壇。無料・定員約150人 | https://www.gamebusiness.jp/article/2026/11/03/28533.html | 開催予定 | 2026-11-05 |
-| 2026-11-20 | 2026-11-20 | IMART2026（マンガ・IPカンファレンス） | 展示会 | 東京・池袋 アニメイトシアター | リアル | 基調講演にKADOKAWA。第1回IMARTアワード | https://manga.watch.impress.co.jp/docs/news/2126030.html | 開催予定 | 2026-10-11 |
-| 2026-11-20 | 2026-11-21 | 2026 MAMA AWARDS（京セラドーム大阪） | 映画祭・賞 | 京セラドーム大阪 | ハイブリッド | K-POP授賞式を日本開催。大阪一帯で「MAMA FAN FESTA」（11/9〜21）を新設、Mnet Plusで世界配信 | https://prtimes.jp/main/html/rd/p/000001633.000003711.html | 開催予定 | 2026-10-13 |
-| 2026-11-20 |  | 『装甲騎兵ボトムズ 灰色の魔女』第1作 劇場公開 | 発売・公開 | 全国劇場 | オフライン | サンライズ50周年。押井守監督の劇場2部作の第1作。旧作のYouTube無料配信と連動 | https://anime.eiga.com/news/127708/ | 開催予定 | 2026-10-25 |
-| 2026-11-20 | 2026-11-20 | 劇場アニメ『魔法使いの夜』公開（IMAX版同時公開） | 発売・公開 | 全国 | 劇場 | TYPE-MOON原作・ufotable制作。初日からIMAX同時公開。21日東京・22日大阪で舞台挨拶 | https://eiga.com/news/20261102/2/ | 開催予定 | 2026-11-03 |
-| 2026-11-20 | 2026-11-20 | 『ハンガー・ゲーム サンライズ・オン・ザ・リーピング』北米公開 | 発売・公開 | 北米 | 劇場公開 | 前日11/19に『GTA6』が発売。予想初週末5500万〜6500万ドル。大作ゲームと映画の競合の検証材料 | https://fortune.com/2026/11/02/halloween-box-office-gta-vi-november-hunger-games | 開催予定 | 2026-11-06 |
-| 2026-11-19 |  | 『Grand Theft Auto VI』発売 | 発売・公開 | 全世界 | PS5/Xbox Series | ロックスター12年ぶりのGTA新作。幹部は次回作に8年はかからないと発言 | https://www.videogameschronicle.com/news/rockstar-says-its-next-game-after-grand-theft-auto-6-wont-take-another-eight-years-to-make/ | 開催中 | 2026-11-19 |
-| 2026-11-19 | 2026-11-19 | 『グランド・セフト・オートVI』発売 | 発売・公開 | 世界 | 発売 | PS5/Xbox Series X\|S。他社AAAの多くが2027年へ回避した一方、11月の前半にインディー・中規模作が集中（Game*Spark調べ46作） | https://www.gamebusiness.jp/article/2026/11/10/28607.html | 開催中 | 2026-11-19 |
-| 2026-11-19 | 2026-11-19 | 集英社『本宮ひろ志漫画大全集』刊行開始 | 発売・公開 | 日本 | 書籍 | 全152巻超・連載73作と読み切り38作。第1期は27年12月までに33巻。集英社創業100周年企画 | https://prtimes.jp/main/html/rd/p/000000871.000011454.html | 開催中 | 2026-11-19 |
+| 2026-11-20 | 2026-11-20 | IMART2026（マンガ・IPカンファレンス） | 展示会 | 東京・池袋 アニメイトシアター | リアル | 基調講演にKADOKAWA。第1回IMARTアワード | https://manga.watch.impress.co.jp/docs/news/2126030.html | 開催中 | 2026-11-20 |
+| 2026-11-20 | 2026-11-21 | 2026 MAMA AWARDS（京セラドーム大阪） | 映画祭・賞 | 京セラドーム大阪 | ハイブリッド | K-POP授賞式を日本開催。大阪一帯で「MAMA FAN FESTA」（11/9〜21）を新設、Mnet Plusで世界配信 | https://prtimes.jp/main/html/rd/p/000001633.000003711.html | 開催中 | 2026-11-20 |
+| 2026-11-20 |  | 『装甲騎兵ボトムズ 灰色の魔女』第1作 劇場公開 | 発売・公開 | 全国劇場 | オフライン | サンライズ50周年。押井守監督の劇場2部作の第1作。旧作のYouTube無料配信と連動 | https://anime.eiga.com/news/127708/ | 開催中 | 2026-11-20 |
+| 2026-11-20 | 2026-11-20 | 劇場アニメ『魔法使いの夜』公開（IMAX版同時公開） | 発売・公開 | 全国 | 劇場 | TYPE-MOON原作・ufotable制作。初日からIMAX同時公開。21日東京・22日大阪で舞台挨拶 | https://eiga.com/news/20261102/2/ | 開催中 | 2026-11-20 |
+| 2026-11-20 | 2026-11-20 | 『ハンガー・ゲーム サンライズ・オン・ザ・リーピング』北米公開 | 発売・公開 | 北米 | 劇場公開 | 前日11/19に『GTA6』が発売。予想初週末5500万〜6500万ドル。大作ゲームと映画の競合の検証材料 | https://fortune.com/2026/11/02/halloween-box-office-gta-vi-november-hunger-games | 開催中 | 2026-11-20 |
+| 2026-11-19 |  | 『Grand Theft Auto VI』発売 | 発売・公開 | 全世界 | PS5/Xbox Series | ロックスター12年ぶりのGTA新作。幹部は次回作に8年はかからないと発言 | https://www.videogameschronicle.com/news/rockstar-says-its-next-game-after-grand-theft-auto-6-wont-take-another-eight-years-to-make/ | 終了 | 2026-11-20 |
+| 2026-11-19 | 2026-11-19 | 『グランド・セフト・オートVI』発売 | 発売・公開 | 世界 | 発売 | PS5/Xbox Series X\|S。他社AAAの多くが2027年へ回避した一方、11月の前半にインディー・中規模作が集中（Game*Spark調べ46作） | https://www.gamebusiness.jp/article/2026/11/10/28607.html | 終了 | 2026-11-20 |
+| 2026-11-19 | 2026-11-19 | 集英社『本宮ひろ志漫画大全集』刊行開始 | 発売・公開 | 日本 | 書籍 | 全152巻超・連載73作と読み切り38作。第1期は27年12月までに33巻。集英社創業100周年企画 | https://prtimes.jp/main/html/rd/p/000000871.000011454.html | 終了 | 2026-11-20 |
 | 2026-11-18 |  | Japan in Translation Initiative キックオフセミナー／プレミーティング | 展示会 | 東京ドームプリズムホール Bサイド | 対面（配信なし） | マンガ等の日英翻訳者を育成するJTIの始動イベント。セミナーは約100名、翻訳者向けプレミーティングは約30名（応募は10/26正午まで） | https://www.jpic.or.jp/topics/2026/10/14/095355.html | 終了 | 2026-11-19 |
 | 2026-11-18 |  | 実写『モアナと伝説の海』Disney+見放題独占配信開始 | 発売・公開 | オンライン | オンライン | 7月31日劇場公開から約16週で自社配信へ | https://eiga.com/news/20261030/7 | 終了 | 2026-11-19 |
 | 2026-11-18 | 2026-11-18 | 全米図書賞2026 授賞式 | 映画祭・賞 | 米ニューヨーク（Cipriani Wall Street） | 授賞式 | 米国の主要文学賞。ゴンクール賞受賞作のAI使用告白後で、AIへの言及も注目 | https://www.olbg.com/news/booker-prize-2026-winner-odds-uk-betting-sites-back-marlon-james | 終了 | 2026-11-19 |
 | 2026-11-18 | 2026-11-18 | The Game Awards 2026 ノミネート発表 | 映画祭・賞 | オンライン | 配信 | 日本時間11月18日午前2時に特番でノミネートを発表。授賞式は12月10日 | https://news.denfaminicogamer.jp/news/261114d | 終了 | 2026-11-19 |
-| 2026-11-18 | 2026-11-19 | 東京国際ライツミーティング 2026 | 展示会 | 東京 | オフライン | 20超の国・地域から145社が参加する出版の版権商談会。日本の小説・漫画・絵本の翻訳権・映像化権 | https://www.thenewpublishingstandard.com/2026/11/07/tokyo-international-rights-meeting-2026/ | 開催中 | 2026-11-18 |
+| 2026-11-18 | 2026-11-19 | 東京国際ライツミーティング 2026 | 展示会 | 東京 | オフライン | 20超の国・地域から145社が参加する出版の版権商談会。日本の小説・漫画・絵本の翻訳権・映像化権 | https://www.thenewpublishingstandard.com/2026/11/07/tokyo-international-rights-meeting-2026/ | 終了 | 2026-11-20 |
 | 2026-11-16 | 2026-11-16 | 第69回グラミー賞 ノミネート発表 | 映画祭・賞 | 米国 | オンライン | 2027年グラミー賞のノミネート発表。Drake・BTS・Stray Kidsは不参加と報道 | https://www.grammy.com/news/2027-grammys-show-air-date-nominations-announced/ | 終了 | 2026-11-17 |
 | 2026-11-16 | 2026-11-16 | 『Heated Rivalry』最終2話 4DX上映開始 | 発売・公開 | 米Regal各館 | 劇場（4DX） | HBO Maxのドラマの最終2話を4DXで上映 | https://deadline.com/2026/11/indie-film-box-office-independent-alternative-cinema-surges-1237216831/ | 終了 | 2026-11-17 |
 | 2026-11-15 |  | 第176回 直木賞 候補作発表 | 映画祭・賞 | - | 発表 | 候補作の発表時期を従来の12月から11月中旬へ前倒し。受賞発表は2027年1月中旬予定。販促リードタイム確保が狙い。 | https://bungakushinko.or.jp/info/251212/index.html | 終了 | 2026-11-16 |
