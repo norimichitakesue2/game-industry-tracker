@@ -1,8 +1,38 @@
 # 週間ランキング
 
-_最終更新: 2026-11-19 23:06_
+_最終更新: 2026-11-20 21:47_
 
 ## 国内ファミ通
+
+### 2026-11-09〜11-15
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | ゼルダの伝説 時のオカリナ | Switch2 | 86,097 | 623,138 |  | https://www.famitsu.com/article/202611/94496 | ファミ通推定販売本数。2週連続首位 |
+| 2 | メタファー：リファンタジオ | Switch2 | 11,167 | 11,167 |  | https://www.famitsu.com/article/202611/94496 | ファミ通推定販売本数。初登場。Switch2移植 |
+| 3 | Nintendo Switch Sports Resort | Switch2 | 11,086 | 115,805 |  | https://www.famitsu.com/article/202611/94496 | ファミ通推定販売本数 |
+| 4 | リズム天国 ミラクルスターズ | Switch | 7,779 | 1,128,423 |  | https://www.famitsu.com/article/202611/94496 | ファミ通推定販売本数 |
+| 5 | Minecraft Dungeons II | Switch | 4,264 | 4,264 |  | https://www.famitsu.com/article/202611/94496 | ファミ通推定販売本数。初登場 |
+| 6 | トモダチコレクション わくわく生活 | Switch | 3,991 | 1,650,334 |  | https://www.famitsu.com/article/202611/94496 | ファミ通推定販売本数 |
+| 7 | スプラトゥーン レイダース | Switch2 | 2,863 | 697,678 |  | https://www.famitsu.com/article/202611/94496 | ファミ通推定販売本数 |
+| 8 | ピクミン4 Nintendo Switch 2 Edition ＋ だれでもチャレンジ！ ダンドリ検定 | Switch2 | 2,854 | 2,854 |  | https://www.famitsu.com/article/202611/94496 | ファミ通推定販売本数。初登場 |
+| 9 | Minecraft | Switch2 | 2,630 | 18,212 |  | https://www.famitsu.com/article/202611/94496 | ファミ通推定販売本数 |
+| 10 | ファイナルファンタジー レゾナンス | PS5 | 2,543 | 69,895 |  | https://www.famitsu.com/article/202611/94496 | ファミ通推定販売本数 |
+
+### 2026-11-02〜11-08
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | ゼルダの伝説 時のオカリナ | Switch2 | 537,041 | 537,041 |  | https://www.famitsu.com/article/202611/93799 | ファミ通推定販売本数。初登場首位。N64/3DS名作のSwitch2リメイク |
+| 2 | Nintendo Switch Sports Resort | Switch2 | 16,621 | 104,719 |  | https://www.famitsu.com/article/202611/93799 | ファミ通推定販売本数 |
+| 3 | リズム天国 ミラクルスターズ | Switch | 8,793 | 1,120,644 |  | https://www.famitsu.com/article/202611/93799 | ファミ通推定販売本数 |
+| 4 | Stellar Blade コンプリートエディション | Switch2 | 8,042 | 8,042 |  | https://www.famitsu.com/article/202611/93799 | ファミ通推定販売本数。初登場 |
+| 5 | ファイナルファンタジー レゾナンス | Switch2 | 6,406 | 73,136 |  | https://www.famitsu.com/article/202611/93799 | ファミ通推定販売本数 |
+| 6 | ファイナルファンタジー レゾナンス | PS5 | 5,719 | 67,352 |  | https://www.famitsu.com/article/202611/93799 | ファミ通推定販売本数 |
+| 7 | ファイナルファンタジー レゾナンス | Switch | 4,500 | 43,396 |  | https://www.famitsu.com/article/202611/93799 | ファミ通推定販売本数 |
+| 8 | トモダチコレクション わくわく生活 | Switch | 4,492 | 1,646,343 |  | https://www.famitsu.com/article/202611/93799 | ファミ通推定販売本数 |
+| 9 | Minecraft | Switch2 | 3,828 | 15,582 |  | https://www.famitsu.com/article/202611/93799 | ファミ通推定販売本数 |
+| 10 | ファイアーエムブレム 万紫千紅 | Switch2 | 3,017 | 189,511 |  | https://www.famitsu.com/article/202611/93799 | ファミ通推定販売本数 |
 
 ### 2026-10-26〜11-01
 
@@ -299,6 +329,21 @@ _最終更新: 2026-11-19 23:06_
 | 10 | アストロボット | PS5 | 3,460 | 103,717 |  | ファミ通.com 週販 https://www.famitsu.com/article/202606/78042 |  |
 
 ## Steamトップセラー
+
+### 2026-11-03〜11-10
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | PUBG: BATTLEGROUNDS | PC |  |  |  | https://ixbt.games/en/news/2026/11/10/besplatnyi-xit-pomesal-cod-modern-warfare-4-vozglavit-obshhii-cart-steam-valve-nazvala-samye-prodavaemye-produkty-prosloi-nedeli.html | Valve公式Steam週間ベストセラー(総合・F2P含む/ixbt転載・順位のみ)。PUBGが首位 |
+| 2 | Call of Duty: Modern Warfare 4 | PC |  |  |  | https://ixbt.games/en/news/2026/11/10/besplatnyi-xit-pomesal-cod-modern-warfare-4-vozglavit-obshhii-cart-steam-valve-nazvala-samye-prodavaemye-produkty-prosloi-nedeli.html | Valve公式Steam週間ベストセラー(総合・F2P含む/ixbt転載・順位のみ)。PUBGが首位 |
+| 3 | Phantom Blade Zero（ファントムブレイドゼロ） | PC |  |  |  | https://ixbt.games/en/news/2026/11/10/besplatnyi-xit-pomesal-cod-modern-warfare-4-vozglavit-obshhii-cart-steam-valve-nazvala-samye-prodavaemye-produkty-prosloi-nedeli.html | Valve公式Steam週間ベストセラー(総合・F2P含む/ixbt転載・順位のみ)。PUBGが首位 |
+| 4 | Counter-Strike 2 | PC |  |  |  | https://ixbt.games/en/news/2026/11/10/besplatnyi-xit-pomesal-cod-modern-warfare-4-vozglavit-obshhii-cart-steam-valve-nazvala-samye-prodavaemye-produkty-prosloi-nedeli.html | Valve公式Steam週間ベストセラー(総合・F2P含む/ixbt転載・順位のみ)。PUBGが首位 |
+| 5 | AION 2 | PC |  |  |  | https://ixbt.games/en/news/2026/11/10/besplatnyi-xit-pomesal-cod-modern-warfare-4-vozglavit-obshhii-cart-steam-valve-nazvala-samye-prodavaemye-produkty-prosloi-nedeli.html | Valve公式Steam週間ベストセラー(総合・F2P含む/ixbt転載・順位のみ)。PUBGが首位 |
+| 6 | Dota 2 | PC |  |  |  | https://ixbt.games/en/news/2026/11/10/besplatnyi-xit-pomesal-cod-modern-warfare-4-vozglavit-obshhii-cart-steam-valve-nazvala-samye-prodavaemye-produkty-prosloi-nedeli.html | Valve公式Steam週間ベストセラー(総合・F2P含む/ixbt転載・順位のみ)。PUBGが首位 |
+| 7 | Football Manager 27（フットボールマネージャー27） | PC |  |  |  | https://ixbt.games/en/news/2026/11/10/besplatnyi-xit-pomesal-cod-modern-warfare-4-vozglavit-obshhii-cart-steam-valve-nazvala-samye-prodavaemye-produkty-prosloi-nedeli.html | Valve公式Steam週間ベストセラー(総合・F2P含む/ixbt転載・順位のみ)。PUBGが首位 |
+| 8 | Apex Legends | PC |  |  |  | https://ixbt.games/en/news/2026/11/10/besplatnyi-xit-pomesal-cod-modern-warfare-4-vozglavit-obshhii-cart-steam-valve-nazvala-samye-prodavaemye-produkty-prosloi-nedeli.html | Valve公式Steam週間ベストセラー(総合・F2P含む/ixbt転載・順位のみ)。PUBGが首位 |
+| 9 | Probably Stolen - Cyberpunk Shopkeeper Sim | PC |  |  |  | https://ixbt.games/en/news/2026/11/10/besplatnyi-xit-pomesal-cod-modern-warfare-4-vozglavit-obshhii-cart-steam-valve-nazvala-samye-prodavaemye-produkty-prosloi-nedeli.html | Valve公式Steam週間ベストセラー(総合・F2P含む/ixbt転載・順位のみ)。PUBGが首位 |
+| 10 | EA SPORTS FC 27 | PC |  |  |  | https://ixbt.games/en/news/2026/11/10/besplatnyi-xit-pomesal-cod-modern-warfare-4-vozglavit-obshhii-cart-steam-valve-nazvala-samye-prodavaemye-produkty-prosloi-nedeli.html | Valve公式Steam週間ベストセラー(総合・F2P含む/ixbt転載・順位のみ)。PUBGが首位 |
 
 ### 2026-10-27〜11-03
 
@@ -609,6 +654,21 @@ _最終更新: 2026-11-19 23:06_
 | 10 | EA Sports FC 26 | PC(Steam) |  |  |  | Steam週間グローバルトップセラー(売上額順・F2P除く) https://www.vgchartz.com/article/468148/steam-weekly-week-24-2026/ |  |
 
 ## PS DL
+
+### 2026-10 (月間)
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | ACE COMBAT 8: WINGS OF THEVE | PS5 |  |  |  | https://blog.ja.playstation.com/2026/11/11/20261111-monthly-ps-store-ranking-s/ | PS Blog 2026年10月PS Storeダウンロードランキング 国内PS5(週間が無いため月間で代替) |
+| 2 | ファイナルファンタジー レゾナンス | PS5 |  |  |  | https://blog.ja.playstation.com/2026/11/11/20261111-monthly-ps-store-ranking-s/ | PS Blog 2026年10月PS Storeダウンロードランキング 国内PS5(週間が無いため月間で代替) |
+| 3 | Call of Duty: Modern Warfare 4 | PS5 |  |  |  | https://blog.ja.playstation.com/2026/11/11/20261111-monthly-ps-store-ranking-s/ | PS Blog 2026年10月PS Storeダウンロードランキング 国内PS5(週間が無いため月間で代替) |
+| 4 | 真・三國無双２ with 猛将伝 Remastered | PS5 |  |  |  | https://blog.ja.playstation.com/2026/11/11/20261111-monthly-ps-store-ranking-s/ | PS Blog 2026年10月PS Storeダウンロードランキング 国内PS5(週間が無いため月間で代替) |
+| 5 | Enshrouded〜霧の王国〜 | PS5 |  |  |  | https://blog.ja.playstation.com/2026/11/11/20261111-monthly-ps-store-ranking-s/ | PS Blog 2026年10月PS Storeダウンロードランキング 国内PS5(週間が無いため月間で代替) |
+| 6 | テイルズ オブ エターニア リマスター | PS5 |  |  |  | https://blog.ja.playstation.com/2026/11/11/20261111-monthly-ps-store-ranking-s/ | PS Blog 2026年10月PS Storeダウンロードランキング 国内PS5(週間が無いため月間で代替) |
+| 7 | ドラゴンズドグマ 2 | PS5 |  |  |  | https://blog.ja.playstation.com/2026/11/11/20261111-monthly-ps-store-ranking-s/ | PS Blog 2026年10月PS Storeダウンロードランキング 国内PS5(週間が無いため月間で代替) |
+| 8 | Phantom Blade Zero | PS5 |  |  |  | https://blog.ja.playstation.com/2026/11/11/20261111-monthly-ps-store-ranking-s/ | PS Blog 2026年10月PS Storeダウンロードランキング 国内PS5(週間が無いため月間で代替) |
+| 9 | PEAK | PS5 |  |  |  | https://blog.ja.playstation.com/2026/11/11/20261111-monthly-ps-store-ranking-s/ | PS Blog 2026年10月PS Storeダウンロードランキング 国内PS5(週間が無いため月間で代替) |
+| 10 | Castlevania: Belmont's Curse | PS5 |  |  |  | https://blog.ja.playstation.com/2026/11/11/20261111-monthly-ps-store-ranking-s/ | PS Blog 2026年10月PS Storeダウンロードランキング 国内PS5(週間が無いため月間で代替) |
 
 ### 2026-09 (月間)
 

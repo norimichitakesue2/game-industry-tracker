@@ -1,6 +1,6 @@
 # 【音楽】リリース・チャート
 
-_最終更新: 2026-11-19 23:06_
+_最終更新: 2026-11-20 21:47_
 
 | 集計日/発売日 | 区分 | タイトル/曲名 | アーティスト | レーベル | 形態 | チャート順位 | ストリーミング数 | 話題度(1-5) | メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -31,3 +31,7 @@ _最終更新: 2026-11-19 23:06_
 | 2026-11-04(付) | チャート | ザッツ！超常 | M!LK | ソニー・ミュージック | シングル/配信 | Billboard JAPAN Hot 100 1位(2026-11-04付/集計10-26〜11-01) |  | 4 | M!LKが「ザッツ！超常」で初登場総合首位。自身2作目のHot100首位。 | https://www.billboard-japan.com/d_news/detail/167121 |
 | 2026-11-04(付) | チャート | しわあわせ | Vaundy |  | 配信 | Billboard JAPAN Hot 100 3位(2026-11-04付) |  | 4 | Vaundy「しわあわせ」が自身初のHot100トップ3入り(3位)。 | https://www.billboard-japan.com/d_news/detail/167121 |
 | 2026-11-04(付) | チャート | シンデレラ | Mrs. GREEN APPLE | ユニバーサル | 配信 | Billboard JAPAN Hot 100 4位(2026-11-04付) |  | 3 | ミセスは「シンデレラ」4位ほか複数曲がトップ10入り。 | https://www.billboard-japan.com/d_news/detail/167121 |
+| 2026-11-11(付) | チャート | Emotion | Aぇ! group |  | シングル | Billboard JAPAN Hot 100 1位(2026-11-11付) |  | 3 | Aぇ! groupが「Emotion」で総合首位。 | https://www.billboard-japan.com/charts/detail?a=hot100 |
+| 2026-11-18(付) | チャート | ラブリーズン | 原因は自分にある。 |  | 配信/シングル | Billboard JAPAN Hot 100 1位(2026-11-18付/集計11-9〜11-15) |  | 4 | 「原因は自分にある。」が初の総合首位。前週18位から急上昇。 | https://www.billboard-japan.com/charts/detail?a=hot100 |
+| 2026-11-18(付) | チャート | Yes! 東京 | EBiDAN（恵比寿学園男子部） |  | 配信/シングル | Billboard JAPAN Hot 100 2位(2026-11-18付) |  | 3 | 超特急・M!LK・SUPER★DRAGONら9組参加のEBiDAN大型コラボ曲が2位。 | https://www.billboard-japan.com/charts/detail?a=hot100 |
+| 2026-11 | 新譜 | 冬玉 | 折坂悠太 |  | アルバム |  |  | 3 | 「冬」をテーマにした全10曲入りアルバム。先行配信曲「綿雪」。 | https://realsound.jp/2026/11/post-2586805.html |

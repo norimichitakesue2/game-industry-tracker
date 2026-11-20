@@ -1,12 +1,15 @@
 # 新作リリースログ
 
-_最終更新: 2026-11-19 23:06_
+_最終更新: 2026-11-20 21:47_
 
 | 発売日 | タイトル | 開発 | パブリッシャー | プラットフォーム | ジャンル | Metacritic | OpenCritic | Steam同接ピーク | 初週推定本数 | 話題度(1-5) | 感想/メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-19(予定) | Grand Theft Auto VI（グランド・セフト・オート6） | Rockstar Games | Rockstar Games | PS5 / Xbox Series X\|S | オープンワールドアクション |  |  |  |  |  | 【来月の超大型】世界最注目の年内本命。11/19発売予定。これを避けて多数の大型作が9月に前倒し集中する“GTA6効果”の震源。 | https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI |
-| 2026-11-19(予定) | グランド・セフト・オートVI（Grand Theft Auto VI） | Rockstar Games | Rockstar Games | PS5/Xbox Series X\|S | オープンワールドアクション |  |  |  |  | 5 | 【来月の超大型】世代最大の注目作。延期を経て発売日を2026年11月19日に設定。 | https://dengekionline.com/article/202511/57156 |
-| 2026-11-12(予定) | メタファー：リファンタジオ（Metaphor: ReFantazio）Switch2版 | アトラス | セガ／アトラス | Switch2 | RPG |  |  |  |  | 4 | 【来週】高評価ファンタジーRPGのSwitch2移植。11/12発売。携帯機でもプレイ可能に。 | https://www.rpgsite.net/news/19530-metaphor-refantazio-switch-2-release-date-direct |
+| 2026-12-10 | レイトン教授と蒸気の新世界（Layton: New World of Steam） | レベルファイブ | レベルファイブ | PS5/Switch | 謎解きアドベンチャー |  |  |  |  | 3 | 【来月】人気謎解きADV『レイトン教授』シリーズの完全新作。12/10発売予定。 | https://www.famitsu.com/schedule/switch/202612 |
+| 2026-12-10 | Hollow Knight: Silksong（ホロウナイト シルクソング） | Team Cherry | Fangamer | PS5 | メトロイドヴァニア |  |  |  |  | 4 | 【来月】大ヒットメトロイドヴァニアのPS5パッケージ版が12/10発売。DL版は既に配信済。 | https://www.famitsu.com/schedule/ps5/202612 |
+| 2026-12-03 | ドラゴンクエストモンスターズ4 枯れ木の国のビアンカ・フローラ | スクウェア・エニックス | スクウェア・エニックス | PS5/Switch | RPG |  |  |  |  | 4 | 【来月】『DQモンスターズ』シリーズ完全新作。12/3発売予定。 | https://www.famitsu.com/schedule/ps5/202612 |
+| 2026-11-19 | Grand Theft Auto VI（グランド・セフト・オート6） | Rockstar Games | Rockstar Games | PS5 / Xbox Series X\|S | オープンワールドアクション | 99 | 98(推定) |  | 約1,900万本(推定・世界/発売時点) | 5 | 2026/11/19発売。13年ぶりのシリーズ最新作。Metacritic99(歴代最高級)・ほぼ満点のレビュー。発売時点で推定約1,900万本(推定)を販売。PC版は後日展開予定。 | https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI |
+| 2026-11-19 | グランド・セフト・オートVI（Grand Theft Auto VI） | Rockstar Games | Rockstar Games | PS5/Xbox Series X\|S | オープンワールドアクション | 99 | 98(推定) |  | 約1,900万本(推定・世界/発売時点) | 5 | 2026/11/19発売。13年ぶりのシリーズ最新作。Metacritic99(歴代最高級)・ほぼ満点のレビュー。発売時点で推定約1,900万本(推定)を販売。PC版は後日展開予定。 | https://dengekionline.com/article/202511/57156 |
+| 2026-11-12 | メタファー：リファンタジオ（Metaphor: ReFantazio）Switch2版 | アトラス | セガ／アトラス | Switch2 | RPG |  |  |  | 11,167本(ファミ通推定・Switch2版初週/11-9〜11-15) | 4 | 2026/11/12発売。高評価ファンタジーRPGのSwitch2移植。ファミ通週販(11/9〜11/15)でSwitch2新作2位・初登場。 | https://www.rpgsite.net/news/19530-metaphor-refantazio-switch-2-release-date-direct |
 | 2026-11-11(予定) | Football Manager 27（フットボールマネージャー27） | Sports Interactive | SEGA | PS5/PC/Xbox | サッカー経営シム |  |  |  |  | 3 | 【来月】人気サッカー経営シム最新作。11/11にDL版、11/20にパッケージ版。 | https://www.famitsu.com/schedule/ps5/202611 |
 | 2026-11-05(予定) | ゼルダの伝説 時のオカリナ -Switch2 | 任天堂 | 任天堂 | Switch2 | アクションアドベンチャー |  |  |  |  | 5 | 【来月の超大型】N64の不朽の名作をSwitch2向けにフルリメイク。Amazon予約数ランキング（9/6-12）で首位。11/5発売予定。 | https://www.famitsu.com/article/202609/88399 |
 | 2026-11-05 | ゼルダの伝説 時のオカリナ（The Legend of Zelda: Ocarina of Time） | グレッゾ／任天堂 | 任天堂 | Switch2 | アクションアドベンチャー |  |  |  |  | 5 | N64/3DSの名作『時のオカリナ』のSwitch2向けリメイク。ゼルダ40周年Directで発表、11/5発売。amiibo対応。 | https://dengekionline.com/article/202609/87215 |
