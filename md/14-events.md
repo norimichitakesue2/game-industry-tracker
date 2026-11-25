@@ -1,6 +1,6 @@
 # イベントカレンダー
 
-_最終更新: 2026-11-24 07:17_
+_最終更新: 2026-11-25 09:48_
 
 | 開催日 | 終了日 | イベント名 | 種別 | 開催地 | 形式 | 概要・注目点 | 公式/ソースURL | ステータス | 最終更新日 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -40,6 +40,7 @@ _最終更新: 2026-11-24 07:17_
 | 2027-02-07 | 2027-02-07 | 第69回グラミー賞 授賞式 | 映画祭・賞 | 米国 | リアル＋配信 | ABC生中継、Disney+/Hulu配信 | https://www.grammy.com/news/2027-grammys-show-air-date-nominations-announced/ | 開催予定 | 2026-10-11 |
 | 2027-02-05 |  | 『ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編』最終章 公開 | 発売・公開 | 全国の劇場 | オフライン | ラブライブ！シリーズの劇場完結編。 | https://anime.eiga.com/news/127680/ | 開催予定 | 2026-10-20 |
 | 2027-02-05 |  | 『ラブライブ!虹ヶ咲学園スクールアイドル同好会 完結編 最終章』公開 | 発売・公開 | 新宿ピカデリーほか | オフライン | 劇場3部作の最終章 | https://eiga.com/news/20261024/7/ | 開催予定 | 2026-10-25 |
+| 2027-02-02 | 2027-02-02 | 第1回 児童書ブッカー賞（Children's Booker Prize）受賞発表 | 映画祭・賞 | 英国 | 授賞式 | 8〜12歳向け小説の新設賞。最終候補8作のうち5作が独立系出版社。賞金5万ポンド | https://www.thebookseller.com/news/independent-publishers-dominate-inaugural-childrens-booker-prize-shortlist | 開催予定 | 2026-11-25 |
 | 2027-02-01 |  | Atari VCS ストア閉鎖 | 発売・公開 | オンライン | オンライン | 購入は2027年1月31日まで。OSのローカル化とHomebrewアプリで購入済みゲームの継続利用を担保 | https://www.videogameschronicle.com/news/atari-is-ending-support-for-its-2021-vcs-console-will-release-a-homebrew-app-to-let-players-keep-making-and-adding-games/ | 開催予定 | 2026-10-23 |
 | 2027-02-01 |  | ネット書店「ホンミライ.com」開業（今村翔吾） | 発売・公開 | オンライン | オンライン | 売上の3〜5%を読者が選んだ実店舗に還元。日販・トーハンの物流を利用。 | https://www.shinbunka.co.jp/archives/14789 | 開催予定 | 2026-11-12 |
 | 2027-01-29 |  | 『Wild Horse Nine』日本公開 | 発売・公開 | 日本 | 劇場公開 | マーティン・マクドナー監督のブラックコメディが日本で劇場公開 | https://hollywoodreporter.jp/japan/229482/ | 開催予定 | 2026-11-09 |
@@ -51,6 +52,7 @@ _最終更新: 2026-11-24 07:17_
 | 2027-01-18 | 2027-01-18 | TVアニメ『SAKAMOTO DAYS』第2期 放送開始 | 発売・公開 | テレビ東京 | 放送 | OPはCreepy Nuts。実写映画・スマホゲームに続く展開 | https://anime.eiga.com/news/127896/ | 開催予定 | 2026-11-19 |
 | 2027-01-15 |  | 劇場アニメ『機動戦士ガンダムSEED FREEDOM ZERO』公開 | 発売・公開 | 全国劇場 | リアル | 松竹が下期に配給する劇場アニメの目玉。松竹映像事業の回復の鍵 |  | 開催予定 | 2026-10-17 |
 | 2027-01-15 | 2027-01-15 | 劇場版『虎に翼』公開 | 発売・公開 | 全国 | 劇場 | 朝ドラ初の主演続投での映画化。主題歌は米津玄師の新曲 | https://eiga.com/news/20261102/24/ | 開催予定 | 2026-11-03 |
+| 2027-01-15 | 2027-01-15 | 『STRANGER THAN HEAVEN』発売 | 発売・公開 |  | PC/PS5/Xbox Series X\|S | セガ・RGGスタジオの新作。1915〜60年代を5つの時代・5つの街で描く。横山氏は「競う相手は映画やドラマ」と発言 | https://www.gamespark.jp/article/2026/11/24/175248.html | 開催予定 | 2026-11-25 |
 | 2027-01-12 | 2027-01-12 | KADOKAWA 女性向け新文芸レーベル「ミアNOVELS」創刊 | 発売・公開 | 日本 | 書籍 | 初回4作（うち2作はカクヨムのコンテスト受賞作）、2/12に第2弾3作 | https://ln-news.com/articles/127210 | 開催予定 | 2026-11-17 |
 | 2027-01-11 |  | 実写ショートドラマ『あたしゃ川尻こだまだよ』放送・配信開始 | 発売・公開 | 日本 | 地上波（ZIP!）＋Hulu | 1話3分。Huluは毎週月曜に1週間分を先行配信 | https://eiga.com/news/20261106/3/ | 開催予定 | 2026-11-06 |
 | 2027-01-10 |  | TVアニメ『ラブライブ!蓮ノ空女学院スクールアイドルクラブ』放送開始 | 発売・公開 | TOKYO MXほか | TV | アプリ終了後のIPをTVアニメで継続（全7話） | https://eiga.com/news/20261024/11/ | 開催予定 | 2026-10-25 |
@@ -85,6 +87,7 @@ _最終更新: 2026-11-24 07:17_
 | 2026-12-11 |  | Netflix映画『Ink』劇場公開（1/8配信） | 発売・公開 | 米国ほか | 劇場 | ダニー・ボイル監督。ベネチア開幕作。劇場公開から約4週間でNetflix配信。 | https://www.indiewire.com/news/trailers/ink-trailer-danny-boyle-rupert-murdoch-jack-oconnell-1235226422/ | 開催予定 | 2026-11-12 |
 | 2026-12-10 |  | The Game Awards 2026 (TGA) | ショーケース | 米LA(Peacock Theater)/配信 | 授賞式＋配信 | 年間ゲーム表彰と多数の新作発表。GOTYほか。GTA6発売直後の注目回。<br>【11/16更新】史上初めてRoblox内で同時放送（18歳以上、視聴しながら投票・交流）。Disney+、Live TV on PS5（米加）でも配信。日本時間12/11 9:30〜 | https://thegameawards.com/ | 開催予定 | 2026-11-16 |
 | 2026-12-07 | 2026-12-28 | Marvel Unlimited サービス終了（新Marvel Comicsアプリへ移行） | 発売・公開 | オンライン | オンライン | WEBTOON開発の新アプリ（評価2.6）に移行。旧サービスは段階的に終了 | https://www.comicsbeat.com/the-marvel-comics-app-pushes-update-in-response-to-fan-outcry/ | 開催予定 | 2026-11-21 |
+| 2026-12-07 | 2027-01-10 | 第84回ゴールデン・グローブ賞（候補発表〜授賞式） | 映画祭・賞 | 米ビバリーヒルトン | 授賞式（CBS・Paramount+） | 候補発表12/7、授賞式2027/1/10。興行部門に20作が名乗り、『デューン3』は不参加 | https://variety.com/2026/film/awards/golden-globes-2027-spider-man-comedy-dune-box-office-1236957413/ | 開催予定 | 2026-11-25 |
 | 2026-12-05 |  | ドラマ『花ざかりの君たちへ』放送開始 | 発売・公開 | 日本 | テレビ放送・配信（日本テレビ、TVer、Hulu） | 原作30周年企画の新実写ドラマ。毎週土曜14:30〜15:00、全8話。2027年2月から同じキャストで舞台を上演 | https://animeanime.jp/article/2026/11/07/104553.html | 開催予定 | 2026-11-09 |
 | 2026-12-05 | 2026-12-17 | カンヌ監督週間 in Tokio 2026 | 映画祭・賞 | 東京・ヒューマントラストシネマ渋谷 | リアル | VIPO主催。監督週間の13本を上映。12/4前夜祭で『国宝』特別上映、李相日監督とジュリアン・レジ芸術監督が対談 | https://eiga.com/news/20261121/9/ | 開催予定 | 2026-11-23 |
 | 2026-12-04 |  | Netflix記録映画『14th』配信開始 | 発売・公開 | オンライン | 配信 | 歴史写真をAIで動かした演出が批判を受けた作品（エバ・デュバーネイ監督） | https://eiga.com/news/20261028/14/ | 開催予定 | 2026-10-29 |
@@ -92,18 +95,22 @@ _最終更新: 2026-11-24 07:17_
 | 2026-12-04 | 2026-12-06 | AGF 2026（Anime × Game Festival・韓国） | 展示会 | 韓国・高陽（KINTEX） | オフライン | 韓国最大級のアニメ・ゲームイベント。NC・Nexonなどが出展 | https://www.4gamer.net/games/975/G097529/20261105039/ | 開催予定 | 2026-11-07 |
 | 2026-12-04 |  | 映画『VIVANT』公開 | 発売・公開 | 日本全国 | 劇場公開（IMAX同時） | TBSドラマ『VIVANT』の完全新作の劇場版が全国公開 | https://www.cinematoday.jp/news/N0157871 | 開催予定 | 2026-11-09 |
 | 2026-12-04 | 2026-12-04 | 『Gods Don't Give Gifts』劇場公開 | 発売・公開 | 米国 | 劇場 | 全編を生成AIで作った映画として初めて劇場公開。賞レース向けの上映も予定 | https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159/ | 開催予定 | 2026-11-24 |
+| 2026-12-04 | 2027-01-03 | 第32回クリティクス・チョイス・アワード（候補発表〜授賞式） | 映画祭・賞 | 米国 | 授賞式 | 候補発表12/4、授賞式1/3。『ゴジラ-0.0』は邦画最多の7部門でショートリスト入り | https://www.cinematoday.jp/news/N0158130 | 開催予定 | 2026-11-25 |
+| 2026-12-04 |  | 大垣書店「BOOKHOME」開業 | 発売・公開 | 京都市中京区 ウィングス京都1階 | 店舗 | 約600坪、新刊・古書約4万冊の滞在型書店。有料の読書・学習席とイベント会場を併設 | https://www.bunkanews.jp/article/484853/ | 開催予定 | 2026-11-25 |
 | 2026-12-03 | 2026-12-03 | PlayStation Partner Awards 2026 Japan Asia | 映画祭・賞 | 東京 | リアル | SIEによるパートナー表彰。日本・アジアのヒット作を表彰 | https://www.4gamer.net/games/999/G999903/20261029063/ | 開催予定 | 2026-10-29 |
 | 2026-12-02 | 2026-12-06 | ワールドウェブトゥーンフェスティバル2026（12/3にワールドウェブトゥーンアワード授賞式） | 映画祭・賞 | ソウル・COEX | オフライン | 韓国政府主導のウェブトゥーン賞・祭典。本賞10作決定済み | https://en.fnnews.com/news/202611030324519694 | 開催予定 | 2026-11-04 |
+| 2026-11-28 | 2026-12-20 | Comic Con India（ナビムンバイ・デリーほか）Crunchyroll出展 | 展示会 | インド・ナビムンバイ／デリー／ハイデラバード／インドール | リアル | Crunchyroll Mangaの読書エリアを設け、アニメとマンガのセット会員（月299ルピー）を売る | https://otakukart.com/crunchyroll-brings-manga-reading-zones-exclusive-merchandise-and-crunchycoins-to-comic-cons-across-india/ | 開催予定 | 2026-11-25 |
 | 2026-11-27 | 2026-12-03 | 『DUNE』『デューン PART2』IMAX再上映（『PART3』冒頭7分付き） | 発売・公開 | 全国 | 劇場 | 1週間限定・日替わり上映。完結編の約3週間前に旧作で集客 | https://www.cinematoday.jp/news/N0157735 | 開催予定 | 2026-11-03 |
 | 2026-11-27 | 2027-01-03 | 超かぐや姫！×東京ドームシティ～MEMORIAL WONDER LAND～ | ライブ・フェス | 東京ドームシティアトラクションズ | リアル | Netflix配信のオリジナルアニメ映画のコラボ。アトラクション6機種、AR体験、イルミネーション。前売り2100〜1万6000円 | https://eiga.com/news/20261102/23/ | 開催予定 | 2026-11-03 |
 | 2026-11-26 | 2026-11-26 | 『アズールプロミリア』正式配信 | 発売・公開 | オンライン | オンライン | Manjuu×Yostarの新作。事前登録は世界3000万人超。スマホ・PC同時 | https://gamebiz.jp/news/435646 | 開催予定 | 2026-11-18 |
 | 2026-11-26 | 2026-11-26 | Netflix『フールナイト』全話一挙配信 | 発売・公開 | オンライン（Netflix） | 配信 | 安田佳澄原作のTVアニメ。サンライズ×シャフト初の共同制作で、全話を一度に世界配信 | https://cultivatoronline.in/the-biggest-anime-stories-of-november-2026/ | 開催予定 | 2026-11-19 |
-| 2026-11-25 |  | 第176回 直木賞 候補作発表 | 映画祭・賞 | - | 発表 | 直木賞の候補作を11月25日（水）早朝に公式Xで発表（新日程の初回）。芥川賞の候補発表は12月中旬のまま。選考会は両賞とも2027年1月20日。 | https://bungakushinko.or.jp/info/251212/index.html | 開催予定 | 2026-11-23 |
-| 2026-11-25 |  | uploader.jp サービス終了（全データ削除） | 発売・公開 | オンライン | オンライン | 国内MOD・翻訳パッチ・フリーゲーム資産の主要置き場が23:59に全データ削除 | https://www.gamebusiness.jp/article/2026/10/24/28432.html | 開催予定 | 2026-10-25 |
-| 2026-11-25 | 2026-12-06 | Games Without AI Showcase（生成AI不使用インディーの配信・Steam特集） | ショーケース | オンライン | 配信 | アート・音楽・ボイスに生成AIを使わない作品のみ。コミュニティ投票と自己申告で審査 | https://www.gamebusiness.jp/article/2026/10/31/28519.html | 開催予定 | 2026-11-02 |
-| 2026-11-25 | 2026-12-08 | Netflix『Cliff Booth』IMAX限定公開（米国・AMCのみ） | 発売・公開 | 米国 | 劇場 | Netflix初のIMAX公開作。2週間限定で、シネマーク・リーガルは上映を見送り。12/25に配信 | https://www.thewrap.com/creative-content/movies/why-cliff-booth-not-on-cinemark-imax-theaters-explained/ | 開催予定 | 2026-11-04 |
-| 2026-11-24 | 2026-11-24 | NEW ANIME WORKFLOW 2026 | 展示会 | 東京・ベルサール九段 | オフライン | バーチャルカメラ、『ルックバック』のクラウド編集、リアルタイムVFXなどアニメ制作の新手法を紹介（ボーンデジタル主催） | https://prtimes.jp/main/html/rd/p/000000301.000073594.html | 開催中 | 2026-11-24 |
-| 2026-11-24 | 2026-11-24 | Netflix Games『モンスターハンターライズ』配信開始 | 発売・公開 | オンライン（Netflix） | 配信 | カプコンの据え置き大作をNetflix会員向けにスマホで無料提供。武器別タッチ操作・自動回復ボタン | https://www.pocketgamer.biz/monster-hunter-rise-coming-to-mobile-via-netflix-games-on-november-24th/ | 開催中 | 2026-11-24 |
+| 2026-11-25 |  | 第176回 直木賞 候補作発表 | 映画祭・賞 | - | 発表 | 直木賞の候補作を11月25日（水）早朝に公式Xで発表（新日程の初回）。芥川賞の候補発表は12月中旬のまま。選考会は両賞とも2027年1月20日。 | https://bungakushinko.or.jp/info/251212/index.html | 開催中 | 2026-11-25 |
+| 2026-11-25 |  | uploader.jp サービス終了（全データ削除） | 発売・公開 | オンライン | オンライン | 国内MOD・翻訳パッチ・フリーゲーム資産の主要置き場が23:59に全データ削除 | https://www.gamebusiness.jp/article/2026/10/24/28432.html | 開催中 | 2026-11-25 |
+| 2026-11-25 | 2026-12-06 | Games Without AI Showcase（生成AI不使用インディーの配信・Steam特集） | ショーケース | オンライン | 配信 | アート・音楽・ボイスに生成AIを使わない作品のみ。コミュニティ投票と自己申告で審査 | https://www.gamebusiness.jp/article/2026/10/31/28519.html | 開催中 | 2026-11-25 |
+| 2026-11-25 | 2026-12-08 | Netflix『Cliff Booth』IMAX限定公開（米国・AMCのみ） | 発売・公開 | 米国 | 劇場 | Netflix初のIMAX公開作。2週間限定で、シネマーク・リーガルは上映を見送り。12/25に配信 | https://www.thewrap.com/creative-content/movies/why-cliff-booth-not-on-cinemark-imax-theaters-explained/ | 開催中 | 2026-11-25 |
+| 2026-11-24 | 2026-11-24 | NEW ANIME WORKFLOW 2026 | 展示会 | 東京・ベルサール九段 | オフライン | バーチャルカメラ、『ルックバック』のクラウド編集、リアルタイムVFXなどアニメ制作の新手法を紹介（ボーンデジタル主催） | https://prtimes.jp/main/html/rd/p/000000301.000073594.html | 終了 | 2026-11-25 |
+| 2026-11-24 | 2026-11-24 | Netflix Games『モンスターハンターライズ』配信開始 | 発売・公開 | オンライン（Netflix） | 配信 | カプコンの据え置き大作をNetflix会員向けにスマホで無料提供。武器別タッチ操作・自動回復ボタン | https://www.pocketgamer.biz/monster-hunter-rise-coming-to-mobile-via-netflix-games-on-november-24th/ | 終了 | 2026-11-25 |
+| 2026-11-24 | 2027-02-24 | 第4回マンガノ大賞 作品募集 | 映画祭・賞 | マンガノ（オンライン） | オンライン | 11社11編集部が同時に審査する出版社合同のマンガ賞。大賞200万円。今回からKADOKAWA少年エースが参加 | https://www.gamebusiness.jp/article/2026/11/25/28834.html | 開催中 | 2026-11-25 |
 | 2026-11-21 | 2026-11-21 | Netflix クリエイターズ道場～アニメ～ | 展示会 | 東京都内 | オフライン | Netflixのアニメプロデューサー育成講座。トリガー大塚社長、コロリド桃原Pが登壇。無料・定員約150人 | https://www.gamebusiness.jp/article/2026/11/03/28533.html | 終了 | 2026-11-22 |
 | 2026-11-20 | 2026-11-20 | IMART2026（マンガ・IPカンファレンス） | 展示会 | 東京・池袋 アニメイトシアター | リアル | 基調講演にKADOKAWA。第1回IMARTアワード | https://manga.watch.impress.co.jp/docs/news/2126030.html | 終了 | 2026-11-21 |
 | 2026-11-20 | 2026-11-21 | 2026 MAMA AWARDS（京セラドーム大阪） | 映画祭・賞 | 京セラドーム大阪 | ハイブリッド | K-POP授賞式を日本開催。大阪一帯で「MAMA FAN FESTA」（11/9〜21）を新設、Mnet Plusで世界配信 | https://prtimes.jp/main/html/rd/p/000001633.000003711.html | 終了 | 2026-11-22 |
