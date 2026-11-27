@@ -1,8 +1,23 @@
 # 週間ランキング
 
-_最終更新: 2026-11-27 08:05_
+_最終更新: 2026-11-27 20:28_
 
 ## 国内ファミ通
+
+### 2026-11-16〜11-22
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | グランド・セフト・オートVI（Grand Theft Auto VI） | PS5 | 200759 | 200759 |  | https://www.famitsu.com/article/202611/95209 | 集計11/16-22（ファミ通推定値）。13年ぶりシリーズ最新作が初登場で圧倒的首位。国内初週推定約20万本（PS5のみ）。 |
+| 2 | ゼルダの伝説 時のオカリナ（The Legend of Zelda: Ocarina of Time） | Switch2 | 35295 | 658433 |  | https://www.famitsu.com/article/202611/95209 | 集計11/16-22（ファミ通推定値）。前週1位から2位。 |
+| 3 | Nintendo Switch Sports Resort | Switch2 | 10486 | 126291 |  | https://www.famitsu.com/article/202611/95209 | 集計11/16-22（ファミ通推定値）。 |
+| 4 | リズム天国 ミラクルスターズ | Switch | 7830 | 1136253 |  | https://www.famitsu.com/article/202611/95209 | 集計11/16-22（ファミ通推定値）。 |
+| 5 | トモダチコレクション わくわく生活 | Switch | 4570 | 1654904 |  | https://www.famitsu.com/article/202611/95209 | 集計11/16-22（ファミ通推定値）。 |
+| 6 | スプラトゥーン レイダース | Switch2 | 3077 | 700755 |  | https://www.famitsu.com/article/202611/95209 | 集計11/16-22（ファミ通推定値）。 |
+| 7 | 桃太郎電鉄2 ～あなたの町も きっとある～ 東日本編＋西日本編 | Switch | 2969 | 390053 |  | https://www.famitsu.com/article/202611/95209 | 集計11/16-22（ファミ通推定値）。Switch2無料体験版(11/17配信)効果で再浮上。 |
+| 8 | Minecraft | Switch2 | 2869 | 21081 |  | https://www.famitsu.com/article/202611/95209 | 集計11/16-22（ファミ通推定値）。 |
+| 9 | メタファー：リファンタジオ（Metaphor: ReFantazio） | Switch2 | 2426 | 13593 |  | https://www.famitsu.com/article/202611/95209 | 集計11/16-22（ファミ通推定値）。前週2位から9位に下降。 |
+| 10 | 桃太郎電鉄2 Nintendo Switch 2 Edition 東日本編＋西日本編 | Switch2 | 2385 | 331659 |  | https://www.famitsu.com/article/202611/95209 | 集計11/16-22（ファミ通推定値）。 |
 
 ### 2026-11-09〜11-15
 
@@ -329,6 +344,36 @@ _最終更新: 2026-11-27 08:05_
 | 10 | アストロボット | PS5 | 3,460 | 103,717 |  | ファミ通.com 週販 https://www.famitsu.com/article/202606/78042 |  |
 
 ## Steamトップセラー
+
+### 2026-11-17〜11-24
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Counter-Strike 2 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-17th24th-of-november-2026/ | 順位はGameGrin掲載順（Valve公式トップセラー準拠・絶対順位非掲載）。Counter-Strike 2が首位。 |
+| 2 | Steam Deck | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-17th24th-of-november-2026/ | 順位はGameGrin掲載順（Valve公式トップセラー準拠・絶対順位非掲載）。ハード(Steam Deck)が商品として上位に。 |
+| 3 | EA SPORTS FC 27 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-17th24th-of-november-2026/ | 順位はGameGrin掲載順（Valve公式トップセラー準拠・絶対順位非掲載）。 |
+| 4 | Dota 2 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-17th24th-of-november-2026/ | 順位はGameGrin掲載順（Valve公式トップセラー準拠・絶対順位非掲載）。 |
+| 5 | ROB RUN | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-17th24th-of-november-2026/ | 順位はGameGrin掲載順（Valve公式トップセラー準拠・絶対順位非掲載）。 |
+| 6 | AION 2 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-17th24th-of-november-2026/ | 順位はGameGrin掲載順（Valve公式トップセラー準拠・絶対順位非掲載）。 |
+| 7 | Apex Legends | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-17th24th-of-november-2026/ | 順位はGameGrin掲載順（Valve公式トップセラー準拠・絶対順位非掲載）。 |
+| 8 | Call of Duty: Modern Warfare 4 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-17th24th-of-november-2026/ | 順位はGameGrin掲載順（Valve公式トップセラー準拠・絶対順位非掲載）。 |
+| 9 | Bodycam | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-17th24th-of-november-2026/ | 順位はGameGrin掲載順（Valve公式トップセラー準拠・絶対順位非掲載）。 |
+| 10 | Grand Theft Auto V Enhanced | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-17th24th-of-november-2026/ | 順位はGameGrin掲載順（Valve公式トップセラー準拠・絶対順位非掲載）。GTA6発売を受け旧作GTA Vが新規ランクイン。 |
+
+### 2026-11-10〜11-17
+
+| 順位 | タイトル | プラットフォーム | 週販本数 | 累計本数 | Steam同接ピーク | 出典 | メモ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Apex Legends | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-10th17th-of-november-2026/ | 順位はGameGrin掲載順（Valve公式トップセラー準拠・絶対順位非掲載）。Apexが首位。 |
+| 2 | Euro Truck Simulator 2 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-10th17th-of-november-2026/ | 順位はGameGrin掲載順（Valve公式トップセラー準拠・絶対順位非掲載）。ETS2関連が新規ランクイン。 |
+| 3 | Counter-Strike 2 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-10th17th-of-november-2026/ | 順位はGameGrin掲載順（Valve公式トップセラー準拠・絶対順位非掲載）。 |
+| 4 | Call of Duty: Modern Warfare 4 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-10th17th-of-november-2026/ | 順位はGameGrin掲載順（Valve公式トップセラー準拠・絶対順位非掲載）。 |
+| 5 | Bodycam | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-10th17th-of-november-2026/ | 順位はGameGrin掲載順（Valve公式トップセラー準拠・絶対順位非掲載）。 |
+| 6 | AION 2 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-10th17th-of-november-2026/ | 順位はGameGrin掲載順（Valve公式トップセラー準拠・絶対順位非掲載）。 |
+| 7 | Dota 2 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-10th17th-of-november-2026/ | 順位はGameGrin掲載順（Valve公式トップセラー準拠・絶対順位非掲載）。 |
+| 8 | Phantom Blade Zero | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-10th17th-of-november-2026/ | 順位はGameGrin掲載順（Valve公式トップセラー準拠・絶対順位非掲載）。 |
+| 9 | Football Manager 27 | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-10th17th-of-november-2026/ | 順位はGameGrin掲載順（Valve公式トップセラー準拠・絶対順位非掲載）。 |
+| 10 | Euro Truck Simulator 2 - Coaches | PC(Steam) |  |  |  | https://www.gamegrin.com/news/weekly-top-selling-games-on-steam-10th17th-of-november-2026/ | 順位はGameGrin掲載順（Valve公式トップセラー準拠・絶対順位非掲載）。ETS2関連が新規ランクイン。 |
 
 ### 2026-11-03〜11-10
 

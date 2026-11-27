@@ -1,6 +1,6 @@
 # 【音楽】リリース・チャート
 
-_最終更新: 2026-11-27 08:05_
+_最終更新: 2026-11-27 20:28_
 
 | 集計日/発売日 | 区分 | タイトル/曲名 | アーティスト | レーベル | 形態 | チャート順位 | ストリーミング数 | 話題度(1-5) | メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -35,3 +35,6 @@ _最終更新: 2026-11-27 08:05_
 | 2026-11-18(付) | チャート | ラブリーズン | 原因は自分にある。 |  | 配信/シングル | Billboard JAPAN Hot 100 1位(2026-11-18付/集計11-9〜11-15) |  | 4 | 「原因は自分にある。」が初の総合首位。前週18位から急上昇。 | https://www.billboard-japan.com/charts/detail?a=hot100 |
 | 2026-11-18(付) | チャート | Yes! 東京 | EBiDAN（恵比寿学園男子部） |  | 配信/シングル | Billboard JAPAN Hot 100 2位(2026-11-18付) |  | 3 | 超特急・M!LK・SUPER★DRAGONら9組参加のEBiDAN大型コラボ曲が2位。 | https://www.billboard-japan.com/charts/detail?a=hot100 |
 | 2026-11 | 新譜 | 冬玉 | 折坂悠太 |  | アルバム |  |  | 3 | 「冬」をテーマにした全10曲入りアルバム。先行配信曲「綿雪」。 | https://realsound.jp/2026/11/post-2586805.html |
+| 2026-11-25(付) | チャート | IGNITE | JO1 |  | 配信/シングル | Billboard JAPAN Hot 100 1位 |  | 4 | JO1「IGNITE」が前週33位から急上昇し総合首位を獲得。 | https://www.billboard-japan.com/charts/detail?a=hot100 |
+| 2026-11 | チャート | Choosin' Texas | Ella Langley |  | 配信 | Billboard Hot 100(米) 1位 |  | 3 | Ella Langleyのカントリー曲が米Billboard Hot 100で通算25週超の歴代級ロングラン首位を継続。 | https://www.billboard.com/charts/hot-100/ |
+| 2026-11-25(付) | 新譜/チャート | 僕は味方だ | 僕が見たかった青空 |  | シングル | Billboard JAPAN Hot 100 初登場5位 |  | 3 | 「僕が見たかった青空」の新曲が初登場5位。今週の新規曲で最高位。 | https://www.billboard-japan.com/charts/detail?a=hot100 |

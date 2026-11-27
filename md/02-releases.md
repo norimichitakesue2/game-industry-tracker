@@ -1,12 +1,15 @@
 # 新作リリースログ
 
-_最終更新: 2026-11-27 08:05_
+_最終更新: 2026-11-27 20:28_
 
 | 発売日 | タイトル | 開発 | パブリッシャー | プラットフォーム | ジャンル | Metacritic | OpenCritic | Steam同接ピーク | 初週推定本数 | 話題度(1-5) | 感想/メモ | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2026-12-10 | レイトン教授と蒸気の新世界（Layton: New World of Steam） | レベルファイブ | レベルファイブ | PS5/Switch | 謎解きアドベンチャー |  |  |  |  | 3 | 【来月】人気謎解きADV『レイトン教授』シリーズの完全新作。12/10発売予定。 | https://www.famitsu.com/schedule/switch/202612 |
 | 2026-12-10 | Hollow Knight: Silksong（ホロウナイト シルクソング） | Team Cherry | Fangamer | PS5 | メトロイドヴァニア |  |  |  |  | 4 | 【来月】大ヒットメトロイドヴァニアのPS5パッケージ版が12/10発売。DL版は既に配信済。 | https://www.famitsu.com/schedule/ps5/202612 |
 | 2026-12-03 | ドラゴンクエストモンスターズ4 枯れ木の国のビアンカ・フローラ | スクウェア・エニックス | スクウェア・エニックス | PS5/Switch | RPG |  |  |  |  | 4 | 【来月】『DQモンスターズ』シリーズ完全新作。12/3発売予定。 | https://www.famitsu.com/schedule/ps5/202612 |
+| 2026-11-26 | 楽園追放 -The Stellar Angel- |  |  | Switch/PS5 | アクション |  |  |  |  | 2 | 今週リリース。劇場アニメ『楽園追放 心のレゾナンス』公開に合わせたゲーム化。メディアミックス展開。 | https://www.famitsu.com/schedule/switch/202611 |
+| 2026-11-26 | Way of the Hunter 2（ウェイ・オブ・ザ・ハンター2） | Nine Rocks Games | THQ Nordic | PS5/Xbox/PC | ハンティングシム |  |  |  |  | 2 | 今週リリース。実写系ハンティングシムの続編。ニッチ人気シリーズ。 | https://www.famitsu.com/schedule/ps5/202611 |
+| 2026-11-20 | Football Manager 27 Console（フットボールマネージャー27 コンソール） | Sports Interactive | SEGA | PS5/Xbox Series X\|S | サッカー経営シム |  |  |  |  | 3 | 今週リリース。人気サッカー経営シムのコンソール版が11/20発売（PC/ダウンロード版は11/11）。GTA6発売週の中堅話題作。 | https://www.famitsu.com/schedule/ps5/202611 |
 | 2026-11-19 | Grand Theft Auto VI（グランド・セフト・オート6） | Rockstar Games | Rockstar Games | PS5 / Xbox Series X\|S | オープンワールドアクション | 99 | 98(推定) |  | 約1,900万本(推定・世界/発売時点) | 5 | 2026/11/19発売。13年ぶりのシリーズ最新作。Metacritic99(歴代最高級)・ほぼ満点のレビュー。発売時点で推定約1,900万本(推定)を販売。PC版は後日展開予定。 | https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI |
 | 2026-11-19 | グランド・セフト・オートVI（Grand Theft Auto VI） | Rockstar Games | Rockstar Games | PS5/Xbox Series X\|S | オープンワールドアクション | 99 | 98(推定) |  | 約1,900万本(推定・世界/発売時点) | 5 | 2026/11/19発売。13年ぶりのシリーズ最新作。Metacritic99(歴代最高級)・ほぼ満点のレビュー。発売時点で推定約1,900万本(推定)を販売。PC版は後日展開予定。 | https://dengekionline.com/article/202511/57156 |
 | 2026-11-12 | メタファー：リファンタジオ（Metaphor: ReFantazio）Switch2版 | アトラス | セガ／アトラス | Switch2 | RPG |  |  |  | 11,167本(ファミ通推定・Switch2版初週/11-9〜11-15) | 4 | 2026/11/12発売。高評価ファンタジーRPGのSwitch2移植。ファミ通週販(11/9〜11/15)でSwitch2新作2位・初登場。 | https://www.rpgsite.net/news/19530-metaphor-refantazio-switch-2-release-date-direct |
